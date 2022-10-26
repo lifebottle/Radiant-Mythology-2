@@ -16,7 +16,7 @@ Attempt to complete English patch for Tales of the World: Radiant Mythology 2
 # Hints
 1. From the existing patch, it looks like the `PSPGAME\SYSDIR\EBOOT.BIN` is where most of the menu text is.
 1. `PSP_GAME\USRDIR\quest\qdata.bin` was also translated
-1. The 'SCR` files are proabaly story/skit text
+1. The `SCR` files are proabaly story/skit text
 
 
 # Resources
