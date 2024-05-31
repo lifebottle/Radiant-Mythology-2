@@ -1,0 +1,137 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <JapaneseText>パニール</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>53</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <JapaneseText>あら、あなただったのね…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>53</SpeakerId>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>カノンノ、さっき謝りに来たわ。
+ひどい事を言ってしまったって</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>53</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ひどい事を言ったのは、
+私の方なのにねぇ…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>53</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>あの子なりに、本当は声の正体が
+両親じゃないかもしれないって
+うすうすは思っていたみたい</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>53</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>もう、この年になればね
+何となく悟っちゃうものなのかしらね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>53</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>けど、それでもショックだったのね。
+声の主が両親であって欲しいという
+願いも、捨てられなかった…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>53</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>あの子が怒るのも当然。
+私が嘘をついていたんだから</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>53</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ごらんになって。
+これは、カノンノが小さい頃に描いた
+旦那様と奥様の絵…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>53</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>顔を知らないから、いつもいつも
+想像しながら描いてたの</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>53</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>昔から明るく振舞っていたけれど、
+この絵を描いてる時は寂しそうだった</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>53</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>親に会えるかもしれないって望みを、
+簡単に捨てられるわけがないわよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>53</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>フフフ…、変な顔なさらないで。
+私とカノンノは大丈夫よ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>53</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>そうそうたやすく
+気まずい関係になったりはしないわ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>53</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+  </Strings>
+</SceneText>

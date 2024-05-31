@@ -1,0 +1,120 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <JapaneseText>&lt;Name:4F&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>79</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <JapaneseText>力を追い求める者達の殿堂
+「闘技場」へようこそですぅ。
+「闘技場」のルールをご説明いたしますぅ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>79</SpeakerId>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>お願いしますぅ</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice 1</Notes>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>遠慮しますぅ</JapaneseText>
+      <EnglishText/>
+      <Notes>Choice 2</Notes>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>かしこまりましたぁ。
+それでは、説明させていただきますぅ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>79</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>と言っても簡単でしてぇ、「ミッション」
+と呼ばれる戦闘に挑戦してぇ、勝ったら
+次のミッションに挑戦、これの繰り返しですぅ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>79</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>「ミッション」に勝ち続けると、
+思わぬ対戦者が現れるかも知れませんよぉ？
+ドキドキワクワクの趣向もご用意ですぅ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>79</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>「ミッション」ではぁ、経験値は
+入りませんがぁ、ドロップアイテムは
+入手可能でぇ、これが挑戦者への報酬ですぅ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>79</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>それとぉ、「戦闘ＢＧＭを変更する」ではぁ
+好きな戦闘ＢＧＭに変更してぇ、
+「ミッション」することが出来るんですぅ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>79</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>一度でも聴いたことがある戦闘ＢＧＭならぁ
+なんでも選べるんですよぅ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>79</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>目指せ、次代のチャンプ！
+腕に自信がお有りでしたらぁ、
+是非是非、挑戦してくださいですぅ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>79</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>はわわっ、もうご存知なのですね！
+これはこれは、失礼しましたぁ。
+それでは「闘技場」をお楽しみくださいですぅ</JapaneseText>
+      <EnglishText/>
+      <Notes>Previous Choice 2 leads here</Notes>
+      <SpeakerId>79</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+  </Strings>
+</SceneText>

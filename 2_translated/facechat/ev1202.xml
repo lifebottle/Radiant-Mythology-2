@@ -1,0 +1,150 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <JapaneseText>カノンノ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>50</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <JapaneseText>ねえ、もし。
+溢れかえった負をどうにかして、
+世界を救えてしまえたら…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>50</SpeakerId>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>あのお話と同じように
+○○は、
+また世界樹へ戻っちゃうのかな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>50</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>何かね、ずっとみんな一緒で
+いられるような気も
+したりもするんだけど…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>50</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>でも、いつまでも
+そうじゃいられないんだろうなって</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>50</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>私ね、みんなと話してて、
+それぞれ夢を持ってるんだなーって</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>50</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ルーティは孤児院を作りたい、
+アニーとルカは医者に、
+イリアは学校を作りたい…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>50</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>みんなみんな、何かを目指して生きてる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>50</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>でも、私は何も無いんだ。
+海へ出たかったのも
+あの声を追いたかったからで…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>50</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>でももし、その声が聞こえなくなったら
+どうしよう…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>50</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>そうなったら、私、何も
+無くなっちゃうんじゃないかなって…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>50</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>あの、カケラの文字…。
+私が読んだんじゃなくて、語りかけてきたの。
+本当なの…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>50</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>いつも海から聞こえる、
+あの声のニュアンスだった…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>50</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>声の正体が、両親かどうかもわからない。
+でも、両親であって欲しいという
+願いも捨てられない</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>50</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>前はすごく知りたかったのに
+今は怖いの…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>50</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+  </Strings>
+</SceneText>

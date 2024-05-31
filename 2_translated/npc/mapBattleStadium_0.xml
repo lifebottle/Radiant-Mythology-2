@@ -1,0 +1,28 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <JapaneseText>&lt;Name:4F&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>79</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <JapaneseText>闘技場へ、ようこそですぅ。
+参加したい時はぁ、ミッションから
+対戦相手を選んでくださいませぇ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>79</SpeakerId>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+  </Strings>
+</SceneText>

@@ -1,0 +1,1562 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <JapaneseText>ルーク</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>39</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ティア</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>40</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ガイ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>41</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>アニス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>43</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <JapaneseText>国には、しばらく戻れそうに無いな…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>アニスのヤツ、仕事用の書類まで
+山ほど持ち込みやがって…。
+でも、親善大使の仕事も大事だしな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ティアとガイは偵察か…。
+俺はここで留守番だよ。
+親善大使の事務仕事があるしさ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ジェイドって、俺には仕事くれないんだよな。
+外へ出るのはもっぱらガイとティア。
+そりゃ、俺はジェイドの部下じゃあないんだけど…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>グランマニエにもデモの告知案内はあったらしい。
+けど、誰も取り合わなかったってさ。
+うちの国の学者は、石頭ばかりだな…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>世界中、マナの利権を巡ってギスギスしてるんだ。
+ラルヴァがマナに代わるエネルギーだったら、
+それも解決するかもしれない</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>そうだな。
+ラルヴァの威力は魅力的だけど、
+まだその正体がわからないんだよな…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ナディも、ジャニスを追ってるのか…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ギルドの仕事って、新鮮だな。
+今まで、こういう事はやってもらってばかりで、
+誰かの為に働くのはなかったからさ…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>どこにナディのシンパがいるかもわからないって、
+街へ外出するのを禁止されてんだ。
+つまんねー、街ブラも出来ないなんてなぁ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ジャニスって、何考えてるんだよ。
+さっぱり、わかんねえ…。
+やっぱ、単に変人なだけじゃないか</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>グランマニエで、今までも代替エネルギーの
+研究はしてたんだけど、なかなか実現はしない。
+機材や工程にコストがかかりすぎるんだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>これから、マナがどんどん減少していくのか。
+最悪だよ。
+マナを巡って戦争が起きたりしたら…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ガレットか。
+ほとんど地産地消で他所と交流が無い土地
+らしいけど…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ん…、ああ。
+ガレットの難民は、グランマニエに届けたよ。
+ちゃんとした保護を受けるから大丈夫だって</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>えっ…、あの建物に入るのか？
+得体も知れないのに、本国の軍と学者を
+派遣させた方がいいんじゃないか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>リフィルの探究心って、すげーな。
+いや、まあ、俺も見習わないといけないけど</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>潜水服はなぁ…。
+一度、海中散歩に着た事あるけど、
+動きにくいわ息苦しいわで落ち着かなかったな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>俺が今グランマニエに戻っても、
+出来る事って少ないんだろうな。
+何が、俺に出来るんだろう</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>マナは減少する一方で
+代替エネルギーも見つかりそうに無い。
+これからどうなるんだ…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>マナが不足するだけで、こんな簡単に
+国は弱体化するのか…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>思い違いだと思うけど、かなり前に
+ウッドロウを見た事があるような気がする。
+他国の王族の訪問があった中にいたような…？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>そのエコー・フラワーって誰も知らないんだ。
+フィリアやジェイドにもわからない生物が、
+この世にまだ存在するんだなぁ…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ルカのおねしょって、丸聞こえだぜ…。
+花に袋でもかぶせときゃよかったのに。
+同情するよ…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Id>23</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ティアとリオンとの組み合わせで
+仕事に出るって？
+何か、ソレ、辛そうだな〜…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Id>24</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>顔色悪いんじゃないか。
+たまには医務室で診てもらった方が
+いいと思うけど</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Id>25</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>アッシュがあの時…、
+ジャニスを見逃してくれていて、
+ホントによかった…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Id>26</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>火山はどんどん活発になってる
+らしいじゃないか。
+行って大丈夫なのかよ…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Id>27</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>世界樹が回復しても、マナの生産量は
+どうなるんだろう。
+以前ほど生産は出来ないんじゃないかな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Id>28</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>俺もやりたい事をやるよ。
+親善大使としてじゃなく、
+俺の意志で世界を良くしたい</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Id>29</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>アニス、あいつ何か悩んでいたっけ…。
+俺、何にも気付けなかった…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Id>30</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>アニスは、あの時伝令が済んだら
+グランマニエに帰すべきだったのかな…。
+アニスの両親に何て伝えればいいんだろう</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Id>31</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>アニスの事、今は何も出来ないし、カノンノに
+頼るしかないけど、戻ってきたらアニスにして
+あげれる事は…きっとたくさんあるよな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Id>32</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>そうか。
+カノンノが見たアニスは、
+まだ無事な姿だったんだな…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Id>33</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>アニスが負に向き合えるって、
+俺は…信じてる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Id>34</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>○○。
+アニスを助けてくれて、ありがとな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Id>35</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ナディに追われる事も無くなったし、そろそろ
+グランマニエに帰らないといけないんだろうけど、
+負を解決させるまではアドリビトムでいるよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Id>36</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ゲーデの気持ち、わからなくも無いんだ。
+俺も、勝手で、何でも他人のせいにして、
+ひねくれて、全てから逃げてた時があったから</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Id>37</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>辛いんだよな、きっと。
+今の自分自身を受け入れるのが…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Id>38</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>便宜上、監査役としてここに据え置かれる
+事になったんだ。
+大丈夫、チャットの船は俺が守るよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Id>39</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>そう。
+あなたもここへ来て、間もないのね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>40</SpeakerId>
+      <Id>40</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ナパージュ村は、マナを対象とした信仰が
+盛んなのに、その土地ではあまりマナには
+恵まれていないらしいわ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>40</SpeakerId>
+      <Id>41</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>大佐もリフィルも、
+この船に興味を持っているみたい。
+確かに変わっている船だと思うけど…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>40</SpeakerId>
+      <Id>42</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>この船に居れば、ルークは安全かもしれない。
+けど、ギルドの仕事までやっていけるの
+かしら…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>40</SpeakerId>
+      <Id>43</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>私達は、ギルドに所属しながら、本国での
+本来の仕事もやらなければならないの。
+今回のラルヴァについての諜報活動とかね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>40</SpeakerId>
+      <Id>44</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ラルヴァが本当に安全なものだったとしたら、
+マナの豊かな土地を巡って、大国の争いも無くなる
+のかしらね…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>40</SpeakerId>
+      <Id>45</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>私も、何かパニールのお手伝いがしたいな…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>40</SpeakerId>
+      <Id>46</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>私達の国グランマニエでも、
+ナディによるテロが激化してきているわ。
+ルーク以外にも、人々が危険にさらされているの</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>40</SpeakerId>
+      <Id>47</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>私達、ここの仕事の役に立てているかしら…。
+私は本国の軍務、ルークは親善大使としての
+仕事もあるから…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>40</SpeakerId>
+      <Id>48</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>世界樹に傷がつけば、マナの生産量も落ちるはず。
+そうなれば、マナに依存した大国は大混乱よ。
+都市は機能を失い、暴動が起きてしまう…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>40</SpeakerId>
+      <Id>49</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ジャニスをマークしておくべきだったわね。
+そうすれば、こんな事件は起こさせなかったのに。
+無名の学者だと侮っていたから…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>40</SpeakerId>
+      <Id>50</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>落ち着いているのね。
+ううん、悪い事じゃないわよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>40</SpeakerId>
+      <Id>51</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>精霊に会いに行くのね…。
+ちっちゃくて、ふわふわもこもこで、
+肉球なんかがあったりするかしら…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>40</SpeakerId>
+      <Id>52</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ディセンダーの話は知ってるわ。
+グランマニエでは歌劇もあるくらいだもの。
+けれど、やっぱりお話だけの存在じゃないかしら</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>40</SpeakerId>
+      <Id>53</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>あなたはルークと似ているわね。
+顔じゃなくて、世界を見つめる目が。
+何を見るにも珍しそうだから</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>40</SpeakerId>
+      <Id>54</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>世界樹をどうするかは、学者に任せましょう。
+私達が考えるにしても、限界があるわ。
+出来る限り、その支援はしていけばいいわ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>40</SpeakerId>
+      <Id>55</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>あの海域は、グランマニエの科学の粋を
+集めた軍艦ですら、入れなかったのよ。
+まさか、あんな建造物が隠されていたなんて</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>40</SpeakerId>
+      <Id>56</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ニアタ・モナド。
+私も興味があるわ。
+この世には無いような不思議な音がするもの</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>40</SpeakerId>
+      <Id>57</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>深海仕様潜水服も万能じゃないわよ。
+身動き取れないし、引き上げたらサメに半分
+食いちぎられていたという事故もあったの</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>40</SpeakerId>
+      <Id>58</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>パニールがいれるココア、美味しい…。
+毎日、これが楽しみでもあるわね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>40</SpeakerId>
+      <Id>59</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>カモメやウミネコと話している
+パニールって可愛い…。
+リスやウサギと話しているところも見たいな…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>40</SpeakerId>
+      <Id>60</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>「風唄う地」って、思い当たる所があるの。
+ひょっとしてあそこの事かしら…？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>40</SpeakerId>
+      <Id>61</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>あなたがメスカル山脈へ行くの？
+もし、そうなら同行してもいいわ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>40</SpeakerId>
+      <Id>62</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>あなたがシード・ベッドを持って行くの？
+それじゃ、道中は任せるわ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>40</SpeakerId>
+      <Id>63</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>あの大男…、
+まだあそこにいるのかしら</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>40</SpeakerId>
+      <Id>64</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>早くシード・ベッドを持って行かないと。
+芽が出てしまうわよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>40</SpeakerId>
+      <Id>65</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>身体はもういいの？
+私も以前、あそこで風に体力を削られて
+倒れた事があるの</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>40</SpeakerId>
+      <Id>66</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>世界樹を傷つけた張本人がジャニスと知って
+ナディ達も彼を探しているそうよ。
+根を爆破した装置から足がついたらしいわ…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>40</SpeakerId>
+      <Id>67</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ナディは、思想集団でもあるから、
+命令系統が無くても独自に活動も行うの</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>40</SpeakerId>
+      <Id>68</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>だから、活動家を捕らえても、
+本部のアジトはおろか、指導者すら
+知らなかったりするわ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>40</SpeakerId>
+      <Id>69</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ジャニスは、大佐の意向で
+グランマニエ軍の保護を受ける事に
+なるそうよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>40</SpeakerId>
+      <Id>70</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>カノンノの剣の刃は、パニールの種族の羽なのね。
+たくさんのナツナッツ族の先祖達から
+守られているわよ、きっと</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>40</SpeakerId>
+      <Id>71</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>アニスは、姿を見なくなるまで
+明るく振舞っていたわ。
+ごめんなさい、何も気付かないで…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>40</SpeakerId>
+      <Id>72</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>アニスは…、まだ戻らないわ。
+大佐が何も行動しないところを見ると、
+本当に手掛かりは何も無いようね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>40</SpeakerId>
+      <Id>73</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>大佐が言っていたわ。
+カノンノの行為は、確実に寿命を削っていると。
+でも、今頼りなのは…カノンノしかいないの</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>40</SpeakerId>
+      <Id>74</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>あなたがクロエもファラも連れて帰ったから。
+きっとアニスも戻ってくるはずよ。
+あなたを、信じるわ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>40</SpeakerId>
+      <Id>75</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>アニスの捜索には、大佐が行くそうよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>40</SpeakerId>
+      <Id>76</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>アニスを無事に連れ戻してくれて
+ありがとう…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>40</SpeakerId>
+      <Id>77</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>アンテナの設置も済めば、
+私の任務もそろそろ終わりみたいね…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>40</SpeakerId>
+      <Id>78</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>すっかり忘れていたわ。
+あなたはディセンダーだったわね。
+でも、あなたはあなただけれど</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>40</SpeakerId>
+      <Id>79</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>これが済んだら、世界樹へ帰るのね。
+でも、寂しくないわ。
+あなたとは、また会えると信じているから</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>40</SpeakerId>
+      <Id>80</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ここで働く事が、正式な軍務として
+認められたの。
+船長の教育係とか、やる事は色々あるわ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>40</SpeakerId>
+      <Id>81</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>あちこち自由に見てもいいんだよな？
+いや、珍しい機械ばかりだから、
+興味があってね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>41</SpeakerId>
+      <Id>82</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>留守中、ルークを見てくれてありがとう。
+この際、どんどん使ってやってくれ。
+あいつも、そう望んでいるから</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>41</SpeakerId>
+      <Id>83</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>この船は確かにすごいものらしいが、
+手入れが甘いようだな。
+そのうち船長には言っておかないと…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>41</SpeakerId>
+      <Id>84</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>船の改造かい？
+いや、ああいう作業は好きなんでね、
+ちっとも苦ではなかったさ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>41</SpeakerId>
+      <Id>85</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ナディの思想に感化されている者は、
+世界中どこにでもいるもんさ。
+まったく、いい迷惑だよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>41</SpeakerId>
+      <Id>86</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>グランマニエの学者は、頭が固い連中でね。
+自分達が確立した説を守ろうとする輩ばかりさ。
+代替エネルギーの研究もなかなか進まない</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>41</SpeakerId>
+      <Id>87</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ラルヴァの資料をじっくり見てみたけど、
+俺にはサッパリだな。
+ジェイドの旦那なら、理解してくれるだろ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>41</SpeakerId>
+      <Id>88</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ペリー鉱山は、地下に世界樹の根が張っていて、
+穴を掘り進めないんだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>41</SpeakerId>
+      <Id>89</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>あそこは資源があっても、
+世界樹保護の為に廃坑扱いになってるのさ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>41</SpeakerId>
+      <Id>90</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>レーズン火山か。
+火山活動の心配が無ければ、リゾート
+観光にでも洒落込みたかったんだが</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>41</SpeakerId>
+      <Id>91</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ラルヴァの正体、見切ったり、か。
+まさか、負の感情が元になっていたなんて
+そこらの学者じゃ考えもしなかったろうな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>41</SpeakerId>
+      <Id>92</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>しかし、まあ…、代替エネルギーを
+求めるどころじゃなくなったな…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>41</SpeakerId>
+      <Id>93</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>化学の世界に身を置く者ってのは、
+どこか普通の人とズレがあるよな…。
+旦那といい、ハロルドといい、ジャニスといい…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>41</SpeakerId>
+      <Id>94</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ガレット地方か。
+あそこはオーロラが見えるぞ。
+ただ、今は白夜の時期だから見づらいかもな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>41</SpeakerId>
+      <Id>95</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ディセンダー、ねぇ。
+あ、いや、割と俺の中ではこんな感じだろうと
+イメージしてたから、まさかそのまんまとは…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>41</SpeakerId>
+      <Id>96</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>獄門洞の近くに、すずの故郷があるのか。
+彼女の刀は、そこで作られたものかな？
+ああ、あれはいい刀だぞ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>41</SpeakerId>
+      <Id>97</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>せめて、この船の壁や配線に書かれた
+古代文字が読めれば、もうちっと俺が
+メンテナンスしてやれるんだがなあ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>41</SpeakerId>
+      <Id>98</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ああ、ここあたりの改造は俺が進めておくから。
+そうだな、ルークがヒマそうだから
+相手してやってくれるか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>41</SpeakerId>
+      <Id>99</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>改造してる間のリフィルの興奮しようには、
+恐れ入ったよ。
+本当に、遺跡が好きなんだな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>41</SpeakerId>
+      <Id>100</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>あの遺跡みたいなヤツの事を、ジェイドは
+まだ本国へ報告しないつもりらしい。
+あそこはグランマニエの領海じゃないしな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>41</SpeakerId>
+      <Id>101</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>チュロス海底遺跡は、発見されたはいいが、
+調査が進んでいないんだ。
+海底へ降下して、辿り付くまでが危険だからな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>41</SpeakerId>
+      <Id>102</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>潜水服はどうだったか？
+よく落ち着いていられたもんだ。
+途中で引き返すんじゃないかと思っていたけどな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>41</SpeakerId>
+      <Id>103</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>クラトスの旦那も何かと解せない
+ところがあるな。
+まあ、単に無口なだけかもしれないが</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>41</SpeakerId>
+      <Id>104</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>テロの標的はグランマニエだけじゃ
+ないんだが…。
+しかし、本国の様子が気になるな…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>41</SpeakerId>
+      <Id>105</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>モスコビー砂漠辺りがイリアの故郷らしいな。
+実際、あそこらはグランマニエ国の領土で
+鉱物採取の拠点とした宿場町が多いんだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>41</SpeakerId>
+      <Id>106</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>メスカル山脈にある風車はグランマニエの学者が
+風を利用したエネルギー研究の為に設置したんだ。
+実際はコストがかかりそうだと頓挫したんだが</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>41</SpeakerId>
+      <Id>107</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>しかし、洞窟や鉱山に住み着くなんて、
+ジャニスもなかなかワイルドなヤツじゃないか</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>41</SpeakerId>
+      <Id>108</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>グランマニエの学者達も、ジャニスのような
+柔軟さがあればいいが、全部が全部ジャニスの
+ようでも困るな…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>41</SpeakerId>
+      <Id>109</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>しばらくはご馳走が続くらしいぞ。
+おまえが精をつけるように、
+パニールが腕をふるうとさ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>41</SpeakerId>
+      <Id>110</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ハロルドのネズミロボット、
+ちょっと分解してみたいんだが。
+一体どういう仕組みで故障箇所を知らせるんだ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>41</SpeakerId>
+      <Id>111</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ネズミロボを分解してみたら、ある鉱物の発する
+周波数の不協和音を察知する仕組みになってたよ。
+縮小化すれば、医療用に体内にも使えそうだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>41</SpeakerId>
+      <Id>112</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ん…？
+アニスのヤツ、どこへ行ったんだ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>41</SpeakerId>
+      <Id>113</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>まさか、アニスが船を出ていたなんてな。
+いつも外出する時は、必ずジェイドの旦那に
+言ってからだから安心していたんだが…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>41</SpeakerId>
+      <Id>114</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>アニスの事は、あんまり言うな。
+もちろん、心配ではあるさ。
+けど、俺達以上にルークが不安がるからな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>41</SpeakerId>
+      <Id>115</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>アニスが見つかってよかった。
+いや、まだ連れ戻したわけじゃないから
+安心は出来ないけどな…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>41</SpeakerId>
+      <Id>116</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>アニスを連れ戻してくれて、ありがとう。
+カノンノにも礼を言いたいが、
+まだ回復してからがいいかな…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>41</SpeakerId>
+      <Id>117</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>カノンノもガレットへ…？
+彼女は、心のどこかで自分はもう長くない
+事を悟っているのか…、まさかな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>41</SpeakerId>
+      <Id>118</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>さあ、甲板へ行くんだ。
+みんな待ってるぞ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>41</SpeakerId>
+      <Id>119</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>まあ、学者連中の見解を待とう。
+心配するなって。
+いつもの事さ、…だろ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>41</SpeakerId>
+      <Id>120</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>この船、宇宙まで行けるかもしれないとさ。
+ジェイドの旦那が言っていた。
+そんな船の改造作業に携われるとは、光栄だよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>41</SpeakerId>
+      <Id>121</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>俺達は、この仕事が済んだら
+グランマニエに帰る事になると思う。
+けどさ、おまえは戻って来てやんな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>41</SpeakerId>
+      <Id>122</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ここで働くのも、立派な公務なんだ。
+遠慮せずに俺やルークを使ってくれ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>41</SpeakerId>
+      <Id>123</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>アニスちゃんの活躍、期待しててよね。
+あ、でも毎回は辛いから、
+ほどほどがいいんだけど〜</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>43</SpeakerId>
+      <Id>124</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>あんたも親で苦労すりゃ、
+不満のひとつも言いたくなるのが
+わかるようになるって…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>43</SpeakerId>
+      <Id>125</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>私もさぁ、ラルヴァってのが
+どんなものなのか
+実際見た事は無いんだよねぇ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>43</SpeakerId>
+      <Id>126</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>大佐も顔には出してないけど、
+ラルヴァの事で本国へ戻らなくちゃ
+いけなくなるのかな…？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>43</SpeakerId>
+      <Id>127</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>なーんか、人が増えてきちゃったー！
+ライバルになりそうなのは早めに潰しとかないと。
+チェック、チェック！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>43</SpeakerId>
+      <Id>128</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>いい機会だから、リフィルに勉強を
+見てもらえって大佐に言われちゃったよ。
+あーぁ…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>43</SpeakerId>
+      <Id>129</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ねぇ、まだメンバー増えていくのかな？
+なかなかイイカンジでボンボン増えてるじゃん。
+ライバルになりそうなのも増えてるけど…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>43</SpeakerId>
+      <Id>130</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ねね、何か記憶戻った？
+お屋敷に住んでたとか、毎日ご馳走食べてたとか
+そういう記憶は思い出さないのぉ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>43</SpeakerId>
+      <Id>131</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>大佐も大概ヘンだけど、
+それを上回る人っているんだぁ〜。
+ジャニスとかハロルドとか…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>43</SpeakerId>
+      <Id>132</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ジャニスの服のセンスって変！
+しかも、白衣の下。
+あれって、パジャマだよねぇ…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>43</SpeakerId>
+      <Id>133</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>もっとさぁ、ぱーっと華やかな所とかには
+行かないのかなぁ？
+行く先々、人も通らないよーな田舎ばっかり！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>43</SpeakerId>
+      <Id>134</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ねぇねぇ、アニスちゃん聞いちゃったもんね〜。
+救助の依頼が来てるのって、
+相手ボンボンなんでしょ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>43</SpeakerId>
+      <Id>135</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ところでさぁ、報酬どうだった？
+ウッハウハ？
+ボンボン助けて、それなりにもらったんでしょ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>43</SpeakerId>
+      <Id>136</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ぶー、ぶー、、ギルドの仕事より
+自分磨きに専念したいよぉ。
+玉の輿のチャンス逃しちゃうじゃん</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>43</SpeakerId>
+      <Id>137</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>事態が深刻なのは、わかってるよぉ。
+世界樹が枯れたら、玉の輿の夢も
+パーになっちゃうんだしさ〜</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>43</SpeakerId>
+      <Id>138</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>はぁ…、まさか軍に入ってまでお皿洗いの
+仕事が回ってくるとは思わなかった。
+ギルドって軍で働くよりもハード〜…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>43</SpeakerId>
+      <Id>139</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>あのさー、
+マジで親の事はもう言わないで。
+そもそもあんたになーんも関係ないでしょ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>43</SpeakerId>
+      <Id>140</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>あちこち金目になるモノってあるけど、
+採取したりするのが難しいしさ〜。
+その点、○○は器用だよね〜</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>43</SpeakerId>
+      <Id>141</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>なーんか、今の大佐って
+ルークの護衛より大変そうだけど
+仕事は楽しそうにしてるっぽい</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>43</SpeakerId>
+      <Id>142</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>メスカル山脈、かぁ…。
+あ、ううん、何でもないってば！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>43</SpeakerId>
+      <Id>143</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>そーいや、ナディもジャニスを探してるし。
+アッシュもジャニスを許してないんでしょ？
+今回、すごい修羅場っぽいから私パス！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>43</SpeakerId>
+      <Id>144</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ジャニスもナディに見つかっちゃってさ。
+今頃吊るし上げられて、大ピンチだよぉ。
+早く助けに行かないでいいワケ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>43</SpeakerId>
+      <Id>145</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>…っちゃあ〜。
+ジャニスもキメラ・クラスターみたいなの
+作れるんなら、将来有望だったって事じゃん！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>43</SpeakerId>
+      <Id>146</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>なーんか、最近顔色悪くない？
+私よりもゴハン食べてて、どういうことー？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>43</SpeakerId>
+      <Id>147</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ここでの仕事も、いつか終わるのかなぁ。
+少なくとも、大佐とルークは
+ここに居続けられないだろうし…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>43</SpeakerId>
+      <Id>148</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>浮かない顔してるって？
+ぶー、そんな事ないもーんっだ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>43</SpeakerId>
+      <Id>149</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>えー、ちょっ、もういいってば！！
+あんたの「よしよし」って不意打ち！
+カノンノにしてあげりゃいいのに…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>43</SpeakerId>
+      <Id>150</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>もうすぐ、グランマニエに
+帰らなくちゃいけないのかも。
+ここの仕事、好きになってきたのにな〜</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>43</SpeakerId>
+      <Id>151</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>さ、私達の仕事もあと少しだね。
+なーんか、ちょっぴり寂しかったりだね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>43</SpeakerId>
+      <Id>152</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>私なら、平気。
+あんたもいるんだし、乗り越えていけるよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>43</SpeakerId>
+      <Id>153</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>この仕事すんでもさ、
+ちゃんと帰ってきてね！
+絶対だよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>43</SpeakerId>
+      <Id>154</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ホントは、私に会いに戻って来て
+くれたんでしょ￥
+わかってるんだよぉ〜！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>43</SpeakerId>
+      <Id>155</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+  </Strings>
+</SceneText>

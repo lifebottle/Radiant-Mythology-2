@@ -1,0 +1,179 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <JapaneseText>コレット</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>25</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>エステル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>52</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>フィリア</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <JapaneseText>ねえねえ、エステル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>25</SpeakerId>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>………</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>52</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>あ、コレット。
+どうかしましたか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>52</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ごめんね。
+読書の邪魔しちゃって…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>25</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>あ、いえ、
+邪魔なんかじゃ…。
+気にしないで下さいね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>52</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>本好きなんだね。
+どんなの読んでるの？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>25</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>本ならなんでも好きですよ。
+小説だけじゃなく、学術書や、
+論文、図鑑なんかも読みますね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>52</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>エステルさん。
+今日は違う本を持ってきましたよ。
+「世界猫図鑑」です</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>11</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>わあ、ありがとうございます。
+お借りしますね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>52</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>猫図鑑？
+じゃあ、ひょっとして犬図鑑もある？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>25</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>犬…食肉目イヌ科。
+追跡型狩猟に適した身体に変化させた
+動物で、ペットとしても飼育される、ですね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>52</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>先日お借りして、読み終えました。
+犬は大好きなので、とても楽しかったです</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>52</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>犬種って１５０種ぐらいあるんですよ。
+チワワ、パグ、シバ、プードル、
+チャウチャウ、スピッツ、テリア、他には…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>52</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>へ、へえー…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>25</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>わざわざ覚えたんですか？
+すごいですね…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>11</SpeakerId>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>あれ？
+ひょっとしてわたし、
+呆れられてませんか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>52</SpeakerId>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+  </Strings>
+</SceneText>

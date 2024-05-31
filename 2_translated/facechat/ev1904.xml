@@ -1,0 +1,89 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <JapaneseText>ジャニス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>55</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ナディ構成員</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>63</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>助手</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>56</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <JapaneseText>おのれぇ！
+この…、テロリストめ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>55</SpeakerId>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>おまえのせいで、マナが、世界樹が穢れた！
+この罪の報復は死をもってしても
+まだあり余る！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>63</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ただ、殺すだけでは手ぬるい。
+おまえが世界樹に与えたのと同じ
+苦痛を味わってもらう</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>63</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>そ、それってまさか…
+僕達に…爆…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>56</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>イヤーーーーーッ！！
+ママーーーーーーーーーッ！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>56</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>断る！　断固断るぞ！
+ノォォー・グッド！！
+うぉぉおお！　死ぬのイヤぁあああ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>55</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+  </Strings>
+</SceneText>

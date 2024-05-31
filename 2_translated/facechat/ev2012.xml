@@ -1,0 +1,62 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <JapaneseText>&lt;Name:39&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>57</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <JapaneseText>もっと、もっとだ…。
+あいつより強く…。
+もっと怒りを、恨みを、妬みを、不安を！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>57</SpeakerId>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>消えて…、たまるか………</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>57</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>くそ…、満たされない。
+渇く…。
+いくら負を取り込んでも…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>57</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>苦しい…、重い…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>57</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>俺は…いつまで苦しむんだ…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>57</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+  </Strings>
+</SceneText>

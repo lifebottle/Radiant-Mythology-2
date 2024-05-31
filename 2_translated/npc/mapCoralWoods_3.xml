@@ -1,0 +1,25 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+    <Entry>
+      <JapaneseText>２層目：閉ざされたサンゴ礁</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>01_object_02</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

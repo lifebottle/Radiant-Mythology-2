@@ -1,0 +1,170 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <JapaneseText>助手</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>56</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>プレセア</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>30</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ジャニス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>55</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ゼロス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>29</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <JapaneseText>ニャー！　上手くまいたと思ったのに。
+追いつかれちゃったですよ、先生！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>56</SpeakerId>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>待ってください…。
+ラルヴァの正体が何であるか、
+私達にはわかっています</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>30</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>そんなハズがありません、先生！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>56</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>聞こう、それがリアリーであるのなら
+私も興味がある</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>55</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ホワット！？　「負」…？
+ラルヴァの正体が人間の生み出した
+負の感情の塊だというのか</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>55</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>…普通に受け入れてもらえているようです</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>30</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>異端扱いされてた野郎だからねぇ。
+常識より非常識の方が馴染むんじゃないの？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>29</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>柔軟な思考…。
+それが異端とされる…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>30</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>権威主義的な学会って所は、
+そ〜いうもんなのよっ、プレセアちゃん￥</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>29</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>わかった、アイ・シー。
+それならば、君の理論で検証するまで
+実験はストップしよう</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>55</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>解除出来ましぇん！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>56</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>先生、どうしましょう…。
+爆破スイッチが入っちゃいました</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>56</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>装置を切れ、ハリアップ！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>55</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ま…、間に合いませーん！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>56</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+    <Entry>
+      <JapaneseText>ev0903.pmf</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

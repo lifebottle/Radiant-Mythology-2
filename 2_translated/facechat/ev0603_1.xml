@@ -1,0 +1,155 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <JapaneseText>チェスター</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ナディ構成員</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>63</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>クレス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ナディ構成員</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>64</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <JapaneseText>おまえ達、ナディだな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ほう、我々を知っているとは！！
+貴様ら、ジャニスの手下か？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>63</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>違う。
+僕達はギルドの者だ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ふん、ギルドの者など用は無い</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>64</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ここは焼き払う。
+さっさと去れ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>64</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>そうはいくか。
+おまえ達が集めてる資料に
+用があるからな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>まさか、おまえらはラルヴァを
+手に入れる為に来たんじゃないだろうな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>63</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ラルヴァをこれ以上作らせてたまるか。
+あれは、あってはならないものだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>63</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>既に軍事に利用しようと
+動いている国もある</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>63</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>このラルヴァを強く浴びて、
+体調の異変を訴える者だっているんだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>63</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ラルヴァなんか興味ねえが、
+おまえ達のやり方も気に食わねぇ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>とにかくその資料を手に入れるのが
+俺達の仕事だからな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>そうか。
+ならば、始末するまでだ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>63</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+  </Strings>
+</SceneText>

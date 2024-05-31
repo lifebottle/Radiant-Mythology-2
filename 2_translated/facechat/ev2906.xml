@@ -1,0 +1,367 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <JapaneseText>&lt;Name:39&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>57</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>カノンノ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>50</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ニアタ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>54</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <JapaneseText>痛い…、いたいぃッ！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>57</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>憎い、怖い…、痛い…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>57</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>憎い、怖い…、いやだ、
+俺は…、まだ憎いのか、まだ憎み足りないのか</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>57</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>まだ欲しがるのか、怒りたいのか</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>57</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ああ、あぁぁ…っ！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>57</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>いいえ、それはあなた次第よ。
+いつまでも、痛がる事はないわ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>50</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>人は変わっていく。
+それは、あなたも同じ…、
+あなただって、変われるのよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>50</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>い、いやだ…。
+俺は…、まだ憎いのに…
+憎まなければ…ならない…のに…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>57</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>怖い、怖い、怖い！
+怖いのは…いや…だぁっ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>57</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>怖がってはダメ。
+怖くはないわ。
+変わるだけなのよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>50</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>わからない、何が憎いのかも…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>57</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>痛い、痛い、押しつぶされる！！
+こんな思いは嫌だぁぁぁ！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>57</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>憎まなければ…、憎まないと…
+俺で…無くなってしまう…のに…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>57</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>…自分自身を拒絶してはならぬ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>54</SpeakerId>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>あれは…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>50</SpeakerId>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>自らを閉ざしてしまったか…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>54</SpeakerId>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ゲーデにあるのは、「無関心」。
+何ものも拒み、永遠の停滞を招く。
+それは負よりも厄介なものだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>54</SpeakerId>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>痛い…、いたいぃッ！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>57</SpeakerId>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>憎い、怖い…、痛い…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>57</SpeakerId>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>憎い、怖い…、いやだ、
+俺は…、まだ憎いのか、まだ憎み足りないのか</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>57</SpeakerId>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>まだ欲しがるのか、怒りたいのか</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>57</SpeakerId>
+      <Id>23</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ああ、あぁぁ…っ！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>57</SpeakerId>
+      <Id>24</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>来るな………</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>57</SpeakerId>
+      <Id>25</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>来るなよ、ディセンダー。
+来るなぁぁぁ！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>57</SpeakerId>
+      <Id>26</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ひッ…、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>57</SpeakerId>
+      <Id>27</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>わからないんだ…。
+なにが憎いのかも…。
+何が悲しいのか、何が怖いのか…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>57</SpeakerId>
+      <Id>28</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>痛い、痛い、押しつぶされる！！
+こんな思いは嫌だぁぁぁ！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>57</SpeakerId>
+      <Id>29</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>憎まなければ…、憎まないと…
+俺で…無くなってしまう…のに…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>57</SpeakerId>
+      <Id>30</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>負、そのものの苦しみか。
+だが、…自分自身を拒絶してはならぬ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>54</SpeakerId>
+      <Id>31</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>あれは…！
+自らを閉ざしてしまったのか…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>54</SpeakerId>
+      <Id>33</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>聞け、ディセンダーよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>54</SpeakerId>
+      <Id>34</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ゲーデにあるのは、「無関心」。
+何ものも拒み、永遠の停滞を招く。
+それは負よりも厄介なものだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>54</SpeakerId>
+      <Id>35</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+    <Entry>
+      <JapaneseText>evobj_033</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>Bip01 Pelvis</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>evobj_033</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>Bip01 Pelvis</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>32</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>Bip01 Pelvis</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>36</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>Bip01 Pelvis</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>37</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>Bip01 Pelvis</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>38</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>Bip01 Pelvis</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>39</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

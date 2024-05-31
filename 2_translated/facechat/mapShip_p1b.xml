@@ -1,0 +1,715 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <JapaneseText>チェスター</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>アーチェ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Main Text</Section>
+    <Entry>
+      <JapaneseText>…波の音は落ち着くし、慣れれば
+この揺れも心地いいもんだぜ…。
+アーチェが騒がなきゃ文句ねえんだけどな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>0</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>アメール洞窟に行くんだろ？
+こっちは準備万端だぜ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ナディの奴らを目の当たりにしたら
+村からみんなを追い出した
+ラルヴァ推進派の連中が可愛く見えるぜ…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ジャニスの野郎が何考えてるかは知らねえ。
+けどよ、奴が作ったラルヴァが原因で
+村がバラバラになったのは許せねえ事実だ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>クレス１人で大丈夫かな…？
+俺もついて行けば良かったな…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>他人の事言えた義理じゃねえけど、
+イリアとスパーダはハンパ無く口が悪りぃな。
+…アレに付き合わされるルカが可哀相だぜ…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>クレスが無事でホッとしたぜ。
+…ガキん頃から、ずっと一緒だったから
+やっぱ心配だったんだ…これでもな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>正直俺は世界樹やマナ、ラルヴァにナディも
+興味ねえけど、真面目に暮らしてる人達が
+苦しむ事だけは許せねえな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>…弓を使う人間は、俺を入れて３人か…。
+サボっちゃいねえけど、気合入れ直して
+腕を磨かなきゃな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>…ディセンダー、ディセンダー…。
+悪りぃ、ガキの頃に絵本では見たんだけど…。
+カノンノにでも聞いて、復習しとくよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>俺のダジャレは面白れぇ！
+…そう思っていた時期が俺にもありました…。
+…アーチェにクレスと同レベルと言われるまで…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>…ったく、内戦とかつまんねえ事ばっかだな。
+人同士で傷つけ合ったところで、
+楽しい事なんか何もねえのによ…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>しかし、アレだ…。
+ここは、女の子のレベルが高くて困るな。
+…あ〜、いや、なんだ、ほら、アハハハハ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>船の改造の間、邪魔なんだとさ…。
+何するかなぁ〜…。
+依頼でもこなしてりゃ、改造が終わるかな？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>デッキにいっでっきてこいよ。
+…やっぱりダメだ…。
+…多分クレスと同じレベルだ…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ああ、見たぜ。
+デカイもんだな。
+あ、悪りぃ、あんまり興味ねえんだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>アミィお手製のマーボーカレーは絶品だぜ！
+…え？　リリスも得意だって？
+…そんなにメジャーな料理だったのか…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>潮風は心地いいけど、ベタベタすんのがな〜。
+…でだ、風呂を覗くベストスポットは何処だ？
+…何？　スパーダも聞いてきただと！？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>…しかし、すげえ妹だな…。
+…アミィがああだったら…。
+い、いやいやいや、まさかまさか、アハハハハ…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>…ん？　ああ、アミィに手紙を書いてたんだ。
+グランマニエで保護されてるけど、
+寂しがってたら、兄として堪んねえしな…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>…ビェーックショイっ！！
+…うぅ…、またアーチェが
+俺の悪口でも言ってやがんな…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>…ったく、イリアも素直じゃねえよな。
+イビってばっかじゃ、ルカも離れるぞ。
+…なんで俺見て、笑ってんだよ…？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>…俺は、アミィが幸せならそれで良い。
+俺はあいつの、たった一人の肉親だからな。
+…アーチェ？　なんで、アーチェが出てくんだよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>よう、もう大丈夫なのか？
+ああ、リオンには礼しとけよ？
+華奢な体で、お前を背負ってきたんだぜ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>23</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ナディが改心しただと？
+…口では何とでも言える。
+また何かやらかしたら、ブッ倒してやる…！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>24</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>暑い時は、セルシウスにくっついてたら
+ヘーキなんじゃねえのか？
+…ところで、セルシウスって「女」扱いなのか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>25</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ここの飯は、ホントうめえよな。
+でもな、アミィの料理も絶品なんだぜ！
+アミィの爪のアカ、アーチェに飲ませてみるかな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>26</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>俺は世界樹だのマナだのはどうでもいい。
+ただ、腹を括ったお前について行くのも
+そう悪くねえかもな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>27</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>クロエの事は、
+セネルが一番わかってんだ。
+今は、セネルを信じて行こうぜ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>28</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>な？　セネルを信じて良かっただろ？
+…それで、あと２人か。
+なーに、すぐ見つかるさ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>29</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>グランマニエが、もうテロに狙われないって事は
+アミィや村の連中も大丈夫って事だよな…。
+…ああ、かなりホッとしたぜ…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>30</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>残るはアニスか。
+大丈夫、すぐ見つかるさ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>31</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>…こうして全ての勇者が揃ったアドリビトム。
+その精鋭の力を集結させ再び突き進んでゆく！
+ゲーデを倒し、負の無き明るい未来の為に！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>32</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>…なーんてな。
+ま、いいから気にすんなよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>33</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>んじゃあ、さっさとゲーデの野郎をブッ倒して、
+「負」だらけのネクラな世の中に
+ケリをつけようぜ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>34</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>俺は俺だからな。
+お前の記憶にある今までの俺と
+これからの俺は何も変わらないから安心しな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>35</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ふ〜ん…ふむふむ…。
+なんだかボ〜っとしてて頼りなさそ〜。
+まあ、せいぜいヨロシクね、キ・ミ♪</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>36</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>なに？　ハーフエルフって、やっぱ珍しい…？
+あ〜、あたしが可愛いからだね〜。
+うんうん、よくわかってるじゃん♪</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>37</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>チェスターとクレスのコンビって
+バランス取れててバッチリだよね♪
+ま、チェスターが足引っ張ってなきゃだけどね〜</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>38</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>そう言えば、あたしが使う魔法なんかも
+マナを使ってるんだって。
+エルフの中での言い伝えなんだけどさ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>39</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>だいじょーぶ、ダイジョーブ！
+なんだかんだ言ったってさ、クレスって
+前のギルドで一番頼りになってたんだし〜♪</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>40</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ねえねえ、あたし達もバカンス行こうよぉ〜！
+…でもな〜、ミントやティアが一緒だと
+見劣りしちゃいそうで、ヤなんだよねぇ〜…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>41</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ね、言った通りでしょ？
+クレスならダイジョーブだってぇ〜♪</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>42</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>…世界樹が傷ついて、マナがなくなっちゃうと
+あたし、魔法使えなくなっちゃうのかな…？
+それは、ちょっと困るなぁ〜…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>43</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>アーチェちゃん、ピンっと来ちゃいました〜♪
+ジャニスってさ、誰かに恋しちゃったと思うの！
+あたしかな？あんたかな？　…アッシュ…？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>44</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>…また、こそこそと修行なんかしちゃってさ…。
+スケベェなのに、努力家なんて
+チェスターのくせに生意気だってーのっ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>45</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ディセンダーの事は、絵本でも読んでたし
+古くからエルフ族にも伝わってて知ってるよ。
+…でも、あんたがディセンダーねぇ〜…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>46</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>クレス、イイ人なんだけどダジャレだけは…ね。
+あ、チェスターもヒドかったんだよぉ〜。
+まあ、あたしに突っ込まれて止めちゃったけどさ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>47</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>アドリビトムの子達のレベルが高いのは
+あたしだって、認めてるわよぉ…。
+…あのスケベ男、また大きな胸の子見てる！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>48</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>空も飛べて、お掃除にも重宝！
+あたしのホウキってスッゴイでしょ〜♪</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>49</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>…バカ男がバカな事言ってる気がして、
+ゾクゾクするぅ〜…。
+ちょっと魔法でブッ飛ばしてくるっ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>50</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>スゴイ、スゴーイッ！
+あんなのが海の中にあったんだねぇ！
+ねえねえ、どうなってんのかな！？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>51</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>アミィちゃんが可愛いのはわかるけどさ、
+あいつ、他に考える頭は無いのかしらねぇ…。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>52</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>…最近お風呂入ってると、
+なーんか視線を感じるのよね…。
+まあ、あたしの魅力なら仕方ないかぁ〜♪</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>53</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ハーフエルフのあたしでも
+古代エルフ語なら、ちょっとは読めるんだぁ〜♪
+…あたしをタダのアンポンタンって思ってない？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>54</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>…う〜ん…、チェスターの悪口ってなると
+どうしても口が止まんなくなるのよねぇ〜…。
+だってほら、チェスター、ホントにおバカだし♪</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>55</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>…まったく、いっつもいっつも
+「アミィ、アミィ」って…。
+お前は「エコー・フラワー」かってーのっ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>56</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>へぇ〜、ディセンダーでも倒れたりするんだね。
+あ、ゴメン…深い意味は無いの。
+ただ、そう思っただけなんだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>57</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>…もっとセクシーになれる道具って
+無いかなぁ〜…。
+あ〜、有ったとしてもハロルド作はお断りっ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>58</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>世界樹が回復してきてて良かったねぇ〜。
+「負」の方もだいじょーぶ、ダイジョーブ！
+ラッキーウィッチと呼ばれたあたしを信じて♪</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>59</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>残りの２人も気になるけど、
+今は手がかりがあるクロエを先に
+どうにかしてあげよ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>60</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ピッチリ服のクロエが帰ってきて
+ヤロー共が喜ぶこと、喜ぶこと…。
+そりゃあ、あたしだって嬉しいけどさ…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>61</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>へぇ〜、ナディの連中、
+口だけじゃなかったんだ。
+人同士の争いが減るって、やっぱり嬉しいよね♪</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>62</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ファラ、帰ってきて良かったね♪
+アニスも大丈夫、イケる、イケる！
+…あ、これファラのセリフだったわ…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>63</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>…いっつも利己的で小生意気だけど、
+居なかったら居なかったで寂しかったし…。
+うん、帰ってきて良かったよね♪</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>64</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>早く甲板に行ってきたら？
+ディセンダーさんっ♪</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>65</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>…あたしのホウキでも
+あの高さはちょっと無理な感じぃ〜…</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>66</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>…へぇ〜、この船って
+こんなにスゴかったんだね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>67</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ゲーデを倒して、きっと世界は救われるわ。
+このラッキーウィッチが言うんだから
+ダイジョーブだってばさ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>68</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ほえ？　ボ〜っとしてどうしたの？
+…って、あたし最初にあんたに会った時も、
+「ボ〜っとしてる」って言ったっけ、へへっ♪</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>69</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Unreferenced</Section>
+  </Strings>
+</SceneText>
