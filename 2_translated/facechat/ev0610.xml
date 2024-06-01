@@ -2,66 +2,88 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>チャット</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Chat</EnglishText>
       <Notes/>
       <Id>18</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リフィル</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Raine</EnglishText>
       <Notes/>
       <Id>27</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>依頼の登録ですね？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Is this for registering a request?
+
+</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ええ、お願い</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yes, please.
+
+</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ラルヴァの危険性、有効性等を
 検証する為に、資料をもとに
 生成してみる事にしたの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I decided to create something based on the data to verify the dangers and effectiveness of Larva.
+
+</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>実験現場までの護衛を兼ねて、
 生成実験の助手を
 誰かに頼みたいのだけれど</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'd like to ask someone to assist in the generation experiment, also serving as an escort to the experimental site.
+
+</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>わかりました。
 では、登録しておきます</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Understood. I will register it then.
+
+
+
+
+
+
+</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

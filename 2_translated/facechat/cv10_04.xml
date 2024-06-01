@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ロイド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ジーニアス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>セネル</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -23,6 +26,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ルーク</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -33,6 +37,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>え〜っと…、リフィル先生の課題が
 わかんねぇんだけど…</JapaneseText>
       <EnglishText/>
@@ -42,6 +47,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>どれどれ？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -50,6 +56,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>グランマニエと近隣諸国が
 締結を条約したのが
 「皇国文化革命」だっけ？</JapaneseText>
@@ -60,6 +67,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>全然違うよ！
 「条約」を「締結」するんだって</JapaneseText>
       <EnglishText/>
@@ -69,6 +77,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そして、それは「不可侵条約」の内容だろ？
 間違えすぎだな、ロイド</JapaneseText>
       <EnglishText/>
@@ -78,6 +87,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>暗記は苦手なんだよなぁ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -86,6 +96,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>「暗記」じゃなくて勉強全般が、でしょ？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -94,6 +105,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>……そうみたいだな</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -102,6 +114,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>むっ…、
 じゃあセネルに問題だ。
 締結の条約した年はいくつだ？</JapaneseText>
@@ -112,6 +125,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>「条約」を「締結」だって…。
 ええっと、皇紀７６２年だったか？</JapaneseText>
       <EnglishText/>
@@ -121,6 +135,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そりゃ違ーよ、セネル。
 ７６５年だって。
 それは「第一回条約締結会議」だな</JapaneseText>
@@ -131,6 +146,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>わぉ、正解だよ。
 ルークって見かけによらず
 勉強してるんだね</JapaneseText>
@@ -141,6 +157,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ああ、見かけによらず、な</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -149,6 +166,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>うっせ！　一言余計だってーの！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -157,6 +175,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>学校に行ってたのか？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -165,6 +184,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いや、家庭教師さ。
 学校には行った事ねぇよ</JapaneseText>
       <EnglishText/>
@@ -174,6 +194,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>へ〜、そいつは楽チンだな</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -182,6 +203,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>楽なもんかよ…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -190,6 +212,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>歴史っつっても、政治史、経済史、宗教史、
 軍事史っていくつも別れて
 勉強させられるんだぜ？</JapaneseText>
@@ -200,6 +223,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>さすが王族だね。
 まあ、歴史を創る側の人だから
 それぐらいの知識は必要かも</JapaneseText>
@@ -210,6 +234,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>教科書に載ってないような
 けっこうヤバい内容とかもあって、
 その食い違いが面白え事もあるけどな</JapaneseText>
@@ -220,6 +245,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>たとえば？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -228,6 +254,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そんなの話せねーって。
 宮廷の陰謀劇なんて、とても
 人に話せる内容じゃねーもんな</JapaneseText>
@@ -238,6 +265,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>国家ヒミツってやつか！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -246,6 +274,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…国家機密の事を言ってんのか？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -254,6 +283,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そう表記すると、
 胡散臭さ倍増だな…</JapaneseText>
       <EnglishText/>

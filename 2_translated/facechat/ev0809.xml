@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リフィル</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ハロルド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ミント</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -26,6 +29,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あら、○○。
 今ね、ハロルドの協力により
 ラルヴァの解析が終了したのよ</JapaneseText>
@@ -36,6 +40,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>結論から言うと、
 自然界のありふれたエネルギーに
 負の想念を付属したもの…</JapaneseText>
@@ -46,6 +51,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それこそがこのラルヴァの正体よ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -54,6 +60,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>えーっと、「負の想念」ってのは
 怒りとかさ、恨みとか、悲しみとか
 そういうものね</JapaneseText>
@@ -64,6 +71,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>つまりラルヴァを生成するってのは
 呪いを生産しているようなモノよ</JapaneseText>
       <EnglishText/>
@@ -73,6 +81,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>こんなモノの傍にいたら、
 精神、肉体も蝕まれちゃう</JapaneseText>
       <EnglishText/>
@@ -82,6 +91,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>負の想念…って、
 そんなものがエネルギーとして
 作用するものなのですか？</JapaneseText>
@@ -92,6 +102,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ん〜…、たとえば人の恨みや怒りが
 「呪い」という形で魔法的効果が
 発揮されるでしょ？</JapaneseText>
@@ -102,6 +113,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ラルヴァは科学的に生成しているけれど
 原理は同じなの</JapaneseText>
       <EnglishText/>
@@ -111,6 +123,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>つまり、ラルヴァは恐るべき
 破壊力を秘めているって事ね〜</JapaneseText>
       <EnglishText/>
@@ -120,6 +133,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>マナが少ない土地は、
 負の想念が留まりやすいのよ。
 だから、ラルヴァが生成出来るの</JapaneseText>
@@ -130,6 +144,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>確かに…マナには、場の穢れを浄化し、
 活性化させる力があると
 ロゼット村の世界樹信仰で伝わっています</JapaneseText>
@@ -140,6 +155,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>生成される場所がマナの恵みの
 少ない場所なのも、
 そういう理由があったのですね</JapaneseText>
@@ -150,6 +166,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>世界樹がマナの生産力を
 このまま落としていったら、あちこちに
 負や穢れが留まるという事になるわね</JapaneseText>
@@ -160,6 +177,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そして、さらには人の心と身体を
 蝕むだけでなく、大地の活力も
 衰退させていくってわけ</JapaneseText>
@@ -170,6 +188,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>マナの恩恵を忘れた世界…。
 なんて恐ろしい…</JapaneseText>
       <EnglishText/>

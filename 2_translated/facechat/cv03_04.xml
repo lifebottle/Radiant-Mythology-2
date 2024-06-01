@@ -2,117 +2,154 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リアラ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Reala</EnglishText>
       <Notes/>
       <Id>20</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カイル</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kyle</EnglishText>
       <Notes/>
       <Id>19</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ごめんなさい、カイル…</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm sorry, Kyle...
+
+</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>突然どうしたの、リアラ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What's wrong all of a sudden, Reala?
+</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>わたしのせいで、こんな所に飛ばされて…</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's because of me that we were sent to a place like this...
+
+</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>何を言ってるんだよ！
 「こんな所」だなんてとんでもない！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What are you talking about!? "A place like this" is outrageous!
+
+</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>まあ本人かどうかわかんないけどさ、
 父さんと母さんに会えたんだよ！
 オレ、感激しちゃったもん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well, I'm not sure if it was really them, but I met mom and dad! I was so moved!
+
+</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>でも…、急いで元の世界に戻らないと…</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But... we need to hurry back to our original world...
+
+</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>焦らなくてもいいってば。
 だって、この世界でもオレは英雄になれる
 機会があるって事じゃないか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There's no need to rush. After all, in this world, I might have the chance to become a hero too, right?
+
+</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>オレ、頑張る！
 父さんと母さんといっしょに、英雄として
 並べられるかもしれないもんね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'll do my best! I might even stand alongside mom and dad as a hero!
+
+</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カイル…</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kyle...</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リアラ、本当にありがとう。
 ここに連れて来てくれて</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Reala, thank you so much for bringing me here.
+
+</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あなたを選んで、本当に良かった…</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Choosing you was truly the best decision...
+
+
+
+
+
+
+</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

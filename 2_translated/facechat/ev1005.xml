@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>セルシウス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ヴェイグ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クレア</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -23,6 +26,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アニー</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -30,6 +34,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ルカ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -40,6 +45,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>私は…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -48,6 +54,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>セルシウス…！
 元に…戻ったのか…？</JapaneseText>
       <EnglishText/>
@@ -57,6 +64,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>負に覆われ、己を失っていたか。
 我が力もまだ小さきものだな</JapaneseText>
       <EnglishText/>
@@ -66,6 +74,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ヴェイグ！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -74,6 +83,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クレア！
 大丈夫か…？
 どこも、悪くはないか！？</JapaneseText>
@@ -84,6 +94,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>平気よ。
 それより、ヴェイグは？</JapaneseText>
       <EnglishText/>
@@ -93,6 +104,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ヴェイグさん、クレアさん…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -101,6 +113,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アニー…。
 すまない、迷惑をかけた…</JapaneseText>
       <EnglishText/>
@@ -110,6 +123,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いえ、気にしないで下さい。
 それより、これから避難したガレット村の
 皆さんと合流しないといけないですね</JapaneseText>
@@ -120,6 +134,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>○○の所属するギルドで、
 村人を保護してもらっています</JapaneseText>
       <EnglishText/>
@@ -129,6 +144,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>まあ、そうなの？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -137,6 +153,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>みんなを助けてくれてありがとう。
 私はクレア・ベネット</JapaneseText>
       <EnglishText/>
@@ -146,6 +163,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>彼はヴェイグ・リュングベル。
 よろしくね</JapaneseText>
       <EnglishText/>
@@ -155,6 +173,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>私は、セルシウス。
 この土地を負より守る氷の精霊だ</JapaneseText>
       <EnglishText/>
@@ -164,6 +183,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>よくここまで来てくれた
 「ディセンダー」。
 アニー、ご苦労だったな</JapaneseText>
@@ -174,6 +194,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>はい</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -182,6 +203,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…はい！？
 待って下さい。
 えっ…と、今何を…？</JapaneseText>
@@ -192,6 +214,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>○○がディセンダー！？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -200,6 +223,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ディセンダー。
 精霊の世界まで届く光をまとう者。
 私はその輝きを知っている</JapaneseText>
@@ -210,6 +234,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おーい！
 吹雪いて来そうだよ！
 早く戻らないと！</JapaneseText>
@@ -220,6 +245,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そうですね…。
 ここは魔物も多いですし
 話はみんなと合流してからにしましょう</JapaneseText>
@@ -233,6 +259,7 @@
   <Strings>
     <Section>Unreferenced</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>Bip01 L Hand</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -240,6 +267,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>Bip01 Head</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -247,6 +275,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>Bip01 Spine</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -254,6 +283,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>Bip01 R Forearm</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -261,6 +291,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>Bip01 L Forearm</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -268,6 +299,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>Bip01 R Calf</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -275,6 +307,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>Bip01 R Thigh</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -282,6 +315,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>Bip01 L Foot</JapaneseText>
       <EnglishText/>
       <Notes/>

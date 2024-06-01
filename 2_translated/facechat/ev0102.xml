@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ジェイド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -12,6 +13,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おや、追っ手…ですか。
 まったく、仕事熱心で結構な事ですね</JapaneseText>
       <EnglishText/>
@@ -21,6 +23,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>さてと、では私も仕事をしますか。
 …命の保証はしませんよ？</JapaneseText>
       <EnglishText/>
@@ -30,6 +33,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>まず話をしてみる</JapaneseText>
       <EnglishText/>
       <Notes>Choice 1</Notes>
@@ -37,6 +41,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>気は進まないが、応じる</JapaneseText>
       <EnglishText/>
       <Notes>Choice 2</Notes>
@@ -44,6 +49,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…なんですか？
 せっかくやる気になったというのに…</JapaneseText>
       <EnglishText/>
@@ -53,6 +59,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おやおや、随分殺意に欠けた構えですね。
 やる気あるんですか？
 …ないんですね</JapaneseText>
@@ -63,6 +70,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…なるほど、あなたはギルドの有志で、
 我々の救助にやって来られた、
 という事ですか</JapaneseText>
@@ -73,6 +81,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>私は、ジェイド・カーティス。
 グランマニエ皇国軍大佐を務めております。
 と、まあ、見ての通り困った状態でして</JapaneseText>
@@ -83,6 +92,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>どうか、仲間の捜索をお願い出来ませんか？
 部下の一人に探させている最中ですが、
 人手は多いに越した事はありませんから</JapaneseText>
@@ -93,6 +103,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>では仲間の風貌をお伝えしておきましょう。
 赤い髪に白い上着の青年</JapaneseText>
       <EnglishText/>
@@ -102,6 +113,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いわゆる「やんごとなき」身分の
 お方ですから、無礼のないように
 お願いしますよ</JapaneseText>
@@ -112,6 +124,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>私は、外から捜索にあたります。
 ひょっとしたら岩場に引っかかって、
 フナムシに集られているかもしれませんし</JapaneseText>
@@ -122,6 +135,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それでは、
 捜索をお願いします</JapaneseText>
       <EnglishText/>

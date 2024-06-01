@@ -8,6 +8,7 @@
   <Strings>
     <Section>Unreferenced</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>３層目：怨念のサンゴ礁</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -15,6 +16,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>15_object_05</JapaneseText>
       <EnglishText/>
       <Notes/>

@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ゼロス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ジェイド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>イリア</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -23,6 +26,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ルカ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -33,6 +37,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ここかぁ？
 それっぽい所だけど</JapaneseText>
       <EnglishText/>
@@ -42,6 +47,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>無防備ですね。
 イリアは銃を持ってるんですよ。
 物陰から狙撃される事も考えませんと</JapaneseText>
@@ -52,6 +58,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>って、そう思ってんなら
 止めろよ！</JapaneseText>
       <EnglishText/>
@@ -61,6 +68,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>結果的に、
 待ち伏せがないとわかって
 良かったじゃありませんか</JapaneseText>
@@ -71,6 +79,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>よくねぇよ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -79,6 +88,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ウェーッハッハッハ！
 よく来たわね！
 ジェイド、そしてゼロス！</JapaneseText>
@@ -89,6 +99,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あ、あの…。
 勝手に船外に出たりしてごめんなさい…</JapaneseText>
       <EnglishText/>
@@ -98,6 +109,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ちょっ、何さっさと謝ってんのよっ！
 ほら、調子を合わせなさいったら</JapaneseText>
       <EnglishText/>
@@ -107,6 +119,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………ぅ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -115,6 +128,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ははー、イリアさま。
 僕達の二人の今後の華々しい活動の
 礎とすべく、この二人に天誅を下します</JapaneseText>
@@ -125,6 +139,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そうよ、同志ルカ！
 今こそこのシリーズに蔓延する
 悪しきヒエロリ…ヒレリル…え〜っと…</JapaneseText>
@@ -135,6 +150,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ヒエラルキー？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -143,6 +159,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そう、ソレ！
 そのヒエラルなんとかを打倒するだわ！</JapaneseText>
       <EnglishText/>
@@ -152,6 +169,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>とどのつまり、
 何が目的なんでしょう？</JapaneseText>
       <EnglishText/>
@@ -161,6 +179,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>えっと、つまり、
 イリアも目立ちたいんだって</JapaneseText>
       <EnglishText/>
@@ -170,6 +189,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おいおい、俺さまのこの人気っぷりに
 嫉妬してるってわけか？
 いやあ、我ながら罪深い男だぜぇ…</JapaneseText>
@@ -180,6 +200,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>イリアは「中の人」のせいだって
 言ってるけど…</JapaneseText>
       <EnglishText/>
@@ -189,6 +210,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>中の人？
 はて、なんの事でしょうね</JapaneseText>
       <EnglishText/>
@@ -198,6 +220,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ああ、さっぱり
 意味ワカンネ</JapaneseText>
       <EnglishText/>
@@ -207,6 +230,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>うん、わかんないよねぇ…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -215,6 +239,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>と〜にかく、だ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -223,6 +248,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>俺さまが目立つのは、そのなんつーか、
 生まれ持った資質の上に努力を重ねた
 いわば人徳ってやつよ</JapaneseText>
@@ -233,6 +259,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>歳若いお二人にゃあ、まだまだ
 わかってもらえないかもしんねーけどよ、
 コレは仕方ない事なんだぜ？</JapaneseText>
@@ -243,6 +270,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ええ、そうですよ。
 我々も好きで目立っているわけでは
 ありませんし</JapaneseText>
@@ -253,6 +281,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ぐぬぬぬぬ〜…！
 黙って聞いてれば、
 好き勝手言ってくれるわね！</JapaneseText>
@@ -263,6 +292,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あんた達は反省しなさい！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -271,6 +301,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>イリア、沸点低すぎだよ…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -279,6 +310,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>お黙りなさい！
 数々の暴言、許さないだわ！</JapaneseText>
       <EnglishText/>
@@ -288,6 +320,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アレ？　許さない…わよ、が正しいのか</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -296,6 +329,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なぜわざわざ口調を変えてるんですか？
 あなたは普段「だわ、わよ」口調では
 なかったでしょう</JapaneseText>
@@ -306,6 +340,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いやぁ、なんか「箔」ってヤツ？
 ちょっと悪者っぽく
 気取りたかったのよね〜</JapaneseText>
@@ -316,6 +351,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>はいはい、それじゃあもう
 悪者ごっこはお仕舞いにして、
 パパッと戻りますよ</JapaneseText>
@@ -326,6 +362,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おおっとぉ！
 ここまで来ちゃあ、
 後にはひけねぇなぁぁ〜…</JapaneseText>
@@ -336,6 +373,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あ、やった！
 あたしったら悪人っぽい！</JapaneseText>
       <EnglishText/>
@@ -345,6 +383,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ええ〜…、二人に謝って、
 帰った方が良くない？</JapaneseText>
       <EnglishText/>
@@ -354,6 +393,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あんたねぇ！
 ここで引いちゃあ男がすたるってもんでしょ？
 ちょっとは男らしいトコ見せなさいよ！</JapaneseText>
@@ -364,6 +404,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>一緒に戦ってくれたら…、
 そーね、ちょっとは
 見直してあげてもいいんだけど〜？</JapaneseText>
@@ -374,6 +415,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -382,6 +424,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ご、ごめん。
 ジェイドさん、ゼロス…</JapaneseText>
       <EnglishText/>
@@ -391,6 +434,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あれまぁ…。
 ホンキでやろうっての？
 手加減出来ないかもよ〜</JapaneseText>
@@ -401,6 +445,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>はぁ？　手加減なら
 こっちがしてあげようと思ってたけど、
 気が変わったもんね〜！</JapaneseText>
@@ -411,6 +456,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ルカ、ガチの本気のマジモードよ！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -419,6 +465,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ごごごごめんなさい！
 ガチの本気のマジモードで
 行かせてもらいます！</JapaneseText>
@@ -429,6 +476,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>やれやれ、仕方ありませんね…。
 少し痛い目にあわせて
 反省してもらいましょうか</JapaneseText>
@@ -439,6 +487,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ヘイ、カマン！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -447,6 +496,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あ、と。
 その前にセーブとか大丈夫？</JapaneseText>
       <EnglishText/>
@@ -456,6 +506,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>この会話が終わったら、
 体力回復したり装備品の確認をしたり
 するタイミングだからね</JapaneseText>
@@ -466,6 +517,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ええ、その通りです。
 準備が整ったら、
 イリアとルカに接近して下さい</JapaneseText>
@@ -476,6 +528,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おっしゃ〜！
 そんじゃ、白熱のバトルはこの後すぐ！
 チャンネルはそのまま！</JapaneseText>

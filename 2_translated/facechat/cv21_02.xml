@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ルーク</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リッド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ガイ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -23,6 +26,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>キール</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -30,6 +34,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ファラ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -40,6 +45,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ちょっと耳に入ったんだけどよぉ、
 あのファラって子が
 このギルドを立ち上げたんだって？</JapaneseText>
@@ -50,6 +56,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ん、ああ。
 まぁ、そういうこったな</JapaneseText>
       <EnglishText/>
@@ -59,6 +66,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>まだ十代だろ？　あの子。
 自分で事業を興そうだなんて、
 よっぽどしっかりした子なんだな</JapaneseText>
@@ -69,6 +77,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>しっかりなんてしてるもんか。
 ファラは先の事を
 何も考えていないだけさ</JapaneseText>
@@ -79,6 +88,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…考えてないってわけじゃねぇよ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -87,6 +97,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あいつは、人の為になるには
 どうすればいいのか、ちゃんと考えた
 結果が、この「ギルド立ち上げ」なんだぜ</JapaneseText>
@@ -97,6 +108,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>まあ、確かに、個人で人助けするより、
 ずっと効率はいいんだろうけどな</JapaneseText>
       <EnglishText/>
@@ -106,6 +118,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ああ、立派だと思う。
 その志は評価してもいいんじゃないか</JapaneseText>
       <EnglishText/>
@@ -115,6 +128,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そ、それぐらいちゃんと
 わかってるさ！</JapaneseText>
       <EnglishText/>
@@ -124,6 +138,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ただ、事業を興すなら役所に届けて
 登記簿に登録したり、収益を申告して
 税金を払ったりしないといけない</JapaneseText>
@@ -134,6 +149,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…まあ、確かにそういう面倒くさい事を
 考えてなかったんだろうけどよ</JapaneseText>
       <EnglishText/>
@@ -143,6 +159,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>元々が非合法な海賊船だったって事が
 好都合だったのかもな</JapaneseText>
       <EnglishText/>
@@ -152,6 +169,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>どこが好都合だ！
 ぼく達は犯罪者の一歩手前だったんだぞ。
 ルーク達のお陰で事無きを得たけど…</JapaneseText>
@@ -162,6 +180,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ねえ、リッド！
 あ、キールでもいいや</JapaneseText>
       <EnglishText/>
@@ -171,6 +190,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>魚を捕まえようと思うの。
 千匹ぐらい</JapaneseText>
       <EnglishText/>
@@ -180,6 +200,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いくら俺でも、そんなに
 たくさん食わねぇぜ？</JapaneseText>
       <EnglishText/>
@@ -189,6 +210,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>違うってば！
 保存食があればいざって時に
 困らないでしょ？</JapaneseText>
@@ -199,6 +221,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それに食べ物が無くて困ってる人に
 分けてあげられるじゃない！
 だから干物を作ろうと思って</JapaneseText>
@@ -209,6 +232,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>千匹も釣りをするのに、どれぐらい
 時間がかかると思ってるんだ？
 網を使った漁をしないと</JapaneseText>
@@ -219,6 +243,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それに干物は、
 ファラが思ってるより日持ちしないぞ</JapaneseText>
       <EnglishText/>
@@ -228,6 +253,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いいからいいから、手伝ってよ！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -236,6 +262,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>まったく…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -244,6 +271,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>へいへい…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -252,6 +280,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なんだよ、ファラの言いなりじゃんか</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -260,6 +289,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あれは、仲が良いんだよ。
 お前も上流階級の紳士っていうなら
 レディファーストぐらい意識しろよな</JapaneseText>
@@ -270,6 +300,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ぐっ………</JapaneseText>
       <EnglishText/>
       <Notes/>

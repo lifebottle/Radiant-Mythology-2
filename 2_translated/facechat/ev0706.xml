@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リフィル</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ジャニス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>助手</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -26,6 +29,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あなた、ジャニス・カーンね。
 ラルヴァを発明したという…</JapaneseText>
       <EnglishText/>
@@ -35,6 +39,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>イエース、マイ・ネーム・イズ・ジャニス！
 私はジャニス・カーンだ</JapaneseText>
       <EnglishText/>
@@ -44,6 +49,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>世界樹の根を切るなんて、許しません！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -52,6 +58,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>馬鹿だなぁ、ユーは。
 このまま、マナに頼っていては
 ヒトの進歩はありえない</JapaneseText>
@@ -62,6 +69,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>世界樹のマナ供給量は、減少傾向。
 一般ピープルはマナに代わる
 代替エネルギーを必要としている</JapaneseText>
@@ -72,6 +80,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>幸い、ラルヴァはどこにでもある
 自然粒子を濃縮しただけだ</JapaneseText>
       <EnglishText/>
@@ -81,6 +90,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ただマナが少ない場所じゃないと
 生成出来ないのがソー・バッドだがな</JapaneseText>
       <EnglishText/>
@@ -90,6 +100,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そうだ。
 こんなマナより素晴らしいエネルギーを
 広めちゃわない手は無い</JapaneseText>
@@ -100,6 +111,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ラルヴァがあれば、マナが減っちゃっても
 人は豊かさを失わずに済むんだ</JapaneseText>
       <EnglishText/>
@@ -109,6 +121,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>世界樹が傷つく事で、世界にどんな悪影響が
 あるか、それもまた未知の部分が多いわ。
 ラルヴァだって、無害であるという保証は？</JapaneseText>
@@ -119,6 +132,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>エネルギーの出力さえ間違っちゃわなければ
 安全性に問題はないよ</JapaneseText>
       <EnglishText/>
@@ -128,6 +142,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ラルヴァは、これからの文明に欠かせない
 大きな資産となっちゃうのだ</JapaneseText>
       <EnglishText/>
@@ -137,6 +152,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それに、世界樹を滅ぼしちゃう
 つもりはないもん。
 ラルヴァの為にほんの少し切っちゃうだけだ</JapaneseText>
@@ -147,6 +163,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>どちらが人々に受け入れられるか。
 ラルヴァのワンダフル具合を知れば、
 皆の心は決まるだろう</JapaneseText>
@@ -157,6 +174,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>マナの多少の犠牲には
 アイをクローズドしてくれるはずさ</JapaneseText>
       <EnglishText/>
@@ -166,6 +184,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>しかし…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -174,6 +193,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>では、ユーはこのまま減少していく一方の
 マナのみに頼り、衰退していく文明を
 救う事が出来るのか？</JapaneseText>
@@ -184,6 +204,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それは………</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -192,6 +213,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>さあ、この場所はもういい。
 次へゴーだ</JapaneseText>
       <EnglishText/>
@@ -201,6 +223,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>イエス・ボス！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -209,6 +232,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>戻りましょう、○○</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -217,6 +241,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>主義主張が合わないからといって、
 腕ずくで持論を押し付けるわけには
 いかないわ…</JapaneseText>
@@ -227,6 +252,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それではナディと同じになってしまう…</JapaneseText>
       <EnglishText/>
       <Notes/>

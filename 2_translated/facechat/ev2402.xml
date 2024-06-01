@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>キール</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リッド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -19,6 +21,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ここで、何があったのかだって？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -27,6 +30,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…ああ、あり過ぎたよ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -35,6 +39,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>この火山の近くに、
 オレと、ファラとキールの
 故郷があったんだ</JapaneseText>
@@ -45,6 +50,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>けど、村は溶岩に飲まれてなくなった。
 オレら含め、村のみんなはそれぞれ
 この土地を捨てて移住したんだ</JapaneseText>
@@ -55,6 +61,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それが、
 ファラとどう関係あるかだって？</JapaneseText>
       <EnglishText/>
@@ -64,6 +71,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>彼女が…、この火山にある
 災厄を閉じ込めた祠の封印を
 解いた為さ</JapaneseText>
@@ -74,6 +82,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おい！　わざとやったみたいに
 言うんじゃねぇよ</JapaneseText>
       <EnglishText/>
@@ -83,6 +92,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…そうだったな。
 あれは…事故だったんだ</JapaneseText>
       <EnglishText/>
@@ -92,6 +102,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あの時は、ファラは今よりも無鉄砲で
 ぼく達もまだ子どもだった</JapaneseText>
       <EnglishText/>
@@ -101,6 +112,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あの祠に近づいてはいけないと
 大人に言われていながらも、
 つい遊び心でね、近くで遊んだんだ</JapaneseText>
@@ -111,6 +123,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>結果、火山は急に活動を始め、
 村に甚大な被害を与えた</JapaneseText>
       <EnglishText/>
@@ -120,6 +133,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…子どもの遊びだったじゃねぇか。
 それをいつまでも悔やんで
 どーすんだよ、ったく</JapaneseText>
@@ -130,6 +144,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…まったくだ。
 ぼくらにも話さず、
 一人で悩んでいたんだな…</JapaneseText>
@@ -140,6 +155,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…後始末はオレの役目だってのに</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -148,6 +164,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>迷惑だったか</JapaneseText>
       <EnglishText/>
       <Notes>Choice 1</Notes>
@@ -155,6 +172,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>好きでやってたんだね</JapaneseText>
       <EnglishText/>
       <Notes>Choice 2</Notes>
@@ -162,6 +180,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ん、あ…、まあな。
 でも、しゃあねぇだろ？</JapaneseText>
       <EnglishText/>
@@ -171,6 +190,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そうだよ、ファラは
 ぼくらのガキ大将だったんだから</JapaneseText>
       <EnglishText/>
@@ -180,6 +200,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リッドがしないなら、ぼくが
 そうしてたさ</JapaneseText>
       <EnglishText/>
@@ -189,6 +210,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>好きなもんかよ…。
 後先考えず、可哀相だからって
 家畜のブタを全部逃がしたり</JapaneseText>
@@ -199,6 +221,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>落ち葉掃除が面倒だからって、
 村の木を全部切り倒そうとしたりな…</JapaneseText>
       <EnglishText/>
@@ -208,6 +231,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>全部、オレが後始末したんだぜ？
 ブタをおっかけたり、
 斧やのこぎりを隠したりさ</JapaneseText>
@@ -218,6 +242,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ファラはぼくらのガキ大将だったんだ。
 リッドがやらなかったら、
 ぼくがやってたさ…</JapaneseText>
@@ -228,6 +253,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…いるかな、ここに</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -236,6 +262,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それを確かめに来たんだろ？</JapaneseText>
       <EnglishText/>
       <Notes/>

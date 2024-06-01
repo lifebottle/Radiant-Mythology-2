@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>チャット</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -12,6 +13,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>では、依頼について
 説明します</JapaneseText>
       <EnglishText/>
@@ -21,6 +23,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>現在、リフィルさんが、この船が
 磁場に影響されない為の回路を
 作るとかで必要なものがあるとの話です</JapaneseText>
@@ -31,6 +34,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>「瑠璃サンゴ」というものですが、
 ご存知ですか？
 名の通り、宝石の瑠璃ようなサンゴです</JapaneseText>
@@ -41,6 +45,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>瑠璃サンゴは
 サンゴの森で見つけられます</JapaneseText>
       <EnglishText/>
@@ -50,6 +55,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ただ、今の時期、あそこの生物は産卵期を
 迎え、気が荒くなっているので
 くれぐれもお気をつけ下さい</JapaneseText>
@@ -60,6 +66,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>今回はカノンノさんが同行します。
 では、速やかにサンゴの森へ移動して
 瑠璃サンゴを入手してきて下さい</JapaneseText>

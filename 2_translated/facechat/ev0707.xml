@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>パニール</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -12,6 +13,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あらあら。
 お帰りなさいませ〜、
 ○○さん</JapaneseText>
@@ -22,6 +24,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>洗濯物を取り込んだついでに
 ここでお茶してたんですよォ</JapaneseText>
       <EnglishText/>
@@ -31,6 +34,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あ、○○さんっ！
 その紙、見ちゃダメですったら！</JapaneseText>
       <EnglishText/>
@@ -40,6 +44,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>これは…、
 カノンノが小さい頃に書いたお話なんです。
 「こぐまのリンの大冒険」っていうの</JapaneseText>
@@ -50,6 +55,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノはね、
 お話を考えるのが大好きなんですよ〜</JapaneseText>
       <EnglishText/>
@@ -59,6 +65,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>字が書けるようになってから、
 こうしてたくさん書いて読ませて
 くれたのよ〜</JapaneseText>
@@ -69,6 +76,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あの娘の一生懸命な字でつづられて。
 本当にいとおしいわ〜。
 これを読むと、ほっとするの…</JapaneseText>
@@ -79,6 +87,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>でも、「見た」って言っちゃ駄目ですよ。
 あの娘が恥ずかしがるから。
 ナイショ…</JapaneseText>

@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リフィル</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ジェイド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -19,6 +21,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ラルヴァについて、お話出来る事は
 実はあまり多くありません</JapaneseText>
       <EnglishText/>
@@ -28,6 +31,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>というのも、ラルヴァはナパージュで
 開発されたものではなく、ある時突然
 村に導入されたものなの</JapaneseText>
@@ -38,6 +42,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ラルヴァの生成方法や、その性質について
 詳しく分析もされないままに
 使用され始めたの</JapaneseText>
@@ -48,6 +53,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そこまで急いでラルヴァに
 飛びつく必要があったんですか？</JapaneseText>
       <EnglishText/>
@@ -57,6 +63,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>元々マナの恵みの少ない村だったの。
 強力なエネルギーであるラルヴァは
 すぐに村民に歓迎されたわ</JapaneseText>
@@ -67,6 +74,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>村はラルヴァによって豊かになった。
 しかし、未だ得体の知れないモノで
 ある事には変わりはないわ</JapaneseText>
@@ -77,6 +85,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>確かに</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -85,6 +94,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いかに強力なエネルギーだとしても
 安全性や供給性の確認を怠るわけには
 いかないでしょう</JapaneseText>
@@ -95,6 +105,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>その通りよ。
 私はラルヴァの安全性を確認してから
 使用する様に提案し続けたわ</JapaneseText>
@@ -105,6 +116,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>でも、村民は簡単にラルヴァを受け入れ
 すでに依存しきってしまった。
 私の話にまったく耳を貸さずにね</JapaneseText>
@@ -115,6 +127,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>挙句の果てには、ラルヴァの研究に
 邪魔が入る始末よ</JapaneseText>
       <EnglishText/>
@@ -124,6 +137,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>では、こちらでラルヴァについての
 研究を進めてはいかがでしょう？</JapaneseText>
       <EnglishText/>
@@ -133,6 +147,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>もちろん、必要な資材や資金、人材を
 こちらで提供するよう掛け合ってみますが</JapaneseText>
       <EnglishText/>
@@ -142,6 +157,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それなら、ここで働かせてもらえない？
 私も、私の教え子達も元々はギルドに
 所属していたの</JapaneseText>
@@ -152,6 +168,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それは、船長が喜ぶでしょう。
 では、今後ともよろしく
 お願いいたします</JapaneseText>

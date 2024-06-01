@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ウッドロウ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ルビア</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アニス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -26,6 +29,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そうだな、ギルドのあり方と
 教会のあり方は分離させておくべきだと
 私は考えている</JapaneseText>
@@ -36,6 +40,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そうですか？
 でも、どちらも人の役に立つものだし、
 生活に必要なものだと思うんです</JapaneseText>
@@ -46,6 +51,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>だが、人の求めるものが異なる。
 ギルドは物理的解決法</JapaneseText>
       <EnglishText/>
@@ -55,6 +61,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>教会は、もっと精神性におもねった
 解決を求めて人は集う。
 この違いは隔てておくべきではないかな</JapaneseText>
@@ -65,6 +72,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>う〜ん…、この二つを
 同時に満たしたい場合だってあるんじゃ…</JapaneseText>
       <EnglishText/>
@@ -74,6 +82,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ウッドロウ様〜￥
 きゃは〜、アニスちゃんとも
 お話して下さいよぉ</JapaneseText>
@@ -84,6 +93,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ははは、いいとも。
 だが、今ルビアと話をしていてね。
 もう少し待っていてくれるかい？</JapaneseText>
@@ -94,6 +104,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なーんちゃって</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -102,6 +113,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>本当はウッドロウ様を船長が
 呼んでるんですぅ。
 アニスちゃんは伝令役なんですよ〜￥</JapaneseText>
@@ -112,6 +124,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そうだったか。
 ではルビア、話の途中だが失礼する</JapaneseText>
       <EnglishText/>
@@ -121,6 +134,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>はわ〜ん…、ウッドロウ様〜￥</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -129,6 +143,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>って、ルビア。
 あんたまさかあの人を
 狙ってんじゃないでしょうね？</JapaneseText>
@@ -139,6 +154,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…まさか。
 あたしなんか、
 相手にしてくれるわけないでしょ？</JapaneseText>
@@ -149,6 +165,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おっけ♪　今の言葉、
 ちゃーんと覚えといてよ！</JapaneseText>
       <EnglishText/>
@@ -158,6 +175,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いぇーい、アニスちゃん独走〜！！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -166,6 +184,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あたし以上に、アニスなんかを
 相手にするなんて無いと思うけどな…</JapaneseText>
       <EnglishText/>

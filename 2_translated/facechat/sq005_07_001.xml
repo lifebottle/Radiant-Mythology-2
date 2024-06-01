@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>パニール</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -12,6 +13,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ちょっとみんなが疲れてるようだから、
 精がつくようなメニュー…。
 「薬膳鍋」を作りたいんだけどねェ…</JapaneseText>
@@ -22,6 +24,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あれは鍋を分けて作らないと。
 大鍋で大量に作りすぎたら味が濁るのよね。
 でも、そしたら時間がかかるし</JapaneseText>
@@ -32,6 +35,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>次の食事まで計算して、ええと…。
 ８人前、間に合わないわね…。
 待たせるのも悪いし、どうしましょう</JapaneseText>

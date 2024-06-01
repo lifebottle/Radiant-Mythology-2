@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ジェイド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ニアタ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -19,6 +21,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ニアタ…。
 あなたに聞きたい事があります</JapaneseText>
       <EnglishText/>
@@ -28,6 +31,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…何かね？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -36,6 +40,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>この世界、グラニデのディセンダーは、
 過去にも現れているようですが。
 本人はその過去の事を覚えていないようです</JapaneseText>
@@ -46,6 +51,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>過去のディセンダーと、
 ○○は別の存在でしょうか？</JapaneseText>
       <EnglishText/>
@@ -55,6 +61,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>本質は同じだ。
 姿や、名や、性別が変わろうともな</JapaneseText>
       <EnglishText/>
@@ -64,6 +71,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ほう、グラニデのディセンダーは
 記憶を持たない事を選択していたのだね</JapaneseText>
       <EnglishText/>
@@ -73,6 +81,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それは、過去の記憶を持ったまま
 現れる事も可能ということですか？</JapaneseText>
       <EnglishText/>
@@ -82,6 +91,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>もちろん。
 我々の故郷のディセンダーは
 過去の記憶を持ち続けていた</JapaneseText>
@@ -92,6 +102,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>だが、一旦恐怖や不安を覚えると、
 それはディセンダーにとって弱さとなる</JapaneseText>
       <EnglishText/>
@@ -101,6 +112,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>だから、ディセンダーが世に生まれ出る時、
 世界樹は選択させる。
 姿や、名や、一切の記憶を消すかどうかを</JapaneseText>
@@ -111,6 +123,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>確かに、自分を臆病にする記憶は
 己にとっての敵となるでしょうね。
 その中で諦めや不可能を知るのですから</JapaneseText>
@@ -121,6 +134,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>記憶をリセット出来るのは
 世界樹からの愛かもしれない</JapaneseText>
       <EnglishText/>
@@ -130,6 +144,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>「不可能」を知らないというのは
 まことに最強の存在なのだよ</JapaneseText>
       <EnglishText/>
@@ -139,6 +154,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そして、何も知らないからこそ
 世界の素晴らしさにいつも目を馳せ、
 世界を愛す</JapaneseText>
@@ -149,6 +165,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なるほど、そうですか。
 私達のディセンダーの目は、
 好奇心溢れた子どものようですからね</JapaneseText>
@@ -159,6 +176,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>記憶を捨て去る事も勇気がいる。
 記憶を持ち続ける事にも勇気がいる</JapaneseText>
       <EnglishText/>
@@ -168,6 +186,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>だが、ディセンダーはどちらかを必ず
 選択しなければならない</JapaneseText>
       <EnglishText/>
@@ -177,6 +196,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そして、その選択した結果は
 甘んじて受け入れなければならない。
 それがディセンダーの宿命だ</JapaneseText>

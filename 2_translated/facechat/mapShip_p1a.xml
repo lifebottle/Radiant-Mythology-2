@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>セネル</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クロエ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -19,6 +21,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>海上活動のサポートとして来たのに、
 あまり海は関係無さそうだな…。
 まあ、海の上なら任せてくれ</JapaneseText>
@@ -29,6 +32,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>色々な所から、人員が集まってるんだな。
 世界中の海を回ったが、聞いた事も無い土地から
 来た奴もいるみたいだし…</JapaneseText>
@@ -39,6 +43,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>この船の操舵は、本当にチャットなのか？
 俺がサポートした方が安全かもしれないな…</JapaneseText>
       <EnglishText/>
@@ -48,6 +53,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>パッシングスルーは知っているか？
 敵の攻撃をかわしつつ背後を奪う、
 戦いに好機を作り出す基本的なテクニックだ。</JapaneseText>
@@ -58,6 +64,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ここへ来る前に、レーズン火山一帯の村の
 非難活動をしていた。
 あそこは噴火が近いと言われる危険な場所だぞ</JapaneseText>
@@ -68,6 +75,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>学者ってヤツは、無鉄砲なのが多いんだな…。
 俺の知ってる学者も、そういうタイプだった</JapaneseText>
       <EnglishText/>
@@ -77,6 +85,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>すぐに世界が終わると決まったわけじゃない。
 騒いでも、事態は良くなるわけでも
 ないからな</JapaneseText>
@@ -87,6 +96,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おとぎ話のディセンダー？
 そんなヤツがいれば、
 世界樹に傷なんかつかなかったはずだろ</JapaneseText>
@@ -97,6 +107,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おまえがディセンダーだからといって、
 今更見方が変わるわけじゃないしな…。
 ただ、普通のヒトだってのはわかったよ</JapaneseText>
@@ -107,6 +118,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>獄門洞は、源泉が多い。
 それも、身体を癒す不思議な水の源泉だ。
 昔、体調を崩した時に処方された事がある</JapaneseText>
@@ -117,6 +129,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>マグネエラの藻がある海域へ行く？
 あそこは「還らずの海」と言われて、
 船乗りは絶対に近づかない所なんだぞ</JapaneseText>
@@ -127,6 +140,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>マリントルーパーだった同僚が、
 あの海域から逃れられずに消息を絶った。
 まさか、自分がその還らずの海へ行くとはな</JapaneseText>
@@ -137,6 +151,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あの海域の脅威は、藻の磁力だけでない。
 風が無く、絡まる藻とその藻の粘液で
 船の身動きが取れなくなる事だ…</JapaneseText>
@@ -147,6 +162,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>潜水中で危ないのは、「取り乱す」事だ。
 万が一の事があっても太陽光が届かなければ、
 仲間の姿は見えないし、助けも無いと思うんだな</JapaneseText>
@@ -157,6 +173,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>スタンが潜水中に寝ていたのは、
 ある意味正しかったのかもな…。
 海中では、じっとしているのが一番だ</JapaneseText>
@@ -167,6 +184,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>本来、船で航海するなら、海に伸びた世界樹の
 根を避けて通らなければならない。
 この船は海上を飛ぶから、その必要がないな</JapaneseText>
@@ -177,6 +195,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>サンゴの森、か。
 今は泡吹きサンゴの繁茂で無くなったが、
 昔はちょっとした旅人用の道があったな…</JapaneseText>
@@ -187,6 +206,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そういえば、軍に在籍していた時、
 モスコビー砂漠周辺の出身者は
 皆イリアのように銃使いだったな</JapaneseText>
@@ -197,6 +217,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>早く、シード・ベッドを置きに行った方が
 いいんじゃないか？
 発芽したら、ヘタな事は言えなくなるぞ</JapaneseText>
@@ -207,6 +228,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>普段は裏付けを求める学者達も、
 今は暗中模索ってわけか…</JapaneseText>
       <EnglishText/>
@@ -216,6 +238,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クロエが最近浮かない顔をしてるんだ。
 そんなに気にする事はないと思うが、
 一応見ていてやってくれ</JapaneseText>
@@ -226,6 +249,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クロエは、元から無鉄砲なヤツなんだが、
 最近の様子は何だか極端過ぎる気がする…</JapaneseText>
       <EnglishText/>
@@ -235,6 +259,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クロエが食事から戻らないな。
 また船酔いか？</JapaneseText>
       <EnglishText/>
@@ -244,6 +269,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クロエのヤツ…。
 ひょっとすれば、あいつはあそこに…</JapaneseText>
       <EnglishText/>
@@ -253,6 +279,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>早くクロエを見つけたい。
 嫌な予感がするんだ…</JapaneseText>
       <EnglishText/>
@@ -262,6 +289,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おまえが行かないのなら、
 俺が一人でクロエのところへ行く。
 行くのか、行かないのかどっちなんだ？</JapaneseText>
@@ -272,6 +300,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クロエを、
 しばらく落ち着かせてやってくれ…</JapaneseText>
       <EnglishText/>
@@ -281,6 +310,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>他の二人は、大丈夫なのか？
 何より、クロエがそう思ってるだろう</JapaneseText>
       <EnglishText/>
@@ -290,6 +320,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ファラの居場所がわかったんだろ。
 おまえの…、ディセンダーの力が必要だと思う。
 行ってやれよ</JapaneseText>
@@ -300,6 +331,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>負がどうとか…、俺にはあまり関係ない事だと
 思ったけど、俺やグラニデの全てが
 向き合うべき事なんだな</JapaneseText>
@@ -310,6 +342,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クロエやファラの負を払ったその力は、
 意識してやっていた事じゃないのか。
 それは、ディセンダーの本能ってヤツか？</JapaneseText>
@@ -320,6 +353,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アニスが戻って、クロエも安心してる。
 あいつ、アニスが負を越えるように
 ずっと案じていたからな</JapaneseText>
@@ -330,6 +364,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノは、おまえのそばにいた方がいい。
 連れて行ってやれ。
 クロエ達の様に、…自分を越えたいんだろう</JapaneseText>
@@ -340,6 +375,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>甲板に行けよ。
 それに、おまえが行かないと始まらないだろ</JapaneseText>
       <EnglishText/>
@@ -349,6 +385,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>訓練でもしておくか？
 ここでまごまごしてるより、
 動いていた方がマシだろ</JapaneseText>
@@ -359,6 +396,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>これが、最後の戦いになるのか…。
 いや、終わりなんかないな。
 俺達は生きている間、ずっと負と向き合うんだ</JapaneseText>
@@ -369,6 +407,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ジェイドが俺を派遣する契約期間を
 延ばしたんだ。
 当分、ここに雇われる事になるかな</JapaneseText>
@@ -379,6 +418,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>い…、今は海の上なのか？
 この船は陸を行くとも言うが、
 やっぱりその…、海の上も行くのだろう！？</JapaneseText>
@@ -389,6 +429,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>よく、話が見えないな。
 ジャニスというのは、結局悪党なのか？</JapaneseText>
       <EnglishText/>
@@ -398,6 +439,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノの剣は…、
 武器というより生き物のようだ。
 …それに、パニールの羽に似ている</JapaneseText>
@@ -408,6 +450,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ファラが気分悪そうにしていたが、
 何かあったのか？</JapaneseText>
       <EnglishText/>
@@ -417,6 +460,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ファラはもう大丈夫なのか？
 ちょっと、気掛かりだった。
 何か、その…私に似ているというか</JapaneseText>
@@ -427,6 +471,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>やはり、ジャニスとやらは悪党じゃないか！
 世界樹の根を切るなど、許せるものか。
 私がねじ伏せてやる！</JapaneseText>
@@ -437,6 +482,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>世界樹の根はどうした！
 おまえは大事な仕事を抱えているというのに、
 こんな所で何をくつろいでいる！</JapaneseText>
@@ -447,6 +493,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ワイルダーには危機感というものがないのか！
 何なんだ、責任の欠片も感じられない
 あの態度は</JapaneseText>
@@ -457,6 +504,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>精霊もディセンダーも知っているぞ。
 幼い頃、私もよくディセンダーの本を
 読んでいた</JapaneseText>
@@ -467,6 +515,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おとぎ話のディセンダーは、
 様々な姿を持つというが…。
 …おまえが、か？</JapaneseText>
@@ -477,6 +526,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>獄門洞は、ＳＨＩＮＯＢＩの修行場と
 聞くが、すずもやはりそこで
 ＳＨＩＮＯＢＩになったんだろうか…</JapaneseText>
@@ -487,6 +537,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なに！？
 次の目的地は海になりそうだって。
 …ほ、本当にこの船で大丈夫なのか！</JapaneseText>
@@ -497,6 +548,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>何でも、危険な海域らしいじゃないか…。
 もしも、この船に何かあったら
 …助けも来ないのだろう！？</JapaneseText>
@@ -507,6 +559,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>セネルが妙な冗談を…。
 くっ…、この船は大丈夫なんだろう？
 こうなったら、リフィルたちを信じるしか…</JapaneseText>
@@ -517,6 +570,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>甲板に出てみたら、だと？
 そっ…、そんな下が海だったら
 どうするんだ！</JapaneseText>
@@ -527,6 +581,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>海底にまで行って、仕事をするなんて…。
 すまない…、めまいが…</JapaneseText>
       <EnglishText/>
@@ -536,6 +591,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ここにいる者は、少し自分に
 甘すぎはしないか？
 特に、男性連中は…</JapaneseText>
@@ -546,6 +602,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>サンゴの森に用があるのか…。
 ……………………………。
 …、いや…、何でもない</JapaneseText>
@@ -556,6 +613,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おまえは、ずっとここにいるつもりか？
 ここでディセンダーとしての役目を
 果たせるのか？</JapaneseText>
@@ -566,6 +624,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>わ、私のそばに、その喋る花を持って来るな！
 この種の間にだって、どんな言葉を聞かれてるか
 わからないんだから！！</JapaneseText>
@@ -576,6 +635,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>少しは休んだのか？
 自分に厳しくするのはいいが、
 他を巻き込むのは感心せんな</JapaneseText>
@@ -586,6 +646,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>私は、ここにいるべきだろうか…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -594,6 +655,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あ、ああ…。
 すまない、ぼんやりしていた。
 火山へ行かなければならないんだったな…</JapaneseText>
@@ -604,6 +666,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>休んだ方がいいんじゃないか。
 ディセンダーだからといって、
 そんなに気張らなくとも…</JapaneseText>
@@ -614,6 +677,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>○○。
 ここにいても…いいんだと、
 今は自分でそう認められるよ</JapaneseText>
@@ -624,6 +688,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ファラとアニスも、抱えているんだろうな。
 私にはわかる、その苦しみが。
 けれども、自分への許しに気付いてくれたら…</JapaneseText>
@@ -634,6 +699,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ファラを頼む…。
 ○○の力が、
 彼女の…気付きのきっかけになると思う</JapaneseText>
@@ -644,6 +710,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ファラが無事で、本当に嬉しいよ。
 仲間だから。
 彼女の場所は、ここだから…</JapaneseText>
@@ -654,6 +721,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>人はありのままの自分を受け入れるのが
 辛いのではなく、ありのままの自分を
 否定しようとするから辛いんだな…</JapaneseText>
@@ -664,6 +732,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アニスが戻ってきてくれた。
 それに、いつもと変わらない様子で。
 ほんとに、よかった…</JapaneseText>
@@ -674,6 +743,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>自分がここにいてもいいと思った時に、
 何も怖れる事はなくなった</JapaneseText>
       <EnglishText/>
@@ -683,6 +753,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>失うものがない事よりも、
 全てを信頼出来るという事の方が
 強くなれるのかもしれない</JapaneseText>
@@ -693,6 +764,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>さあ、甲板へ行こう。
 これはおまえの仕事でもあるんだぞ</JapaneseText>
       <EnglishText/>
@@ -702,6 +774,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>こんな時でも、無邪気な顔をするんだな。
 強いんだな。
 自分の資質を信頼出来ねば、そんな顔は出来ない</JapaneseText>
@@ -712,6 +785,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>今なら、ここが私の場所だと自信を持って言える。
 おまえも…、だぞ。
 ここはおまえの場所でもあるんだからな！</JapaneseText>
@@ -722,6 +796,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おまえも学びの途中にいるのだな。
 だから、ここへ戻って来たのだろう？</JapaneseText>
       <EnglishText/>

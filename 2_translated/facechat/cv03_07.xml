@@ -2,74 +2,99 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kanonno</EnglishText>
       <Notes/>
       <Id>50</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リアラ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Reala</EnglishText>
       <Notes/>
       <Id>20</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ねえ、もう船には慣れた？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey, have you gotten used to the ship yet?
+
+</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ええ、おかげさまで。
 でも、まだ少し落ち着かないみたい</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yes, thanks. But still, I feel a bit unsettled.
+
+</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それは仕方ないよね。
 徐々に居心地が良くなるよ。
 私もそうだったし</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's understandable. You'll gradually get more comfortable. I felt the same way.
+
+</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いえ、わたしじゃなくカイルが…</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No, it's not me, it's Kyle...
+
+</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…ま、まあ、彼だってもう少し
 大人になれば、
 落ち着くんじゃないかしら？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well, I mean, maybe if he matures a bit more, he'll settle down, don't you think?
+
+</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そうあってもらいたいけど…</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I hope so, but...
+
+
+
+
+
+
+</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

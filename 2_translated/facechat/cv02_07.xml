@@ -2,132 +2,173 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ハロルド</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Harold</EnglishText>
       <Notes/>
       <Id>22</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カイル</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kyle</EnglishText>
       <Notes/>
       <Id>19</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リアラ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Reala</EnglishText>
       <Notes/>
       <Id>20</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>う〜ん…、あんた達、
 見た目は普通の人間みたいね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hmm... you guys, you look like ordinary humans, don't you?
+
+</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>当たり前だよ、そんなの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Of course, that's obvious.
+
+</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ええ、文化や知識の差異はありますが、
 わたし達とこの世界の人間には
 大した違いはないようですね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yes, there are differences in culture and knowledge, but it seems there isn't much difference between us and the people of this world.
+
+</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それがわかんないのよね〜。
 だって、時間移動か空間転移を
 してきたんでしょ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But it's hard to understand, you know? After all, you've traveled through time or space, right?
+
+</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>特殊な器具や装置無しで。
 生身で。
 不思議よねぇ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Without any special equipment or devices. Just your bare selves. It's strange, isn't it?
+
+</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>やっぱり、珍しい事なんだよね？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's still quite unusual, right?
+
+</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>私の手にかかっちゃあ、
 そう珍しい事じゃないわよ。
 だって、あんたもあるでしょ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's not that unusual when it's in my hands. After all, you're one too, aren't you?
+
+</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>探して見つからなかったサイフが、
 ずーっと後から思いもかけない場所で
 見つかった事って</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Finding a wallet that you couldn't find after searching for it, and then discovering it in an unexpected place much later...
+
+</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あるよ！
 あれって、時間と空間を
 移動してるって事なんだね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It happens! It means you're moving through time and space!
+
+</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そう考えると、説明がつくでしょ？
 あんたらもその口かも…。
 一度しっかり検証してみないとね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Thinking like that, it makes sense, right? Maybe you guys too... We should thoroughly investigate it once.
+
+</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…ハロルドが本気なのかどうか、
 さっぱり判断がつかないわ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...I can't really tell if Harold is serious or not.
+
+
+
+
+
+
+</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

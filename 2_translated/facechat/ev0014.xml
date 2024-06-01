@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>キール</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ファラ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リッド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -26,6 +29,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ん？　どうした。
 何か言いたげだな</JapaneseText>
       <EnglishText/>
@@ -35,6 +39,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なぜ学生が海賊船に？</JapaneseText>
       <EnglishText/>
       <Notes>Choice 1</Notes>
@@ -42,6 +47,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>みんなギルドのメンバー？</JapaneseText>
       <EnglishText/>
       <Notes>Choice 2</Notes>
@@ -49,6 +55,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>海賊船なんて知ってたら、
 乗らなかったさ！
 ファラが強引に連れてきたんだ</JapaneseText>
@@ -59,6 +66,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>修士論文を書く為に
 フィールドワークの必要があったんだが、
 それがなんでこんな事に…</JapaneseText>
@@ -69,6 +77,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>でも渡航費を節約したいって
 言ってたでしょ？</JapaneseText>
       <EnglishText/>
@@ -78,6 +87,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>タダで船に乗れたんだもん！
 ラッキーって思わなくちゃ</JapaneseText>
       <EnglishText/>
@@ -87,6 +97,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ラッキー…ねぇ。
 海賊の手下にされちまって、
 何がラッキーなんだか…</JapaneseText>
@@ -97,6 +108,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>違うよ！
 ぼくは修士論文を書く為に、
 フィールドワークをしてるんだ</JapaneseText>
@@ -107,6 +119,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>でも渡航費用を節約したいから、
 ただで乗れる船を捜してたんでしょ？
 見つかってよかったじゃない！</JapaneseText>
@@ -117,6 +130,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いいもんかよ…。
 船に乗れただけで、実質オレ達
 ただ働きじゃねぇか</JapaneseText>
@@ -127,6 +141,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>でも、人の為に役立てるじゃない！
 チャットに、ギルドを立ち上げてもらって
 良かった</JapaneseText>
@@ -137,6 +152,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>わたし、ずーっと人の為に何かしたいって
 思ってたんだ</JapaneseText>
       <EnglishText/>
@@ -146,6 +162,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>海賊船はともかく、無理矢理ギルドまで
 始めちまうんだもんなぁ。
 オレは猟師を続けたかったってのに</JapaneseText>
@@ -156,6 +173,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>チャットもよく承諾したもんだぜ。
 ファラが言い出したらきかねぇから、
 チャットの方が折れたのかな？</JapaneseText>
@@ -166,6 +184,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>海賊として手下を公募するより、
 「来たれ、ギルドメンバー」と開示した方が
 人の集まりがいいだろう？</JapaneseText>
@@ -176,6 +195,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>つまりぼくらはチャットの海賊行為の
 片棒を担がされているようなもんだ</JapaneseText>
       <EnglishText/>
@@ -185,6 +205,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いいじゃない。
 結果的に人の役に立てるんだからさ！
 大丈夫、イケるイケる！</JapaneseText>
@@ -195,6 +216,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>やれやれ…。
 まあ、幸いまだ大きなやっかい事には
 巻き込まれてないけどよ</JapaneseText>
@@ -205,6 +227,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ぼくは論文作成優先だからな。
 あまりぼくの力をアテにするなよ！</JapaneseText>
       <EnglishText/>
@@ -214,6 +237,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>まだ研究テーマも決まってねぇくせに</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -222,6 +246,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>う、うるさいな！
 こういうのは斬新な着想と、
 壮大な構想が必要なんだよ！</JapaneseText>

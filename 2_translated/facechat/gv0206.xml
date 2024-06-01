@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ゼロス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ジェイド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>セルシウス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -23,6 +26,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>コングマン</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -30,6 +34,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アッシュ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -37,6 +42,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ウッドロウ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -44,6 +50,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>フィリア</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -54,6 +61,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>明日を勝利に導く、黄金色の必勝法！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -62,6 +70,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>夢と気品に溢れたティータイムを
 あなたに。
 テイルズ・オブ・ゴールデンビクトリー</JapaneseText>
@@ -72,6 +81,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>さぁ、始まりました、第二回ＧＶ！
 司会はお馴染み、
 「天下御免の色男」ゼロス・ワイルダー！</JapaneseText>
@@ -82,6 +92,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なんですか、それは</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -90,6 +101,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いいからいいから、
 ほらジェイドの旦那も
 何か言ってもいいんだぜ</JapaneseText>
@@ -100,6 +112,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>えー…、
 「その色男のビジネス上のパートナー」、
 ジェイド・カーティスです</JapaneseText>
@@ -110,6 +123,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>今回もよろしくお願いします</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -118,6 +132,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ノリ悪っ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -126,6 +141,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>さて、そういうわけで、
 今回のゲストに
 ご登場いただきましょう</JapaneseText>
@@ -136,6 +152,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>はい、ではまずこの方、
 「ＴＯＳ」その他から、
 セルシウスちゃん〜！！</JapaneseText>
@@ -146,6 +163,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…はじめまして、でいいのか？
 こういう状況で
 どう挨拶すればいいのかわからん</JapaneseText>
@@ -156,6 +174,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>えー、「ＴＯＤ」から
 マイティ・コングマン！</JapaneseText>
       <EnglishText/>
@@ -165,6 +184,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アイ・アム・ザ・チャンピオン！
 待たせたな、おまえら！</JapaneseText>
       <EnglishText/>
@@ -174,6 +194,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>最後に、「ＴＯＡ」から
 アッシュ！</JapaneseText>
       <EnglishText/>
@@ -183,6 +204,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>チッ、なんだこの
 うわっついた雰囲気は。
 居心地悪いぜ…</JapaneseText>
@@ -193,6 +215,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>文句言わない</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -201,6 +224,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そもそもなぜあなたのような
 孤高の男が、この人達と行動を
 共にしていたのかを伺いたいですね</JapaneseText>
@@ -211,6 +235,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ぐっ………</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -219,6 +244,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アッシュも、
 私達と同じ気持ちを抱く
 同志という事だな</JapaneseText>
@@ -229,6 +255,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なんだよ、
 その「気持ち」ってのは</JapaneseText>
       <EnglishText/>
@@ -238,6 +265,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>決まってんだろ！
 俺様達の扱いが良くないってこった！</JapaneseText>
       <EnglishText/>
@@ -247,6 +275,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アッシュや嬢ちゃんはともかく、
 俺様はチャンピオンだぞ！
 なのになんだ、このオマケキャラ扱いは！</JapaneseText>
@@ -257,6 +286,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>「ともかく」とはなんだ！
 この筋肉ダルマ野郎！</JapaneseText>
       <EnglishText/>
@@ -266,6 +296,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>言い方は気に入らんが、
 たしかに本作品において
 我々三人の扱いはあまり良くはない</JapaneseText>
@@ -276,6 +307,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>関われるイベントが少なすぎやしまいか？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -284,6 +316,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>精霊の嬢ちゃんの言う通りでぇ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -292,6 +325,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>俺様だってチャンピオンなのに、
 なんだよこの空気っぷりは！</JapaneseText>
       <EnglishText/>
@@ -301,6 +335,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>私とて、
 せっかく肉体を持つに至ったのだ</JapaneseText>
       <EnglishText/>
@@ -310,6 +345,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>私は…、
 もっと人間のようにもう少し表舞台に
 立って活動してみたい</JapaneseText>
@@ -320,6 +356,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>つまりはそういう事だ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -328,6 +365,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>えー、さて今回もメールが一通。
 「ジェイドさん、ゼロスさん、
 こんにちは」</JapaneseText>
@@ -338,6 +376,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>はい、こんにちはー</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -346,6 +385,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>「前回のＧＶを拝見し、
 　私も是非このシリーズに
 　登場したいと思いました」</JapaneseText>
@@ -356,6 +396,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>「しかし、私は罪を償う最中であり、
 　重たい手かせをはめた姿を
 　衆目にさらしていいものでしょうか」</JapaneseText>
@@ -366,6 +407,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>「その辺りを次回の議題にして
 　いただければ幸いです」と、
 ＨＮ財閥会長さんから頂きました</JapaneseText>
@@ -376,6 +418,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なるほどねぇ。
 ちょうどいいんじゃない？
 日陰者で集まってるようだし</JapaneseText>
@@ -386,6 +429,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>日陰者とはなんだ！！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -394,6 +438,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>さて、皆さん</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -402,6 +447,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>本作での自分の扱いに不満を感じ
 今回無断外出をしたという事ですが、
 間違いありませんか？</JapaneseText>
@@ -412,6 +458,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ああ、間違いねえ。
 だがなあ、ただ無目的に
 ここに来たわけじゃねぇんだぜ？</JapaneseText>
@@ -422,6 +469,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…ああ。
 これは言うなれば抗議行動だ</JapaneseText>
       <EnglishText/>
@@ -431,6 +479,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いえ、それならば
 販促効果をアピールして
 広報あたりに話を通した方が…</JapaneseText>
@@ -441,6 +490,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>生臭い話してんじゃねえよ！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -449,6 +499,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>とにかく、だ！
 おまえらに話をしても
 無駄な事には変わりねぇ！</JapaneseText>
@@ -459,6 +510,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おいおい、決め付けは
 よくねぇんじゃねーのか？
 案外力になれたかもしんねぇだろ</JapaneseText>
@@ -469,6 +521,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>俺様達がもっと目立ちたいって
 言ったら、おまえらこのＧＶの司会の座を
 譲ってくれたのか？</JapaneseText>
@@ -479,6 +532,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…大人の事情がありまして</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -487,6 +541,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…そればっかりは、
 どうにもなんねぇなぁ</JapaneseText>
       <EnglishText/>
@@ -496,6 +551,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>つれない態度ではないか…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -504,6 +560,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>だがこれも予想していた事</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -512,6 +569,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>どういう意味ですか？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -520,6 +578,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>抗議をしても、けんもほろろに
 相手してもらえないだけ</JapaneseText>
       <EnglishText/>
@@ -529,6 +588,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それならば、おまえ達二人を
 この場に担ぎ出して
 無理矢理交渉の場を設けちまえってこったい</JapaneseText>
@@ -539,6 +599,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>肉体派のあんたが
 思いつく策じゃねーな、そりゃ。
 一体誰の案なんだ？</JapaneseText>
@@ -549,6 +610,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いいだろう、
 紹介してやる！</JapaneseText>
       <EnglishText/>
@@ -558,6 +620,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>出て来い！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -566,6 +629,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おや、この人ですか？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -574,6 +638,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>へ〜〜〜…、
 こりゃ意外だったぜ…</JapaneseText>
       <EnglishText/>
@@ -583,6 +648,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>一体、何の話だね？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -591,6 +657,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おおっとぉ？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -599,6 +666,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>って、あんただったのかよ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -607,6 +675,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>これはこれは、ウッドロウ王。
 予想外の展開ですね</JapaneseText>
       <EnglishText/>
@@ -616,6 +685,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>んで、
 フィリアちゃんまで一緒とはね…</JapaneseText>
       <EnglishText/>
@@ -625,6 +695,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…私、今回は…その、
 一言申し上げたい事が…</JapaneseText>
       <EnglishText/>
@@ -634,6 +705,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それは理解に苦しみますね。
 あなた達は「ＴＯＤ」はおろか
 「ＴＯＤ２」にまで登場しています</JapaneseText>
@@ -644,6 +716,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>立派な業績だと思うのですが</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -652,6 +725,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あの、俺様も、なんだけど…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -660,6 +734,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そういえばそうでしたね。
 でも、ややこしくなるので
 少し黙っていてくれないかい？</JapaneseText>
@@ -670,6 +745,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それで何が不満なのよ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -678,6 +754,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>私は…、自分の活躍に不満はない。
 だが一つだけ…</JapaneseText>
       <EnglishText/>
@@ -687,6 +764,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>扱いが希薄だと言う点に不満があるのだよ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -695,6 +773,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あ、そ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -703,6 +782,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>私は立場上、感情やユーモアを
 表現する言動が出来なかった</JapaneseText>
       <EnglishText/>
@@ -712,6 +792,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>もう少し羽目を外してでも
 目立っていたかったというのに…</JapaneseText>
       <EnglishText/>
@@ -721,6 +802,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>は、はぁ…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -729,6 +811,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>その為だろう…。
 「ビバ　テイルズ　オブ」にも
 呼ばれなかった</JapaneseText>
@@ -739,6 +822,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>今回も…、笑いを取れるような
 イベントを割り当てられていない…</JapaneseText>
       <EnglishText/>
@@ -748,6 +832,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ははぁ、なるほど。
 それは根が深い問題ですね</JapaneseText>
       <EnglishText/>
@@ -757,6 +842,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>しかし、あえてそのタブーに
 触れますか…</JapaneseText>
       <EnglishText/>
@@ -766,6 +852,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…言わないでくれ。
 私もよくよく考えた上での
 ことなのだ</JapaneseText>
@@ -776,6 +863,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>んで、フィリアちゃんは
 どーしたのよ？</JapaneseText>
       <EnglishText/>
@@ -785,6 +873,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…私、なぜあまり出番が
 無いのでしょう？</JapaneseText>
       <EnglishText/>
@@ -794,6 +883,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>お下げ髪、眼鏡、知的、僧籍…、
 こういう要素はもっとファンの方の
 趣味に合うものだと信じていました…</JapaneseText>
@@ -804,6 +894,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あ〜…、
 確かに属性の塊だよなあ。
 フィリアちゃんってさ</JapaneseText>
@@ -814,6 +905,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>だったらなぜ！
 もっと人の歓心を得て、
 出番が増えてもいいんじゃないでしょうか？</JapaneseText>
@@ -824,6 +916,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>これも、
 「ビバ　テイルズ　オブ」に
 登場出来なかったせい…</JapaneseText>
@@ -834,6 +927,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>とまあ、そういうわけなのだよ。
 いささか私怨に満ちた動機ではあるが、
 何とぞ理解してもらいたい</JapaneseText>
@@ -844,6 +938,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…なるほど。
 了解しました。
 これは話し合いでは済まないようです</JapaneseText>
@@ -854,6 +949,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そ、そうかぁ？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -862,6 +958,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ええ、ジェイドさんやゼロスさんには
 恨みはありませんが、ここは私達の
 踏み台になってもらいます</JapaneseText>
@@ -872,6 +969,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>覚悟をしたまえ！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -880,6 +978,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>って、うわ〜、
 こっちもノリノリじゃん…</JapaneseText>
       <EnglishText/>
@@ -889,6 +988,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>こりゃあ、
 どっちもただじゃ済まないぜぇ…</JapaneseText>
       <EnglishText/>
@@ -898,6 +998,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>というわけで、
 セーブやＨＰ回復など、
 しておくといいでしょう</JapaneseText>
@@ -908,6 +1009,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>このイベントの後に
 フリータイムを挟みますから</JapaneseText>
       <EnglishText/>
@@ -917,6 +1019,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>うむ、是非そうしたまえ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -925,6 +1028,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ガク〜ン…。
 なけなしの緊張感、台無し</JapaneseText>
       <EnglishText/>
@@ -937,6 +1041,7 @@
   <Strings>
     <Section>Unreferenced</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>gv1</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -944,6 +1049,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>gv1.ppt</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -951,6 +1057,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>gv1.ppt</JapaneseText>
       <EnglishText/>
       <Notes/>

@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -12,6 +13,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あ…。
 「小麦」を２つ、
 もう集めちゃった？</JapaneseText>
@@ -22,6 +24,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>じゃあ、次は「生産」だよ。
 「家庭料理・基礎」というレシピを使って、
 「小麦」を「小麦粉」に加工するの</JapaneseText>
@@ -32,6 +35,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>「メニュー」を開いて、「生産」の「料理」を
 選んだら、レシピ一覧が出てくるから。
 「家庭料理・基礎」を選んで加工してみて</JapaneseText>

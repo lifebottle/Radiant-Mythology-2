@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>チェスター</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アーチェ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -19,6 +21,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…波の音は落ち着くし、慣れれば
 この揺れも心地いいもんだぜ…。
 アーチェが騒がなきゃ文句ねえんだけどな</JapaneseText>
@@ -29,6 +32,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アメール洞窟に行くんだろ？
 こっちは準備万端だぜ</JapaneseText>
       <EnglishText/>
@@ -38,6 +42,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ナディの奴らを目の当たりにしたら
 村からみんなを追い出した
 ラルヴァ推進派の連中が可愛く見えるぜ…</JapaneseText>
@@ -48,6 +53,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ジャニスの野郎が何考えてるかは知らねえ。
 けどよ、奴が作ったラルヴァが原因で
 村がバラバラになったのは許せねえ事実だ！</JapaneseText>
@@ -58,6 +64,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クレス１人で大丈夫かな…？
 俺もついて行けば良かったな…</JapaneseText>
       <EnglishText/>
@@ -67,6 +74,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>他人の事言えた義理じゃねえけど、
 イリアとスパーダはハンパ無く口が悪りぃな。
 …アレに付き合わされるルカが可哀相だぜ…</JapaneseText>
@@ -77,6 +85,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クレスが無事でホッとしたぜ。
 …ガキん頃から、ずっと一緒だったから
 やっぱ心配だったんだ…これでもな</JapaneseText>
@@ -87,6 +96,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>正直俺は世界樹やマナ、ラルヴァにナディも
 興味ねえけど、真面目に暮らしてる人達が
 苦しむ事だけは許せねえな</JapaneseText>
@@ -97,6 +107,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…弓を使う人間は、俺を入れて３人か…。
 サボっちゃいねえけど、気合入れ直して
 腕を磨かなきゃな</JapaneseText>
@@ -107,6 +118,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…ディセンダー、ディセンダー…。
 悪りぃ、ガキの頃に絵本では見たんだけど…。
 カノンノにでも聞いて、復習しとくよ</JapaneseText>
@@ -117,6 +129,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>俺のダジャレは面白れぇ！
 …そう思っていた時期が俺にもありました…。
 …アーチェにクレスと同レベルと言われるまで…</JapaneseText>
@@ -127,6 +140,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…ったく、内戦とかつまんねえ事ばっかだな。
 人同士で傷つけ合ったところで、
 楽しい事なんか何もねえのによ…</JapaneseText>
@@ -137,6 +151,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>しかし、アレだ…。
 ここは、女の子のレベルが高くて困るな。
 …あ〜、いや、なんだ、ほら、アハハハハ！</JapaneseText>
@@ -147,6 +162,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>船の改造の間、邪魔なんだとさ…。
 何するかなぁ〜…。
 依頼でもこなしてりゃ、改造が終わるかな？</JapaneseText>
@@ -157,6 +173,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>デッキにいっでっきてこいよ。
 …やっぱりダメだ…。
 …多分クレスと同じレベルだ…</JapaneseText>
@@ -167,6 +184,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ああ、見たぜ。
 デカイもんだな。
 あ、悪りぃ、あんまり興味ねえんだ</JapaneseText>
@@ -177,6 +195,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アミィお手製のマーボーカレーは絶品だぜ！
 …え？　リリスも得意だって？
 …そんなにメジャーな料理だったのか…</JapaneseText>
@@ -187,6 +206,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>潮風は心地いいけど、ベタベタすんのがな〜。
 …でだ、風呂を覗くベストスポットは何処だ？
 …何？　スパーダも聞いてきただと！？</JapaneseText>
@@ -197,6 +217,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…しかし、すげえ妹だな…。
 …アミィがああだったら…。
 い、いやいやいや、まさかまさか、アハハハハ…</JapaneseText>
@@ -207,6 +228,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…ん？　ああ、アミィに手紙を書いてたんだ。
 グランマニエで保護されてるけど、
 寂しがってたら、兄として堪んねえしな…</JapaneseText>
@@ -217,6 +239,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…ビェーックショイっ！！
 …うぅ…、またアーチェが
 俺の悪口でも言ってやがんな…</JapaneseText>
@@ -227,6 +250,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…ったく、イリアも素直じゃねえよな。
 イビってばっかじゃ、ルカも離れるぞ。
 …なんで俺見て、笑ってんだよ…？</JapaneseText>
@@ -237,6 +261,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…俺は、アミィが幸せならそれで良い。
 俺はあいつの、たった一人の肉親だからな。
 …アーチェ？　なんで、アーチェが出てくんだよ</JapaneseText>
@@ -247,6 +272,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>よう、もう大丈夫なのか？
 ああ、リオンには礼しとけよ？
 華奢な体で、お前を背負ってきたんだぜ</JapaneseText>
@@ -257,6 +283,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ナディが改心しただと？
 …口では何とでも言える。
 また何かやらかしたら、ブッ倒してやる…！</JapaneseText>
@@ -267,6 +294,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>暑い時は、セルシウスにくっついてたら
 ヘーキなんじゃねえのか？
 …ところで、セルシウスって「女」扱いなのか？</JapaneseText>
@@ -277,6 +305,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ここの飯は、ホントうめえよな。
 でもな、アミィの料理も絶品なんだぜ！
 アミィの爪のアカ、アーチェに飲ませてみるかな</JapaneseText>
@@ -287,6 +316,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>俺は世界樹だのマナだのはどうでもいい。
 ただ、腹を括ったお前について行くのも
 そう悪くねえかもな</JapaneseText>
@@ -297,6 +327,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クロエの事は、
 セネルが一番わかってんだ。
 今は、セネルを信じて行こうぜ</JapaneseText>
@@ -307,6 +338,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>な？　セネルを信じて良かっただろ？
 …それで、あと２人か。
 なーに、すぐ見つかるさ</JapaneseText>
@@ -317,6 +349,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>グランマニエが、もうテロに狙われないって事は
 アミィや村の連中も大丈夫って事だよな…。
 …ああ、かなりホッとしたぜ…</JapaneseText>
@@ -327,6 +360,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>残るはアニスか。
 大丈夫、すぐ見つかるさ</JapaneseText>
       <EnglishText/>
@@ -336,6 +370,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…こうして全ての勇者が揃ったアドリビトム。
 その精鋭の力を集結させ再び突き進んでゆく！
 ゲーデを倒し、負の無き明るい未来の為に！！</JapaneseText>
@@ -346,6 +381,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…なーんてな。
 ま、いいから気にすんなよ</JapaneseText>
       <EnglishText/>
@@ -355,6 +391,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>んじゃあ、さっさとゲーデの野郎をブッ倒して、
 「負」だらけのネクラな世の中に
 ケリをつけようぜ！</JapaneseText>
@@ -365,6 +402,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>俺は俺だからな。
 お前の記憶にある今までの俺と
 これからの俺は何も変わらないから安心しな</JapaneseText>
@@ -375,6 +413,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ふ〜ん…ふむふむ…。
 なんだかボ〜っとしてて頼りなさそ〜。
 まあ、せいぜいヨロシクね、キ・ミ♪</JapaneseText>
@@ -385,6 +424,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なに？　ハーフエルフって、やっぱ珍しい…？
 あ〜、あたしが可愛いからだね〜。
 うんうん、よくわかってるじゃん♪</JapaneseText>
@@ -395,6 +435,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>チェスターとクレスのコンビって
 バランス取れててバッチリだよね♪
 ま、チェスターが足引っ張ってなきゃだけどね〜</JapaneseText>
@@ -405,6 +446,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そう言えば、あたしが使う魔法なんかも
 マナを使ってるんだって。
 エルフの中での言い伝えなんだけどさ</JapaneseText>
@@ -415,6 +457,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>だいじょーぶ、ダイジョーブ！
 なんだかんだ言ったってさ、クレスって
 前のギルドで一番頼りになってたんだし〜♪</JapaneseText>
@@ -425,6 +468,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ねえねえ、あたし達もバカンス行こうよぉ〜！
 …でもな〜、ミントやティアが一緒だと
 見劣りしちゃいそうで、ヤなんだよねぇ〜…</JapaneseText>
@@ -435,6 +479,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ね、言った通りでしょ？
 クレスならダイジョーブだってぇ〜♪</JapaneseText>
       <EnglishText/>
@@ -444,6 +489,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…世界樹が傷ついて、マナがなくなっちゃうと
 あたし、魔法使えなくなっちゃうのかな…？
 それは、ちょっと困るなぁ〜…</JapaneseText>
@@ -454,6 +500,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アーチェちゃん、ピンっと来ちゃいました〜♪
 ジャニスってさ、誰かに恋しちゃったと思うの！
 あたしかな？あんたかな？　…アッシュ…？</JapaneseText>
@@ -464,6 +511,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…また、こそこそと修行なんかしちゃってさ…。
 スケベェなのに、努力家なんて
 チェスターのくせに生意気だってーのっ！</JapaneseText>
@@ -474,6 +522,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ディセンダーの事は、絵本でも読んでたし
 古くからエルフ族にも伝わってて知ってるよ。
 …でも、あんたがディセンダーねぇ〜…</JapaneseText>
@@ -484,6 +533,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クレス、イイ人なんだけどダジャレだけは…ね。
 あ、チェスターもヒドかったんだよぉ〜。
 まあ、あたしに突っ込まれて止めちゃったけどさ</JapaneseText>
@@ -494,6 +544,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アドリビトムの子達のレベルが高いのは
 あたしだって、認めてるわよぉ…。
 …あのスケベ男、また大きな胸の子見てる！</JapaneseText>
@@ -504,6 +555,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>空も飛べて、お掃除にも重宝！
 あたしのホウキってスッゴイでしょ〜♪</JapaneseText>
       <EnglishText/>
@@ -513,6 +565,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…バカ男がバカな事言ってる気がして、
 ゾクゾクするぅ〜…。
 ちょっと魔法でブッ飛ばしてくるっ！</JapaneseText>
@@ -523,6 +576,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>スゴイ、スゴーイッ！
 あんなのが海の中にあったんだねぇ！
 ねえねえ、どうなってんのかな！？</JapaneseText>
@@ -533,6 +587,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アミィちゃんが可愛いのはわかるけどさ、
 あいつ、他に考える頭は無いのかしらねぇ…。</JapaneseText>
       <EnglishText/>
@@ -542,6 +597,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…最近お風呂入ってると、
 なーんか視線を感じるのよね…。
 まあ、あたしの魅力なら仕方ないかぁ〜♪</JapaneseText>
@@ -552,6 +608,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ハーフエルフのあたしでも
 古代エルフ語なら、ちょっとは読めるんだぁ〜♪
 …あたしをタダのアンポンタンって思ってない？</JapaneseText>
@@ -562,6 +619,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…う〜ん…、チェスターの悪口ってなると
 どうしても口が止まんなくなるのよねぇ〜…。
 だってほら、チェスター、ホントにおバカだし♪</JapaneseText>
@@ -572,6 +630,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…まったく、いっつもいっつも
 「アミィ、アミィ」って…。
 お前は「エコー・フラワー」かってーのっ！</JapaneseText>
@@ -582,6 +641,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>へぇ〜、ディセンダーでも倒れたりするんだね。
 あ、ゴメン…深い意味は無いの。
 ただ、そう思っただけなんだ</JapaneseText>
@@ -592,6 +652,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…もっとセクシーになれる道具って
 無いかなぁ〜…。
 あ〜、有ったとしてもハロルド作はお断りっ！</JapaneseText>
@@ -602,6 +663,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>世界樹が回復してきてて良かったねぇ〜。
 「負」の方もだいじょーぶ、ダイジョーブ！
 ラッキーウィッチと呼ばれたあたしを信じて♪</JapaneseText>
@@ -612,6 +674,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>残りの２人も気になるけど、
 今は手がかりがあるクロエを先に
 どうにかしてあげよ！</JapaneseText>
@@ -622,6 +685,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ピッチリ服のクロエが帰ってきて
 ヤロー共が喜ぶこと、喜ぶこと…。
 そりゃあ、あたしだって嬉しいけどさ…</JapaneseText>
@@ -632,6 +696,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>へぇ〜、ナディの連中、
 口だけじゃなかったんだ。
 人同士の争いが減るって、やっぱり嬉しいよね♪</JapaneseText>
@@ -642,6 +707,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ファラ、帰ってきて良かったね♪
 アニスも大丈夫、イケる、イケる！
 …あ、これファラのセリフだったわ…</JapaneseText>
@@ -652,6 +718,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…いっつも利己的で小生意気だけど、
 居なかったら居なかったで寂しかったし…。
 うん、帰ってきて良かったよね♪</JapaneseText>
@@ -662,6 +729,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>早く甲板に行ってきたら？
 ディセンダーさんっ♪</JapaneseText>
       <EnglishText/>
@@ -671,6 +739,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…あたしのホウキでも
 あの高さはちょっと無理な感じぃ〜…</JapaneseText>
       <EnglishText/>
@@ -680,6 +749,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…へぇ〜、この船って
 こんなにスゴかったんだね</JapaneseText>
       <EnglishText/>
@@ -689,6 +759,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ゲーデを倒して、きっと世界は救われるわ。
 このラッキーウィッチが言うんだから
 ダイジョーブだってばさ！</JapaneseText>
@@ -699,6 +770,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ほえ？　ボ〜っとしてどうしたの？
 …って、あたし最初にあんたに会った時も、
 「ボ〜っとしてる」って言ったっけ、へへっ♪</JapaneseText>

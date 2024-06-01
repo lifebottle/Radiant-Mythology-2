@@ -2,65 +2,87 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カイル</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kyle</EnglishText>
       <Notes/>
       <Id>19</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ウッドロウ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Woodrow</EnglishText>
       <Notes/>
       <Id>12</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ウッドロウさんと
 並んで戦えるなんて…</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Fighting alongside Mr. Woodrow...
+
+</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カイル君。
 危険はどのような形でやってくるか
 わからない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kyle, you know, danger can come in various forms.
+
+</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>常に警戒を怠ってはいけないよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You must never let your guard down.
+
+</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>はい！　気をつけます！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yes! I will be careful!
+
+</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>うむ、そうしたまえ。
 では先に進もう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hmm, indeed. Let's move forward then.
+
+
+
+
+
+
+</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

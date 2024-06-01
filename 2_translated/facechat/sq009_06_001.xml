@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -12,6 +13,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>今回の仕事は、「アメールの洞窟」で
 「オタオタ」の退治だよ</JapaneseText>
       <EnglishText/>
@@ -21,6 +23,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>でも、その前に
 「ショップ」にある「武器・防具屋」で、
 装備品を購入してね</JapaneseText>
@@ -31,6 +34,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>購入した装備品は、「メニュー」を開いて
 「装備」を選ぶと装備が出来るの。
 装備をしていると、その分戦いが楽になるよ</JapaneseText>
@@ -41,6 +45,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それじゃ、装備を揃えたら
 「アメールの洞窟」へ向かいましょ</JapaneseText>
       <EnglishText/>
@@ -50,6 +55,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あ、渡しておかなくっちゃ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -58,6 +64,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>これは、ギルドの雇用契約金なの。
 買物は、船内のショップで出来るから。
 必要な装備や道具は、これでそろえてね</JapaneseText>
@@ -71,6 +78,7 @@
   <Strings>
     <Section>Unreferenced</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>１５００ガルド手に入れた。</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -78,6 +86,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アップルグミを３個手に入れた。</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -85,6 +94,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>キュアボトルを３個手に入れた。</JapaneseText>
       <EnglishText/>
       <Notes/>

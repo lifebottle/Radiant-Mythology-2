@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -12,6 +13,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ここが「ショップ」よ。
 「武器・防具屋」や「道具屋」の前で
 ○ボタンを押すと、メニューが開くの</JapaneseText>
@@ -22,6 +24,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>貯めたガルドを使って、欲しい物を
 購入出来るし、ガルドが心もとない時は
 いらなくなった物を売却すればいいわ</JapaneseText>
@@ -32,6 +35,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>「購入する」も「売却する」も基本は一緒。
 上下で売買したい品を選んで、
 左右で売買したい個数を決めて○ボタン</JapaneseText>
@@ -42,6 +46,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>同じリストの中だったら、複数の装備品や
 アイテムに個数設定すれば、まとめ買いや
 まとめ売りが出来て、とっても便利よ</JapaneseText>

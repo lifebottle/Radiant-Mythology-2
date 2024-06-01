@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クロエ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ミント</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -19,6 +21,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あの、ゲーデというやつ。
 ○○を特に
 恨んでいるようだな…</JapaneseText>
@@ -29,6 +32,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>私には、○○さんを
 恐れているように見えました</JapaneseText>
       <EnglishText/>
@@ -38,6 +42,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>奴には○○ほど
 力が無いという事か？</JapaneseText>
       <EnglishText/>
@@ -47,6 +52,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それはわかりません。
 ただ…、脅威ではあるでしょう。
 強さとか、弱さではなく…</JapaneseText>
@@ -57,6 +63,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ゲーデは、
 自分自身を信頼出来ないのでしょう</JapaneseText>
       <EnglishText/>
@@ -66,6 +73,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>自分自身を信頼出来なければ
 どんなに強くなろうとも、
 力を求め続けます</JapaneseText>
@@ -76,6 +84,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>砂漠にまかれた水みたいにすぐに
 心は渇いて…、苦しみます</JapaneseText>
       <EnglishText/>
@@ -85,6 +94,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>○○さんは
 いつも自分を信頼しています。
 その…、私から見た印象ですけれど</JapaneseText>
@@ -95,6 +105,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>自分を受け入れられない時、
 自信に溢れた人を見ると、
 とてもまぶしく思えるものですよ</JapaneseText>
@@ -105,6 +116,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>人によってはそのまぶしさに
 救われる事もあります。
 「自分も、そう輝こう」という希望に</JapaneseText>
@@ -115,6 +127,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>憧れ、という奴か</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -123,6 +136,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ですが、今のゲーデには…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -131,6 +145,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>奴には、ディセンダーの輝きが
 まぶしすぎるのだな</JapaneseText>
       <EnglishText/>
@@ -140,6 +155,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>確信はありませんが、
 私にはそう思えるのです…</JapaneseText>
       <EnglishText/>

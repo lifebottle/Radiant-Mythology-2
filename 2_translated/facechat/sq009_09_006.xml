@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -12,6 +13,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>請け負っているクエストは、
 メニューの「クエスト」で確認出来るの</JapaneseText>
       <EnglishText/>
@@ -21,6 +23,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>△ボタンを押してメニューを開いて、
 「ライブラリ」の中にある「クエスト」。
 ここに詳しく書かれているわ</JapaneseText>
@@ -31,6 +34,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>方向キーの左や右を押せば、表示されている
 情報が切り替わるし、受けたクエストの内容を
 忘れた時とかに活用してね</JapaneseText>

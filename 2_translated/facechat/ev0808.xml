@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -12,6 +13,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>え…？
 あの「声」の事を聞きたいって？</JapaneseText>
       <EnglishText/>
@@ -21,6 +23,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>んー、そうだねぇ…。
 何を話せばいいのかなぁ</JapaneseText>
       <EnglishText/>
@@ -30,6 +33,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>３歳くらいだったかなぁ…、
 夢の中で聞こえたの。
 特に、さみしい時に…よく夢で見ていたの</JapaneseText>
@@ -40,6 +44,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>声の主は、
 誰かはわかんないんだけどね</JapaneseText>
       <EnglishText/>
@@ -49,6 +54,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それで、５歳くらいの時、
 海沿いを歩いていたら、
 その声が海から聞こえてきたの</JapaneseText>
@@ -59,6 +65,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>だんだん、夢の中だけじゃなく
 起きていても、海の方から
 その声が聞こえるようになって…</JapaneseText>
@@ -69,6 +76,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それから、色んな事を教えてくれるの。
 戦い方、身の守り方…。
 生きて行く為の知恵…</JapaneseText>
@@ -79,6 +87,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>信じられないと思うだろうけど、
 ホントなんだ</JapaneseText>
       <EnglishText/>
@@ -88,6 +97,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あの声がなかったら、
 とてもギルドで働いたりするような
 力は持っていなかったと思う</JapaneseText>

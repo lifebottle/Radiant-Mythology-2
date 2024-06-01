@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>&lt;Name:4F&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -12,6 +13,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>力を追い求める者達の殿堂
 「闘技場」へようこそですぅ。
 「闘技場」のルールをご説明いたしますぅ</JapaneseText>
@@ -22,6 +24,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>お願いしますぅ</JapaneseText>
       <EnglishText/>
       <Notes>Choice 1</Notes>
@@ -29,6 +32,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>遠慮しますぅ</JapaneseText>
       <EnglishText/>
       <Notes>Choice 2</Notes>
@@ -36,6 +40,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>かしこまりましたぁ。
 それでは、説明させていただきますぅ</JapaneseText>
       <EnglishText/>
@@ -45,6 +50,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>と言っても簡単でしてぇ、「ミッション」
 と呼ばれる戦闘に挑戦してぇ、勝ったら
 次のミッションに挑戦、これの繰り返しですぅ</JapaneseText>
@@ -55,6 +61,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>「ミッション」に勝ち続けると、
 思わぬ対戦者が現れるかも知れませんよぉ？
 ドキドキワクワクの趣向もご用意ですぅ</JapaneseText>
@@ -65,6 +72,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>「ミッション」ではぁ、経験値は
 入りませんがぁ、ドロップアイテムは
 入手可能でぇ、これが挑戦者への報酬ですぅ</JapaneseText>
@@ -75,6 +83,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それとぉ、「戦闘ＢＧＭを変更する」ではぁ
 好きな戦闘ＢＧＭに変更してぇ、
 「ミッション」することが出来るんですぅ</JapaneseText>
@@ -85,6 +94,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>一度でも聴いたことがある戦闘ＢＧＭならぁ
 なんでも選べるんですよぅ</JapaneseText>
       <EnglishText/>
@@ -94,6 +104,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>目指せ、次代のチャンプ！
 腕に自信がお有りでしたらぁ、
 是非是非、挑戦してくださいですぅ</JapaneseText>
@@ -104,6 +115,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>はわわっ、もうご存知なのですね！
 これはこれは、失礼しましたぁ。
 それでは「闘技場」をお楽しみくださいですぅ</JapaneseText>

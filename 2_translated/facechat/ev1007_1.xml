@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リフィル</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>セルシウス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>パニール</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -26,6 +29,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>セルシウス、ね。
 精霊に会うのは初めてだわ</JapaneseText>
       <EnglishText/>
@@ -35,6 +39,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>私はリフィル。
 今や、世界は世界樹から噴出した
 負により様々な影響を受けているわ</JapaneseText>
@@ -45,6 +50,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>世界がこれ以上負に侵されないよう、
 私達に力を貸して欲しいの</JapaneseText>
       <EnglishText/>
@@ -54,6 +60,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>世界樹に傷を…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -62,6 +69,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そのせいだろうな。
 浄化されるべく世界樹に流していた負が
 全く流れていかなくなったのは</JapaneseText>
@@ -72,6 +80,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>根が傷ついた事で、世界樹は
 負を抱える能力を大幅に失ったのだ。
 このままでは、世界はどんどん穢れていく</JapaneseText>
@@ -82,6 +91,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>負が増えると、魔物が増え、人々の心も荒む。
 そうして負は更なる負を生んでいくのだ</JapaneseText>
       <EnglishText/>
@@ -91,6 +101,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>世界樹は、負を受け入れ
 それを浄化する能力があるの？</JapaneseText>
       <EnglishText/>
@@ -100,6 +111,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そうだ。
 世界樹は負を抱え、無に還す。
 この世界が負で覆われぬように</JapaneseText>
@@ -110,6 +122,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そして、精霊は負を世界樹に送り込む
 役割を担っている</JapaneseText>
       <EnglishText/>
@@ -119,6 +132,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>でも、世界樹が再び負を抱える力は
 今はもう、ないのね…</JapaneseText>
       <EnglishText/>
@@ -128,6 +142,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>マナを生産する力も
 ますます失われつつある</JapaneseText>
       <EnglishText/>
@@ -137,6 +152,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>世界は大きく変わる。
 大地は魔物で溢れ、人々は生きて行く力を失い、
 かつてない災害を見るだろう</JapaneseText>
@@ -147,6 +163,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カモメ達に聞いたんですけれど
 今は世界のあちこちで負が噴出して
 いるそうですよ</JapaneseText>
@@ -157,6 +174,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>死人が動き出し、人々を襲うという
 恐ろしい話も聞きます。
 それも、負によるものなのですね</JapaneseText>
@@ -167,6 +185,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それよりも、我々精霊が恐れるものは、
 「ゲーデ」。
 負の想念の化身だ</JapaneseText>
@@ -177,6 +196,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…ゲーデ？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -185,6 +205,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>人間の世界に現れ出でた事はないから、
 知らぬだろう。
 精霊のみが認知している存在だ</JapaneseText>
@@ -195,6 +216,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ゲーデは人々の負の感情の塊にして、
 その化身でもある。
 全てのものに対して、敵意を抱く</JapaneseText>
@@ -205,6 +227,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>本来であれば、世界樹内部で生まれ、
 そして消え、再び生まれるのを
 繰り返すだけの存在だ</JapaneseText>
@@ -215,6 +238,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>しかし、世界中の精霊の力が弱まった今、
 ゲーデが人間の世界に現れる事に
 なるかもしれぬ…</JapaneseText>

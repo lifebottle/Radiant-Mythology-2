@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>チャット</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -12,6 +13,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>みんなへの挨拶も済んだようですね。
 さっそく、仕事に取り掛かるんですか。
 いい心がけです</JapaneseText>
@@ -22,6 +24,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ホントは由緒正しい海賊船なんですけどね。
 まだまだ海賊をやるには足りないものも多いし、
 それでギルドを始めたと言う訳です</JapaneseText>
@@ -32,6 +35,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>じゃあ、さらっと説明しておきます。
 クエストはボクが管理しているので、
 手順としてはまずここで依頼を請けて下さい</JapaneseText>
@@ -42,6 +46,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クエストの先へ向かう時には、「操舵室」の
 操舵輪を使うか、ＳＴＡＲＴボタンで
 「ワールドマップ」を選べば移動出来ます</JapaneseText>
@@ -52,6 +57,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ボクからの説明は以上です</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -60,6 +66,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ともかく習うより慣れろ、ですね。
 それじゃ、いつでも仕事に
 取り掛かれますので頑張って下さい</JapaneseText>

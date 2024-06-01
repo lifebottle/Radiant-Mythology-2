@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カイル</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ナナリー</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -19,6 +21,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>えっ、異世界から来た理由ですか？
 うーん、実はここに来ようと
 思ったんじゃなくって…</JapaneseText>
@@ -29,6 +32,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>オレ達の世界の、「過去」へ行く
 予定だったんです</JapaneseText>
       <EnglishText/>
@@ -38,6 +42,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リアラが持っているレンズっていうもので、
 時間旅行が出来るんだけど…。
 ここへ来て、エネルギーが切れたみたいでさ</JapaneseText>
@@ -48,6 +53,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>オレの父さん、英雄って言われてて、
 それが本当なのかどうか確かめようと
 過去へ時間旅行をしたんだけど…</JapaneseText>
@@ -58,6 +64,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>どういうわけか、異世界へ来ちゃって。
 元の世界へ帰りたいけれど、
 オレ達じゃどうにも出来ないし</JapaneseText>
@@ -68,6 +75,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>で、この子らが困っていたところを見て
 あたしが声かけたってわけさ</JapaneseText>
       <EnglishText/>
@@ -77,6 +85,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>正直あたしにはお手上げだよ。
 こんな問題、どうにか出来るの
 ハロルドしかいないしね</JapaneseText>

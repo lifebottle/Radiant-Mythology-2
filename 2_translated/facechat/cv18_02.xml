@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ルビア</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ファラ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ルーク</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -23,6 +26,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ジェイド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -33,6 +37,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>やったね、ファラさん。
 これで、やっと本格的に
 ギルド活動が始められるわね</JapaneseText>
@@ -43,6 +48,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>うん、ルビア。
 それもこれも、ジェイドさんと
 ルークのお陰だよ</JapaneseText>
@@ -53,6 +59,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そんな大した事してないよ。
 ジェイドの用意した書類に、
 俺がサインしただけさ</JapaneseText>
@@ -63,6 +70,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いえいえ、ファブレ家の威光あってこその
 ギルド発足なんですから。
 あなたのお陰で構わないと思いますよ</JapaneseText>
@@ -73,6 +81,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>まあ、民間で運営される
 ギルドみたいな組織は、絶対必要だしな</JapaneseText>
       <EnglishText/>
@@ -82,6 +91,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ありがとう。
 ルーク、大佐！</JapaneseText>
       <EnglishText/>
@@ -91,6 +101,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>私、たくさんの人達に
 幸せになってもらいたいんだ</JapaneseText>
       <EnglishText/>
@@ -100,6 +111,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そうね。
 迷える子羊を導くのも神官の務め。
 あたしも頑張る！</JapaneseText>
@@ -110,6 +122,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ええ、是非ともお願いします。
 くれぐれも不祥事は起こさないで
 下さいね</JapaneseText>
@@ -120,6 +133,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>わかってるわ。
 せっかく頑張っても、悪い評判立ったら
 水の泡ですもの</JapaneseText>
@@ -130,6 +144,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>大丈夫だよ。
 人を幸せにしたいって気持ちがあれば
 必ず気持ちは伝わるよ</JapaneseText>
@@ -140,6 +155,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いえ、そういう意味ではなく…。
 一応グランマニエ所属の
 ギルドですからね</JapaneseText>
@@ -150,6 +166,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ギルドの評判は、そのままルークの悪評に
 繋がりかねませんので…</JapaneseText>
       <EnglishText/>
@@ -159,6 +176,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なんで俺なんだよ！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -167,6 +185,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>だってあなたが署名したのでは
 ありませんか。
 ギルド発起人として</JapaneseText>
@@ -177,6 +196,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>俺にケツ拭かせる為に
 サインさせたのかよ…</JapaneseText>
       <EnglishText/>
@@ -186,6 +206,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いえ、先ほど申したとおり、
 ファブレ家の家名あってこそ、
 ギルドになれたのです</JapaneseText>
@@ -196,6 +217,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ギルドで救われる人を思えば、
 発起人としての責任なんて
 些細なものではありませんか？</JapaneseText>
@@ -206,6 +228,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>心配いらないよ、ルーク！
 困った人の為に働けば、
 きっと上手く行くから</JapaneseText>
@@ -216,6 +239,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そうよ、みんな一緒に頑張りましょ！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -224,6 +248,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>だそうですよ。
 よかったですね、一致団結して。
 発起人として安心でしょう？</JapaneseText>
@@ -234,6 +259,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あ…、ああ。
 俺もがんばるよ</JapaneseText>
       <EnglishText/>

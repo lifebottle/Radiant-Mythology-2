@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クラトス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ジェイド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リフィル</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -26,6 +29,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>大陸へ渡って、幾つかの情報を掴んできた。
 ラルヴァを開発したのは、
 「ジャニス・カーン」という男らしい</JapaneseText>
@@ -36,6 +40,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>はて、聞き覚えのある名ですね</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -44,6 +49,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>たしか学会から異端視されて、
 つま弾きにされている、
 あのジャニスですか？</JapaneseText>
@@ -54,6 +60,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…そこまではわからん。
 だが、その名に間違いはない</JapaneseText>
       <EnglishText/>
@@ -63,6 +70,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ほう。
 彼がラルヴァをねぇ</JapaneseText>
       <EnglishText/>
@@ -72,6 +80,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なるほど、ラルヴァが有名ではないのも
 うなづけます。
 その提唱者自身が無名ですからね</JapaneseText>
@@ -82,6 +91,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>だが、今後はわからん。
 ラルヴァのデモンストレーション実験が
 大々的に行われるらしいからな</JapaneseText>
@@ -92,6 +102,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なんて事！
 まだラルヴァの安全性も保証されて
 いないというのに…</JapaneseText>
@@ -102,6 +113,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>実験の場所はペリー鉱山だ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -110,6 +122,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>遠い…、間に合うかしら。
 内陸だから、馬車を乗り継いで
 数週間かかる距離だわ</JapaneseText>
@@ -120,6 +133,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>見ておきたいけれど、
 私自身の研究を
 放っておくわけにもいかないし…</JapaneseText>
@@ -130,6 +144,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なに、大丈夫ですよ。
 この船ごと乗り付けましょう。
 それなら手間はない</JapaneseText>
@@ -140,6 +155,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リフィル、あなたには
 船内のあちこちに散りばめられた
 古代文字を解読していただきたい</JapaneseText>
@@ -150,6 +166,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>まだ機能が明らかにされていない
 機関部分があるようですし。
 解読出来れば機能が解放されるはずです</JapaneseText>
@@ -160,6 +177,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あら、面白そうね。
 よくってよ</JapaneseText>
       <EnglishText/>
@@ -169,6 +187,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>さあ、ではバンエルティア号の方を
 先に片付けましょうか</JapaneseText>
       <EnglishText/>
@@ -178,6 +197,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>デモンストレーションの期日まであまり
 時間がありませんし</JapaneseText>
       <EnglishText/>
@@ -187,6 +207,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ええ。
 それじゃ早速取り掛かりましょう</JapaneseText>
       <EnglishText/>
@@ -199,6 +220,7 @@
   <Strings>
     <Section>Unreferenced</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ジーニアスがギルドに加わりました。</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -206,6 +228,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>プレセアがギルドに加わりました。</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -213,6 +236,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クラトスがギルドに加わりました。</JapaneseText>
       <EnglishText/>
       <Notes/>

@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ヴェイグ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ユージーン</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>マオ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -26,6 +29,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…お陰でクレアもセルシウスも元に戻れた…。
 …ありがとう。
 …しばらく、厄介になる。</JapaneseText>
@@ -36,6 +40,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…「負」がヒトに対して、
 こんなに深刻な影響を与えるとは…。
 …早く、なんとかしないと…！</JapaneseText>
@@ -46,6 +51,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…クレアが、お玉で
 素振りみたいな事をしてたんだが…。
 …おまえ、何か心当たりないか…？</JapaneseText>
@@ -56,6 +62,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…例え、セルシウスが万全だったとしても、
 今の世界樹の状態では「穢れ流し」は
 出来ない…</JapaneseText>
@@ -66,6 +73,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…あれは、いったい…？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -74,6 +82,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…オレの親は、
 オレが生まれてすぐに亡くなった…。
 それ以来、クレアの家で世話になってる…</JapaneseText>
@@ -84,6 +93,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…今は、世界樹を回復させるのが先決だな…。
 「穢れ流し」を行うためには…。</JapaneseText>
       <EnglishText/>
@@ -93,6 +103,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………。
 …オレの顔、そんなに怖いか…？</JapaneseText>
       <EnglishText/>
@@ -102,6 +113,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…本なら以前、哲学書を読んだんだが
 難しかったな…。
 …暇つぶしにはなったが…</JapaneseText>
@@ -112,6 +124,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…ザピィはクレアのペットで、
 小さなマフマフだ…。
 …クレアも気にしてたが、無事だといいが…</JapaneseText>
@@ -122,6 +135,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…マオやアニーは、よく日記とか
 書いていたな…。
 …オレには、そんな日課はないが…</JapaneseText>
@@ -132,6 +146,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…ヒト同士、色んな付き合い方があるな…。
 村を出て、ここに来て、
 改めて、そう思ってる…。</JapaneseText>
@@ -142,6 +157,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…ここ程、色んな職業や
 立場の者が居るギルドは
 そう無いだろうな…。</JapaneseText>
@@ -152,6 +168,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………。
 …ああ、無理するなよ</JapaneseText>
       <EnglishText/>
@@ -161,6 +178,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…世界中が、世界樹に目を向け
 本来あるべきグラニデに戻る…。
 …早く、そんな日が来るといいな…</JapaneseText>
@@ -171,6 +189,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………。
 …クレアのピーチパイ、食べ損ねた…</JapaneseText>
       <EnglishText/>
@@ -180,6 +199,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…顔色悪いが…。
 ………。
 …そうか、だが無理はするなよ…</JapaneseText>
@@ -190,6 +210,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…世界樹が回復してよかったが、
 今のセルシウスでは、穢れ流しは…。</JapaneseText>
       <EnglishText/>
@@ -199,6 +220,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>……ああ、聞いた…。
 …しかし、３人とも
 いったいどこへ…？</JapaneseText>
@@ -209,6 +231,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クロエが無事でよかったな。
 …「負」の影響が、また大きくなっている…。
 …早く「穢れ流し」が出来るといいんだが…</JapaneseText>
@@ -219,6 +242,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…昔は、ガレット以外でも、
 「穢れ流し」が行われていたんだな…</JapaneseText>
       <EnglishText/>
@@ -228,6 +252,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…ヒト同士の争いが無い世界…。
 …そうだな、そんな世界にきっとなる。
 …そう信じて、今は進もう…</JapaneseText>
@@ -238,6 +263,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…ああ、ファラも無事でよかったな。
 …しかし、世界樹が回復しただけでは
 「負」の影響は、やはり変わりないか…</JapaneseText>
@@ -248,6 +274,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…次は、獄門洞か…。
 …ああ、オレなら大丈夫だ。
 行こう…！</JapaneseText>
@@ -258,6 +285,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…獄門洞、キレイな所だったな…。
 …ゴタゴタが片付いたら、
 クレアを連れて行きたい…</JapaneseText>
@@ -268,6 +296,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…アニスも無事でよかったな。
 船内が明るくなった感じがする。
 …良い空気だ…</JapaneseText>
@@ -278,6 +307,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…ガレットに戻れたら…？
 …今まで通り、セルシウスを護りながら
 クレア達と静かに暮らせれば、それでいい…</JapaneseText>
@@ -288,6 +318,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…おまえのお陰で「穢れ流し」が行える。
 …早く甲板に行け。
 みんな、おまえを待ってる</JapaneseText>
@@ -298,6 +329,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…セルシウスを護り、「穢れ流し」を
 行わせる事がオレの役目…。
 …そのためにも、ゲーデを討つ……！</JapaneseText>
@@ -308,6 +340,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…○○。
 …オレは、おまえを信じてる</JapaneseText>
       <EnglishText/>
@@ -317,6 +350,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…世界から「負」がなくなる事はない…。
 だが、おまえとなら、前を向いて
 「負」を乗り越えられる気がする</JapaneseText>
@@ -327,6 +361,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>俺はガジュマという種だ。
 この地方では珍しい種族みたいだな。
 まあ、普通にヒトとして接してくれ</JapaneseText>
@@ -337,6 +372,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>もっとも、お前はディセンダーだそうだから
 ガジュマに限らず、全てが
 初めて出会うモノなのだろうがな</JapaneseText>
@@ -347,6 +383,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>思いがけない再会というのも
 あるものだな…。</JapaneseText>
       <EnglishText/>
@@ -356,6 +393,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ヒトは皆、弱い生き物だ。
 誰しもが彼のようになる恐れがある。
 …世界に蔓延する「負」を対処せん事にはな…</JapaneseText>
@@ -366,6 +404,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>シッカリと食事を摂り、身体を作り上げる事も
 大事な務めのひとつだ。
 ここは、後方支援も充実した理想的な組織だな</JapaneseText>
@@ -376,6 +415,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>この年になると、己の将来より
 若者の行く末が気になるものだが、
 そう悪いもんでもない…</JapaneseText>
@@ -386,6 +426,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ガレットの民は代々、セルシウスと共に
 「穢れ流し」を執り行ってきたが、
 肝心の世界樹が傷ついていてはな…</JapaneseText>
@@ -396,6 +437,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>海中から、あんなに巨大な建造物が…。
 …何が待っているか知れん。
 警戒は怠るな。</JapaneseText>
@@ -406,6 +448,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…俺とマオの関係？
 …ふむ…、父子のようなものか…。
 マオが嫌がっていないならな…</JapaneseText>
@@ -416,6 +459,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>世界樹を回復させん事には
 「穢れ流し」も執り行えん…。
 今は、ニアタを信じて進もう…</JapaneseText>
@@ -426,6 +470,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ヒト同士の繋がりに、種族や身分は関係ない。
 …世界中の者がそれに気付けば、
 諍い事もなくなるだろうに…</JapaneseText>
@@ -436,6 +481,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>音で起こすなんて可愛らしいものじゃない…。
 轟音といい、衝撃波といい、
 死者の目覚めは、一種の「音響兵器」だ…！</JapaneseText>
@@ -446,6 +492,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…マオがたまに
 意味不明の寝言を言うのだが…。
 …記憶が戻る兆しなのかはわからんな。</JapaneseText>
@@ -456,6 +503,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>セルシウスが認めしディセンダー。
 お前のその恐怖を知らぬ真っ直ぐな瞳こそが、
 その一番の証なのだろうな</JapaneseText>
@@ -466,6 +514,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>絵本や恋愛小説も良かろうが、旅行記も良いぞ。
 これから向かう先の情報を入れておけば、
 地の利が得られるしな</JapaneseText>
@@ -476,6 +525,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ギルドの仲間と触れ合うのは結構な事だが、
 脈絡もなく、手の平をプニプニ押されたり
 尻尾を握られるのは堪らんなあ…</JapaneseText>
@@ -486,6 +536,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アニーは、ああ見えて少々怖がりだが、
 何故わざわざ、マオの怪談話を
 聞きたがるのか、俺には理解できん…</JapaneseText>
@@ -496,6 +547,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…そろそろ髪の手入れが必要だな…。
 いつも通り、マオに頼むとするか。
 そういえば、あいつの髪も伸びてたな…</JapaneseText>
@@ -506,6 +558,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アニーの父バースは、俺の親友だが、
 種族の違いを意識した事は、特に無いな。
 ヒト同士の付き合いなど、そんなものだろう</JapaneseText>
@@ -516,6 +569,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>山の冷気や強風は体温を奪い、
 体力を激しく消耗する。
 …軍属していた頃に得た教訓だ</JapaneseText>
@@ -526,6 +580,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>流石のディセンダーも山の脅威には
 勝てなかったか？
 まあ、無理はするな</JapaneseText>
@@ -536,6 +591,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>記憶が回復する、しないに関係なく、
 知識は生きるために必要だからな。
 リフィルにマオへの授業を頼んだんだ</JapaneseText>
@@ -546,6 +602,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…世界樹を思う気持ちは同じだったはずが、
 どこかで歯車が狂ったんだろうな…。
 テロなど無い未来となる事を信じよう…</JapaneseText>
@@ -556,6 +613,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>また顔色が悪いようだな…。
 何事をこなすにも、体が資本だ。
 たまには体を休める事も必要だぞ</JapaneseText>
@@ -566,6 +624,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>仮に世界樹が完治しても、
 「負」を流せん事には何も変わり無い…。
 …ふむ、どうしたものか…</JapaneseText>
@@ -576,6 +635,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…しかし、船長もいい加減
 俺やカイウスに慣れてくれんものか…。
 俺はともかく、若いカイウスには酷でな…</JapaneseText>
@@ -586,6 +646,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…なんと、精霊界に干渉するとは…。
 ニアタのお陰で、解決の糸口が見えてきたな。
 さて、俺たちは俺たちの役目をまっとうしよう</JapaneseText>
@@ -596,6 +657,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>俺も鬼隊長と恐れられていた頃があったが、
 それにしても、軍隊式筋トレすらこなせんとは
 最近の若いヤツらときたら…まったく…</JapaneseText>
@@ -606,6 +668,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>無断離船など軍法会議ものだっ！
 …３人の事は認め、信じているからこそ
 取り乱してしまったようだ…、すまん…</JapaneseText>
@@ -616,6 +679,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>うむ、クロエが無事で何よりだ。
 …「負」の影響がより強くなってきているか…。
 早く「穢れ流し」が出来たら良いのだが…</JapaneseText>
@@ -626,6 +690,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>モスコビー砂漠が
 一つ目のアンテナ設置場所だな。
 俺は準備万端だ、いつでも行ける</JapaneseText>
@@ -636,6 +701,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…あのような者を救うためにも
 早く「穢れ流し」を行わねば…。
 …ともあれ、砂漠での任務は完了だな</JapaneseText>
@@ -646,6 +712,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…毛の間に、まだ砂が残っている感じが…。
 体を洗って、手入れもしたつもりなんだが、
 なかなか取れんものだな…</JapaneseText>
@@ -656,6 +723,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…ファラも無事で何よりだ…。
 彼女のように雰囲気を良くする人材は
 いかなる組織においても重要なものだ</JapaneseText>
@@ -666,6 +734,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>マオもアニーも大事な仲間だが、
 年端も行かぬ子どもであるのも事実だ。
 …まあ、大人を困らせるのも子の務めかもな…</JapaneseText>
@@ -676,6 +745,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…さて、これで全員復帰したな。
 軍に属しているとは言え、まだまだ子ども…。
 彼女のフォローは、俺達大人の仕事だ</JapaneseText>
@@ -686,6 +756,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…今ほどセルシウスを近しく感じる事は
 守護役を務めてきたこれまでも無かったな…。
 世界樹が傷ついたから、というのが皮肉だがな…</JapaneseText>
@@ -696,6 +767,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…いよいよか…！
 さあ、お前も甲板へ急げ。
 厳しゅくなる儀式の始まりだ</JapaneseText>
@@ -706,6 +778,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…このままでは「負」によって
 世界が飲み込まれてしまう…。
 なんとしても、ゲーデを討たねば…！</JapaneseText>
@@ -716,6 +789,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…あとは、ゲーデを討つだけか。
 ディセンダー・○○。
 俺はお前を一人の仲間として信じる。</JapaneseText>
@@ -726,6 +800,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>「世界を救ったアドリビトム」なら
 依頼が多くて船長も困ってるだろう。
 トップの悩みを解消するのも部下の務めだぞ？</JapaneseText>
@@ -736,6 +811,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>記憶喪失のボクと、ディセンダーのキミ。
 なんだか似てるよネ♪
 ま、仲良くやろうヨ！</JapaneseText>
@@ -746,6 +822,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>でぃー、でぃー、ディセンダー♪
 「負」を払って、世界樹救う〜♪</JapaneseText>
       <EnglishText/>
@@ -755,6 +832,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>作詞、作曲、歌。
 全部ボク、マオ君でした〜</JapaneseText>
       <EnglishText/>
@@ -764,6 +842,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>フツーに美味しい料理ってホッとするよね！
 …ハチミツ入りマーボー豆腐…
 とかじゃなくってさ…</JapaneseText>
@@ -774,6 +853,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>将来の事とか、あんまり考えた事ないな〜。
 記憶が戻ったら、
 また違うかもしれないけどネ</JapaneseText>
@@ -784,6 +864,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…ボクの記憶、戻る日が来るのかな…。
 でも、戻らなかったら戻らなかったで
 きっと、なるようになるよネ！</JapaneseText>
@@ -794,6 +875,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あんな大きいの、
 ボク初めて見たんですけど…。
 あれ、何なのかなあ〜？</JapaneseText>
@@ -804,6 +886,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ボク、本当の親の事も憶えてないんだ。
 だから今は、ユージーンが
 お父さんみたいなものだネ！</JapaneseText>
@@ -814,6 +897,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>広い海♪　どーんと広がる青い海ー♪
 底には遺跡が眠ってる♪　月光虫も眠ってる？
 ブクブクブクー♪</JapaneseText>
@@ -824,6 +908,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ヴェイグはクールって言うより、ただの無口。
 怖い顔ってのもあるけど、ネクラなだけ。
 あとは、クレコン！</JapaneseText>
@@ -834,6 +919,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クレコンってのは、
 クレアコンプレックスの略ね！
 まあ、シスコンみたいなもんだヨ♪</JapaneseText>
@@ -844,6 +930,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ボク、意味不明の寝言を言ってたみたいだけど
 夢自体覚えていないから、
 あんまり意味無いよネ</JapaneseText>
@@ -854,6 +941,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>本なら断然、冒険小説がお勧めだヨ！
 メチャメチャ面白いから、
 ○○も読んでごらんヨ♪</JapaneseText>
@@ -864,6 +952,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なんかアドリビトムってさ、
 船のギルドなのに、船酔いするヒト
 結構居たりしてない？</JapaneseText>
@@ -874,6 +963,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アニーに怪談話するとさ、
 イイ感じに怖がってくれるから
 楽しんだよネ♪</JapaneseText>
@@ -884,6 +974,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ボクが日記を書く理由？
 それは思い出作りさ！
 ボク記憶無いから、せめて今は残したいんだ</JapaneseText>
@@ -894,6 +985,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ユージーンの髪って結構長いんだよネ。
 で、ボクが時々チョキチョキしてるんだヨ！
 そろそろ切り時かな？</JapaneseText>
@@ -904,6 +996,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>やま〜♪　やま、高いやま〜♪
 上に登るとチョト寒い？
 ユージーン、毛皮であっためて〜♪</JapaneseText>
@@ -914,6 +1007,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>○○。
 もう、大丈夫なの？</JapaneseText>
       <EnglishText/>
@@ -923,6 +1017,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ボク、勉強なんてしなくても
 全然大丈夫だっていうのにさ。
 ユージーンのお節介っ！</JapaneseText>
@@ -933,6 +1028,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クレアが作るピーチパイって
 本当に美味しんだよネ！
 …え〜？　もう無いの〜っ！？</JapaneseText>
@@ -943,6 +1039,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>また顔色が悪いよ？
 あんまり無茶しちゃダメだヨ？</JapaneseText>
       <EnglishText/>
@@ -952,6 +1049,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>世界樹が治ってきてるのはイイけどさ
 流せない「負」をどうにかしないと
 やっぱヤバイよね…？</JapaneseText>
@@ -962,6 +1060,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>博士が作ってたネズミ、
 なんか可愛いよネ！
 クレアのザピィみたい♪</JapaneseText>
@@ -972,6 +1071,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>また、アニーに怪談話をしてあげたんだけどさ
 笑いながら話すから余計に怖いんだって。
 ナニソレー！？って感じだよネ！</JapaneseText>
@@ -982,6 +1082,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>え？
 ３人も居なくなっちゃったのっ！？
 …どこ行っちゃったんだろうネ…</JapaneseText>
@@ -992,6 +1093,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クロエが無事で良かったネ！
 …イヤな記憶って誰にでもあるものなんだよネ。
 …ボクにもあったのかな…？</JapaneseText>
@@ -1002,6 +1104,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>モスコビー砂漠でアンテナ設置だネ。
 早く行こうヨ！</JapaneseText>
       <EnglishText/>
@@ -1011,6 +1114,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…あ〜、疲れた…。
 …お、お腹ペコペコ…。
 ボク、もう限界みたいなんですけど…</JapaneseText>
@@ -1021,6 +1125,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>美味しいご飯、いっぱい食べたから
 お腹ポンポンッ！
 もう、大丈夫だヨ♪</JapaneseText>
@@ -1031,6 +1136,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ファラも無事で良かったネ！
 ボク、ファラが作るオムレツ大好きっ！
 また作ってもらいたいな〜♪</JapaneseText>
@@ -1041,6 +1147,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…確かに年上だけどさ、
 アニーやルビアにお姉さんぶられると
 ちょっと納得いかない感じがするんですけど</JapaneseText>
@@ -1051,6 +1158,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>普段は子ども扱いするくせに、
 アニーを守れって言ったりするんだ。
 ユージーン、ボクをどっち扱いしたいんだろ？</JapaneseText>
@@ -1061,6 +1169,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アニスも無事で、これで全員そろったネ！
 アニスもまだまだ子どもなんだから、
 もっと甘えたらイイのに</JapaneseText>
@@ -1071,6 +1180,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…あれ？
 なんで笑ってんの？
 ボクまで子供扱いしないでよネッ！</JapaneseText>
@@ -1081,6 +1191,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ボク、ユージーン達と一緒に
 アドリビトムに来れて良かったって思うんだ。
 …記憶を失くしてからの出会いに感謝してるヨ</JapaneseText>
@@ -1091,6 +1202,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>甲板に行きなヨ！
 みんな、待ってるヨ♪</JapaneseText>
       <EnglishText/>
@@ -1100,6 +1212,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ゲーテをバシッとやっつけてさ
 みんなで「勝利の歌」を歌おうっ！</JapaneseText>
       <EnglishText/>
@@ -1109,6 +1222,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ボクが言うのも変かもしれないけど、
 全部片付いて、また戻ってくる時に、
 記憶失くしてちゃダメだからネ！</JapaneseText>
@@ -1119,6 +1233,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ボクの記憶は、まだ戻ってないんだ。
 えへへ…。　ま、今はまだ
 戻んなくてもイイやって感じだけどネ♪</JapaneseText>

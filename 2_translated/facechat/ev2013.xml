@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>フィリア</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リフィル</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ハロルド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -26,6 +29,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ようこそ、○○さん。
 今、負を世界樹に流す為の
 会議を行っているところなんですよ</JapaneseText>
@@ -36,6 +40,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>世界樹の傷はほぼ回復したわ。
 負を受け入れるだけの力はあるでしょう。
 けれども…</JapaneseText>
@@ -46,6 +51,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>負を送り流す先…、その世界樹の組織部は
 精霊の世界に接している</JapaneseText>
       <EnglishText/>
@@ -55,6 +61,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そして、送り流す行為は、
 精霊の手でなくては出来ません</JapaneseText>
       <EnglishText/>
@@ -64,6 +71,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>けれどセルシウスを含め、世界中の精霊も
 負を浴びすぎてヒトに近くなって
 いるんですって</JapaneseText>
@@ -74,6 +82,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>「送り返す行為」は何とか出来ても
 精霊の世界へ干渉する事が
 難しいらしいの</JapaneseText>
@@ -84,6 +93,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>精霊の世界に接触さえ出来れば
 何とかなる、という事ですね。
 …どうすればいいのでしょうか</JapaneseText>
@@ -94,6 +104,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>精霊って、ヒトとエネルギーの
 振動率が違うのよ</JapaneseText>
       <EnglishText/>
@@ -103,6 +114,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>私達の次元より
 ちょっと精妙なだけで、
 ホントは微かながらも物質なのよ</JapaneseText>
@@ -113,6 +125,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>だから、私達の世界のどこかを
 精霊界の物質の振動率に合わせる事が
 出来れば…</JapaneseText>
@@ -123,6 +136,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>精霊界への道を出現させるって事？
 そんな事が可能なのかしら</JapaneseText>
       <EnglishText/>
@@ -132,6 +146,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>理屈の上では。
 ま、今研究中なんだけどね〜</JapaneseText>
       <EnglishText/>
@@ -141,6 +156,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>こんな時に、
 ニアタの知恵が借りられたら…</JapaneseText>
       <EnglishText/>
@@ -150,6 +166,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そうねぇ。
 本体の回路は生きてるみたいだから
 修理してみる？</JapaneseText>
@@ -160,6 +177,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あなたって…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -168,6 +186,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ぐふふ！　天才の頭脳に不可能はないのよ。
 じゃ、マニュアルでも用意しとくわ。
 少し待っててね〜♪</JapaneseText>
