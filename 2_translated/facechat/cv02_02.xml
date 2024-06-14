@@ -39,10 +39,8 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ねえ、聞いていい？</JapaneseText>
-      <EnglishText>Hey, can I ask you something?
-
-</EnglishText>
-      <Notes/>
+      <EnglishText>Hey, can I ask you something?</EnglishText>
+      <Notes>2 Revised by Murilo - 03/06/2024</Notes>
       <SpeakerId>19</SpeakerId>
       <Id>0</Id>
       <Status>Editing</Status>
@@ -50,9 +48,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>なんだ？</JapaneseText>
-      <EnglishText>What is it?
-
-</EnglishText>
+      <EnglishText>What is it?</EnglishText>
       <Notes/>
       <SpeakerId>32</SpeakerId>
       <Id>1</Id>
@@ -61,9 +57,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>どうかしたの？</JapaneseText>
-      <EnglishText>Is something wrong?
-
-</EnglishText>
+      <EnglishText>Is something wrong?</EnglishText>
       <Notes/>
       <SpeakerId>33</SpeakerId>
       <Id>2</Id>
@@ -72,9 +66,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>英雄って知ってる？</JapaneseText>
-      <EnglishText>Do you know what a hero is?
-
-</EnglishText>
+      <EnglishText>Do you know what a hero is?</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>3</Id>
@@ -83,9 +75,8 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>…それって神話か何かの話？</JapaneseText>
-      <EnglishText>...Is that like something from mythology or something?
-
-</EnglishText>
+      <EnglishText>Is that like something from
+mythology or something?</EnglishText>
       <Notes/>
       <SpeakerId>33</SpeakerId>
       <Id>4</Id>
@@ -96,9 +87,9 @@
       <JapaneseText>そうじゃなくってさ、
 世界の危機を救うような活躍をした
 英雄と呼ばれるような人だよ</JapaneseText>
-      <EnglishText>No, I mean a person who did something to save the world from a crisis, someone you’d call a hero.
-
-</EnglishText>
+      <EnglishText>No, I mean a person who did something
+to save the world from a crisis,
+someone you'd call a hero.</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>5</Id>
@@ -109,9 +100,8 @@
       <JapaneseText>…知らないな。
 世界の危機が起こったのは
 かれこれ数百年昔の事だ</JapaneseText>
-      <EnglishText>...I don’t know. The last time the world was in crisis was hundreds of years ago.
-
-</EnglishText>
+      <EnglishText>I don't know...the last world crisis
+was hundreds of years ago.</EnglishText>
       <Notes/>
       <SpeakerId>32</SpeakerId>
       <Id>6</Id>
@@ -121,9 +111,8 @@
       <PointerOffset/>
       <JapaneseText>○○が…、ディセンダーが
 かつていた過去の時代よね？</JapaneseText>
-      <EnglishText>○○... Descender, in the past, right?
-
-</EnglishText>
+      <EnglishText>○○... The Descenders were
+from a past era, right?</EnglishText>
       <Notes/>
       <SpeakerId>33</SpeakerId>
       <Id>7</Id>
@@ -132,9 +121,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>覚えていない</JapaneseText>
-      <EnglishText>I don’t remember.
-
-</EnglishText>
+      <EnglishText>I don't remember.</EnglishText>
       <Notes>Choice 1</Notes>
       <Id>8</Id>
       <Status>Editing</Status>
@@ -142,9 +129,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>その通りだ</JapaneseText>
-      <EnglishText>That’s right.
-
-</EnglishText>
+      <EnglishText>That's right.</EnglishText>
       <Notes>Choice 2</Notes>
       <Id>9</Id>
       <Status>Editing</Status>
@@ -152,9 +137,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>そう…だったわね</JapaneseText>
-      <EnglishText>Yes... that's how it was.
-
-</EnglishText>
+      <EnglishText>Yes...that's how it was.</EnglishText>
       <Notes/>
       <SpeakerId>33</SpeakerId>
       <Id>10</Id>
@@ -164,9 +147,8 @@
       <PointerOffset/>
       <JapaneseText>といってもその記憶が
 残っているわけじゃないんだろ？</JapaneseText>
-      <EnglishText>But you don’t actually have those memories, right?
-
-</EnglishText>
+      <EnglishText>But you don't actually have those
+memories, right?</EnglishText>
       <Notes>Previous Choice 2 leads here</Notes>
       <SpeakerId>32</SpeakerId>
       <Id>11</Id>
@@ -175,9 +157,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>そうか…、やっぱり英雄はいないのか</JapaneseText>
-      <EnglishText>I see... So, there really are no heroes.
-
-</EnglishText>
+      <EnglishText>I see... So, there really are no heroes.</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>12</Id>
@@ -188,9 +168,8 @@
       <JapaneseText>まあ、父さん母さんはともかく、
 ウッドロウさんぐらいは有名でも
 おかしくないのにな…</JapaneseText>
-      <EnglishText>Well, aside from my parents, someone like Woodrow could be famous too...
-
-</EnglishText>
+      <EnglishText>Well, aside from my parents, someone
+like Woodrow is, at least, famous...</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>13</Id>
@@ -200,9 +179,8 @@
       <PointerOffset/>
       <JapaneseText>でもでもっ！
 ウッドロウさんはすっごいお金持ちみたい！</JapaneseText>
-      <EnglishText>But, but! Woodrow seems to be super rich!
-
-</EnglishText>
+      <EnglishText>But, but! Woodrow seems to be
+super rich!</EnglishText>
       <Notes/>
       <SpeakerId>43</SpeakerId>
       <Id>14</Id>
@@ -213,9 +191,9 @@
       <JapaneseText>私の情報によると、
 自費でいくつものギルドを立ち上げたって
 話だよ</JapaneseText>
-      <EnglishText>According to my information, he founded several guilds with his own money.
-
-</EnglishText>
+      <EnglishText>According to my information, he
+founded several guilds with his
+own money.</EnglishText>
       <Notes/>
       <SpeakerId>43</SpeakerId>
       <Id>15</Id>
@@ -225,9 +203,8 @@
       <PointerOffset/>
       <JapaneseText>あの人なら、市民の生活の為に
 それぐらいやっちゃうよ</JapaneseText>
-      <EnglishText>If it's him, he'd do that much for the citizens' lives.
-
-</EnglishText>
+      <EnglishText>He definitely would do something like
+that for the sake of the citizens.</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>16</Id>
@@ -238,9 +215,8 @@
       <JapaneseText>つまり、よっぽどの金余りって事じゃん！☆
 はわぁ〜〜〜〜！
 すっごい！　こりゃ狙い目っ</JapaneseText>
-      <EnglishText>So, he must have a lot of extra money! ☆ Wow~~! Amazing! What a target!
-
-</EnglishText>
+      <EnglishText>So, he must have plenty of cash!
+Wow! What a golden chance!</EnglishText>
       <Notes/>
       <SpeakerId>43</SpeakerId>
       <Id>17</Id>
@@ -260,9 +236,9 @@
       <JapaneseText>すごい熱意ね。
 あれを別の事に向ければ、
 アニスだって英雄になれるかも</JapaneseText>
-      <EnglishText>Such enthusiasm. If you directed that towards something else, even you, Anise, could become a hero.
-
-</EnglishText>
+      <EnglishText>Such enthusiasm. If you directed that
+towards something else, even you,
+Anise, could become a hero.</EnglishText>
       <Notes/>
       <SpeakerId>33</SpeakerId>
       <Id>19</Id>
@@ -271,14 +247,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>有名人にはなれるかも…</JapaneseText>
-      <EnglishText>Maybe I could become famous...
-
-
-
-
-
-
-</EnglishText>
+      <EnglishText>Maybe I'll become famous...</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>20</Id>

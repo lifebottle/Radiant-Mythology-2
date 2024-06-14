@@ -49,10 +49,9 @@
       <JapaneseText>はいはい、なーんか集まってるわねぇ。
 いいわよ〜、質問があるなら
 挙手にてどうぞ</JapaneseText>
-      <EnglishText>Alright, alright, seems like we're gathering here. Alright then, if you have any questions, please raise your hand.
-
-</EnglishText>
-      <Notes/>
+      <EnglishText>Alright, as we're gathering, if you have
+any questions, please raise your hand.</EnglishText>
+      <Notes>17 - Revised by Murilo - 14/06/2024</Notes>
       <SpeakerId>22</SpeakerId>
       <Id>0</Id>
       <Status>Editing</Status>
@@ -61,9 +60,7 @@
       <PointerOffset/>
       <JapaneseText>はい。
 ではまず私から</JapaneseText>
-      <EnglishText>Yes. Well then, let me start.
-
-</EnglishText>
+      <EnglishText>Yes. Well then, let me start.</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>1</Id>
@@ -72,9 +69,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>なぜ男の名前を名乗っているの？</JapaneseText>
-      <EnglishText>Why are you using a male name?
-
-</EnglishText>
+      <EnglishText>Why are you using a male name?</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>2</Id>
@@ -85,9 +80,8 @@
       <JapaneseText>面白いからよ。
 男と誤解されてね。
 以上！　はい、次！</JapaneseText>
-      <EnglishText>Because it's amusing. It leads to being misunderstood as a man. That's it! Next!
-
-</EnglishText>
+      <EnglishText>Because it's amusing. It leads to being
+misunderstood as a man. Alright! Next!</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>3</Id>
@@ -96,9 +90,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>はい、次はぼくだ</JapaneseText>
-      <EnglishText>Alright, next is me.
-
-</EnglishText>
+      <EnglishText>Alright, next is me.</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>4</Id>
@@ -108,9 +100,9 @@
       <PointerOffset/>
       <JapaneseText>あんたの科学的業績は結構なものだが、
 なぜ以前のギルドでは疎まれてた？</JapaneseText>
-      <EnglishText>Your scientific achievements are quite something, but why were you disliked in your previous guild?
-
-</EnglishText>
+      <EnglishText>Your scientific achievements are quite
+something, but why were you disliked
+in your previous guild?</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>5</Id>
@@ -120,9 +112,8 @@
       <PointerOffset/>
       <JapaneseText>さあ？　私の事、ギルドの長が
 嫌ってたからじゃない？</JapaneseText>
-      <EnglishText>Who knows? Maybe because the guild leader didn't like me?
-
-</EnglishText>
+      <EnglishText>Who knows? Maybe because the guild
+leader didn't like me?</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>6</Id>
@@ -132,8 +123,7 @@
       <PointerOffset/>
       <JapaneseText>はい、次、あたし！
 なぜギルドで働くの？</JapaneseText>
-      <EnglishText>I'm next! So, why work in a guild?
-</EnglishText>
+      <EnglishText>I'm next! So, why work in a guild?</EnglishText>
       <Notes/>
       <SpeakerId>46</SpeakerId>
       <Id>7</Id>
@@ -144,9 +134,9 @@
       <JapaneseText>有名な学者さんだったら、
 ギルドで働かず、もっと別の所で
 働けばいいんじゃないかしら？</JapaneseText>
-      <EnglishText>If you were a famous scholar, couldn't you work somewhere else instead of a guild?
-
-</EnglishText>
+      <EnglishText>If you were a famous scholar, couldn't
+you work somewhere else instead of
+a guild?</EnglishText>
       <Notes/>
       <SpeakerId>46</SpeakerId>
       <Id>8</Id>
@@ -157,9 +147,9 @@
       <JapaneseText>軍の研究施設で働いた事あったけど、
 好き勝手しちゃあ怒られるのよね。
 そんなの面白くないじゃない</JapaneseText>
-      <EnglishText>I worked in military research facilities before, but I got scolded for doing as I pleased. That's not fun, you know?
-
-</EnglishText>
+      <EnglishText>I worked in military research facilities
+before, but I got scolded for doing as
+I pleased. That's not fun, you know?</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>9</Id>
@@ -168,9 +158,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ほい、次</JapaneseText>
-      <EnglishText>Alright, next.
-
-</EnglishText>
+      <EnglishText>Alright, next.</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>10</Id>
@@ -179,9 +167,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>はい、私もいいかなぁ？</JapaneseText>
-      <EnglishText>Yes, can I go next?
-
-</EnglishText>
+      <EnglishText>Yes, can I go next?</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>11</Id>
@@ -190,9 +176,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>犬派？　猫派？</JapaneseText>
-      <EnglishText>Dog person? Cat person?
-
-</EnglishText>
+      <EnglishText>Dog person? Cat person?</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>12</Id>
@@ -203,9 +187,9 @@
       <JapaneseText>あら、二択じゃないと駄目？
 好きな生き物は研究対象全般
 なんだけどね</JapaneseText>
-      <EnglishText>Oh, does it have to be binary? I like studying all kinds of creatures.
-
-</EnglishText>
+      <EnglishText>Oh, does it have to be a choice
+between two options? I like all
+the creatures I study.</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>13</Id>
@@ -214,9 +198,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>世界樹をどう思う？</JapaneseText>
-      <EnglishText>What do you think of the World Tree?
-
-</EnglishText>
+      <EnglishText>What do you think of the World Tree?</EnglishText>
       <Notes>Choice 1</Notes>
       <Id>14</Id>
       <Status>Editing</Status>
@@ -224,9 +206,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>やる気はあるのか？</JapaneseText>
-      <EnglishText>Do you have any motivation?
-
-</EnglishText>
+      <EnglishText>Do you have any motivation?</EnglishText>
       <Notes>Choice 2</Notes>
       <Id>15</Id>
       <Status>Editing</Status>
@@ -235,9 +215,8 @@
       <PointerOffset/>
       <JapaneseText>どうとも思わないわね。
 ま、必要な人には必要なんでしょう</JapaneseText>
-      <EnglishText>I don't really care. Well, I suppose it's necessary for those who need it.
-
-</EnglishText>
+      <EnglishText>I don't really care. Well, I suppose it's
+necessary for those who need it.</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>16</Id>
@@ -246,9 +225,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>具体性に欠く質問ね</JapaneseText>
-      <EnglishText>That's a question lacking in specificity.
-
-</EnglishText>
+      <EnglishText>That's a question lacking in specificity.</EnglishText>
       <Notes>Previous Choice 2 leads here</Notes>
       <SpeakerId>22</SpeakerId>
       <Id>17</Id>
@@ -259,9 +236,8 @@
       <JapaneseText>何に対してなのか、そして
 「ある」「なし」の二元論的で
 答えていいものかしら</JapaneseText>
-      <EnglishText>What is it about, and is it okay to answer with a binary "yes" or "no"?
-
-</EnglishText>
+      <EnglishText>What is it about, and is it okay to
+answer with a binary "yes" or "no"?</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>18</Id>
@@ -271,9 +247,7 @@
       <PointerOffset/>
       <JapaneseText>もっと条件を限定して
 もらいたいものね</JapaneseText>
-      <EnglishText>I'd like more specific conditions.
-
-</EnglishText>
+      <EnglishText>I'd like more specific conditions.</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>19</Id>
@@ -282,9 +256,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>他に質問は？</JapaneseText>
-      <EnglishText>Any other questions?
-
-</EnglishText>
+      <EnglishText>Any other questions?</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>20</Id>
@@ -294,14 +266,8 @@
       <PointerOffset/>
       <JapaneseText>ありゃりゃ、
 まだまだあるみたいね〜…</JapaneseText>
-      <EnglishText>Oh dear, it looks like there are still plenty more...
-
-
-
-
-
-
-</EnglishText>
+      <EnglishText>Oh dear, it looks like there are still
+plenty more...</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>21</Id>

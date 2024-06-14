@@ -33,10 +33,9 @@
       <JapaneseText>スタンさんは、
 いつ頃ご結婚したいとか
 考えていらっしゃいますか？</JapaneseText>
-      <EnglishText>Sthan, have you ever thought about when you'd like to get married?
-
-</EnglishText>
-      <Notes/>
+      <EnglishText>Sthan, have you ever thought about
+when you'd like to get married?</EnglishText>
+      <Notes>14 - Revised by Murilo - 05/06/2024</Notes>
       <SpeakerId>20</SpeakerId>
       <Id>0</Id>
       <Status>Editing</Status>
@@ -45,8 +44,8 @@
       <PointerOffset/>
       <JapaneseText>そーだなぁ、俺より先に
 リリスにお嫁に行って欲しいなぁ</JapaneseText>
-      <EnglishText>Yeah, I hope Lilith gets married before me.
-</EnglishText>
+      <EnglishText>Well, I'd like Lilith to get married
+before me.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>1</Id>
@@ -56,9 +55,8 @@
       <PointerOffset/>
       <JapaneseText>あ、でもじいちゃんに
 早く初孫抱かせてやりたいし…</JapaneseText>
-      <EnglishText>Oh, but I also want to give grandpa a grandchild soon...
-
-</EnglishText>
+      <EnglishText>Oh, but I also want to give grandpa a
+grandchild soon...</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>2</Id>
@@ -68,8 +66,8 @@
       <PointerOffset/>
       <JapaneseText>簡単に言うが、スタン、
 結婚は一人で出来るものじゃないぞ</JapaneseText>
-      <EnglishText>It's easy to say, Sthan, but marriage isn't something you can do alone.
-</EnglishText>
+      <EnglishText>It's easy to say, Sthan, but marriage
+isn't something you can do alone.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>3</Id>
@@ -79,9 +77,8 @@
       <PointerOffset/>
       <JapaneseText>あ〜、そういえばそうだな。
 結婚って一人で出来ないんだっけ</JapaneseText>
-      <EnglishText>Ah, now that you mention it, yeah. You can't get married by yourself, huh?
-
-</EnglishText>
+      <EnglishText>Ah, now that you mention it, yeah. You
+can't get married by yourself, huh?</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>4</Id>
@@ -90,9 +87,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>…呆れたヤツだ</JapaneseText>
-      <EnglishText>...What a hopeless case.
-
-</EnglishText>
+      <EnglishText>...What a hopeless case.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>5</Id>
@@ -103,8 +98,8 @@
       <JapaneseText>（やっぱり、わたしの知るスタンさんとは
 　違うのかしら…。
 　ううん、これからルーティさんと…？）</JapaneseText>
-      <EnglishText>(Maybe the Sthan I know is different after all... No, I wonder about Rutee from now on...?)
-</EnglishText>
+      <EnglishText>(Maybe the Sthan I know is different
+after all... No, I wonder if Rutee...?)</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>6</Id>
@@ -113,9 +108,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>どうしたんだ、ボーッとしてさ</JapaneseText>
-      <EnglishText>What's wrong? You're spacing out.
-
-</EnglishText>
+      <EnglishText>What's wrong? You're spacing out.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>7</Id>
@@ -124,14 +117,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>い、いえ…</JapaneseText>
-      <EnglishText>N-No, it's nothing...
-
-
-
-
-
-
-</EnglishText>
+      <EnglishText>N-No, it's nothing...</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>8</Id>

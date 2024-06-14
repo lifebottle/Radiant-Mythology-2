@@ -32,10 +32,9 @@
       <PointerOffset/>
       <JapaneseText>ふ〜ん、ここが機関室かぁ。
 想像してたより、けれんみのない構造ね</JapaneseText>
-      <EnglishText>Hmm, so this is the engine room. It's a less fancy structure than I imagined.
-
-</EnglishText>
-      <Notes/>
+      <EnglishText>Hmm, so this is the engine room. It's a
+less fancy structure than I imagined.</EnglishText>
+      <Notes>18 - Revised by Murilo - 14/06/2024</Notes>
       <SpeakerId>22</SpeakerId>
       <Id>0</Id>
       <Status>Editing</Status>
@@ -43,9 +42,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>何か用ですか？　ハロルドさん</JapaneseText>
-      <EnglishText>Do you need something, Ms. Harold?
-
-</EnglishText>
+      <EnglishText>Do you need something, Ms. Harold?</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>1</Id>
@@ -56,9 +53,9 @@
       <JapaneseText>ここに来た理由なら、
 ２５６種類ぐらい挙げられるけど、
 一番の理由は暇つぶしね</JapaneseText>
-      <EnglishText>If you're asking why I came here, I could list about 256 reasons, but the main one is to kill time.
-
-</EnglishText>
+      <EnglishText>If you're asking why I came here, I
+could list about 256 reasons, but
+the main one is to kill time.</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>2</Id>
@@ -69,9 +66,9 @@
       <JapaneseText>あんたも同好の志…というか
 科学者だもんな。
 興味あって当然か</JapaneseText>
-      <EnglishText>You're also of like mind... well, you're a scientist. It's only natural to be interested.
-
-</EnglishText>
+      <EnglishText>You're also of like mind... Well, you're
+a scientist. It's only natural to be
+interested.</EnglishText>
       <Notes/>
       <SpeakerId>41</SpeakerId>
       <Id>3</Id>
@@ -81,9 +78,8 @@
       <PointerOffset/>
       <JapaneseText>そういう事なら
 どうぞ見学していって下さい</JapaneseText>
-      <EnglishText>If that's the case, feel free to take a look around.
-
-</EnglishText>
+      <EnglishText>If that's the case, feel free to take a
+look around.</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>4</Id>
@@ -93,9 +89,7 @@
       <PointerOffset/>
       <JapaneseText>どうです？
 この…</JapaneseText>
-      <EnglishText>What do you think of this...
-
-</EnglishText>
+      <EnglishText>What do you think of this...</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>5</Id>
@@ -106,9 +100,9 @@
       <JapaneseText>あら、マクストン機関ね。
 今となっちゃあ古臭いけど、
 大出力を出すのに適した構造よ</JapaneseText>
-      <EnglishText>Oh, it's the Maxton engine. It's a bit outdated now, but it's a structure suited for high output.
-
-</EnglishText>
+      <EnglishText>Oh, it's the Maxton engine. It's a bit
+outdated now, but it's a structure
+suited for high output.</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>6</Id>
@@ -119,9 +113,9 @@
       <JapaneseText>臨界トルクをざっと暗算するなら、
 …そうねぇ理論値を越えて
 ３万エスト近く出るんじゃないの？</JapaneseText>
-      <EnglishText>If I were to roughly calculate the critical torque... hmm, I'd say it exceeds the theoretical value, reaching close to 30,000 Est.
-
-</EnglishText>
+      <EnglishText>The estimated critical torque exceeds
+the theoretical value, nearing about
+30,000 units.</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>7</Id>
@@ -131,9 +125,7 @@
       <PointerOffset/>
       <JapaneseText>え、ええ…、
 おっしゃる通りです…けど</JapaneseText>
-      <EnglishText>Uh, y-yes... that's right... but...
-
-</EnglishText>
+      <EnglishText>Uh, y-yes...that's right...but...</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>8</Id>
@@ -143,9 +135,8 @@
       <PointerOffset/>
       <JapaneseText>あらら？　どうしたの？
 機嫌悪そうだけど</JapaneseText>
-      <EnglishText>Oh dear? What's wrong? You seem upset.
-
-</EnglishText>
+      <EnglishText>Oh, dear? What's wrong?
+You seem upset.</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>9</Id>
@@ -155,9 +146,8 @@
       <PointerOffset/>
       <JapaneseText>説明したかったのに、
 先に言われてしまったからじゃないのか</JapaneseText>
-      <EnglishText>You wanted to explain, but I beat you to it, didn't I?
-
-</EnglishText>
+      <EnglishText>You wanted to explain, but she beat you
+to it, didn't she?</EnglishText>
       <Notes/>
       <SpeakerId>41</SpeakerId>
       <Id>10</Id>
@@ -167,9 +157,8 @@
       <PointerOffset/>
       <JapaneseText>こりゃあ、船長の生き甲斐を
 奪ったようなもんかな</JapaneseText>
-      <EnglishText>Well, this might feel like I've taken away the captain's raison d'être.
-
-</EnglishText>
+      <EnglishText>Well, this might feel like she have taken
+away the captain's raison d'être.</EnglishText>
       <Notes/>
       <SpeakerId>41</SpeakerId>
       <Id>11</Id>
@@ -180,9 +169,9 @@
       <JapaneseText>そりゃ悪かったわねぇ。
 ハイ、じゃあ、聞いてあげるから、
 何か言ってみて</JapaneseText>
-      <EnglishText>Well, that was thoughtless of me. Alright, then, I'll listen, so go ahead and say something.
-
-</EnglishText>
+      <EnglishText>Well, that was thoughtless of me.
+Alright, then, I'll listen, so go
+ahead and say something.</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>12</Id>
@@ -191,9 +180,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>もう全部言われました！</JapaneseText>
-      <EnglishText>I've already said everything!
-
-</EnglishText>
+      <EnglishText>I've already said everything!</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>13</Id>
@@ -202,9 +189,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>あ〜あ…</JapaneseText>
-      <EnglishText>Oh dear...
-
-</EnglishText>
+      <EnglishText>Oh dear...</EnglishText>
       <Notes/>
       <SpeakerId>41</SpeakerId>
       <Id>14</Id>
@@ -214,9 +199,8 @@
       <PointerOffset/>
       <JapaneseText>まあ、これも科学による
 犠牲者ってヤツね</JapaneseText>
-      <EnglishText>Well, this is also a casualty of science, huh?
-
-</EnglishText>
+      <EnglishText>Well, this is also a casualty of science,
+huh?</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>15</Id>
@@ -225,14 +209,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>やれやれ…、なんて言い草だ</JapaneseText>
-      <EnglishText>Good grief... that's what they say.
-
-
-
-
-
-
-</EnglishText>
+      <EnglishText>Good grief... that's what they say.</EnglishText>
       <Notes/>
       <SpeakerId>41</SpeakerId>
       <Id>16</Id>

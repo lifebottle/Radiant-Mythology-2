@@ -23,10 +23,9 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ねえ、もう船には慣れた？</JapaneseText>
-      <EnglishText>Hey, have you gotten used to the ship yet?
-
-</EnglishText>
-      <Notes/>
+      <EnglishText>Hey, have you gotten used to the
+ship yet?</EnglishText>
+      <Notes>15 - Revised by Murilo - 05/06/2024</Notes>
       <SpeakerId>50</SpeakerId>
       <Id>0</Id>
       <Status>Editing</Status>
@@ -35,9 +34,8 @@
       <PointerOffset/>
       <JapaneseText>ええ、おかげさまで。
 でも、まだ少し落ち着かないみたい</JapaneseText>
-      <EnglishText>Yes, thanks. But still, I feel a bit unsettled.
-
-</EnglishText>
+      <EnglishText>Yes, thanks. But still, I feel a bit
+unsettled.</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>1</Id>
@@ -48,9 +46,8 @@
       <JapaneseText>それは仕方ないよね。
 徐々に居心地が良くなるよ。
 私もそうだったし</JapaneseText>
-      <EnglishText>That's understandable. You'll gradually get more comfortable. I felt the same way.
-
-</EnglishText>
+      <EnglishText>That's understandable. You'll gradually
+get more comfortable. I felt the same.</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>2</Id>
@@ -59,9 +56,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>いえ、わたしじゃなくカイルが…</JapaneseText>
-      <EnglishText>No, it's not me, it's Kyle...
-
-</EnglishText>
+      <EnglishText>No, it's not me, it's Kyle...</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>3</Id>
@@ -72,9 +67,8 @@
       <JapaneseText>…ま、まあ、彼だってもう少し
 大人になれば、
 落ち着くんじゃないかしら？</JapaneseText>
-      <EnglishText>Well, I mean, maybe if he matures a bit more, he'll settle down, don't you think?
-
-</EnglishText>
+      <EnglishText>Well, I mean, maybe if he matures a bit
+more, he'll settle down, don't you think?</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>4</Id>
@@ -83,14 +77,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>そうあってもらいたいけど…</JapaneseText>
-      <EnglishText>I hope so, but...
-
-
-
-
-
-
-</EnglishText>
+      <EnglishText>I hope so, but...</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>5</Id>

@@ -39,10 +39,8 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>バルバトスに会った…ですって？</JapaneseText>
-      <EnglishText>You met Barbatos... you said?
-
-</EnglishText>
-      <Notes/>
+      <EnglishText>You met Barbatos... you said?</EnglishText>
+      <Notes>11 - Revised by Murilo - 04/06/2024</Notes>
       <SpeakerId>20</SpeakerId>
       <Id>0</Id>
       <Status>Editing</Status>
@@ -51,9 +49,7 @@
       <PointerOffset/>
       <JapaneseText>ええ。
 そう名乗ってたわ</JapaneseText>
-      <EnglishText>Yes. That's what he introduced himself as.
-
-</EnglishText>
+      <EnglishText>Yes. That's what he introduced himself as.</EnglishText>
       <Notes/>
       <SpeakerId>40</SpeakerId>
       <Id>1</Id>
@@ -62,9 +58,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>知っているのか？</JapaneseText>
-      <EnglishText>Do you know him?
-
-</EnglishText>
+      <EnglishText>Do you know him?</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>2</Id>
@@ -74,9 +68,7 @@
       <PointerOffset/>
       <JapaneseText>うん。
 元いた世界で…、ちょっとね</JapaneseText>
-      <EnglishText>Yeah. From the world I used to live in... kind of.
-
-</EnglishText>
+      <EnglishText>Yeah. From the world I used to live in... kind of.</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>3</Id>
@@ -85,9 +77,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>追ってきたの？</JapaneseText>
-      <EnglishText>Did he follow you?
-
-</EnglishText>
+      <EnglishText>Did he follow you?</EnglishText>
       <Notes>Choice 1</Notes>
       <Id>4</Id>
       <Status>Editing</Status>
@@ -95,9 +85,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>勝ったの？</JapaneseText>
-      <EnglishText>Did you win?
-
-</EnglishText>
+      <EnglishText>Did you win?</EnglishText>
       <Notes>Choice 2</Notes>
       <Id>5</Id>
       <Status>Editing</Status>
@@ -107,9 +95,7 @@
       <JapaneseText>…ううん、それはないと思う。
 恐らく…、これも偶然
 「同じ名前のよく似た人」なんでしょうね</JapaneseText>
-      <EnglishText>...No, I don't think so. Probably... it's just another coincidence, "a person with a similar name."
-
-</EnglishText>
+      <EnglishText>...No, I don't think so. Probably... it's just another coincidence, "a person with a similar name."</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>6</Id>
@@ -119,9 +105,7 @@
       <PointerOffset/>
       <JapaneseText>勝ったというか…、
 とりあえず凌げた程度かしら</JapaneseText>
-      <EnglishText>I wouldn't say "won"... more like I managed to get through, for now.
-
-</EnglishText>
+      <EnglishText>I wouldn't say "won"... more like I managed to get through, for now.</EnglishText>
       <Notes>Previous Choice 2 leads here</Notes>
       <SpeakerId>20</SpeakerId>
       <Id>7</Id>
@@ -131,9 +115,7 @@
       <PointerOffset/>
       <JapaneseText>よく事情はわからないが、
 あいつは常軌を逸している</JapaneseText>
-      <EnglishText>I don't really know the details, but he's quite eccentric.
-
-</EnglishText>
+      <EnglishText>I don't really know the details, but he's quite eccentric.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>8</Id>
@@ -142,9 +124,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ええ、もう二度と会いたくないわね</JapaneseText>
-      <EnglishText>Yes, I never want to see him again.
-
-</EnglishText>
+      <EnglishText>Yes, I never want to see him again.</EnglishText>
       <Notes/>
       <SpeakerId>40</SpeakerId>
       <Id>9</Id>
@@ -154,9 +134,7 @@
       <PointerOffset/>
       <JapaneseText>…ここでもあいつに
 悩まされるのか</JapaneseText>
-      <EnglishText>...Are we going to be troubled by him here too?
-
-</EnglishText>
+      <EnglishText>...Are we going to be troubled by him here too?</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>10</Id>
@@ -166,9 +144,7 @@
       <PointerOffset/>
       <JapaneseText>…わたし達の知るバルバトスなのかは
 わからないけれど、これも因縁だわ</JapaneseText>
-      <EnglishText>...I don't know if it's the same Barbatos we know, but it seems like fate.
-
-</EnglishText>
+      <EnglishText>...I don't know if it's the same Barbatos we know, but it seems like fate.</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>11</Id>
@@ -177,9 +153,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>そうだね！</JapaneseText>
-      <EnglishText>Yeah!
-
-</EnglishText>
+      <EnglishText>Yeah!</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>12</Id>
@@ -190,9 +164,7 @@
       <JapaneseText>よし、オレ、アイツを倒す！
 本当の英雄なら、
 こんな事でへこたれないもんね！</JapaneseText>
-      <EnglishText>Alright, I'll defeat him! A real hero wouldn't be deterred by something like this!
-
-</EnglishText>
+      <EnglishText>Alright, I'll defeat him! A real hero wouldn't be deterred by something like this!</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>13</Id>
@@ -201,9 +173,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ふん、軽々しく英雄を名乗るな</JapaneseText>
-      <EnglishText>Hmph, don't casually claim to be a hero.
-
-</EnglishText>
+      <EnglishText>Hmph, don't casually claim to be a hero.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>14</Id>
@@ -213,9 +183,7 @@
       <PointerOffset/>
       <JapaneseText>…いえ、カイルは英雄よ。
 わたしだけの…</JapaneseText>
-      <EnglishText>...No, Kyle is a hero. To me, at least...
-
-</EnglishText>
+      <EnglishText>...No, Kyle is a hero. To me, at least...</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>15</Id>
@@ -224,8 +192,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>何か言った？　リアラ</JapaneseText>
-      <EnglishText>Did you say something, Reala?
-</EnglishText>
+      <EnglishText>Did you say something, Reala?</EnglishText>
       <Notes/>
       <SpeakerId>40</SpeakerId>
       <Id>16</Id>
@@ -234,14 +201,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ううん、独り言よ</JapaneseText>
-      <EnglishText>No, just talking to myself.
-
-
-
-
-
-
-</EnglishText>
+      <EnglishText>No, just talking to myself.</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>17</Id>

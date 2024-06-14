@@ -40,7 +40,7 @@
       <PointerOffset/>
       <JapaneseText>………</JapaneseText>
       <EnglishText>...</EnglishText>
-      <Notes/>
+      <Notes>3 Revised by Murilo - 04/06/2024</Notes>
       <SpeakerId>19</SpeakerId>
       <Id>0</Id>
       <Status>Editing</Status>
@@ -48,9 +48,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>…どうかしたの、カイル？</JapaneseText>
-      <EnglishText>…What's wrong, Kyle?
-
-</EnglishText>
+      <EnglishText>...What's wrong, Kyle?</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>1</Id>
@@ -61,8 +59,8 @@
       <JapaneseText>リアラ、オレ、考えたんだ。
 今のこの世界から
 去るわけにいかないよね</JapaneseText>
-      <EnglishText>Reala, I've been thinking. We can't just leave this world as it is now, can we?
-</EnglishText>
+      <EnglishText>Reala, we can't just leave this world
+as it is now, can we?</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>2</Id>
@@ -73,9 +71,9 @@
       <JapaneseText>自分の世界を放っておくのは
 心が痛むけどさ、でも目の前で
 困った人を見過ごすなんて出来ない！</JapaneseText>
-      <EnglishText>It pains me to leave my own world behind, but I can't just ignore people in need right in front of me!
-
-</EnglishText>
+      <EnglishText>It hurts to leave my world behind,
+but I can't ignore those in need
+right in front of me!</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>3</Id>
@@ -85,9 +83,8 @@
       <PointerOffset/>
       <JapaneseText>どうしたんだ？
 大きな声出してたけど</JapaneseText>
-      <EnglishText>What's wrong? You were raising your voice.
-
-</EnglishText>
+      <EnglishText>Is something wrong? You were
+speaking loudly.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>4</Id>
@@ -96,9 +93,8 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>父さ…スタンさん！　オレ、決めました！</JapaneseText>
-      <EnglishText>Father... Mr. Sthan! I've made up my mind!
-
-</EnglishText>
+      <EnglishText>Father... Mr. Sthan! I've made
+up my mind!</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>5</Id>
@@ -109,9 +105,9 @@
       <JapaneseText>帰れる時が来れば
 すぐ帰るつもりだったけど、
 全部かたがつくまで、ここに残ります</JapaneseText>
-      <EnglishText>I was planning to return as soon as I could, but I'll stay here until everything is settled.
-
-</EnglishText>
+      <EnglishText>I was planning to return as soon as
+I could, but I'll stay here until
+everything is settled.</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>6</Id>
@@ -122,9 +118,9 @@
       <JapaneseText>あらあら、付き合いがいいわね。
 自分の事よりも他人の事だなんて、
 随分お人好しじゃない？</JapaneseText>
-      <EnglishText>Oh my, you're so accommodating. Being more concerned about others than yourself, you're quite the softy, aren't you?
-
-</EnglishText>
+      <EnglishText>You're so considerate, always putting
+others before yourself. You're quite
+the softy, aren't you?</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>7</Id>
@@ -135,9 +131,8 @@
       <JapaneseText>そうかもしれません。
 でも、やっぱこの世界の人達の事、
 オレ好きですから！</JapaneseText>
-      <EnglishText>Maybe so. But I really care about the people in this world!
-
-</EnglishText>
+      <EnglishText>Maybe so. But I really care about the
+people in this world!</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>8</Id>
@@ -146,9 +141,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ね、いいだろ？　リアラ</JapaneseText>
-      <EnglishText>Hey, is that okay? Reala.
-
-</EnglishText>
+      <EnglishText>Hey, is that okay? Reala.</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>9</Id>
@@ -159,9 +152,8 @@
       <JapaneseText>わたしは…、あなたに賛成だわ。
 カイル。
 あなたの思う通りにやってみて</JapaneseText>
-      <EnglishText>I... I agree with you, Kyle. Do what you think is right.
-
-</EnglishText>
+      <EnglishText>I... I agree with you, Kyle.
+Do what you think is right.</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>10</Id>
@@ -172,9 +164,9 @@
       <JapaneseText>う〜ん…、前から思ってたんだけど、
 リアラはカイルを放任しすぎじゃない？
 もっと手綱握っておかないと</JapaneseText>
-      <EnglishText>Hmm... I've been thinking for a while, but isn't Reala letting Kyle do whatever he wants too much? We need to control him more.
-
-</EnglishText>
+      <EnglishText>Hmm... I've been thinking, Isn't Reala
+letting Kyle do whatever he wants
+too much? We need to control him.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>11</Id>
@@ -183,9 +175,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>そう…ですか？</JapaneseText>
-      <EnglishText>Is that so?
-
-</EnglishText>
+      <EnglishText>Is that so?</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>12</Id>
@@ -195,9 +185,8 @@
       <PointerOffset/>
       <JapaneseText>男のわがままなんかに
 いちいち付き合ってたら駄目ね</JapaneseText>
-      <EnglishText>You can't just indulge every whim of a man.
-
-</EnglishText>
+      <EnglishText>You can't just indulge every whim
+of a man.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>13</Id>
@@ -207,9 +196,8 @@
       <PointerOffset/>
       <JapaneseText>自分の理想を叶える前に
 おばあちゃんになっちゃうわよ？</JapaneseText>
-      <EnglishText>You'll become a grandmother before you fulfill your own dreams.
-
-</EnglishText>
+      <EnglishText>You'll become a grandmother before
+you fulfill your own dreams!</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>14</Id>
@@ -218,9 +206,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>それは違うよ、ルーティ！</JapaneseText>
-      <EnglishText>That's not true, Rutee!
-
-</EnglishText>
+      <EnglishText>That's not true, Rutee!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>15</Id>
@@ -231,9 +217,9 @@
       <JapaneseText>カイルは世界を守りたいんだ。
 世界を守って、みんなの未来まで
 守りたいって言ってるんじゃないか</JapaneseText>
-      <EnglishText>Kyle wants to protect the world. I think he wants to protect everyone's future by protecting the world.
-
-</EnglishText>
+      <EnglishText>Kyle wants to protect the world. I think
+he wants to protect everyone's future
+by protecting the world.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>16</Id>
@@ -244,9 +230,8 @@
       <JapaneseText>うん、その通りだよ！
 みんなが幸せになるには、
 世界が平和じゃないと！</JapaneseText>
-      <EnglishText>Yeah, that's right! Everyone can only be happy if the world is at peace!
-
-</EnglishText>
+      <EnglishText>Yeah, that's right! Everyone can only
+be happy if the world is at peace!</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>17</Id>
@@ -255,9 +240,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>…やっぱり似てますね</JapaneseText>
-      <EnglishText>...They really are alike.
-
-</EnglishText>
+      <EnglishText>...They really are alike.</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>18</Id>
@@ -267,14 +250,8 @@
       <PointerOffset/>
       <JapaneseText>ほんと不思議なぐらい似てるわねぇ。
 兄弟か従兄弟かってぐらいに</JapaneseText>
-      <EnglishText>They really are strangely similar. Like siblings or cousins.
-
-
-
-
-
-
-</EnglishText>
+      <EnglishText>They really are strangely similar. Like
+siblings or cousins.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>19</Id>

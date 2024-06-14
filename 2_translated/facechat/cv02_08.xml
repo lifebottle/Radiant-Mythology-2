@@ -31,10 +31,9 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ルカもアニーもオレと同い年だよね</JapaneseText>
-      <EnglishText>Luca and Annie are the same age as me, right?
-
-</EnglishText>
-      <Notes/>
+      <EnglishText>Luca and Annie are the same
+age as me, right?</EnglishText>
+      <Notes>8 - Revised by Murilo - 04/06/2024</Notes>
       <SpeakerId>19</SpeakerId>
       <Id>0</Id>
       <Status>Editing</Status>
@@ -42,9 +41,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>あ、そういえばそうだった</JapaneseText>
-      <EnglishText>Oh, now that you mention it, they are.
-
-</EnglishText>
+      <EnglishText>Oh, now that you mention it, they are.</EnglishText>
       <Notes/>
       <SpeakerId>47</SpeakerId>
       <Id>1</Id>
@@ -53,9 +50,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>１５歳同士…ですね</JapaneseText>
-      <EnglishText>We're all 15... right?
-
-</EnglishText>
+      <EnglishText>We're all 15... right?</EnglishText>
       <Notes/>
       <SpeakerId>36</SpeakerId>
       <Id>2</Id>
@@ -66,9 +61,8 @@
       <JapaneseText>でもなんでルカってそんなに
 背が高いんだろ。
 なんかズルいなぁ</JapaneseText>
-      <EnglishText>But why is Luca so tall? It's kind of unfair.
-
-</EnglishText>
+      <EnglishText>But why is Luca so tall?
+It's kind of unfair.</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>3</Id>
@@ -77,9 +71,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>（カイルの背が低いんだと思うけど…）</JapaneseText>
-      <EnglishText>(I think Kyle is short, though...)
-
-</EnglishText>
+      <EnglishText>(I think Kyle is short, though...)</EnglishText>
       <Notes/>
       <SpeakerId>47</SpeakerId>
       <Id>4</Id>
@@ -90,9 +82,9 @@
       <JapaneseText>イリアさんも同い年だけど、
 背が高くて、スタイルもいいんです。
 わたし、羨ましくって</JapaneseText>
-      <EnglishText>Ms. Illia have the same age too, but she's tall and has a great figure. I'm envious.
-
-</EnglishText>
+      <EnglishText>Ms. Illia have the same age too, but
+she's tall and has a great figure.
+I'm envious.</EnglishText>
       <Notes/>
       <SpeakerId>36</SpeakerId>
       <Id>5</Id>
@@ -102,9 +94,8 @@
       <PointerOffset/>
       <JapaneseText>馬に乗ってたら背が伸びたって、
 イリアが言ってたけどね</JapaneseText>
-      <EnglishText>Illia said riding horses makes you taller, though.
-
-</EnglishText>
+      <EnglishText>Illia said riding horses makes
+you taller, though.</EnglishText>
       <Notes/>
       <SpeakerId>47</SpeakerId>
       <Id>6</Id>
@@ -113,9 +104,8 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>わたしも乗馬始めようかなぁ…</JapaneseText>
-      <EnglishText>Maybe I should start horseback riding too...
-
-</EnglishText>
+      <EnglishText>Maybe I should start horseback
+riding too...</EnglishText>
       <Notes/>
       <SpeakerId>36</SpeakerId>
       <Id>7</Id>
@@ -124,14 +114,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>オレも！</JapaneseText>
-      <EnglishText>Me too!
-
-
-
-
-
-
-</EnglishText>
+      <EnglishText>Me too!</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>8</Id>

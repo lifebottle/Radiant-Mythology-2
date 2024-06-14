@@ -40,7 +40,7 @@
       <PointerOffset/>
       <JapaneseText>………</JapaneseText>
       <EnglishText>...</EnglishText>
-      <Notes/>
+      <Notes>9 - Revised by Murilo - 04/06/2024</Notes>
       <SpeakerId>20</SpeakerId>
       <Id>0</Id>
       <Status>Editing</Status>
@@ -49,9 +49,8 @@
       <PointerOffset/>
       <JapaneseText>かくかくしかじかで、
 これが私の知ってる世界史の概要かな</JapaneseText>
-      <EnglishText>That's the general outline of world history that I know, I guess.
-
-</EnglishText>
+      <EnglishText>That's the general outline of world
+history that I know, I guess.</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>1</Id>
@@ -60,9 +59,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>概ねその通りだと思います</JapaneseText>
-      <EnglishText>I think that's generally correct.
-
-</EnglishText>
+      <EnglishText>I think that's generally correct.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>2</Id>
@@ -72,9 +69,8 @@
       <PointerOffset/>
       <JapaneseText>どお？　リアラ。
 なんかわかったかしら？</JapaneseText>
-      <EnglishText>How about you, Reala? Did you understand anything?
-
-</EnglishText>
+      <EnglishText>How about you, Reala? Did you
+understand anything?</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>3</Id>
@@ -84,9 +80,8 @@
       <PointerOffset/>
       <JapaneseText>色々状況が飲み込めました。
 ありがとうございます</JapaneseText>
-      <EnglishText>I've managed to grasp various situations. Thank you.
-
-</EnglishText>
+      <EnglishText>I've managed to grasp various
+situations. Thank you.</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>4</Id>
@@ -96,9 +91,8 @@
       <PointerOffset/>
       <JapaneseText>またわからない事がありましたら
 いつでもお尋ね下さい</JapaneseText>
-      <EnglishText>If there's anything else you don't understand, feel free to ask anytime.
-
-</EnglishText>
+      <EnglishText>If there's anything else you don't
+understand, feel free to ask anytime.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>5</Id>
@@ -108,8 +102,7 @@
       <PointerOffset/>
       <JapaneseText>うん、いつでも聞いてね。
 リアラ</JapaneseText>
-      <EnglishText>Yeah, feel free to ask anytime, Reala.
-</EnglishText>
+      <EnglishText>Yeah, feel free to ask anytime, Reala.</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>6</Id>
@@ -118,9 +111,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>んで、どう結論つけるの？</JapaneseText>
-      <EnglishText>So, what conclusion have you reached?
-
-</EnglishText>
+      <EnglishText>So, what conclusion have you reached?</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>7</Id>
@@ -131,9 +122,9 @@
       <JapaneseText>世界の成り立ちも違うし、
 歴史に関しても重なる部分は
 ありません</JapaneseText>
-      <EnglishText>The way the world is structured is different, and there are no overlapping aspects in history either.
-
-</EnglishText>
+      <EnglishText>The structure of the world is different,
+and there are no overlapping aspects
+in history either.</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>8</Id>
@@ -143,9 +134,9 @@
       <PointerOffset/>
       <JapaneseText>でも、知人と同じ名前と同じ外見の人が
 何人かいるんだけど…</JapaneseText>
-      <EnglishText>But there are several people with the same name and appearance as acquaintances...
-
-</EnglishText>
+      <EnglishText>But there are several people with the
+same name and appearance as
+acquaintances...</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>9</Id>
@@ -156,9 +147,9 @@
       <JapaneseText>うーん、それはただのソックリさんで
 いいんじゃない？
 名前も偶然の一致</JapaneseText>
-      <EnglishText>Hmm, maybe they're just look-alikes? It could be a coincidence with the names too.
-
-</EnglishText>
+      <EnglishText>Hmm, maybe they're just look-alikes?
+It could be a coincidence with
+the names too.</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>10</Id>
@@ -167,9 +158,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>そんな事が起こりうるの？</JapaneseText>
-      <EnglishText>Is that sort of thing possible?
-
-</EnglishText>
+      <EnglishText>Is that sort of thing possible?</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>11</Id>
@@ -179,9 +168,8 @@
       <PointerOffset/>
       <JapaneseText>科学的に言うなら、「ありうる」よ。
 でも一般的に言うなら「そんな馬鹿な」ね</JapaneseText>
-      <EnglishText>Scientifically, it's "possible." But generally speaking, it's "ridiculous."
-
-</EnglishText>
+      <EnglishText>Scientifically, it's "possible."
+But generally speaking, it's "ridiculous."</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>12</Id>
@@ -191,9 +179,9 @@
       <PointerOffset/>
       <JapaneseText>天文学的確率だけど、
 偶然が重なる可能性はありうるもの</JapaneseText>
-      <EnglishText>Astronomically speaking, the probability is there, but it's still possible for coincidences to occur.
-
-</EnglishText>
+      <EnglishText>Astronomically speaking, the probability
+is there, but it's still possible for
+coincidences to occur.</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>13</Id>
@@ -202,9 +190,8 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>結局、原因はわからないのね</JapaneseText>
-      <EnglishText>In the end, we still don't know the cause, huh?
-
-</EnglishText>
+      <EnglishText>In the end, we still don't know the
+cause, huh?</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>14</Id>
@@ -215,9 +202,8 @@
       <JapaneseText>ええ。
 でもなんらかの不可思議な力が
 働いたっていう事実は受け入れましょう</JapaneseText>
-      <EnglishText>Yes. But let's accept the fact that some mysterious force was at work.
-
-</EnglishText>
+      <EnglishText>Yes. But let's accept the fact that some
+mysterious force was at work.</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>15</Id>
@@ -227,9 +213,8 @@
       <PointerOffset/>
       <JapaneseText>ま、気長に待ってちょうだいな。
 しばらくギルドで働いてさ</JapaneseText>
-      <EnglishText>Well, just be patient. Let's work at the guild for a while.
-
-</EnglishText>
+      <EnglishText>Well, just be patient. Let's work at the
+guild for a while.</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>16</Id>
@@ -240,14 +225,8 @@
       <JapaneseText>…そうね。
 そうするわ。
 考えたって仕方ないもの…</JapaneseText>
-      <EnglishText>...Yeah. That's what I'll do. There's no use dwelling on it...
-
-
-
-
-
-
-</EnglishText>
+      <EnglishText>...Yeah. That's what I'll do.
+There's no use dwelling on it...</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>17</Id>

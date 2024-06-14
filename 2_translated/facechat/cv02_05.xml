@@ -24,10 +24,8 @@
       <PointerOffset/>
       <JapaneseText>ウッドロウさんと
 並んで戦えるなんて…</JapaneseText>
-      <EnglishText>Fighting alongside Mr. Woodrow...
-
-</EnglishText>
-      <Notes/>
+      <EnglishText>Fighting alongside Mr. Woodrow...</EnglishText>
+      <Notes>5 - Revised by Murilo - 03/06/2024</Notes>
       <SpeakerId>19</SpeakerId>
       <Id>0</Id>
       <Status>Editing</Status>
@@ -37,9 +35,8 @@
       <JapaneseText>カイル君。
 危険はどのような形でやってくるか
 わからない</JapaneseText>
-      <EnglishText>Kyle, you know, danger can come in various forms.
-
-</EnglishText>
+      <EnglishText>Kyle, you know, danger can come in
+various forms.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>1</Id>
@@ -48,9 +45,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>常に警戒を怠ってはいけないよ</JapaneseText>
-      <EnglishText>You must never let your guard down.
-
-</EnglishText>
+      <EnglishText>You must never let your guard down.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>2</Id>
@@ -59,9 +54,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>はい！　気をつけます！</JapaneseText>
-      <EnglishText>Yes! I will be careful!
-
-</EnglishText>
+      <EnglishText>Yes! I will be careful!</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>3</Id>
@@ -71,14 +64,7 @@
       <PointerOffset/>
       <JapaneseText>うむ、そうしたまえ。
 では先に進もう</JapaneseText>
-      <EnglishText>Hmm, indeed. Let's move forward then.
-
-
-
-
-
-
-</EnglishText>
+      <EnglishText>Hmm, indeed. Let's move forward then.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>4</Id>

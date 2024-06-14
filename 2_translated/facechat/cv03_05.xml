@@ -31,10 +31,8 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ふぁぁ〜〜〜〜、眠い…</JapaneseText>
-      <EnglishText>Yawn... I'm sleepy...
-
-</EnglishText>
-      <Notes/>
+      <EnglishText>Yawn... I'm sleepy...</EnglishText>
+      <Notes>13 - Revised by Murilo - 05/06/2024</Notes>
       <SpeakerId>8</SpeakerId>
       <Id>0</Id>
       <Status>Editing</Status>
@@ -44,9 +42,8 @@
       <JapaneseText>ほら、
 さっさと目を覚ましなさいな。
 何が起こるかわかんないんだからさ</JapaneseText>
-      <EnglishText>Come on, wake up already. You never know what might happen.
-
-</EnglishText>
+      <EnglishText>Come on, wake up already. You never
+know what might happen.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>1</Id>
@@ -56,9 +53,8 @@
       <PointerOffset/>
       <JapaneseText>そ、そうだよね。
 みんなを守らなぁぁぁぁはあぅふ</JapaneseText>
-      <EnglishText>Y-yeah, you're right. I have to protect everyone... yawn
-
-...</EnglishText>
+      <EnglishText>Y-Yeah, you're right. I have to protect
+everyone... Yawn...</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>2</Id>
@@ -67,9 +63,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>欠伸混じりで言わないでよ</JapaneseText>
-      <EnglishText>Don't say that with a "yawn" mixed in.
-
-</EnglishText>
+      <EnglishText>Don't say that with a "yawn" mixed in.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>3</Id>
@@ -88,9 +82,8 @@
       <PointerOffset/>
       <JapaneseText>あら、どーしたの？
 じーっとあたしを見ちゃってさぁ</JapaneseText>
-      <EnglishText>Oh, what's wrong? You're staring at me so intently.
-
-</EnglishText>
+      <EnglishText>Oh, what's wrong? Oh, what's wrong?
+You're staring at me.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>5</Id>
@@ -99,9 +92,8 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>いえ、仲がいいなぁって…</JapaneseText>
-      <EnglishText>No, I was just thinking how close we are...
-
-</EnglishText>
+      <EnglishText>No, I was just thinking how close
+you two are...</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>6</Id>
@@ -112,9 +104,9 @@
       <JapaneseText>そ〜ぉ？
 こいつの天然に付き合うのって、
 結構大変なのよ</JapaneseText>
-      <EnglishText>Is that so? Dealing with this guy's naivety can be quite a challenge, you know.
-
-</EnglishText>
+      <EnglishText>Is that so? Dealing with this guy's
+naivety can be quite a challenge,
+you know.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>7</Id>
@@ -123,9 +115,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ええ？　俺って天然かなぁ</JapaneseText>
-      <EnglishText>Huh? Am I really that naive?
-
-</EnglishText>
+      <EnglishText>Huh? Am I really that naive?</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>8</Id>
@@ -134,9 +124,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>で、天然って何？</JapaneseText>
-      <EnglishText>So, what does "naive" mean?
-
-</EnglishText>
+      <EnglishText>So, what does "naive" mean?</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>9</Id>
@@ -145,9 +133,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>…ほらね？</JapaneseText>
-      <EnglishText>...See?
-
-</EnglishText>
+      <EnglishText>...See?</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>10</Id>
@@ -156,7 +142,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>カイルの上を行ってます</JapaneseText>
-      <EnglishText>Kyle's surpassing everyone.</EnglishText>
+      <EnglishText>He's even more naive than Kyle.</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>11</Id>

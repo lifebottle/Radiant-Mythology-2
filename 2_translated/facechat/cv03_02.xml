@@ -31,10 +31,8 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>オレ達、帰れるのかな？</JapaneseText>
-      <EnglishText>Can we go back?
-
-</EnglishText>
-      <Notes/>
+      <EnglishText>Can we go back?</EnglishText>
+      <Notes>10 - Revised by Murilo - 04/06/2024</Notes>
       <SpeakerId>19</SpeakerId>
       <Id>0</Id>
       <Status>Editing</Status>
@@ -42,9 +40,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>そんなの、わからないわ</JapaneseText>
-      <EnglishText>I don't know about that.
-
-</EnglishText>
+      <EnglishText>I don't know about that.</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>1</Id>
@@ -55,9 +51,8 @@
       <JapaneseText>でも、
 リアラの力で
 こうなったんだよね？</JapaneseText>
-      <EnglishText>But this happened because of Reala's power, right?
-
-</EnglishText>
+      <EnglishText>But this happened because of
+Reala's power, right?</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>2</Id>
@@ -77,9 +72,7 @@
       <JapaneseText>おや〜？
 いけないなあ、カイルくーん。
 女の子を追い詰めるなんて</JapaneseText>
-      <EnglishText>Oh my? That's not good,  Mr. Kyle. Cornering a girl like that.
-
-</EnglishText>
+      <EnglishText>Oh? My my, Kyle. It's not good to corner a girl like that.</EnglishText>
       <Notes/>
       <SpeakerId>29</SpeakerId>
       <Id>4</Id>
@@ -88,9 +81,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>オ、オレはそんなつもり…</JapaneseText>
-      <EnglishText>I-I didn't mean to...
-
-</EnglishText>
+      <EnglishText>I-I didn't mean to...</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>5</Id>
@@ -101,9 +92,9 @@
       <JapaneseText>まあ俺さまは事情知らねーからよ。
 あんまり口挟む気はないがね。
 でも、リアラちゃん、泣きそうだぜ？</JapaneseText>
-      <EnglishText>Well, I don't know the circumstances, so I don't intend to interfere much. But, Reala looks like she's about to cry, you know?
-
-</EnglishText>
+      <EnglishText>I'm not fully aware of what's going on,
+so I won't meddle much. But Reala
+seems close to tears.</EnglishText>
       <Notes/>
       <SpeakerId>29</SpeakerId>
       <Id>6</Id>
@@ -123,8 +114,8 @@
       <JapaneseText>ご、ごめん、リアラ！
 オレ、手がかりが他にないかなって
 思っただけなんだ</JapaneseText>
-      <EnglishText>S-Sorry, Reala! I was just thinking if there were any other clues...
-</EnglishText>
+      <EnglishText>S-Sorry, Reala! I was just wondering if
+there were any other leads...</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>8</Id>
@@ -134,9 +125,7 @@
       <PointerOffset/>
       <JapaneseText>責めてるつもりなんてないよ！
 ホントに</JapaneseText>
-      <EnglishText>I'm not blaming you! Really.
-
-</EnglishText>
+      <EnglishText>I'm not blaming you! Really.</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>9</Id>
@@ -146,9 +135,8 @@
       <PointerOffset/>
       <JapaneseText>…ええ、わかってる。
 あなたは…、そんな人じゃない…</JapaneseText>
-      <EnglishText>...Y-Yes, I understand. You're not that kind of person...
-
-</EnglishText>
+      <EnglishText>...Y-Yes, I understand. You're not that
+kind of person...</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>10</Id>
@@ -157,9 +145,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ホント、ごめん…</JapaneseText>
-      <EnglishText>I'm really sorry...
-
-</EnglishText>
+      <EnglishText>I'm really sorry...</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>11</Id>
@@ -170,9 +156,9 @@
       <JapaneseText>うん、もう大丈夫。
 まだまだわからない事が多いわ。
 ゆっくり考えていきましょう</JapaneseText>
-      <EnglishText>Yeah, it's okay now. There's still a lot we don't know. Let's take our time to think.
-
-</EnglishText>
+      <EnglishText>Yeah, it's okay now. There's still a lot
+we don't know. Let's take our time to
+think.</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>12</Id>
@@ -181,9 +167,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>うん、そうだね！</JapaneseText>
-      <EnglishText>Yeah, that's right!
-
-</EnglishText>
+      <EnglishText>Yeah, that's right!</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>13</Id>
@@ -194,14 +178,7 @@
       <JapaneseText>や〜れやれ。
 世話の焼ける
 坊っちゃん嬢ちゃんだぜぇ</JapaneseText>
-      <EnglishText>Phew. These kids sure are a handful.
-
-
-
-
-
-
-</EnglishText>
+      <EnglishText>Phew. These kids sure are a handful.</EnglishText>
       <Notes/>
       <SpeakerId>29</SpeakerId>
       <Id>14</Id>

@@ -32,10 +32,8 @@
       <PointerOffset/>
       <JapaneseText>何を拾って来たんだい？
 カイル</JapaneseText>
-      <EnglishText>What did you pick up, Kyle?
-
-</EnglishText>
-      <Notes/>
+      <EnglishText>What did you pick up, Kyle?</EnglishText>
+      <Notes>6 - Revised by Murilo - 04/06/2024</Notes>
       <SpeakerId>21</SpeakerId>
       <Id>0</Id>
       <Status>Editing</Status>
@@ -45,9 +43,9 @@
       <JapaneseText>…多分、なんかの動物の頭蓋骨だね。
 随分大きいや。
 頭に被れそうだもん</JapaneseText>
-      <EnglishText>...I think it's probably the skull of some animal. It's quite large. It looks like it could fit over your head.
-
-</EnglishText>
+      <EnglishText>...I think it's probably the skull of some
+animal. It's quite large. It looks like
+it could fit over your head.</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>1</Id>
@@ -57,9 +55,8 @@
       <PointerOffset/>
       <JapaneseText>そんなものどうだっていいだろう。
 とっとと捨てて来い</JapaneseText>
-      <EnglishText>Who cares about that kind of thing? Go throw it away already.
-
-</EnglishText>
+      <EnglishText>Who cares about that kind of thing?
+Go throw it away already.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>2</Id>
@@ -69,9 +66,7 @@
       <PointerOffset/>
       <JapaneseText>待ってよ、リオン。
 …これ、リオンに似合うんじゃないかな</JapaneseText>
-      <EnglishText>Wait, Leon. ...This might suit you, Leon.
-
-</EnglishText>
+      <EnglishText>Wait, Leon... Leon, this might suit you.</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>3</Id>
@@ -80,9 +75,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>な…、何を馬鹿な事を…</JapaneseText>
-      <EnglishText>Wh... What nonsense...
-
-</EnglishText>
+      <EnglishText>Wh... What nonsense...</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>4</Id>
@@ -92,9 +85,8 @@
       <PointerOffset/>
       <JapaneseText>あはは！　そりゃいいねぇ。
 ねえ、ちょっと被ってごらんよ！</JapaneseText>
-      <EnglishText>Haha! That sounds great. Hey, try putting it on for a bit!
-
-</EnglishText>
+      <EnglishText>Haha! That sounds great. Hey, try
+putting it on for a bit!</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>5</Id>
@@ -103,9 +95,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>お断りだ！</JapaneseText>
-      <EnglishText>I refuse!
-
-</EnglishText>
+      <EnglishText>I refuse!</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>6</Id>
@@ -115,9 +105,7 @@
       <PointerOffset/>
       <JapaneseText>ねえ、いいじゃないか。
 ちょっとだけだからさぁ</JapaneseText>
-      <EnglishText>Hey, why not? It's just for a little while.
-
-</EnglishText>
+      <EnglishText>Hey, why not? It's just for a little while.</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>7</Id>
@@ -126,9 +114,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>断ると言っただろう</JapaneseText>
-      <EnglishText>I said no.
-
-</EnglishText>
+      <EnglishText>I said no.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>8</Id>
@@ -137,9 +123,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ほら！　ちょっと持ってみてよ</JapaneseText>
-      <EnglishText>Come on! Just try holding it for a bit.
-
-</EnglishText>
+      <EnglishText>Come on! Just try holding it for a bit.</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>9</Id>
@@ -158,9 +142,7 @@
       <PointerOffset/>
       <JapaneseText>馬鹿馬鹿しい。
 いい加減にしろ</JapaneseText>
-      <EnglishText>Ridiculous. Cut it out already.
-
-</EnglishText>
+      <EnglishText>Ridiculous. Cut it out already.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>11</Id>
@@ -169,9 +151,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>付き合い悪いねぇ</JapaneseText>
-      <EnglishText>You're no fun.
-
-</EnglishText>
+      <EnglishText>You're no fun.</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>12</Id>
@@ -189,9 +169,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>悪くない…かもな…</JapaneseText>
-      <EnglishText>Maybe not...
-
-</EnglishText>
+      <EnglishText>Not bad...perhaps...</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>14</Id>
@@ -201,9 +179,7 @@
       <PointerOffset/>
       <JapaneseText>あれ？　リオン。
 どうしたの？</JapaneseText>
-      <EnglishText>Huh? Leon. What's wrong?
-
-</EnglishText>
+      <EnglishText>Huh? Leon. What's wrong?</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>15</Id>
@@ -212,14 +188,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>な、なんでもないっ！</JapaneseText>
-      <EnglishText>N-nothing at all!
-
-
-
-
-
-
-</EnglishText>
+      <EnglishText>N-Nothing at all!</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>16</Id>

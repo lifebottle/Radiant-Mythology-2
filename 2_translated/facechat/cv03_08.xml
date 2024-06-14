@@ -31,10 +31,8 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>うーん…</JapaneseText>
-      <EnglishText>Hmm...
-
-</EnglishText>
-      <Notes/>
+      <EnglishText>Hmm...</EnglishText>
+      <Notes>16 - Revised by Murilo - 14/06/2024</Notes>
       <SpeakerId>16</SpeakerId>
       <Id>0</Id>
       <Status>Editing</Status>
@@ -42,8 +40,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>どうしたの、ファラ？</JapaneseText>
-      <EnglishText>What's wrong, Farah?
-</EnglishText>
+      <EnglishText>What's wrong, Farah?</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>1</Id>
@@ -54,9 +51,9 @@
       <JapaneseText>スカートだとやっぱり
 高い蹴りが出しにくいんだよね。
 下着が見えちゃいそうになるし…</JapaneseText>
-      <EnglishText>When wearing a skirt, it's hard to kick high. It feels like my underwear might show...
-
-</EnglishText>
+      <EnglishText>When wearing a skirt, it's hard to kick
+high. It feels like my underwear might
+show...</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>2</Id>
@@ -66,9 +63,8 @@
       <PointerOffset/>
       <JapaneseText>……わたしもそう思う。
 たくさん動くとどうしても……</JapaneseText>
-      <EnglishText>...I feel the same way. When you move a lot, it's just...
-
-</EnglishText>
+      <EnglishText>...I feel the same way. When you move
+a lot, it's just...</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>3</Id>
@@ -78,9 +74,8 @@
       <PointerOffset/>
       <JapaneseText>私は格闘をあまりしませんから
 その心配はありませんけど…</JapaneseText>
-      <EnglishText>I don't do much fighting, so I don't worry about that...
-
-</EnglishText>
+      <EnglishText>I don't do much fighting, so I don't
+worry about that...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>4</Id>
@@ -90,9 +85,8 @@
       <PointerOffset/>
       <JapaneseText>かといって裾をまくったりするのは
 感心出来ませんよ？</JapaneseText>
-      <EnglishText>But I don't like the idea of rolling up the hem, you know?
-
-</EnglishText>
+      <EnglishText>That said,  I don't like the idea of
+rolling up the hem, you know?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>5</Id>
@@ -103,9 +97,8 @@
       <JapaneseText>女の子は、やっぱり
 ミントみたいにおしとやかな方が
 いいのかなぁ</JapaneseText>
-      <EnglishText>I wonder if it's better for girls to be modest and demure, like Mint...
-
-</EnglishText>
+      <EnglishText>I wonder if it's better for girls to be
+modest and demure, like Mint...</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>6</Id>
@@ -116,9 +109,8 @@
       <JapaneseText>おしとやか趣味の男の子ばっかりじゃ
 ないと思うよ。
 大丈夫、イケるイケる♪</JapaneseText>
-      <EnglishText>I don't think all boys have to have refined tastes. It's okay, you're fine ♪
-
-</EnglishText>
+      <EnglishText>I don't think all boys have to have
+refined tastes. It's okay, you're fine.</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>7</Id>
@@ -128,9 +120,8 @@
       <PointerOffset/>
       <JapaneseText>その点は好き好きですから
 気にしなくてもいいんじゃないでしょうか</JapaneseText>
-      <EnglishText>People have different preferences, so you shouldn't worry about it.
-
-</EnglishText>
+      <EnglishText>People have different preferences,
+so you shouldn't worry about it.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>8</Id>
@@ -140,14 +131,8 @@
       <PointerOffset/>
       <JapaneseText>そうね。
 じゃあ気にしないでおこうかな</JapaneseText>
-      <EnglishText>Yeah, you're right. Then I won't worry about it.
-
-
-
-
-
-
-</EnglishText>
+      <EnglishText>Yeah, you're right. Then I won't worry
+about it.</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>9</Id>
