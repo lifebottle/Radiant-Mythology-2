@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ルーク</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リオン</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ゼロス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -26,6 +29,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ちょっと暇になっちまったな。
 剣の稽古でもしないか？</JapaneseText>
       <EnglishText/>
@@ -35,6 +39,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>僕はいい。
 おまえの面倒を見るのはごめんだ</JapaneseText>
       <EnglishText/>
@@ -44,6 +49,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>な、なんだよ、それ。
 俺は「稽古しよう」って言っただけじゃんか</JapaneseText>
       <EnglishText/>
@@ -53,6 +59,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なあ、ゼロス。
 あんたからも何か言ってやってくれ</JapaneseText>
       <EnglishText/>
@@ -62,6 +69,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ええ〜〜〜？
 俺さまぁ？　無理だってぇ〜〜〜</JapaneseText>
       <EnglishText/>
@@ -71,6 +79,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>だって、リオンって
 すんげぇ人気あんだぜ〜〜〜？</JapaneseText>
       <EnglishText/>
@@ -80,6 +89,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>はあ？
 何言ってんだ、おまえ…</JapaneseText>
       <EnglishText/>
@@ -89,6 +99,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そういうルーク様だってよぉ、
 かなーりの人気者なんだもんなぁ。
 もうおまえら勝手にやりゃあいいじゃん…</JapaneseText>
@@ -99,6 +110,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おい！　真面目にやれ！
 何を言ってるのか意味がわからないぞ</JapaneseText>
       <EnglishText/>
@@ -108,6 +120,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>は〜あ、俺さま惨め…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -116,6 +129,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…なんだったんだ？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -124,6 +138,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…わかんね</JapaneseText>
       <EnglishText/>
       <Notes/>

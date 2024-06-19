@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>————</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -12,6 +13,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>『インフィニティジャム』について
 説明を聞きますか？</JapaneseText>
       <EnglishText/>
@@ -21,6 +23,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>聞く</JapaneseText>
       <EnglishText/>
       <Notes>Choice 1</Notes>
@@ -28,6 +31,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>聞かない</JapaneseText>
       <EnglishText/>
       <Notes>Choice 2</Notes>
@@ -35,6 +39,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>オーバーリミッツ中、Ｌ＋Ｒボタンを押すと
 『連携攻撃』を発動出来ます。
 これを『インフィニティジャム』といいます</JapaneseText>
@@ -45,6 +50,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>『インフィニティジャム』中には、Ｒボタンで
 操作する人を変更出来、ゲージがなくなるまで、
 ずっと攻撃を続けられます</JapaneseText>
@@ -55,6 +61,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>うまく攻撃をつなぐ事が出来れば、
 ゲージが増えて、より長く攻撃する事が
 可能です</JapaneseText>

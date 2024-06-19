@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リフィル</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ニアタ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -26,6 +29,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>彼女は、自分の負と向き合う為に
 船を出た。
 そして、抱えていた負が実体化した</JapaneseText>
@@ -36,6 +40,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それが今回の出来事…ね</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -44,6 +49,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>彼女の中でしこりとなって
 長年居座っていた負であろう</JapaneseText>
       <EnglishText/>
@@ -53,6 +59,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>感情というのは、閉じ込めておくと
 その本人を蝕んでいく。
 内側から出口を探そうとしてね</JapaneseText>
@@ -63,6 +70,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>負ではない感情も？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -71,6 +79,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>喜び、嬉しさも充分に味わう事だ。
 そうでなければ、愛を受け取る事が
 難しく思えるようになる</JapaneseText>
@@ -81,6 +90,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クロエは、自分で乗り越えたのね。
 負と向きあって、受け入れた…</JapaneseText>
       <EnglishText/>
@@ -90,6 +100,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>安心していられなくなったわね。
 他の子達もそうだったとしたら…。
 早々に居場所を特定しなければ</JapaneseText>
@@ -100,6 +111,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>報告、ありがとう。
 それじゃ解散してもよくてよ</JapaneseText>
       <EnglishText/>
@@ -112,6 +124,7 @@
   <Strings>
     <Section>Unreferenced</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>evobj_033</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -119,6 +132,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クロエがギルドに復帰しました。</JapaneseText>
       <EnglishText/>
       <Notes/>

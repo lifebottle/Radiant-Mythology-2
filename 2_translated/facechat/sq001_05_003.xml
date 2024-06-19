@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>プレセア</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ジーニアス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -19,6 +21,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リフィルさんに、指示された場所は
 ここです</JapaneseText>
       <EnglishText/>
@@ -28,6 +31,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ここの生物をスケッチするので、
 しばらく待っていてください</JapaneseText>
       <EnglishText/>
@@ -37,6 +41,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>えっとね、この生物なら知ってるよ。
 これの生態の一義的特長はね…</JapaneseText>
       <EnglishText/>
@@ -46,6 +51,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ジーニアスさん、
 私の課題ですから黙っていてください</JapaneseText>
       <EnglishText/>
@@ -55,6 +61,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ご、ごめん…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -63,6 +70,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………。
 終わりました。
 後は船に戻ってまとめます</JapaneseText>
@@ -73,6 +81,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>うん。
 それじゃあ、船に戻ろう</JapaneseText>
       <EnglishText/>

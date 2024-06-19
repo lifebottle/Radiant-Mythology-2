@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ニアタ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -19,6 +21,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…そなたか。
 今、カノンノは世界を覗いておる</JapaneseText>
       <EnglishText/>
@@ -28,6 +31,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>誰…？
 ○○なの？</JapaneseText>
       <EnglishText/>
@@ -37,6 +41,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ごめんね。
 まだ、アニスの姿は見えなくて…</JapaneseText>
       <EnglishText/>
@@ -46,6 +51,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ごめんね…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -54,6 +60,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>少し休みなさい、カノンノ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -62,6 +69,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おまえの中のマナが枯れてしまえば
 肉体は姿を維持出来なくなり、
 霧散してしまう</JapaneseText>
@@ -72,6 +80,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>消えないよ…。
 私、やりたい事があるんだもん。
 お話、最後まで書ききってみせる</JapaneseText>
@@ -82,6 +91,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>絶対に消えない。
 約束する……、それに…</JapaneseText>
       <EnglishText/>
@@ -91,6 +101,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>私以外の誰かの夢だって…、
 終わらせたくない…。
 ………終わらせちゃ駄目なの</JapaneseText>
@@ -104,6 +115,7 @@
   <Strings>
     <Section>Unreferenced</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>evobj_033</JapaneseText>
       <EnglishText/>
       <Notes/>

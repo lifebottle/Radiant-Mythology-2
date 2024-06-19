@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>チェスター</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>スタン</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リリス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -26,6 +29,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おう、リリス。
 昨日アミィから手紙が届いた。
 またいつでも手紙くれ、ってさ</JapaneseText>
@@ -36,6 +40,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>へえ、よかったな、リリス。
 手紙、書いてやれよ</JapaneseText>
       <EnglishText/>
@@ -45,6 +50,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>うん、わかった！
 さっそく今夜にでも書こうっと♪</JapaneseText>
       <EnglishText/>
@@ -54,6 +60,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ところでさぁ、俺の妹と
 どうやって知り合ったんだ？
 住む所も違うってのに</JapaneseText>
@@ -64,6 +71,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ああ、それは、
 「世界マーボーカレー王座統一戦」に
 私が出場した時に、知り合ったんです</JapaneseText>
@@ -74,6 +82,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>な、なんだよ、それ？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -82,6 +91,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>何って…、私、
 統一王座に輝いたんだけど？</JapaneseText>
       <EnglishText/>
@@ -91,6 +101,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ちょ、ちょっと待ってくれ。
 まさか…、アミィもその変な大会に
 出場したってのか？</JapaneseText>
@@ -101,6 +112,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いえ、そうじゃありません</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -109,6 +121,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ホッ…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -117,6 +130,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>熱烈な大会サポーターみたいですよ。
 優勝した私をずっと応援してくれたんです。
 それでお友達になりました</JapaneseText>
@@ -127,6 +141,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アミィちゃんもマーボーカレー作るでしょ？
 あのスパイスとフルーツの配合は
 彼女のオリジナルですね</JapaneseText>
@@ -137,6 +152,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>彼女が出場していたら、私の優勝も
 危なかったかもしれません</JapaneseText>
       <EnglishText/>
@@ -146,6 +162,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…すげーな。
 なんだか、おまえといいアミィちゃんといい、
 その大会といい…、全部がすげぇ</JapaneseText>
@@ -156,6 +173,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>と、とにかくアミィに変な大会に出ないように
 釘刺しておかなきゃな…</JapaneseText>
       <EnglishText/>
@@ -165,6 +183,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…もう、変な大会って何よ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -173,6 +192,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いや、変だと思うぜ…？
 我が妹ながらさ</JapaneseText>
       <EnglishText/>

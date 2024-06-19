@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リッド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カイウス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>プレセア</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -26,6 +29,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>もぐもぐ…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -34,6 +38,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>食ったぞ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -42,6 +47,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>まだまだあるよ。
 はい、次、これだ</JapaneseText>
       <EnglishText/>
@@ -51,6 +57,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>また豆の缶詰か…。
 飽きてきたなぁ</JapaneseText>
       <EnglishText/>
@@ -60,6 +67,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>食事中？</JapaneseText>
       <EnglishText/>
       <Notes>Choice 1</Notes>
@@ -67,6 +75,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>何してるの？</JapaneseText>
       <EnglishText/>
       <Notes>Choice 2</Notes>
@@ -74,6 +83,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ああ？　違うって。
 よく見ろよ</JapaneseText>
       <EnglishText/>
@@ -83,6 +93,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…いや、物食ってるようにしか
 見えないって</JapaneseText>
       <EnglishText/>
@@ -92,6 +103,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ああ？　見りゃわかんだろ？</JapaneseText>
       <EnglishText/>
       <Notes>Previous Choice 2 leads here</Notes>
@@ -100,6 +112,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いや、わかんないんじゃないか？
 ただ物食ってるだけにしか
 見えないって…</JapaneseText>
@@ -110,6 +123,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>こう見えて働いてるんだぜ？
 今、船の改装だかなんだか知らねぇけど、
 船内を全部調べてんだ</JapaneseText>
@@ -120,6 +134,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>んで、食料庫も一度キレイに
 さらってしまおうって事になってさ、
 古い保存食を片付けてるんだ</JapaneseText>
@@ -130,6 +145,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…じゃ、次はこれだな</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -138,6 +154,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>お？　イワシの油漬けじゃん。
 これ、好きなんだよな〜</JapaneseText>
       <EnglishText/>
@@ -147,6 +164,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>○○も食うか？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -155,6 +173,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>油っこいからな、
 食いすぎに注意しろよ？</JapaneseText>
       <EnglishText/>
@@ -164,6 +183,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>油っこくて、カロリー高いからな。
 あんまり女に勧めない方がいいと思うぜ</JapaneseText>
       <EnglishText/>
@@ -173,6 +193,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あ、クラッカー発見！
 コレと一緒に食おうぜ</JapaneseText>
       <EnglishText/>
@@ -182,6 +203,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>お〜、いいじゃん！
 へへ…、食べるのが仕事なんて、
 最高に楽しいなぁ</JapaneseText>
@@ -192,6 +214,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あの…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -200,6 +223,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>散らかさないで下さい。
 お掃除の効率が低下しますので…</JapaneseText>
       <EnglishText/>
@@ -209,6 +233,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あ、悪ぃ…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -217,6 +242,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>プ、プレセアは掃除当番なのか？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -225,6 +251,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>重いものを動かす役、です。
 棚や機材の後ろや床に、扉やハッチが
 隠されている場合がありますから</JapaneseText>
@@ -235,6 +262,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>私は背が低く、高所に手が届きませんので、
 はたきかけや拭き掃除には不適正だと
 判断しました</JapaneseText>
@@ -245,6 +273,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>へえ〜…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -253,6 +282,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>これから、そこの箱を動かします。
 床にゴミが散らばっていると、
 一緒に運んでしまいますから…</JapaneseText>
@@ -263,6 +293,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ほら、カイウス…。
 散らかすなよ</JapaneseText>
       <EnglishText/>
@@ -272,6 +303,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リッドの食べ方が悪いんだろ！
 オレだけのせいにするなよな</JapaneseText>
       <EnglishText/>
@@ -281,6 +313,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…こちらはあと回しにします</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -289,6 +322,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>進行手順変更による、作業低下率…、
 約１２パーセント…</JapaneseText>
       <EnglishText/>
@@ -298,6 +332,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…なんだか、サボってる気持ちに
 なっちまった</JapaneseText>
       <EnglishText/>
@@ -307,6 +342,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そんなの一生懸命働けば
 いいんだって！</JapaneseText>
       <EnglishText/>
@@ -316,6 +352,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>じゃあ、次の食い物はなんだ？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -324,6 +361,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>やる事は一緒なんだよなぁ…</JapaneseText>
       <EnglishText/>
       <Notes/>

@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ジェイド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ゼロス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -19,6 +21,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ゼロス。
 気をつけてなさい。
 相手はあのハロルド女史ですから</JapaneseText>
@@ -29,6 +32,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あー…、あの人なぁ。
 マジで何しでかすのかわかんねーし</JapaneseText>
       <EnglishText/>
@@ -38,6 +42,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ってか、これってさぁ
 ホントに「負」の影響なのか？</JapaneseText>
       <EnglishText/>
@@ -47,6 +52,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>どうでしょうね。
 あの方の胸中は私のような常識人には
 窺い知れませんから</JapaneseText>
@@ -57,6 +63,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…あんたに常識人の自覚があるなんて
 思っても見なかったぜ</JapaneseText>
       <EnglishText/>

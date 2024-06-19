@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>パニール</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リリス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ユーリ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -23,6 +26,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>エステル</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -33,6 +37,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あなた〜、あなた〜あなた〜♪
 ことしもブドウが豊作よ〜♪
 …って、あらあら鼻歌がつい出ちゃうのよねェ</JapaneseText>
@@ -43,6 +48,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>花束を〜持って〜彼が訪ね〜て来た〜♪
 私〜、おすまし〜、本のページに隠れるゥ〜♪
 フフ、家事をしてるとつい唄っちゃうのよね</JapaneseText>
@@ -53,6 +59,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ちょっと、ちょっと…。
 大丈夫かしら、子供達だけで救出だなんて</JapaneseText>
       <EnglishText/>
@@ -62,6 +69,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>話では、あなたが救助に向かうとか…。
 本当に気をつけて下さいよ？</JapaneseText>
       <EnglishText/>
@@ -71,6 +79,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>お客様だから、おもてなししなきゃ。
 みんなでご馳走を食べてくださいな</JapaneseText>
       <EnglishText/>
@@ -80,6 +89,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>青いトマトのよ〜な〜、あなたのハ〜ト〜♪
 赤〜ぁく染まるまで、待つわ待つわ待つわ〜♪
 あら、また鼻歌聞かれちゃったわ、フフ…</JapaneseText>
@@ -90,6 +100,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あなたがおとぎ話に出てくる
 ディセンダーかもしれないという事も…。
 カノンノが言うように私は信じましょう</JapaneseText>
@@ -100,6 +111,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そのうち世界一周も出来るかしら？
 フフフ、セレブみたい♪
 さてと、お皿洗いの続きをやらなくっちゃ</JapaneseText>
@@ -110,6 +122,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>猫が〜追われ〜て、じんじろじんじろ♪
 ホイホイホイッ♪　ンフンフフ〜♪
 じんじろま〜い、じんじろまい♪</JapaneseText>
@@ -120,6 +133,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アニスさんに、ちょっときつくしすぎたかしら。
 まあ、親に反抗したくなる年頃だものね。
 子供にはあるのよ、そういう時が…</JapaneseText>
@@ -130,6 +144,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>人が増えたわね〜。
 おやつのケーキは４ホールは必要そう。
 さあ、張り切らなくっちゃ！</JapaneseText>
@@ -140,6 +155,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ハァ〜ビロードみたいなビワの実に〜♪
 あなたが〜、唇〜寄せましたぁ〜♪
 朝露夜露にぬれてます〜ゥ♪</JapaneseText>
@@ -150,6 +166,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>大丈夫かしらね、赤い髪のお坊ちゃん。
 医療の事は、リフィルさんやジェイドさんが
 詳しいから大丈夫でしょうけれど…</JapaneseText>
@@ -160,6 +177,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>赤い髪のお坊ちゃん、
 意識が戻ったみたいですけど。
 まだ安静にされてないと…</JapaneseText>
@@ -170,6 +188,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>初めてだわ。
 あの話をしたのは、あなたが初めて…。
 ほんと、どうしたんでしょうね、私ったら…</JapaneseText>
@@ -180,6 +199,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>でも、あなたに話して…、少し楽になったわ。
 ずっと、心苦しかったの。
 でも、いずれはあの子にも打ち明けなければ…</JapaneseText>
@@ -190,6 +210,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>声を追うカノンノの、無垢な顔を見ていると…、
 とても打ち明ける事なんて…。
 でも、それじゃ駄目なのよね…</JapaneseText>
@@ -200,6 +221,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>食べ盛りが多くて、ゴハンの作り甲斐があるわ。
 けど、それぞれ好き嫌いもあるみたいなの。
 それが悩みの種なのよね〜</JapaneseText>
@@ -210,6 +232,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あり〜がとう友達〜♪あり〜がとう先生〜♪
 あり〜がとう太陽〜♪あり〜がとうみんな〜♪
 うっ、この歌泣けちゃうわ…</JapaneseText>
@@ -220,6 +243,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>世界樹に傷なんかついたら…、
 ヒトだけじゃなく植物も動物も
 生きていけなくなるわ…</JapaneseText>
@@ -230,6 +254,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>とりあえず、落ち着きましょう。
 世界樹は、枯れたわけではないわ。
 ハイ、ココアでも召し上がってくださいな</JapaneseText>
@@ -240,6 +265,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ジャニスってお方、もっと怖そうな
 ヒトだと想像してたけど…。
 イメージしてたのと全然違ったわ</JapaneseText>
@@ -250,6 +276,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>まぁ〜、またメンバーが増えて！！
 賑やかなのはいい事よね♪
 毎日パーティみたい</JapaneseText>
@@ -260,6 +287,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ガラスのハートがパリンパリ〜ン♪
 責任とってよパリンパリ〜ン♪
 アァ〜、恋の沸点融点凝固点〜♪　ポォゥ！！</JapaneseText>
@@ -270,6 +298,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ガレットでは、どんな食材が手に入るかしら。
 みんなも、ちょっと変わったものが
 食べたいでしょうしね♪</JapaneseText>
@@ -280,6 +309,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ルララお出掛け従兄弟が手を振るの〜♪
 ブロンドみたいな麦畑〜♪
 フッフゥ〜、フフフフゥ〜♪</JapaneseText>
@@ -290,6 +320,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>寒かったでしょう？
 さあ、ココアを召し上がってください</JapaneseText>
       <EnglishText/>
@@ -299,6 +330,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アルコホルの青いランプ〜、窓辺ににじんで〜♪
 霧の中に帰ってくるのよ〜♪
 愛しいヒトの足音が〜♪　ダーリーダダダ〜♪</JapaneseText>
@@ -309,6 +341,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>負って、誰でも持っているものだから…。
 全ての負を責める事は私は出来ないわ。
 少なくとも…、私にはそんな資格はないもの</JapaneseText>
@@ -319,6 +352,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あなたが甲板に舞い降りてきた時…。
 あれが、あなたの生まれた時だったのね</JapaneseText>
       <EnglishText/>
@@ -328,6 +362,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あなたは、あなたがしたいように進みなさい。
 ディセンダーだから、ではなくね</JapaneseText>
       <EnglishText/>
@@ -337,6 +372,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>人々の期待からではなく、
 自分が選んだ道をお行きなさいな。
 それが、きっと全てにとって良い結果になるわ</JapaneseText>
@@ -347,6 +383,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノったら、獄門洞へ行ってから
 何か考え事をするようになったみたい。
 いつもの顔じゃないわ…</JapaneseText>
@@ -357,6 +394,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リリスさんが来てくれて、助かるわ〜。
 少し手が空くから、パイでも焼こうかしら！</JapaneseText>
       <EnglishText/>
@@ -366,6 +404,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ハニー、ハニー、ハハハハン♪
 このまま溶けて流れたい〜♪
 あなたの中へ奥へ〜、ハハンハハン♪</JapaneseText>
@@ -376,6 +415,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>何だか、カノンノが食欲ないみたいなのよ。
 どうしたのかしら、あの子…。
 ポンポン冷やしたのかしら、心配ね…</JapaneseText>
@@ -386,6 +426,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ほんと、カノンノを
 どう強くしてあげたらいいのかしら…</JapaneseText>
       <EnglishText/>
@@ -395,6 +436,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あの声が、カノンノのご両親なわけがない…。
 神様…、カノンノがこのまま…、
 声の元へといなくなったりしませんように…</JapaneseText>
@@ -405,6 +447,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノ…。
 あそこで…、何かあったのね</JapaneseText>
       <EnglishText/>
@@ -414,6 +457,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>これから…、よね。
 カノンノが、一人立ち出来るように…。
 あの子のご両親も、きっとそれを望んでいるわ</JapaneseText>
@@ -424,6 +468,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>海底に行ってらっしゃった間に、
 たくさんシーフードが獲れたのよ。
 カルパッチョとシーフードリゾットにしますね</JapaneseText>
@@ -434,6 +479,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なれるでしょうか〜、なれるなら〜♪
 可憐なスズランに〜♪な〜り〜た〜い〜の〜♪
 あら、ちょっと歌声が大きすぎたわね…！</JapaneseText>
@@ -444,6 +490,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あなたにカノンノの成長を託したいけれど、
 それは私のエゴよね…。
 新しい希望をあの子が見つけられたなら…</JapaneseText>
@@ -454,6 +501,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノの、ご両親の愛を伝えていくのが、
 残り時間の少ない私の仕事ね。
 たくさんあるから、まだまだ元気でいないとね</JapaneseText>
@@ -464,6 +512,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>フフ、カノンノはどんなお話を
 書くのかしらね？
 楽しみだわ</JapaneseText>
@@ -474,6 +523,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>想いって、残るのものなのね。
 私が生んだ負も、この世界に悪影響を
 与えているんだわ</JapaneseText>
@@ -484,6 +534,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>私は〜、恋して鬼になる〜ゥ♪
 夜道小道にあなたの影を〜♪
 追って〜、あなたを捕まえる〜ゥ♪</JapaneseText>
@@ -494,6 +545,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>羽が固くなって来たわ。
 ナツナッツ族の老化現象で、
 こうなると上手く飛べなくなるの</JapaneseText>
@@ -504,6 +556,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あら、私は大丈夫よ。
 家事はみんなが手伝ってくれてるし。
 じっとしていた方が調子悪くなるもの</JapaneseText>
@@ -514,6 +567,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ハァ〜、郷の娘が待っているゥ〜♪
 夕陽で真っ赤にほほ染めてェ〜♪
 もっと急いでおくれな〜渡し舟〜♪</JapaneseText>
@@ -524,6 +578,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>私も、結婚をして、子供を持つ夢があったわ。
 昔の…、うんと若い頃の話だけれど。
 でも、私は今でも充分幸せよ</JapaneseText>
@@ -534,6 +589,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>結婚式を〜あげましょう〜♪
 ブドウ畑の鐘が鳴り〜♪
 私はキスを待ってます〜、フンフンフフ〜♪</JapaneseText>
@@ -544,6 +600,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>お疲れのようですねェ。
 お菓子をこさえてるから、お食べなさいな。
 ココアもいれましょうね</JapaneseText>
@@ -554,6 +611,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あなたの〜エクボの〜♪
 ト〜リ〜コ〜なの〜♪
 おかげで朝からブルーブルーゥ〜♪</JapaneseText>
@@ -564,6 +622,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あなた達の様に、夢と光を見る子供達がいる
 世界なのよ。
 滅んだりなんかするもんですか、…ねぇ？</JapaneseText>
@@ -574,6 +633,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>さ・よ・な・らティーンエイジ〜♪
 やっと貴方に追いついたわ〜♪
 …ハァ、私なら３、４歳の頃の歌ね</JapaneseText>
@@ -584,6 +644,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>今のカノンノなら、何でも越えていけそう。
 私の母親としての役目は、果たせたかしら…</JapaneseText>
       <EnglishText/>
@@ -593,6 +654,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>私も、そのニアタに会えるのなら…、
 お礼を言いたいわ</JapaneseText>
       <EnglishText/>
@@ -602,6 +664,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ニアタさんって、何を召し上がられるかしら？
 ココアでいいかしら…、昆布茶がいいかしら…</JapaneseText>
       <EnglishText/>
@@ -611,6 +674,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ラララ〜ララ〜ラ♪
 るっる〜ん、るるるんるるるる〜♪
 今日は海開き〜♪</JapaneseText>
@@ -621,6 +685,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そういえば、３人とも
 食事に来ませんでしたね…。
 そんな、いなくなっただなんて…</JapaneseText>
@@ -631,6 +696,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クロエさんをお願いします。
 私は、クロエさんの好物を
 作っておきますね…</JapaneseText>
@@ -641,6 +707,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>よかったわね、クロエさんが戻って。
 ファラさんもアニスさんも、戻るわよ。
 だから、ご馳走を用意しておきましょうね</JapaneseText>
@@ -651,6 +718,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノ、大丈夫かしら…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -659,6 +727,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ここの子達は…、
 本当に素直でいい子ばっかりだわ</JapaneseText>
       <EnglishText/>
@@ -668,6 +737,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノを信じるわよ。
 大丈夫と言っているんですもの…。
 大…丈夫、…うっ、ぐすっ…</JapaneseText>
@@ -678,6 +748,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノが好きな、焼きリンゴを作っているの。
 いつものあの子なら、この匂いがするだけで、
 飛んで来てたでしょうね…</JapaneseText>
@@ -688,6 +759,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>急いで行ってあげてください。
 アニスさんのもとへ！</JapaneseText>
       <EnglishText/>
@@ -697,6 +769,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>さあ、アニスさんの為に…っと。
 まずはラタトゥイユを作りましょう。
 トマト嫌いの方の為に別メニューも必要ね</JapaneseText>
@@ -707,6 +780,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あの子をお願いします。
 望む通りの生き方をさせてあげたいんです。
 でないと、きっと私もカノンノも後悔するわ…</JapaneseText>
@@ -717,6 +791,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノを…、ありがとうございます。
 ほんとに、今のあの子は…輝いてるわ</JapaneseText>
       <EnglishText/>
@@ -726,6 +801,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ゲーデは…、自分で自分の為の地獄を
 作り出しているんだわ</JapaneseText>
       <EnglishText/>
@@ -735,6 +811,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>怖れの為に孤立していながら、
 その怖れすら手放せないでいるのよ。
 自分の不幸は世界のせいだと言い張る為に…</JapaneseText>
@@ -745,6 +822,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いつでも戻っていらっしゃいな。
 あなたの好物を作って待っていますから</JapaneseText>
       <EnglishText/>
@@ -754,6 +832,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>結婚したら、女返り咲いちゃって。
 お肌も羽もつやつやになったのよ♪
 縁って、どこで現れるかわからないものね〜</JapaneseText>
@@ -764,6 +843,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ディビディ〜ディビドゥビィディ〜♪
 ビビドゥヤ〜♪
 渦巻く恋は高気圧〜♪ランラララン♪</JapaneseText>
@@ -774,6 +854,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>真っ赤なビキニを〜買ったのよ〜♪
 はにかんだりなんか〜、し〜ない〜わよ〜♪
 今日はアタック、アタック、スマッシュ〜♪</JapaneseText>
@@ -784,6 +865,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>一つの傘に〜貴方と二人〜♪
 この雨はァ〜、ナ〜ミ〜ダ〜なのォ〜♪
 ああ、ナミダナミダナミダ〜♪</JapaneseText>
@@ -794,6 +876,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>年の最後に降る雪はァ〜♪
 やさし心のあなたのよ〜ゥ〜♪
 両手広げて〜あなたをォ〜待ってるの〜♪</JapaneseText>
@@ -804,6 +887,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>パニールさんはすごいんですね。
 こんな大人数を抱えて、料理も洗濯も
 一人でこなしていたなんて！</JapaneseText>
@@ -814,6 +898,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>台所が済んだら、次はお掃除。
 でも、頑張ります。
 だから、散らかさないで下さいね</JapaneseText>
@@ -824,6 +909,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>改造してから、振動が少なくなりましたね。
 前はいっつも食器が揺れていたから、
 心配だったんですよ</JapaneseText>
@@ -834,6 +920,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いいにおいでしょ？
 今日の夕食の用意ですよ</JapaneseText>
       <EnglishText/>
@@ -843,6 +930,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>汚れ物はありませんか？
 お洗濯するから、出すなら今のうちですよ！</JapaneseText>
       <EnglishText/>
@@ -852,6 +940,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>この船にいると、世界中の食材が
 手に入るから、料理のし甲斐があります！</JapaneseText>
       <EnglishText/>
@@ -861,6 +950,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ふぅ…。
 ちょっと、ティータイムにしようかな</JapaneseText>
       <EnglishText/>
@@ -870,6 +960,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ちょっと、つまみ食いします？
 いいですよ、今日の夕食の味見！
 なかなかいい味でしょう</JapaneseText>
@@ -880,6 +971,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>パニールさんの身体が思わしくないような…。
 ちょっと、ふらついたりする時があるみたいで。
 …気のせいならいいんですけど</JapaneseText>
@@ -890,6 +982,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノさんは、パニールさんの前では
 本当に幼子のような顔をするんですね</JapaneseText>
       <EnglishText/>
@@ -899,6 +992,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>さて、と。
 今日のおやつの支度をしないと！
 ここの人たちは、みんな甘いものが好きなんですね</JapaneseText>
@@ -909,6 +1003,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>今日の夜食は…、
 夕食がヘビーだから、ココアとちょっと
 つまめるようなお菓子にしますね</JapaneseText>
@@ -919,6 +1014,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ジャニスさんのご両親って、シャンソン歌手ですよね。
 それもすごく有名な…。
 息子に女性名を付けてしまったって言う…</JapaneseText>
@@ -929,6 +1025,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>パニールさんがいつも歌ってる鼻歌がそうだったかな。
 学者と言うより、変なところで名前が知られてる
 人ですよ</JapaneseText>
@@ -939,6 +1036,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>故郷のおじいちゃんのところも、得体の
 知れない魔物が増えてきているそうです。
 負が生み出したものなんでしょうね…</JapaneseText>
@@ -949,6 +1047,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>世界樹を回復させただけでもすごいことです。
 そう思いませんか？
 これからのことだって、うまくいきますよ</JapaneseText>
@@ -959,6 +1058,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノさんを、ニアタモナドへ
 連れて行っても大丈夫なんですか？</JapaneseText>
       <EnglishText/>
@@ -968,6 +1068,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あそこでショックなことが
 起きなければいいんですけど</JapaneseText>
       <EnglishText/>
@@ -977,6 +1078,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ニアタさんって…。
 変わった…、お客さんですね。
 食事は何を用意すればいいのかな…</JapaneseText>
@@ -987,6 +1089,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クロエさんたちが、食事に来ないと気付いた時
 みんなに早く報告すればよかった。
 そうしたらもっと、足取りをつかめてたかも…</JapaneseText>
@@ -997,6 +1100,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>頑張ってくださいね。
 パニールさんがクロエさんの好物を
 作って待っていますから</JapaneseText>
@@ -1007,6 +1111,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ファラさんとアニスさんも
 早く見つかればいいですね…</JapaneseText>
       <EnglishText/>
@@ -1016,6 +1121,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>パニールさん、表には出さないけど
 カノンノさんが倒れてから、
 気が気でないみたい…</JapaneseText>
@@ -1026,6 +1132,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>しょっちゅう、家事をしている、
 その手の動きが止まるんです。
 カノンノさんのことで頭がいっぱいなのね</JapaneseText>
@@ -1036,6 +1143,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ファラさんはゆっくり休ませてくださいね。
 今日は、ファラさんが好きなものばかりを
 作りますよ！</JapaneseText>
@@ -1046,6 +1154,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>きっと、アニスさんも見つかりますよ。
 カノンノさんが頑張っているから…</JapaneseText>
       <EnglishText/>
@@ -1055,6 +1164,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>世界樹が回復しても、負は増すばかり。
 人の心に、いかにおおらかさが必要なのか
 痛感します</JapaneseText>
@@ -1065,6 +1175,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>えっ、今日の夕食は、アニスさんが好きな
 メニューですかって？</JapaneseText>
       <EnglishText/>
@@ -1074,6 +1185,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>もちろん、腕をふるいますよ。
 まっかせといてよ！</JapaneseText>
       <EnglishText/>
@@ -1083,6 +1195,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>パニールさん、カノンノさんをガレットへ
 行かせるのは、やっぱり後悔させたく
 ないからでしょうか？</JapaneseText>
@@ -1093,6 +1206,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>生きる時間について一番知ってるのは、
 パニールさんだもの…。
 それに、信頼してるんですね、カノンノさんを</JapaneseText>
@@ -1103,6 +1217,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ふふ。
 今日はあなたの好物を作ろうって、
 パニールさんと話していたんですよ？</JapaneseText>
@@ -1113,6 +1228,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>こういう時こそ、明るく行きましょう！
 私たち、いつもそうやって何でも
 越えてきたじゃないですか！</JapaneseText>
@@ -1123,6 +1239,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>パニールさん、あんなに元気になって。
 恋の力って、すごいんですね</JapaneseText>
       <EnglishText/>
@@ -1132,6 +1249,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>で、結局ここは
 ギルドと海賊のどっちなんだ？</JapaneseText>
       <EnglishText/>
@@ -1141,6 +1259,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>しっかし、こんなトコの
 やっかいになるなんて
 思いもしなかったぜ</JapaneseText>
@@ -1151,6 +1270,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>船が拠点ってのも
 悪いもんじゃねえな</JapaneseText>
       <EnglishText/>
@@ -1160,6 +1280,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おかげで、ここにも
 だいぶ慣れてきたわ。
 ありがとな</JapaneseText>
@@ -1170,6 +1291,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>帝国の意に反するのもありゃ、
 ここみたいに国に属してるのもある。
 …ギルドにも色々あんだな</JapaneseText>
@@ -1180,6 +1302,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ここも、だいぶ賑やかになったな。
 別に嫌じゃねえよ。
 下町の雑踏みたいだしよ</JapaneseText>
@@ -1190,6 +1313,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>また随分とデカイ代物だな、おい。</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -1198,6 +1322,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>死者の目覚めってすげえのな。
 船まで揺れてたんじゃねえのか？</JapaneseText>
       <EnglishText/>
@@ -1207,6 +1332,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ラピード、元気してっかなあ。</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -1215,6 +1341,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>本読んでる最中のエステルに話しかけても
 無駄だと思うぜ。
 読み出したら止まらないみたいだし</JapaneseText>
@@ -1225,6 +1352,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>変なヤツってのは、
 どこにでも居るもんだよな。
 …なんで、オレの顔見てんだよ？</JapaneseText>
@@ -1235,6 +1363,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>もう起きて大丈夫なのか？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -1243,6 +1372,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>騎士ねえ。
 まあ、なりたい奴はなればイイんじゃねえの？
 …後悔しないんならな</JapaneseText>
@@ -1253,6 +1383,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>オレもラピードが相棒だったわけだし、
 ニアタみたいなのが父親だってのも
 イイんじゃないかね</JapaneseText>
@@ -1263,6 +1394,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>船から失踪者が出たのは聞いた。
 で、おまえはどうしたいんだ？
 ○○先生</JapaneseText>
@@ -1273,6 +1405,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>先ずは一人目の帰艦か。
 みんな喜んでたし、
 良かったじゃねえか</JapaneseText>
@@ -1283,6 +1416,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>人間ってのは、弱気になると
 自分を守るために、自分を裏切る。
 矛盾してっけど、そんなもんなんだよ…</JapaneseText>
@@ -1293,6 +1427,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>他人のために、わざわざ自分に負担を
 背負い込むなんて、面倒な性格してんだな。
 …おまえが、チャンと見てやれよ</JapaneseText>
@@ -1303,6 +1438,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>イケるイケるのお嬢さん、
 大した怪我もないみたいで
 何よりだ</JapaneseText>
@@ -1313,6 +1449,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>これで、やっと全員復帰か。
 …ったく、ガキはガキらしく
 大人に甘えとけってな</JapaneseText>
@@ -1323,6 +1460,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>さて、○○先生。
 あの高いとこがお好きな野郎を
 どう料理してやんだ？</JapaneseText>
@@ -1333,6 +1471,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>とりあえず、船長には挨拶しときな。
 溜まりまくった依頼の対処に
 泡食ってたみたいだしよ</JapaneseText>
@@ -1343,6 +1482,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>改めて、よろしくお願いします。
 …それで、こちらは
 本当に海賊じゃないんですよね？</JapaneseText>
@@ -1353,6 +1493,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>えと、こう言ってよいかわかりませんが…。
 逃げ込んだ先が、こちらのギルドで
 良かったと、少しだけ思いました</JapaneseText>
@@ -1363,6 +1504,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>静かな夜、穏やかな波の音だけが
 心地よく響く中、本の世界に思いを馳せる…。
 …船の上って思ってた以上に素敵です</JapaneseText>
@@ -1373,6 +1515,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ディセンダーについての本は、
 世に数多あり、その解釈も諸説あります。
 ディセンダーが多くの人を魅了する証拠ですね</JapaneseText>
@@ -1383,6 +1526,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>精霊について書かれた本は沢山読みましたけど
 本当に居るとは思っていませんでした…。
 触ってみたりしたら、怒られるかな？</JapaneseText>
@@ -1393,6 +1537,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ユーリですか？
 確かに言葉遣いは良くはありませんけど、
 とても良い人です</JapaneseText>
@@ -1403,6 +1548,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>料理や洗濯ですか？
 いいえ、した事ありません。
 …おかしいです？</JapaneseText>
@@ -1413,6 +1559,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>世の中には、書物に載っていない事も
 まだまだ沢山あるのですね。
 あの巨大な物を見て、そう実感しました！</JapaneseText>
@@ -1423,6 +1570,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ここに来て、読書だけでは得られなかった
 沢山の事を経験できています。
 世界って、本当に広いんですね</JapaneseText>
@@ -1433,6 +1581,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ラピードはユーリの相棒で、とても賢くて
 でも、わたしには…。
 いえ、わたし、諦めてません</JapaneseText>
@@ -1443,6 +1592,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…………</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -1451,6 +1601,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あ、えと、ユーリがどうかしました？
 …違いましたか。
 ごめんなさい</JapaneseText>
@@ -1461,6 +1612,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ユーリは変な人じゃありません。
 ちょっと、素直じゃないだけです。
 あれ？　ユーリの事じゃないんですか？</JapaneseText>
@@ -1471,6 +1623,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>だ、大丈夫ですか！？
 …ちょっと心配です。
 あまり無理しないでください</JapaneseText>
@@ -1481,6 +1634,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ジャニスさんが書いた本ってあります？
 もしあるなら、読んでみたいです</JapaneseText>
       <EnglishText/>
@@ -1490,6 +1644,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>人と人の関係って、不仲に見えて良好だったり
 その逆もあったり、色々ですね。
 わたしも人付き合い、頑張ります</JapaneseText>
@@ -1500,6 +1655,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>わたしの服、どうですか？
 ユーリは色気が足りないと言います…。
 …服じゃなくって、わたしですか？</JapaneseText>
@@ -1510,6 +1666,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>３人とも、大丈夫でしょうか…？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -1518,6 +1675,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クロエが無事で良かったです！
 セネルも喜んでます。</JapaneseText>
       <EnglishText/>
@@ -1527,6 +1685,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>砂漠を進む時は、寒い寒いと言いながら
 行けば良いんです。
 暑いと言うと、温度が上がる気がしません？</JapaneseText>
@@ -1537,6 +1696,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノですか？
 今は、医務室で眠っていると思います。</JapaneseText>
       <EnglishText/>
@@ -1546,6 +1706,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ファラも無事で良かったです！
 …ひとりで色々悩んでたんだと思います。
 でも、頼れる仲間が居るから、もう大丈夫ですね</JapaneseText>
@@ -1556,6 +1717,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アニスと同じ年代の頃、
 わたしは外の世界を、外の厳しさを
 まだ知りませんでした…</JapaneseText>
@@ -1566,6 +1728,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アニスは強い子です。
 きっと、大丈夫です</JapaneseText>
       <EnglishText/>
@@ -1575,6 +1738,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>わたし、アニスも大丈夫だって信じてました。
 だって、アニスも強い人ですから。
 これでまた、みんなで進めますね</JapaneseText>
@@ -1585,6 +1749,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ここが正念場です！
 諦めずに、いきましょう！</JapaneseText>
       <EnglishText/>
@@ -1594,6 +1759,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>みんな本当に待ってたんですよ…。
 あなたが、いつ帰ってきても良いように
 このギルドを、ずっと続けてたんです…</JapaneseText>
@@ -1604,6 +1770,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>さあ、ディセンダー・○○！
 次に片付ける依頼は何です？</JapaneseText>
       <EnglishText/>

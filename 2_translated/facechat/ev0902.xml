@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ゼロス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>プレセア</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>&lt;Name:82&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -26,6 +29,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>うっわぁ〜、陰気な所だね〜…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -34,6 +38,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ほら、俺さま輝き過ぎてるじゃない？
 逆に目立ちすぎて、
 居心地良くないんだよね〜</JapaneseText>
@@ -44,6 +49,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…じゃあゼロスくんは
 なぜ同行に志願したのですか？</JapaneseText>
       <EnglishText/>
@@ -53,6 +59,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>だーってぇ、○○と
 プレセアちゃんを二人っきりに
 したくないでしょ〜よ</JapaneseText>
@@ -63,6 +70,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>決まってんでしょ〜？
 プレセアちゃんが行くって
 言うんだもん</JapaneseText>
@@ -73,6 +81,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それに○○ちゃんとも
 ゆっくりお喋りしたかったし〜</JapaneseText>
       <EnglishText/>
@@ -82,6 +91,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -90,6 +100,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あと、あのジーニアスのクソガキが
 やっかむ所を見たかったし〜…</JapaneseText>
       <EnglishText/>
@@ -99,6 +110,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -107,6 +119,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -115,6 +128,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…立ち話をしている場合では
 ありませんでしたね。
 急ぎましょう</JapaneseText>

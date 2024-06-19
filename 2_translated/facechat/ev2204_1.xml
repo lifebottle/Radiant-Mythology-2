@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>セネル</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -12,6 +13,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>誰だか知らないが、
 おまえがクロエになれるものか！！</JapaneseText>
       <EnglishText/>
@@ -21,6 +23,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>俺が知ってるクロエは
 こいつだけだ！</JapaneseText>
       <EnglishText/>

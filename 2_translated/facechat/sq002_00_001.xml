@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ナナリー</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -12,6 +13,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>退治依頼か…。
 あたしひとりじゃ、ちょっと辛いね</JapaneseText>
       <EnglishText/>
@@ -21,6 +23,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ああ、○○。
 ちょっと、困った事があってね</JapaneseText>
       <EnglishText/>
@@ -30,6 +33,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>前のギルドでのお得意さんが
 依頼客を紹介してくれてね</JapaneseText>
       <EnglishText/>
@@ -39,6 +43,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>まあ、それであたしのところに
 その紹介を通じて退治依頼が
 来たんだけど</JapaneseText>
@@ -49,6 +54,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>今、パートナーになってくれる人が
 いなくてさ</JapaneseText>
       <EnglishText/>
@@ -58,6 +64,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>行ってやりたいんだけどね…。
 お得意様からの紹介だし</JapaneseText>
       <EnglishText/>

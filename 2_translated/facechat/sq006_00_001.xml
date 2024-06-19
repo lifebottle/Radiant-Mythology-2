@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クラトス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -12,6 +13,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そろそろ、
 レディアントが現れる事だろう</JapaneseText>
       <EnglishText/>
@@ -21,6 +23,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そうだ、以前話した
 先代のディセンダーの武具達だ</JapaneseText>
       <EnglishText/>
@@ -30,6 +33,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それらと出会うには、
 己がレディアントを所有するに
 相応しいという強さを示さねばならない</JapaneseText>
@@ -40,6 +44,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>まずはそれを示す為に
 マンダージ地下都市跡へ
 向かわねばならん</JapaneseText>
@@ -50,6 +55,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>どうだ…、行ってみるか？</JapaneseText>
       <EnglishText/>
       <Notes/>

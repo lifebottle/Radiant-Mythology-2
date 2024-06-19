@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>コレット</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>青年</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -26,6 +29,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ねえ、あそこ。
 ビクターさんかなあ？</JapaneseText>
       <EnglishText/>
@@ -35,6 +39,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>わからないけれど、
 声をかけてみましょう。
 ここは、危ない場所だし…</JapaneseText>
@@ -45,6 +50,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ビクターさんですか？
 私達は、アドリビトムという
 ギルドの者です</JapaneseText>
@@ -55,6 +61,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ここは危険な場所ですから、
 私達と外へ出ましょう</JapaneseText>
       <EnglishText/>
@@ -64,6 +71,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>（何かしら、この黒いモヤは…）</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -72,6 +80,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あの、大丈夫ですか。
 気分が悪いとか…</JapaneseText>
       <EnglishText/>
@@ -81,6 +90,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>うるさい…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -89,6 +99,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あの…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -97,6 +108,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>うるさいぃぃぃ…
 放っておいてくれよぉぉぉ！！</JapaneseText>
       <EnglishText/>
@@ -106,6 +118,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…な……</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -114,6 +127,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>これは…、どうしてこんな…！？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -122,6 +136,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ど、どうすればいいの？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -133,6 +148,7 @@
   <Strings>
     <Section>Unreferenced</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>Bip01 Spine</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -140,6 +156,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>Bip01 R Calf</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -147,6 +164,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>Bip01 L Calf</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -154,6 +172,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>Bip01 Spine</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -161,6 +180,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>Bip01 Spine</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -168,6 +188,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>Bip01 Spine</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -175,6 +196,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>Bip01 Spine</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -182,6 +204,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>Bip01 Spine</JapaneseText>
       <EnglishText/>
       <Notes/>

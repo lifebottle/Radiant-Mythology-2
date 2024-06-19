@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>チャット</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ルーク</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アッシュ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -26,6 +29,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ルークさんは、本当に掃除がヘタですね。
 当番なんですから、もっとしっかり
 してください</JapaneseText>
@@ -36,6 +40,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ご、ごめん。
 なかなか、し慣れない事だから…</JapaneseText>
       <EnglishText/>
@@ -45,6 +50,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>でも、おかげで掃除の仕方、
 勉強になったよ。
 掃除なんて…した事なかったから</JapaneseText>
@@ -55,6 +61,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…！？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -63,6 +70,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…！！
 おまえは…</JapaneseText>
       <EnglishText/>
@@ -72,6 +80,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あなたが、アドリビトムの新しい
 仲間になった、アッシュさんですね？</JapaneseText>
       <EnglishText/>
@@ -81,6 +90,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…しかし、びっくりしました。
 ジェイドさんが言う通り、
 ルークさんに瓜二つじゃないですか</JapaneseText>
@@ -91,6 +101,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>世の中、そっくりな人が三人は
 いるというけど。
 まるで双子のようですね</JapaneseText>
@@ -101,6 +112,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ボクはチャット。
 バンエルティア号の船長兼このギルド、
 アドリビトムのリーダーです</JapaneseText>
@@ -111,6 +123,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そしてこちらは、ルークさんです</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -119,6 +132,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あ、えっと…、ルークです。
 ルーク・フォン・ファブレ…と言います</JapaneseText>
       <EnglishText/>
@@ -128,6 +142,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…！！
 おまえがか…</JapaneseText>
       <EnglishText/>
@@ -137,6 +152,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…え…？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -145,6 +161,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………ちっ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -153,6 +170,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…何か気に障ったのでしょうか？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -161,6 +179,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…いや、俺にも…わからないよ。
 挨拶が悪かったのかな…</JapaneseText>
       <EnglishText/>

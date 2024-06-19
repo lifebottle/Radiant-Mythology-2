@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>————</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -12,6 +13,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>『作戦』について説明を聞きますか？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -20,6 +22,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>聞く</JapaneseText>
       <EnglishText/>
       <Notes>Choice 1</Notes>
@@ -27,6 +30,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>聞かない</JapaneseText>
       <EnglishText/>
       <Notes>Choice 2</Notes>
@@ -34,6 +38,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>パーティのメンバーは、あなたの作戦に
 従って戦っています</JapaneseText>
       <EnglishText/>
@@ -43,6 +48,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>作戦には『自由』、『全力』、『近接』
 『支援』、『後方』、『節約』といった
 いくつかの種類があります</JapaneseText>
@@ -53,6 +59,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>『自由』ならそのメンバーなりの戦い方
 だったり、『全力』ならメンバーの得意とする
 戦い方をＴＰの消費などを気にせず行わせます</JapaneseText>
@@ -63,6 +70,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>メンバーは作戦に従って戦うので、
 戦況に適した指示をしてあげてください</JapaneseText>
       <EnglishText/>

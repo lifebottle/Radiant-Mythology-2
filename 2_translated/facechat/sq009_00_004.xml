@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ファラ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クレス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -26,6 +29,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そうだ。
 今回は、とっておきの情報を教えなくちゃ</JapaneseText>
       <EnglishText/>
@@ -35,6 +39,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>うん、○○の為の情報だね</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -43,6 +48,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>まず、今回のマイソロジー２では、
 前作に比べて５つの新しい職業が追加される</JapaneseText>
       <EnglishText/>
@@ -52,6 +58,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>他にも、キャラメイクのバリエーションが
 大幅にアップするよ！</JapaneseText>
       <EnglishText/>
@@ -61,6 +68,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>パーツやボイスの増加、髪の色、目の色、
 肌の色の変更など、豊富なキャラメイクが
 出来るんだ</JapaneseText>
@@ -71,6 +79,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>装備の数だって、たっくさんあるよ！
 もちろん、ユニークな衣装だってあるし、
 どんな格好も○○次第！</JapaneseText>
@@ -81,6 +90,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>今日とはまた違う○○の姿が、
 いっぱい見られるんだね</JapaneseText>
       <EnglishText/>
@@ -90,6 +100,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>前作に引き続き、連動サイトも運営決定！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -98,6 +109,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>自分だけの個性的なキャラクターを、
 傭兵として配信するんだよね。
 ○○は、どんなアピールをするのかな？</JapaneseText>
@@ -108,6 +120,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ふふ。
 それも楽しみにしてるよ！</JapaneseText>
       <EnglishText/>

@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ゼロス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ジェイド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>&lt;Name:82&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -26,6 +29,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>うげぇ…、こいつやっぱ
 ただモンじゃねーな…。
 主役乗っ取り失敗だな、こりゃ…</JapaneseText>
@@ -36,6 +40,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…甘く見すぎていたようですね。
 流石はディセンダーといったところですか</JapaneseText>
       <EnglishText/>
@@ -45,6 +50,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おい、ジェイド！
 他人事みたいな事言ってんじゃねーってばよ！
 あんたがそそのかしたんだろ</JapaneseText>
@@ -55,6 +61,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おや？　責任転嫁もはなはだしいですね</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -63,6 +70,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>「ＧＶ」をもっとやりたいという
 あなたの要望をかなえるべく
 案を出したに過ぎませんが</JapaneseText>
@@ -73,6 +81,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いや、あんたも結構ノリノリじゃん！
 「負」の影響が問題ないってわかったら、
 もうディセンダーは用なしだっつったろ</JapaneseText>
@@ -83,6 +92,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>はて、さっぱり記憶にありませんねぇ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -91,6 +101,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>また年寄りぶって、
 すっとぼけようってハラか？</JapaneseText>
       <EnglishText/>
@@ -100,6 +111,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ええ、若者に責任を押し付けるのは
 年長者の特権ですよ。
 年功序列社会、万歳ですね</JapaneseText>
@@ -110,6 +122,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>やれやれ、ホンキでボケてんのかね。
 あんた、さっき「責任転嫁もはなはだしい」
 って俺さまに言ったところなんデスけど〜？</JapaneseText>
@@ -120,6 +133,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あなたの脳年齢を測る為の
 記憶力チェックにすぎませんよ</JapaneseText>
       <EnglishText/>
@@ -129,6 +143,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>どうやら年相応の知能のようですね。
 意外な結果でした</JapaneseText>
       <EnglishText/>
@@ -138,6 +153,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あれぇ…、その言い方って
 ひょっとして俺さまにケンカを
 売ってたりなんかしちゃったりしてる？</JapaneseText>
@@ -148,6 +164,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ご冗談でしょう。
 あなたのようなお家柄の人に
 失礼を働いたり致しませんとも</JapaneseText>
@@ -158,6 +175,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>言葉と態度が
 全然違うっぽいぜ？</JapaneseText>
       <EnglishText/>
@@ -167,6 +185,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ええ、よく誤解される性質でして</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -175,6 +194,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -183,6 +203,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>うおっ！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -191,6 +212,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>お、おい、そんなに怒んなよ。
 怖いだろ</JapaneseText>
       <EnglishText/>
@@ -200,6 +222,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>これは失礼</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -208,6 +231,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それでは、そろそろ戻りませんか。
 パパッと</JapaneseText>
       <EnglishText/>
@@ -217,6 +241,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…だな。
 こんな所よりあの船の方がずっといいぜ</JapaneseText>
       <EnglishText/>
@@ -226,6 +251,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>んじゃ、パパッと戻るぜ</JapaneseText>
       <EnglishText/>
       <Notes/>

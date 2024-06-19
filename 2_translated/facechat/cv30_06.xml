@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>マオ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>チェスター</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>スタン</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -26,6 +29,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ぼ、ぼ、冒険楽しいなー♪
 敵をやっつけ、お金を拾う♪
 強くなれるし、懐潤う〜♪</JapaneseText>
@@ -36,6 +40,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…なんだよ、その歌は</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -44,6 +49,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ボクが作った「冒険の歌」だヨ。
 どう？</JapaneseText>
       <EnglishText/>
@@ -53,6 +59,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>歌詞はともかく、
 上手く歌えて羨ましいよ</JapaneseText>
       <EnglishText/>
@@ -62,6 +69,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>同感だ。
 俺も歌がイマイチなんだよな。
 リッドのヤツも歌が苦手らしいけどな</JapaneseText>
@@ -72,6 +80,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ひたすら練習あるのみだネ！
 さ、やってみよう！</JapaneseText>
       <EnglishText/>
@@ -81,6 +90,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>えー…？　ここで？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -89,6 +99,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>恥ずかしがる事なんてないってば！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -97,6 +108,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>騒がしくしてると、怒られねえか？
 クラトスとか、ジェイドとか、
 ユージーンとかに</JapaneseText>
@@ -107,6 +119,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>うーん…、そこまで考えてなかった。
 じゃ、歌の練習禁止ネ</JapaneseText>
       <EnglishText/>
@@ -116,6 +129,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>自分は歌うだけ歌っといて…、
 勝手だよなぁ</JapaneseText>
       <EnglishText/>

@@ -8,6 +8,7 @@
   <Strings>
     <Section>Unreferenced</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>武器・防具屋</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -15,6 +16,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>道具屋</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -22,6 +24,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>グレードショップ</JapaneseText>
       <EnglishText/>
       <Notes/>

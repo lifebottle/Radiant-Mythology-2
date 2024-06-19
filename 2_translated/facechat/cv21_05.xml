@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>キール</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リッド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ミント</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -23,6 +26,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>イリア</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -33,6 +37,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リッド！
 ファラが倒れたそうじゃないか！</JapaneseText>
       <EnglishText/>
@@ -42,6 +47,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>知ってるさ…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -50,6 +56,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>心配する</JapaneseText>
       <EnglishText/>
       <Notes>Choice 1</Notes>
@@ -57,6 +64,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>大丈夫だ、という</JapaneseText>
       <EnglishText/>
       <Notes>Choice 2</Notes>
@@ -64,6 +72,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>疲労が溜まっていたみたいですね。
 あまり無理をさせないように
 私達も気をつけましょう</JapaneseText>
@@ -74,6 +83,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ふーん…、そっか…。
 だったら安心かな</JapaneseText>
       <EnglishText/>
@@ -83,6 +93,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>少し疲労が溜まってたみたいです。
 たっぷり休んだから
 もう心配ないでしょう</JapaneseText>
@@ -93,6 +104,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そ、そうか…。
 だったら大丈夫…かな？</JapaneseText>
       <EnglishText/>
@@ -102,6 +114,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>だ〜いじょぶだって。
 さっき見たけど、もう元気そうだったもん</JapaneseText>
       <EnglishText/>
@@ -111,6 +124,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>どう思う？
 リッド</JapaneseText>
       <EnglishText/>
@@ -120,6 +134,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ん、ああ…。
 まぁ、今んトコ大丈夫じゃねぇかな</JapaneseText>
       <EnglishText/>
@@ -129,6 +144,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…おまえがそういうなら、
 大丈夫か</JapaneseText>
       <EnglishText/>
@@ -138,6 +154,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>何よぉ、あんたら随分ファラを
 甘やかしてんじゃん</JapaneseText>
       <EnglishText/>
@@ -147,6 +164,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>まあ実際あの子、
 結構丈夫そうだけどさ</JapaneseText>
       <EnglishText/>
@@ -156,6 +174,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ファラは農家の手伝いをしてるし、
 なによりレグルス流道場で
 かなり鍛えこまれてる</JapaneseText>
@@ -166,6 +185,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>体はかなり丈夫な方だろう</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -174,6 +194,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ああ、おまえなんかよりな</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -182,6 +203,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>か、関係ないだろ！
 ぼくの事は！</JapaneseText>
       <EnglishText/>
@@ -191,6 +213,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>私の目から、ファラさんは何かに
 追い立てられているかのように
 見えるんです</JapaneseText>
@@ -201,6 +224,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それが彼女に無理をさせて
 しまったんじゃないでしょうか？</JapaneseText>
       <EnglishText/>
@@ -210,6 +234,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>……………</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -218,6 +243,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………………</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -226,6 +252,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…………………</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -234,6 +261,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…なんでおまえまで黙り込む？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -242,6 +270,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いや〜、なんかそんなどっかに
 おちゃらけ入れといた方がいいかな〜
 なんて、ね</JapaneseText>
@@ -252,6 +281,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あはは、お邪魔みたいね、あたしぃ♪
 んじゃね〜</JapaneseText>
       <EnglishText/>
@@ -261,6 +291,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なんなんだ…、一体…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -269,6 +300,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ファラさんがイリアさんのような
 性格だったら、追い詰められる事も
 なかったのかもしれませんね</JapaneseText>
@@ -279,6 +311,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ファラが、イリアみたいに…？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -287,6 +320,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>無鉄砲さに磨きがかかるだけだな</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -295,6 +329,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そ、そうですね…</JapaneseText>
       <EnglishText/>
       <Notes/>

@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>パニール</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -19,6 +21,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あら、もう干しキノコがないわ。
 あれをダシにしないと、
 なんか料理の味がボヤけちゃうのよね</JapaneseText>
@@ -29,6 +32,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>他で代用するかしら…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -37,6 +41,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>じゃあ、私がキノコを採ってくる</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -45,6 +50,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それはいいけど、カノンノ…。
 いい？
 一人で行っちゃダメよ</JapaneseText>
@@ -55,6 +61,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>はぁい</JapaneseText>
       <EnglishText/>
       <Notes/>

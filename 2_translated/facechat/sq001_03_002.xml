@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>キール</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -12,6 +13,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>すまないな。
 それじゃ、ぼくの調査が済むまで
 護衛を頼む</JapaneseText>
@@ -22,6 +24,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ぼくも、こんな所に
 長居するのはごめんだ。
 早く終わらせるようにするよ</JapaneseText>

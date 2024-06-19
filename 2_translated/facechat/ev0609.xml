@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -12,6 +13,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>え？　私の両親の事？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -20,6 +22,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>顔とかは…、知らないの。
 物心ついたときにはいなかったんだ。
 パニールと二人だったの</JapaneseText>
@@ -30,6 +33,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>知ってるのは…、二人ともお医者さんで、
 とても優しくて、困っている人がいたら
 どこへでも飛んでいってたって</JapaneseText>
@@ -40,6 +44,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>今も困っている人を助けに行ってるって。
 そうパニールから聞いたんだ。
 パニールは…、そう言ってた</JapaneseText>
@@ -50,6 +55,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>私達みたいに海を旅して、
 困っている人を助けて
 まわってるのかなぁ</JapaneseText>

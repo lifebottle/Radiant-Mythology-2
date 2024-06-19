@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>チャット</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ルビア</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -23,6 +26,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ルカ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -33,6 +37,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>○○さん！
 あの船の乗組員！
 絶対助けないといけませんよ！</JapaneseText>
@@ -43,6 +48,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なんてったって、
 グランマニエ皇国の船ですからね</JapaneseText>
       <EnglishText/>
@@ -52,6 +58,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>皇国籍じゃないと救助しないのか？</JapaneseText>
       <EnglishText/>
       <Notes>Choice 1</Notes>
@@ -59,6 +66,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>当たり前だ</JapaneseText>
       <EnglishText/>
       <Notes>Choice 2</Notes>
@@ -66,6 +74,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そんなワケないでしょう！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -74,6 +83,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ですよね！
 頑張りましょう！</JapaneseText>
       <EnglishText/>
@@ -83,6 +93,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>でも…、今の言い方って、
 グランマニエの船だから助けるみたいに
 聞こえるんだけど…</JapaneseText>
@@ -93,6 +104,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>グランマニエは大きな国だものね。
 見返りを求めてるって事？</JapaneseText>
       <EnglishText/>
@@ -102,6 +114,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>何を言ってるんです！
 遭難者を見捨てるなんて、
 船乗りの道義にもとる行為です</JapaneseText>
@@ -112,6 +125,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>もっとも見返りぐらいは
 この場合期待してもいいとは思いますけどね</JapaneseText>
       <EnglishText/>
@@ -121,6 +135,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>じゃ、じゃあ、
 見捨てたりしないんだね…。
 よかった〜…</JapaneseText>
@@ -131,6 +146,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そんなに、あの人達の事を
 助けたかったの？
 ルカって優しいのね</JapaneseText>
@@ -141,6 +157,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…いや、もし僕が海に落ちて、
 それでそのまま放っておかれたら
 どうしようって思ってたんだ</JapaneseText>
@@ -151,6 +168,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>もう…、ルカって心配性ね。
 船長はそんな冷たい人じゃないよ</JapaneseText>
       <EnglishText/>
@@ -160,6 +178,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そんな事より、早く行かないと！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -168,6 +187,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そうですね。
 あの辺りの海流は危険です。
 この船はここに投錨し、待機します</JapaneseText>
@@ -178,6 +198,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>皆さん、早く向かって下さいね</JapaneseText>
       <EnglishText/>
       <Notes/>

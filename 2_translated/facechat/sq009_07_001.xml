@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -12,6 +13,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>今回の仕事は、「採取ポイント」で
 「銅の草刈鎌」を使って
 「小麦」を手に入れて納品すること！</JapaneseText>
@@ -22,6 +24,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>「小麦」は、「粘菌の巣」の
 「採取ポイント」で手に入るわ。
 まずは、そこへ向かいましょう</JapaneseText>
@@ -35,6 +38,7 @@
   <Strings>
     <Section>Unreferenced</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>銅の草刈鎌を３個手に入れた。</JapaneseText>
       <EnglishText/>
       <Notes/>

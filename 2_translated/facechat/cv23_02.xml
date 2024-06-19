@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クレス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>セネル</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ルーク</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -23,6 +26,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リッド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -33,6 +37,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>セネルは格闘技主体なんだよな</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -41,6 +46,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ああ。
 それがどうかしたか？</JapaneseText>
       <EnglishText/>
@@ -50,6 +56,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それにしちゃあ、体格が
 貧相じゃねーの？</JapaneseText>
       <EnglishText/>
@@ -59,6 +66,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いや、おまえもセネルとかわんねぇだろ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -67,6 +75,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ウェイトは全然違うだろ。
 剣の威力には体重が必要なんだぜ</JapaneseText>
       <EnglishText/>
@@ -76,6 +85,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>違う！
 体格と筋力の不利を補うのは技だ</JapaneseText>
       <EnglishText/>
@@ -85,6 +95,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>僕のアルベイン流なら
 大きな相手だったとしても引けは取らない</JapaneseText>
       <EnglishText/>
@@ -94,6 +105,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>だったら俺も同じだな。
 俺の爪術は打撃だけじゃない。
 相手の体重を利用した投げ技もあるんだ</JapaneseText>
@@ -104,6 +116,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>どーせオレは技なんてねぇよ。
 体格で戦ってるだけさ</JapaneseText>
       <EnglishText/>
@@ -113,6 +126,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それが出来るリッドが羨ましいよ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -121,6 +135,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なんか自慢されてる気がする</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -129,6 +144,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…まあ、
 体格がいいに越した事はないよな</JapaneseText>
       <EnglishText/>
@@ -138,6 +154,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>大丈夫だよ</JapaneseText>
       <EnglishText/>
       <Notes>Choice 1</Notes>
@@ -145,6 +162,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>仕方ないさ</JapaneseText>
       <EnglishText/>
       <Notes>Choice 2</Notes>
@@ -152,6 +170,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そう…だな、
 そうあってもらいたい</JapaneseText>
       <EnglishText/>
@@ -161,6 +180,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…仕方ない…のか。
 だが、まだ諦めたくないな</JapaneseText>
       <EnglishText/>
@@ -170,6 +190,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>俺達１７歳だもんな。
 年齢的に、まだ伸びる…はずだろ？</JapaneseText>
       <EnglishText/>
@@ -179,6 +200,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>どうかな…。
 伸びればいいとは思うけどね</JapaneseText>
       <EnglishText/>
@@ -188,6 +210,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ああ、もうちょい身長欲しいしな</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -196,6 +219,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リッドはもういいだろ。
 欲張るなよな</JapaneseText>
       <EnglishText/>
@@ -205,6 +229,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そーだぜ。
 リッドが伸びる分、こっちに回してくれよ</JapaneseText>
       <EnglishText/>
@@ -214,6 +239,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………</JapaneseText>
       <EnglishText/>
       <Notes/>

@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>パニール</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ニアタ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -19,6 +21,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>私も、あなたみたいに長生きが出来れば
 カノンノの嫁入り姿や、子どもを
 見る事が出来るのに</JapaneseText>
@@ -29,6 +32,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ずっと、
 そばにいてあげたいけれど、ね…</JapaneseText>
       <EnglishText/>
@@ -38,6 +42,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>我々は、確かにカノンノの未来の姿や、
 この世界の行く末も見届けられようが。
 …それでも、別れの時は来る</JapaneseText>
@@ -48,6 +53,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>愛する者の笑い声も、
 その思い出が駆け抜けた世界も、
 いつかは消えるときが来るのだ、必ず</JapaneseText>
@@ -58,6 +64,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それを、あなたは
 見届けてきたのですね</JapaneseText>
       <EnglishText/>
@@ -67,6 +74,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>我々が決めた道だ。
 撒いた種は刈るのみ…</JapaneseText>
       <EnglishText/>
@@ -76,6 +84,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>不死など求めるべきではないよ。
 限りある時間を知っているそなた達の方が
 我々よりも豊かに生きられるのだから</JapaneseText>

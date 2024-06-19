@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ハロルド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アッシュ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -19,6 +21,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>へえ、あんたって…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -27,6 +30,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なんだ？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -35,6 +39,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>赤いわね〜。
 服の黒さに、赤い意匠。
 それに髪の色といい</JapaneseText>
@@ -45,6 +50,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>……趣味だ。
 ……悪いか？</JapaneseText>
       <EnglishText/>
@@ -54,6 +60,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>別に、悪かないけどね。
 あ、血液型は？</JapaneseText>
       <EnglishText/>
@@ -63,6 +70,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>何の関係がある？
 ……一応言っておくが、
 血なんか好きでもなんでもないぞ</JapaneseText>
@@ -73,6 +81,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>別に関係ないけどさぁ。
 なーんとなく聞きたかっただけよ。
 なんにせよ、短気過ぎね</JapaneseText>

@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ジーニアス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リフィル</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ジェイド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -26,6 +29,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あ〜、ダンジョン探索に行きたいな。
 ちょっと退屈しのぎにさぁ</JapaneseText>
       <EnglishText/>
@@ -35,6 +39,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ダンジョンは危険な所なのよ。
 そんな気軽に行っていい所では
 ないでしょ？</JapaneseText>
@@ -45,6 +50,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>大丈夫だって。
 ボクさえいればなんとでもなるってば</JapaneseText>
       <EnglishText/>
@@ -54,6 +60,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>近くに身内がいると、
 気が大きくなるようですね。
 随分傲慢な発言に聞こえますが</JapaneseText>
@@ -64,6 +71,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>傲慢じゃないさ！
 ボクは自分の魔法に自信あるもん</JapaneseText>
       <EnglishText/>
@@ -73,6 +81,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なるほど、失礼しました。
 私程度の魔法では到底そのような
 態度に出られませんからね</JapaneseText>
@@ -83,6 +92,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あなたの実力を弁えず
 失礼しました</JapaneseText>
       <EnglishText/>
@@ -92,6 +102,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -100,6 +111,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ジェイドは皮肉を言う事で、
 あなたの注意を喚起しているのよ</JapaneseText>
       <EnglishText/>
@@ -109,6 +121,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>わかってるよ、そんな事！
 もう黙っててよ、姉さんったら…！</JapaneseText>
       <EnglishText/>

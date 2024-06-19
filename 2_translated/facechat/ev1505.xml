@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>パニール</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -19,6 +21,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>私、何をしたいのかなぁ…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -27,6 +30,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>えっ…？
 お話を書くのが好きだろう…って！？
 どうして知っているの？</JapaneseText>
@@ -37,6 +41,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>パニール。
 まさか、お話見せたの？</JapaneseText>
       <EnglishText/>
@@ -46,6 +51,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>い、いいえ…。
 …あ、その、はい…。
 「こぐまのリンの大冒険」を…</JapaneseText>
@@ -56,6 +62,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ナイショって言ったじゃないですか…。
 もぉ…</JapaneseText>
       <EnglishText/>
@@ -65,6 +72,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>でも、お話を書いてたのは
 すごーく昔の事なの。
 遊びでやってた事だし、今は書けるかどうか…</JapaneseText>
@@ -75,6 +83,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>やってみたら…って？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -83,6 +92,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…○○が言うと
 何でも出来そうだね</JapaneseText>
       <EnglishText/>
@@ -92,6 +102,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>うん。
 わかった、やってみるよ！！</JapaneseText>
       <EnglishText/>
@@ -101,6 +112,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>えぇ、えぇ。
 あなたなら、いいお話をかけるわ。
 また、一番最初の読者にしてね</JapaneseText>
@@ -111,6 +123,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それにしても、あんな昔に書いたものを
 ずっと持っていてくれたの？</JapaneseText>
       <EnglishText/>
@@ -120,6 +133,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>もちろんですよ。
 いつも読み返して元気をもらってるわ</JapaneseText>
       <EnglishText/>
@@ -129,6 +143,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おやりなさい、カノンノ。
 楽しみにしているわ…</JapaneseText>
       <EnglishText/>

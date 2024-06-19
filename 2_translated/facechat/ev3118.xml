@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>すず</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -12,6 +13,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>よく戻られました</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -20,6 +22,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>私達とまた、ここで
 仕事をしていただけるのですね</JapaneseText>
       <EnglishText/>
@@ -29,6 +32,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あなたからは、
 教わりたい事がたくさんあります</JapaneseText>
       <EnglishText/>
@@ -38,6 +42,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あなたの姿を見て、
 さまざまな事を学ばせてください</JapaneseText>
       <EnglishText/>

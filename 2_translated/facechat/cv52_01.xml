@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ユーリ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>エステル</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>チャット</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -23,6 +26,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ジェイド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -33,6 +37,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…ここに逃げ込もう</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -41,6 +46,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>船？
 え、でも勝手に入ったりしたら、
 怒られたりしませんか？</JapaneseText>
@@ -51,6 +57,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>事情が事情だろ？
 勝手に入っちまおうぜ。
 見つからなければ御の字だ</JapaneseText>
@@ -61,6 +68,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>不法侵入の罪は、禁固１年未満、
 又は１万ガルド以下の罰金、です</JapaneseText>
       <EnglishText/>
@@ -70,6 +78,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ふ〜ん…、
 じゃ、ここで待ってりゃいいさ。
 一人でな</JapaneseText>
@@ -80,6 +89,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -88,6 +98,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ま、待って！
 わたしも行きます！</JapaneseText>
       <EnglishText/>
@@ -97,6 +108,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…妙な船だな</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -105,6 +117,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>妙な船とは失敬ですね！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -113,6 +126,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>まあまあ、船長…。
 船の価値は見た目ではありませんよ</JapaneseText>
       <EnglishText/>
@@ -122,6 +136,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それで、あなた達はどちら様でしょう。
 ひょっとして
 依頼をしに来られたんですか？</JapaneseText>
@@ -132,6 +147,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>依頼…って…。
 あの、ここは一体…？</JapaneseText>
       <EnglishText/>
@@ -141,6 +157,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ここはバンエルティア号。
 漂泊のギルド、アドリビトムの本部ですよ。
 そしてボクが船長のチャットです</JapaneseText>
@@ -151,6 +168,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>私はジェイド。
 どうぞお見知りおきを</JapaneseText>
       <EnglishText/>
@@ -160,6 +178,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ギルド…だと？
 こんな所で活動してるとはな</JapaneseText>
       <EnglishText/>
@@ -169,6 +188,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ちょうどいい。
 匿ってもらえないか？
 オレはユーリ、で、こっちは…</JapaneseText>
@@ -179,6 +199,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あ、あのエステリーゼって言います</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -187,6 +208,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>依頼という事ですね！
 いいでしょう、引き受けました！</JapaneseText>
       <EnglishText/>
@@ -196,6 +218,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>素性も聞かないんですか？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -204,6 +227,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>船長の言う事に従えないと？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -212,6 +236,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>はいはい、アイアイサー</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -220,6 +245,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>依頼…って、
 つまり金がいるって事か？</JapaneseText>
       <EnglishText/>
@@ -229,6 +255,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>持ち合わせはあまりありませんけど…、
 こういう場合、どうすればいいんです？</JapaneseText>
       <EnglishText/>
@@ -238,6 +265,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なるほど。
 …では、こうしましょう</JapaneseText>
       <EnglishText/>
@@ -247,6 +275,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ギルドの構成員になるのはどうです？
 働きながらほとぼりを冷ませばいいんです。
 もちろん、追っ手からは保護しますよ</JapaneseText>
@@ -257,6 +286,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>まあ、そんなところですね。
 どうです、ユーリにエステリーゼ？
 この条件飲めますか？</JapaneseText>
@@ -267,6 +297,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ふーん、悪くないな。
 いいぜ</JapaneseText>
       <EnglishText/>
@@ -276,6 +307,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あ、あのユーリがそう言うんであれば…。
 はい、わたしも…</JapaneseText>
       <EnglishText/>
@@ -285,6 +317,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>決まりました！
 これでまた子分が増えましたよ！</JapaneseText>
       <EnglishText/>
@@ -294,6 +327,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>こ…ぶん…？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -302,6 +336,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>はい、ようこそ。
 海賊チャットの一味へ</JapaneseText>
       <EnglishText/>
@@ -311,6 +346,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>か、海賊…ですって？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -319,6 +355,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なんか、やっかいな所に
 飛び込んじまったようだな…</JapaneseText>
       <EnglishText/>

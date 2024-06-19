@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>チャット</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アニー</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -19,6 +21,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あの、アニーさん。
 お医者さん志望のあなたに
 少し相談があるんですが</JapaneseText>
@@ -29,6 +32,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>どうしたの？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -37,6 +41,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>その…、ボクも歳を取れば、
 胸が膨らんだりするんでしょうか？</JapaneseText>
       <EnglishText/>
@@ -46,6 +51,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ええ、もちろん。
 身体が大人に近づいていくのよ</JapaneseText>
       <EnglishText/>
@@ -55,6 +61,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>う〜ん…、
 ボク、そういうのが嫌なんですが、
 どうにか阻止出来ませんか？</JapaneseText>
@@ -65,6 +72,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>無理だと思う。
 …大人になるのがイヤなの？</JapaneseText>
       <EnglishText/>
@@ -74,6 +82,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>大人になるのがイヤなんじゃなくて、
 女性っぽくなるのがイヤなんです！</JapaneseText>
       <EnglishText/>
@@ -83,6 +92,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>厚い胸板、長くなびくヒゲ。
 濃い体毛と航海焼けしたたくましい肉体…。
 やはり海賊らしい風貌にならないと</JapaneseText>
@@ -93,6 +103,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>女海賊じゃ駄目なの？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -101,6 +112,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>駄目です！
 カッコイイ男じゃないと
 アイパッチが似合わないじゃないですか！</JapaneseText>
@@ -111,6 +123,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…こだわりはそこなのね</JapaneseText>
       <EnglishText/>
       <Notes/>

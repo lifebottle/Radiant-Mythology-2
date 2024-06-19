@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リリス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -12,6 +13,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>よしっ！
 これだけ確保すれば
 しばらくは大丈夫かしら</JapaneseText>
@@ -22,6 +24,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>でも、みんな大食いだから
 すぐ無くなっちゃうかも
 しれないわね</JapaneseText>
@@ -32,6 +35,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それじゃ、戻りましょうか。
 パニールさんが待ってるはずですし</JapaneseText>
       <EnglishText/>

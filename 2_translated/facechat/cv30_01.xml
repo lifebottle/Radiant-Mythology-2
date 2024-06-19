@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>マオ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ナナリー</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ハロルド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -23,6 +26,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ルーク</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -33,6 +37,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>こんにちは♪
 ボク、マオっていうんだヨ！
 よろしくネ</JapaneseText>
@@ -43,6 +48,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>は〜、また子どもが増えたよ…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -51,6 +57,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>まったくよね〜</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -59,6 +66,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>って、そこのピンクの髪の人！
 ボクより小さいじゃないか。
 キミだって子どもなんじゃないの？</JapaneseText>
@@ -69,6 +77,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>まったく子どもは思い込みが多くて困るわ。
 見た目が幼い大人だっているって
 思わないのかしら</JapaneseText>
@@ -79,6 +88,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>でも、子どもだからって
 馬鹿に出来ないだろ？
 ジーニアスとか、プレセアとか</JapaneseText>
@@ -89,6 +99,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そっちのお兄さん、見る目あるネ！
 もう、ボク、すっごいんだから</JapaneseText>
       <EnglishText/>
@@ -98,6 +109,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ただのカワイイ子どもじゃないって所
 見せてあげるよ</JapaneseText>
       <EnglishText/>
@@ -107,6 +119,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>自分でカワイイって言ってるし。
 能力はともかく、この船で物怖じするような
 タマじゃなさそうだね</JapaneseText>
@@ -117,6 +130,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…どうでもいいけど、
 なんで、この船の子どもはみんな
 性格にアクが強いんだ？</JapaneseText>
@@ -127,6 +141,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そーね、アクの強い大人達に
 囲まれているからじゃないかしら</JapaneseText>
       <EnglishText/>
@@ -136,6 +151,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あんたが言うなっての…</JapaneseText>
       <EnglishText/>
       <Notes/>

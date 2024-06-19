@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アーチェ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>チェスター</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -19,6 +21,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>渡す</JapaneseText>
       <EnglishText/>
       <Notes>Choice 1</Notes>
@@ -26,6 +29,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>保留にする</JapaneseText>
       <EnglishText/>
       <Notes>Choice 2</Notes>
@@ -33,6 +37,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>前に採ったギンモクセイの花と
 ベチバーの根を合わせて…っと</JapaneseText>
       <EnglishText/>
@@ -42,6 +47,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…胃薬の匂いみたいだな</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -50,6 +56,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>胃薬〜！？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -58,6 +65,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>でも、まだ材料が足りないんだな…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -66,6 +74,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>こんなんじゃなくって、
 もっと…、甘くて、落ち着くような香りが
 欲しいなぁ…</JapaneseText>

@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>チャット</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -19,6 +21,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おつかれさま。
 それじゃ、「小麦」を２つ納品しましょう</JapaneseText>
       <EnglishText/>
@@ -28,6 +31,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>渡す</JapaneseText>
       <EnglishText/>
       <Notes>Choice 1</Notes>
@@ -35,6 +39,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>保留にする</JapaneseText>
       <EnglishText/>
       <Notes>Choice 2</Notes>
@@ -42,6 +47,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>では、その「小麦」を2つ頂きますね。
 おつかれさまでした</JapaneseText>
       <EnglishText/>
@@ -51,6 +57,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>この仕事は、これで終わり！
 要領は、掴んでもらえたかな？
 どんな仕事も、少しずつ慣れていけばいいよ</JapaneseText>

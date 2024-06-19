@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>イリア</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>スパーダ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -19,6 +21,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なーんか、つまんないわねー。
 最近のルカって反応鈍いし</JapaneseText>
       <EnglishText/>
@@ -28,6 +31,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>イジっても、
 リアクションに乏しいよな</JapaneseText>
       <EnglishText/>
@@ -37,6 +41,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>イジりがいが、ないんだよね</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -45,6 +50,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ほら、ホームシックって
 ヤツじゃねぇの？</JapaneseText>
       <EnglishText/>
@@ -54,6 +60,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>んー。
 何だかんだ言って、
 お家大好きっ子だしね</JapaneseText>
@@ -64,6 +71,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>んじゃ、ま。
 私が一肌脱いじゃったげる。
 スパーダ、協力して</JapaneseText>
@@ -74,6 +82,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おっし、任しとけ！</JapaneseText>
       <EnglishText/>
       <Notes/>

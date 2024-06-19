@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カイウス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リッド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ロイド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -23,6 +26,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クロエ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -33,6 +37,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リッドの剣の師匠って誰だ？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -41,6 +46,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>俺は…、誰に習ったって
 わけでもねぇんだ</JapaneseText>
       <EnglishText/>
@@ -50,6 +56,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>獲物を狩るうちに自然と身についたって
 カンジかなぁ</JapaneseText>
       <EnglishText/>
@@ -59,6 +66,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…じゃあ俺とあまり変わらないな。
 最初の手ほどきは親父にしてもらったけど
 それ以外はずっと動物相手だった</JapaneseText>
@@ -69,6 +77,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あ、俺も我流！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -77,6 +86,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>見りゃあわかるよ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -85,6 +95,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>二刀の剣術流派なんて、
 そうそうないもんな</JapaneseText>
       <EnglishText/>
@@ -94,6 +105,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>やっぱわかっちまうか…。
 あ、でも一応クラトスに
 弟子入りしてんだぜ、俺</JapaneseText>
@@ -104,6 +116,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クラトス…かぁ。
 厳しそうだな</JapaneseText>
       <EnglishText/>
@@ -113,6 +126,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クラトスって、すげぇ無口だろ？
 ちゃんと教えてくれんのか？</JapaneseText>
       <EnglishText/>
@@ -122,6 +136,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…あんまり言葉で教えてくんねぇな。
 剣とは、己の生き様だ…とか、
 言うだけさ</JapaneseText>
@@ -132,6 +147,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なんだ…それ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -140,6 +156,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>どうやら剣術話をしているようだな。
 武門の名家ヴァレンス家の剣、
 是非、貴公達にお見せしたいものだ</JapaneseText>
@@ -150,6 +167,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なんだよ、ソレ。
 挑発してんのか？</JapaneseText>
       <EnglishText/>
@@ -159,6 +177,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そうまで言うなら稽古つけて
 もらおうぜ</JapaneseText>
       <EnglishText/>
@@ -168,6 +187,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…まあ、おまえらがやるってんなら
 俺もやるかな</JapaneseText>
       <EnglishText/>
@@ -177,6 +197,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>よし、じゃあ順番に…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -185,6 +206,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>魔神剣！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -193,6 +215,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>魔神剣・双牙！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -201,6 +224,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>剛・魔神剣！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -209,6 +233,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>う、うあわぁあ！
 じゅ、順番だと言ってるだろう！！</JapaneseText>
       <EnglishText/>
@@ -218,6 +243,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なんだよ、
 我流でも全然いけるじゃないか</JapaneseText>
       <EnglishText/>
@@ -227,6 +253,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>二刀最強！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -235,6 +262,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…ま、強けりゃなんでもいいんじゃねぇ？</JapaneseText>
       <EnglishText/>
       <Notes/>

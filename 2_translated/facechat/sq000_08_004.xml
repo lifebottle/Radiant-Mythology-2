@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ルカ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>スパーダ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -19,6 +21,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>でも、スパーダの執事だった人の
 料理がまた食べたいなぁ。
 一流コックの味だもの</JapaneseText>
@@ -29,6 +32,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>俺も、あの味で育ってきたからな。
 やっぱ、あの味がすげー恋しくなったりは
 するよな</JapaneseText>
@@ -39,6 +43,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>スパーダにとっては、
 あの料理が家庭の味なんだ。
 すごいな…</JapaneseText>
@@ -49,6 +54,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>うちの母親は料理した事ないから、
 そうなるんじゃねーかな</JapaneseText>
       <EnglishText/>
@@ -58,6 +64,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>俺はルカがうらやましいけどよ。
 母親が料理作ってくれるんだろ？</JapaneseText>
       <EnglishText/>
@@ -67,6 +74,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>うん。
 僕も家の味が恋しいよ。
 母さんの作るチーズスープ…</JapaneseText>

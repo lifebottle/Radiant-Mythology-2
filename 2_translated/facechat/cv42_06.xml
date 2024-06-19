@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ハロルド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>キール</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リフィル</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -26,6 +29,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ねえ、リフィル！　聞いてよ！
 キールったら、魚の骨を取って
 食べられないんですって！</JapaneseText>
@@ -36,6 +40,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あんな細かい小骨を除去してまで
 食べる物じゃないだろ？
 骨さえなければ食べられるさ</JapaneseText>
@@ -46,6 +51,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>はぁ、呆れたわね…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -54,6 +60,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>でっしょ〜？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -62,6 +69,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>じゃなくって、もっと
 他の話をしてはどう？</JapaneseText>
       <EnglishText/>
@@ -71,6 +79,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>科学的な探究心を
 もっと掻き立てられるような</JapaneseText>
       <EnglishText/>
@@ -80,6 +89,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あら、いいわけ？
 一応セーブしといた
 つもりだったんだけど</JapaneseText>
@@ -90,6 +100,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おい、焚きつけるのはやめろ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -98,6 +109,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…そうね</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -106,6 +118,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>彼女に暴走されたら、
 誰も止められなさそうだもの。
 これ以上の気苦労はごめんだわ</JapaneseText>
@@ -116,6 +129,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>失礼ね〜。
 しないわよ、暴走なんか</JapaneseText>
       <EnglishText/>
@@ -125,6 +139,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そりゃありがたい</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -133,6 +148,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>気苦労ぐらいは暴走せずに
 掛けられるけどね</JapaneseText>
       <EnglishText/>
@@ -142,6 +158,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………</JapaneseText>
       <EnglishText/>
       <Notes/>

@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ゼロス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -12,6 +13,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…っと、まあこんなもんで
 いいんじゃねぇの？</JapaneseText>
       <EnglishText/>
@@ -21,6 +23,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>じゃ、とりあえず
 今日のノルマは達成って事で。
 さっさと帰ろうぜ</JapaneseText>

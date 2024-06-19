@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ガイ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>チャット</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -19,6 +21,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>よし、あったぞ。
 必要なのはこいつだ。
 それじゃ、これを使って船を修理してやるさ</JapaneseText>
@@ -29,6 +32,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>チャット、次は一人で
 出来るようになるんだぞ。
 あれは…、おまえの船だ</JapaneseText>
@@ -39,6 +43,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>え？　あ、…はい</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -47,6 +52,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なんだ、
 素直なところもあるじゃないか。
 ハハハ…</JapaneseText>
@@ -57,6 +63,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そ、それはあなたが急に
 真顔で変な事を言うからです！</JapaneseText>
       <EnglishText/>
@@ -66,6 +73,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>よしよし、そういうところも
 素直な証拠だ</JapaneseText>
       <EnglishText/>
@@ -75,6 +83,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それじゃ、帰るか。
 バンエルティア号に</JapaneseText>
       <EnglishText/>

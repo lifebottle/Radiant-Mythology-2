@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ルーク</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>チャット</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ガイ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -26,6 +29,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なあ、坊主。
 船長に挨拶したいんだけど、
 どこいるのか知らないか？</JapaneseText>
@@ -36,6 +40,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>へぇ、船長をお探しなんですか。
 だったらもう少し礼儀正しくした方が
 よろしいかと思いますよ</JapaneseText>
@@ -46,6 +51,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>（………？
 　なんだぁ、この感じは…？）</JapaneseText>
       <EnglishText/>
@@ -55,6 +61,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そ、そっちこそ年長者に対する態度ってのが
 全然なってねーよ</JapaneseText>
       <EnglishText/>
@@ -64,6 +71,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>んで、船長はどこいるんだ？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -72,6 +80,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>チャットを指差す</JapaneseText>
       <EnglishText/>
       <Notes>Choice 1</Notes>
@@ -79,6 +88,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>肩をすくめる</JapaneseText>
       <EnglishText/>
       <Notes>Choice 2</Notes>
@@ -86,6 +96,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なんだ？
 この坊主がどうかしたのか？</JapaneseText>
       <EnglishText/>
@@ -95,6 +106,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>○○、
 余計な事は教えなくて結構ですよ</JapaneseText>
       <EnglishText/>
@@ -104,6 +116,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なんだよ、○○。
 なんで半笑いなんだ？</JapaneseText>
       <EnglishText/>
@@ -113,6 +126,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>さあ？
 呆れてるんじゃないですか？</JapaneseText>
       <EnglishText/>
@@ -122,6 +136,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>な、なあ、ちょっといいか？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -130,6 +145,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なんでしょう</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -138,6 +154,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おまえ…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -146,6 +163,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いや、キミは、ひょっとして
 女の子なのか？</JapaneseText>
       <EnglishText/>
@@ -155,6 +173,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>は？　マジで？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -163,6 +182,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>その通りですよ。
 ボクは女性ですし、
 見ての通りまだ子どもです</JapaneseText>
@@ -173,6 +193,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ですが、この船の持ち主にして
 船長です。
 それが何か？</JapaneseText>
@@ -183,6 +204,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そ、それは失礼したね。
 うん、本当に連れが失礼した。
 じゃあ俺はこれで…</JapaneseText>
@@ -193,6 +215,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>？？
 慌ててどうされたんですか？</JapaneseText>
       <EnglishText/>
@@ -202,6 +225,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…まあ、あいつにも
 事情ってもんがあんのさ</JapaneseText>
       <EnglishText/>
@@ -211,6 +235,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>んで、誰が船長だって？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -219,6 +244,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ボクが、です！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -227,6 +253,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あ、そ。
 まあいいや…</JapaneseText>
       <EnglishText/>
@@ -236,6 +263,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>お〜い船長〜、どこだ〜？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -244,6 +272,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………</JapaneseText>
       <EnglishText/>
       <Notes/>

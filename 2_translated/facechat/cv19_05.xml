@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ジェイド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>キール</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ゼロス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -26,6 +29,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>キール。
 ときにお伺いしますが…</JapaneseText>
       <EnglishText/>
@@ -35,6 +39,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なんだ？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -43,6 +48,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あなたはファラの手下だったのですか？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -51,6 +57,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>うひょっ、ド直球な質問だねぇ〜</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -59,6 +66,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>な、なぜそう思うんだ？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -67,6 +75,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リッドとファラちゃんと
 おまえ見てたら、誰だってそう思うってばよ</JapaneseText>
       <EnglishText/>
@@ -76,6 +85,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…ま、まあ、子どもの頃はそうだったさ。
 ファラはぼく等のリーダーで、
 いつもリッドとぼくを引き連れていた</JapaneseText>
@@ -86,6 +96,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>今では違うとおっしゃりたいのですか？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -94,6 +105,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>違うさ！
 ぼ、ぼくが彼女に
 ちょっと遠慮してるだけで…</JapaneseText>
@@ -104,6 +116,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ガキの頃の関係って、そう簡単に
 くつがえらないもんさ</JapaneseText>
       <EnglishText/>
@@ -113,6 +126,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>んで、ジェイドの旦那は
 なんでそんな事が気になるのかな〜？</JapaneseText>
       <EnglishText/>
@@ -122,6 +136,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ええ…、どうも私は部下にすると
 嫌われてしまう性格らしくてね</JapaneseText>
       <EnglishText/>
@@ -131,6 +146,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>是非ともキールさんを、
 手下のお手本として倣わせて
 もらおうかなと思っていたんです</JapaneseText>
@@ -141,6 +157,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ぼくが理想的な手下の態度だって
 いうのか！</JapaneseText>
       <EnglishText/>
@@ -150,6 +167,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>くそ、馬鹿にして…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -158,6 +176,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おやおや、彼のような部下が欲しいという
 私なりのキールへの評価だったのですが、
 ご理解いただけなかった様子ですね</JapaneseText>
@@ -168,6 +187,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>うへえ〜…、俺さま、
 あんたみてーな上司は
 絶対にいらね〜…</JapaneseText>
@@ -178,6 +198,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ええ、ごもっとも。
 全面的に同意しますよ</JapaneseText>
       <EnglishText/>
@@ -187,6 +208,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>私も私を上官にしたいとは
 思いませんからねぇ</JapaneseText>
       <EnglishText/>
@@ -196,6 +218,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おお〜、
 同意するのそこかよ〜！</JapaneseText>
       <EnglishText/>

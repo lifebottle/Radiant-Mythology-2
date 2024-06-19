@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アニー</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クレア</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -19,6 +21,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あなたが帰ってきたのを、
 ここで聞いていました。
 おかえりなさい</JapaneseText>
@@ -29,6 +32,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おかえりなさい</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -37,6 +41,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ガレットも、
 また人々が住めるような
 安全な環境になりました</JapaneseText>
@@ -47,6 +52,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>今はグランマニエに受け入れられていた
 村民もガレットに戻り
 平和に暮らしています</JapaneseText>
@@ -57,6 +63,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>私達はここでガレットを
 助けていこうと思って
 またやって来たの</JapaneseText>
@@ -67,6 +74,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>今後ともお付き合い、
 よろしくお願いします</JapaneseText>
       <EnglishText/>

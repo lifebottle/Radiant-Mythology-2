@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リフィル</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ジェイド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カイウス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -23,6 +26,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ルビア</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -30,6 +34,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クレス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -37,6 +42,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ミント</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -47,6 +53,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>助かるわ。
 これから、どうやって研究を続けていけば
 よいか、正直不安だったのよ</JapaneseText>
@@ -57,6 +64,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>もうすぐ、私たちの仲間が到着するの。
 ここで世話になると思うから、
 よろしく頼むわ</JapaneseText>
@@ -67,6 +75,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>私は、ラルヴァというエネルギーを
 真っ向否定しているわけではないわ</JapaneseText>
       <EnglishText/>
@@ -76,6 +85,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ただ、安全性の検証を
 無視するわけにはいかないのよ</JapaneseText>
       <EnglishText/>
@@ -85,6 +95,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>この船の機能についてのメモが、
 船内のあちこちに散りばめられているわ。
 早く解読して、それに沿った改造をしなくては</JapaneseText>
@@ -95,6 +106,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なに、充分くつろいでいますよ。</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -103,6 +115,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>さて、我が国のお墨付きのギルドですから
 忙しくなりますよ？</JapaneseText>
       <EnglishText/>
@@ -112,6 +125,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>文献では、バンエルティア号を操る者は肌が褐色、
 そして船長と同じく額にはエラーラと呼ばれる
 宝石があったと伝えられています</JapaneseText>
@@ -122,6 +136,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ラルヴァ、ですか。
 他に手柄を渡すつもりも無いですし、本国へは
 連絡せずにこちらで調査しましょうか</JapaneseText>
@@ -132,6 +147,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>さて、ラルヴァとやらがマナに代わるものなのか。
 ガイとティアが、何か探ってきてくれる
 事でしょう</JapaneseText>
@@ -142,6 +158,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>さて、ナパージュの皆さんも
 荷解きも終わった頃でしょうかね。
 ゲストルームへ向かいますか</JapaneseText>
@@ -152,6 +169,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ラルヴァが国一つ救う代替エネルギーとなるか、
 あるいは、その逆も可能性も考えられます。
 国一つ滅ぼすものかもしれませんしね</JapaneseText>
@@ -162,6 +180,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>さて、ラルヴァについて何かわかれば
 いいのですが。
 まずは、報告を聞きにゲストルームへ行きますか</JapaneseText>
@@ -172,6 +191,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>伝説というのは、実際に人々に語り継がれてきた話。
 おとぎ話とは違いますよ。
 この船も然り、陸を移動したと伝わっています</JapaneseText>
@@ -182,6 +202,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>でも、少しヒマだな。
 依頼、来てないか、
 船長の所で確認してみろよ</JapaneseText>
@@ -192,6 +213,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なんだ、今の音は？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -200,6 +222,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>グランマニエの人達、助けに行くんだろ？
 機関室の船長に話してみろよ。
 「ストーリークエスト」で選べるはずだぜ</JapaneseText>
@@ -210,6 +233,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>グランマニエの人達、助けられて良かったよ。
 …ただ、ルビアのテンションが
 やたら高いんだよな…</JapaneseText>
@@ -220,6 +244,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>船長のチャットを頭に、
 ファラ、リッド、キール。
 ルカ、イリアに、カイウスとあたし</JapaneseText>
@@ -230,6 +255,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノとパニールさん。
 そして、あなた。
 この１１人が今のギルドメンバーよ</JapaneseText>
@@ -240,6 +266,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>何？
 今の音は！？</JapaneseText>
       <EnglishText/>
@@ -249,6 +276,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>救助に１人で乗り込むの？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -257,6 +285,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あなたがその気なら止めないけど、
 不安なら「パーティに誘う」で
 仲間に入れたい人を誘ってみるといいわよ</JapaneseText>
@@ -267,6 +296,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>グランマニエの人達って、
 みんな素敵よねー♪
 カイウスとは大違い！</JapaneseText>
@@ -277,6 +307,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…って、○○に言っても
 しょうがないわね…</JapaneseText>
       <EnglishText/>
@@ -286,6 +317,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>さっき来たアニスって女の子、
 可愛いかったわね</JapaneseText>
       <EnglishText/>
@@ -295,6 +327,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…何か含むモノがありそうだけど、
 まあ、そこはお姉さんの余裕で
 包み込んであげるわ♪</JapaneseText>
@@ -305,6 +338,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>人がいっぱい増えたね。
 みんなと仲良くやっていけるかな？</JapaneseText>
       <EnglishText/>
@@ -314,6 +348,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カイウスと言い合ってばかりだと、
 みんな、引いちゃうかな…？
 …気をつけなくっちゃ</JapaneseText>
@@ -324,6 +359,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アドリビトムは、ギルドなんだよね…？
 その、海賊とかじゃなくって…</JapaneseText>
       <EnglishText/>
@@ -333,6 +369,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ラルヴァの情報入手のために
 アメールの洞窟に潜入だね。
 よし、行こう！！</JapaneseText>
@@ -343,6 +380,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>とりあえず、お疲れさま。
 …ナディの連中を相手にしてわかったのは、
 ラルヴァ推進派より性質が悪いって事かな</JapaneseText>
@@ -353,6 +391,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ジャニスはいったい、
 何をたくらんでいるんだろう？
 …最近、それが気になってるんだ</JapaneseText>
@@ -363,6 +402,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ただいま。
 うん、情報収集して来て良かったかな。
 ジャニスを半歩は出し抜けたと思うんだ</JapaneseText>
@@ -373,6 +413,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…僕が、もっと早く情報を掴めていたら…。
 …いや、後悔しても仕方がないよね。
 今、出来る事を考えないと</JapaneseText>
@@ -383,6 +424,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ミントの法術でも治せないんだろうな…。
 …いや、大丈夫だよ！
 きっと、世界樹を治す術があるはずさ！</JapaneseText>
@@ -393,6 +435,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>フン、フン、フンッ！！
 新しい人達に負けてられないしね。
 日ごろから鍛えとかないと！</JapaneseText>
@@ -403,6 +446,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アドリビトムの面子は、みんな
 腕に覚えのある手練ばかりだ。
 僕も負けないように頑張らなきゃ！</JapaneseText>
@@ -413,6 +457,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>剣を振って、心身共に鍛えれば
 きっと「負」にも負けないと思うんだ。
 あと、ダジャレで笑顔を絶やさないとかね</JapaneseText>
@@ -423,6 +468,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…ロゼット村はどうなってるかな…。
 いや、内戦のニュースを聞いて
 ちょっと思い出したんだ…</JapaneseText>
@@ -433,6 +479,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…何かする事ないかな？
 誰か稽古にでも誘ってみるか！</JapaneseText>
       <EnglishText/>
@@ -442,6 +489,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>未踏の海域とやらに着いたみたいだね。
 デッキに、行っでっきたら？
 …いやぁ…、ハハハハハハ…</JapaneseText>
@@ -452,6 +500,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あんなものが海から出てくるなんて…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -460,6 +509,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>チェスターと親しくなったのは
 チェスターのご両親が亡くなってからかな。
 もう何年経つかな？</JapaneseText>
@@ -470,6 +520,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ここ最近、
 誰かの視線を感じてたんだけど…。
 うん、きっと気のせいだ</JapaneseText>
@@ -480,6 +531,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>チェスターとアーチェ、仲良いと思うよ。
 ぼ、僕とミント！？
 …う〜ん、深く考えた事なかったなぁ</JapaneseText>
@@ -490,6 +542,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アルベイル流には、体格の差を物ともしない
 奥義が数多くあるんだ！
 …でも、もう少しは身長が欲しいなぁ…</JapaneseText>
@@ -500,6 +553,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ルカは僕と同じくらいの体格なのに、
 あんなに大きな剣を振れるなんて凄いなぁ。
 例えおねしょをしてても、素直に尊敬するよ</JapaneseText>
@@ -510,6 +564,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>寒い時は温泉に入ると体が温まるよ。
 そう言えば、前、チェスターが女湯を覗いてさ。
 アーチェからスケベ大魔王って言われてたっけ</JapaneseText>
@@ -520,6 +575,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>法術の性質だけじゃなくって、ミント自身が
 人を温かく癒す力を持ってると僕は思うんだ。
 そう感じるのは、僕だけかなぁ？</JapaneseText>
@@ -530,6 +586,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>世界樹が回復してきて、ひとまず安心かな。
 まだまだ問題は山積みだけど大丈夫。
 きっと世界を救えるさ！</JapaneseText>
@@ -540,6 +597,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なんだか、いい表情をしている。
 うん、決意した顔だ。
 そうだな、悩んでなんかいられないな！</JapaneseText>
@@ -550,6 +608,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>３人が居なくなった！？
 …ごめん、全然気付かなかったよ。
 …でも、どこに行ったんだろう？</JapaneseText>
@@ -560,6 +619,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>きっと残りの２人もすぐ見つかるよ。
 大丈夫、２人を信じよう！</JapaneseText>
       <EnglishText/>
@@ -569,6 +629,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ナディが敵じゃなくなって、グランマニエに居る
 村の皆にも害が及ぶ恐れが無くなったんだよね。
 ああ、安心したよ</JapaneseText>
@@ -579,6 +640,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あとは、アニスか。
 きっと、大丈夫だよ。
 クロエやファラみたいに、すぐ見つかるさ</JapaneseText>
@@ -589,6 +651,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>もう、誰も「負」になんか負けやしない！
 ああ、大丈夫だ！</JapaneseText>
       <EnglishText/>
@@ -598,6 +661,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>全てが片付いたら村に戻るつもりだけど、
 ここには顔を出すよ、必ず。
 だから、ヤツを倒して、またここで会おう！</JapaneseText>
@@ -608,6 +672,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>僕達を笑顔で送り出してくれた
 ロゼッタ村のみんなのためにも、
 またここで、頑張るよ</JapaneseText>
@@ -618,6 +683,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>船のギルドなんて、素敵ですね…。
 …でも、本当に海賊じゃないのですよね…？
 …クレスさんがとても気にされていたので…</JapaneseText>
@@ -628,6 +694,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クレスさんとチェスターさんは、
 前のギルドでも、よく組まれていたのですよ。
 幼なじみですし、一番分かり合えるそうです</JapaneseText>
@@ -638,6 +705,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>世界樹を傷つけるなんて許しがたい行いです！
 …ですけど、それを止める理由も、権利も…
 今の私達にはないのですよね…</JapaneseText>
@@ -648,6 +716,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クレスさんですか？
 今、情報収集に行っています。
 期待して、待ちましょう</JapaneseText>
@@ -658,6 +727,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>全ての生命を育むマナを生み出す世界樹…。
 仮にラルヴァが無害でも、世界樹を傷つける事で
 得られる力に、未来があるとは思えません…</JapaneseText>
@@ -668,6 +738,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ファラさんのご様子、
 少し伺ってきたのですけど…。
 …何か、悩み事でもあるのでしょうか…？</JapaneseText>
@@ -678,6 +749,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>重要な情報が得られたのも確かですけど、
 クレスさんがご無事で、本当に良かったです。
 …ただ、もっと私達を頼ってくれても…</JapaneseText>
@@ -688,6 +760,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…世界樹を守れなかった事は残念ですけど、
 決して誰かに責を問うべき問題ではありません。
 これから私達に何が出来るのか、考えましょう</JapaneseText>
@@ -698,6 +771,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…すみません…。
 …事が大き過ぎて、私の法術程度では
 世界樹の傷を癒すまでは…</JapaneseText>
@@ -708,6 +782,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>村に伝わる世界樹信仰の教義に、マナが穢れを
 浄化するとはありましたが、儀式として
 執り行う集落があるとは知りませんでした</JapaneseText>
@@ -718,6 +793,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ロゼット村にもディセンダーの言い伝えは
 ありましたが…、もし本当にあなたがそうなら、
 あなたが世界樹を救う光明なのかもしれませんね</JapaneseText>
@@ -728,6 +804,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>こんな時こそ笑顔で過ごしましょう。
 …例えば、クレスさんのダジャレを聞くとか。
 …え、笑顔で受け入れられたら一歩前進かと…</JapaneseText>
@@ -738,6 +815,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>人が増えて、とても心強いのですが…。
 …少し視線が気になります…。
 …その、む、胸の辺り…に…</JapaneseText>
@@ -748,6 +826,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…あの様な大きな建造物、
 み、見た事ありません…。
 …ましてや、海の中から出てくるなんて…</JapaneseText>
@@ -758,6 +837,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>私の母とクレスさんのご両親は、
 昔からの知り合いだったそうです。
 …それを知った時、何だか嬉しく思いました</JapaneseText>
@@ -768,6 +848,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>世界樹を回復させる術がわかった事ですし、
 今まで通り、正しいと思った事を信じて
 頑張りましょう</JapaneseText>
@@ -778,6 +859,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…半数近くが女性で…どんな対策を講じたら…。
 ……え、あ、こ、こちらの話です。
 お、お気になさらないでください</JapaneseText>
@@ -788,6 +870,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…わ、私は、あまり男の方の背丈に
 こだわった事はありません…。
 …す、すみません、関係ないですね…</JapaneseText>
@@ -798,6 +881,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>もう、大丈夫なのですか？
 いくらディセンダーでも、
 無茶は禁物ですよ？</JapaneseText>
@@ -808,6 +892,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>レーズン火山のエネルギー採取ですね。
 こちらはいつでも大丈夫です。
 私も頑張ります</JapaneseText>
@@ -818,6 +903,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>はい、お疲れさまでした。
 …やはり顔色が優れませんね…。
 今は、ゆっくりしてください…</JapaneseText>
@@ -828,6 +914,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>世界樹が回復してきて、良かったですね！
 …ただ、ゲーデが気がかりです…。</JapaneseText>
       <EnglishText/>
@@ -837,6 +924,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>法術といっても万能ではありません。
 …現に世界樹を回復出来なかった訳ですし…。
 マナが、世界樹があってこそ活用できるのです</JapaneseText>
@@ -847,6 +935,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そう言えば、クロエさんと一緒に出向いた時、
 とても悩んでいるようでした…。
 …あの時、もっと話を聞いてあげていたら…</JapaneseText>
@@ -857,6 +946,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…クロエさん、戻ってきてくれて
 良かったですね！
 あとの２人も、きっと大丈夫ですよ</JapaneseText>
@@ -867,6 +957,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>人同士が分かり合え、互いに笑い合えれば
 生じる「負」も少なくなります。
 …世界はきっと大丈夫だと、改めて思います</JapaneseText>
@@ -877,6 +968,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リッドさんもキールさんも
 とても安心した顔をしていました…。
 大切な人を思う気持ち、私にもわかります…</JapaneseText>
@@ -887,6 +979,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>決してバラバラになった訳ではありませんが、
 アドリビトムの結束が、また一段と
 強くなったかと思います</JapaneseText>
@@ -897,6 +990,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>「負」によって生まれたゲーデをも救いたい。
 そう、その瞳が言っているように見えます。
 …私達は、あなたを信じています</JapaneseText>
@@ -907,6 +1001,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あなたや皆さんと一緒に
 またここで働ける喜びで一杯です。
 …世界樹に感謝の祈りを捧げます</JapaneseText>

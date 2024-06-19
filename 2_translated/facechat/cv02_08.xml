@@ -2,105 +2,123 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カイル</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kyle</EnglishText>
       <Notes/>
       <Id>19</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ルカ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Luca</EnglishText>
       <Notes/>
       <Id>47</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アニー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Annie</EnglishText>
       <Notes/>
       <Id>36</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ルカもアニーもオレと同い年だよね</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Luca and Annie are the same
+age as me, right?</EnglishText>
+      <Notes>8 - Revised by Murilo - 04/06/2024</Notes>
       <SpeakerId>19</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あ、そういえばそうだった</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh, now that you mention it, they are.</EnglishText>
       <Notes/>
       <SpeakerId>47</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>１５歳同士…ですね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We're all 15... right?</EnglishText>
       <Notes/>
       <SpeakerId>36</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>でもなんでルカってそんなに
 背が高いんだろ。
 なんかズルいなぁ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But why is Luca so tall?
+It's kind of unfair.</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>（カイルの背が低いんだと思うけど…）</JapaneseText>
-      <EnglishText/>
+      <EnglishText>(I think Kyle is short, though...)</EnglishText>
       <Notes/>
       <SpeakerId>47</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>イリアさんも同い年だけど、
 背が高くて、スタイルもいいんです。
 わたし、羨ましくって</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ms. Illia have the same age too, but
+she's tall and has a great figure.
+I'm envious.</EnglishText>
       <Notes/>
       <SpeakerId>36</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>馬に乗ってたら背が伸びたって、
 イリアが言ってたけどね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Illia said riding horses makes
+you taller, though.</EnglishText>
       <Notes/>
       <SpeakerId>47</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>わたしも乗馬始めようかなぁ…</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Maybe I should start horseback
+riding too...</EnglishText>
       <Notes/>
       <SpeakerId>36</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>オレも！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Me too!</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

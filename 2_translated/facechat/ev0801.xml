@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>チャット</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ナナリー</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カイル</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -23,6 +26,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リアラ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -30,6 +34,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>キール</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -40,6 +45,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ほっほー。
 この依頼、あなたが受けますか</JapaneseText>
       <EnglishText/>
@@ -49,6 +55,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>以前、お話ししたように
 カレンズ諸島へ行ってもらいます。
 目的はハロルドという人物の捜索</JapaneseText>
@@ -59,6 +66,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それとですね、同じ内容の依頼を
 ショー・コーロン氏以外に、
 もう一つもらっています</JapaneseText>
@@ -69,6 +77,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>こちら、ナナリーさん。
 以前のギルドで、そのハロルドという方と
 同僚だったそうです</JapaneseText>
@@ -79,6 +88,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>よろしく、あたしはナナリー。
 クビになったハロルドと同僚だったんだ。
 それで、この子達は…</JapaneseText>
@@ -89,6 +99,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>初めまして、オレはカイル！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -97,6 +108,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リアラです。
 よろしくお願いします</JapaneseText>
       <EnglishText/>
@@ -106,6 +118,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>この子達、ちょっとワケありでね。
 ハロルドの知恵がどうしても必要なのさ</JapaneseText>
       <EnglishText/>
@@ -115,6 +128,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>今回あなたに同行するのは、
 ナナリーさんとカイルさんです。
 リアラさんは、ここで待機します</JapaneseText>
@@ -125,6 +139,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それじゃあ、レーズン火山まで
 行ってもらえるかい？</JapaneseText>
       <EnglishText/>
@@ -134,6 +149,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>よく、そこまで居場所を特定
 出来ましたね</JapaneseText>
       <EnglishText/>
@@ -143,6 +159,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>のんきに絵葉書なんかくれちゃってさぁ。
 まあ、あいつらしいっちゃあ
 あいつらしいんだけどね</JapaneseText>
@@ -153,6 +170,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カレンズ諸島のレーズン火山一帯は
 避難勧告が出ているはずでしょう？
 火山活動が活発になって来ているとか</JapaneseText>
@@ -163,6 +181,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>バカンスどころでは無いと
 思うんですがねぇ…</JapaneseText>
       <EnglishText/>
@@ -172,6 +191,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>僕は誘ってくれるなよ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -180,6 +200,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>何かあったんですか？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -188,6 +209,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>これから、ファラの仕事の後始末さ。
 あいつのやる気は認めるけど、結果
 トラブルにしかなってない時もあるんだ</JapaneseText>

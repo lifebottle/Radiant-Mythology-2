@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リオン</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ファラ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>マオ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -23,6 +26,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -33,6 +37,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -41,6 +46,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>どうしたの？　リオン。
 元気なさそうだけど</JapaneseText>
       <EnglishText/>
@@ -50,6 +56,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>僕に構うな</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -58,6 +65,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リッドと模擬戦をしてたんだヨ。
 リオン、簡単に負けちゃったから
 少し機嫌が悪いみたいでネ〜♪</JapaneseText>
@@ -68,6 +76,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>うるさいぞ、マオ。
 少し油断しただけだ…</JapaneseText>
       <EnglishText/>
@@ -77,6 +86,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リッドを格下だって思ってた
 キミが悪いんじゃないの〜？</JapaneseText>
       <EnglishText/>
@@ -86,6 +96,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>くっ…、僕が本気になれば
 あんなヤツ…</JapaneseText>
       <EnglishText/>
@@ -95,6 +106,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リッド、頑張ってるみたいね</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -103,6 +115,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>どうしたんだろ、リッド…。
 あんなに無理のない暮らしを
 したがってたのに</JapaneseText>
@@ -113,6 +126,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>心当たりない？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -121,6 +135,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>う〜ん…、キールに何か
 言われたのかな？</JapaneseText>
       <EnglishText/>
@@ -130,6 +145,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…私が言ったって内緒よ？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -138,6 +154,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リッドはね、応援したい人がいるんだって。
 その人に頑張ってもらいたいから
 まず自分が頑張るって</JapaneseText>
@@ -148,6 +165,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -156,6 +174,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ふぅん…、そんな事言ってたんだ…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -164,6 +183,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リッド、優しい人だね</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -172,6 +192,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そう…ね</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -180,6 +201,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…照れてる…のかな？</JapaneseText>
       <EnglishText/>
       <Notes/>

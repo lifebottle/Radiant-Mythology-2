@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ニアタ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ガイ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -26,6 +29,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>驚いた。
 我々の器もここで朽ち、
 魂がいよいよ解き放たれるかと思っていたが</JapaneseText>
@@ -36,6 +40,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ニアタ！
 私、あなたにお礼を言いたくて来たの</JapaneseText>
       <EnglishText/>
@@ -45,6 +50,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>私に色んな事を教えてくれた。
 寂しかった私にいつも声をかけて
 支えてくれていた…</JapaneseText>
@@ -55,6 +61,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なのに、この間は
 ニアタの事を…、怖がったりして…。
 ごめんなさい</JapaneseText>
@@ -65,6 +72,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そして、
 ありがとう、ニアタ</JapaneseText>
       <EnglishText/>
@@ -74,6 +82,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノ。
 我々もいい夢を見ていた。
 また、会えて嬉しく思っている</JapaneseText>
@@ -84,6 +93,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そうか。
 世界樹の回復はうまくいったか</JapaneseText>
       <EnglishText/>
@@ -93,6 +103,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>まだ、問題は残っているの。
 次は世界に蔓延する負を
 世界樹に流さないといけなくて…</JapaneseText>
@@ -103,6 +114,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>でも、その為には
 人間の干渉出来ない精霊の世界に
 接触を持つ必要があるの</JapaneseText>
@@ -113,6 +125,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ただ「理論」では
 科学の力で精霊界へ干渉出来ると
 私達の仲間は言ってたの</JapaneseText>
@@ -123,6 +136,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>だから、ニアタになら
 わかるかなと思って</JapaneseText>
       <EnglishText/>
@@ -132,6 +146,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>では、そなた達に付いて行こう</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -140,6 +155,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ええっ、この建物ごと！？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -148,6 +164,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>これより我々の本体は、
 そなた達が目にしているこの石となる</JapaneseText>
       <EnglishText/>
@@ -157,6 +174,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>さあ、行こう。
 そなた達のブレーンと話を
 しようではないか</JapaneseText>
@@ -167,6 +185,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ニアタ…、ありがとう</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -175,6 +194,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>じゃあ、帰るか。
 学者連中、驚くぜ。
 何ったって、ニアタを連れ帰るんだからな</JapaneseText>
@@ -188,6 +208,7 @@
   <Strings>
     <Section>Unreferenced</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>evobj_033</JapaneseText>
       <EnglishText/>
       <Notes/>

@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>チャット</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>パニール</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クロエ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -23,6 +26,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>セネル</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -33,6 +37,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>お話はわかりました。
 では、アドリビトムの一員として
 これからがんばってください</JapaneseText>
@@ -43,6 +48,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>大丈夫ですか？
 真っ青ですけど…</JapaneseText>
       <EnglishText/>
@@ -52,6 +58,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>だ、大丈夫だ…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -60,6 +67,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あの声は…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -68,6 +76,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>パニールさん、どうしたんですか？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -76,6 +85,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>こちらのお嬢さんが、
 船にいらっしゃったとたん、
 気分を悪くされたようで…</JapaneseText>
@@ -86,6 +96,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クロエ…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -94,6 +105,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おまえは、クーリッジ！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -102,6 +114,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>お知り合いですか？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -110,6 +123,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…まあな</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -118,6 +132,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それでクロエ、何しにこの船へ？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -126,6 +141,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>元いたギルドから、
 ここに移籍するように
 言われたんだ…</JapaneseText>
@@ -136,6 +152,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>さ、騒がせてすまない。
 緊張…してたんだ…</JapaneseText>
       <EnglishText/>
@@ -145,6 +162,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>緊張なんてしなくても。
 ここはみんないい人ばかりですし</JapaneseText>
       <EnglishText/>
@@ -154,6 +172,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>い、いや、
 そういうわけではなくて…</JapaneseText>
       <EnglishText/>
@@ -163,6 +182,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ああ、海の上だからか…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -171,6 +191,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>まーまー、お二人とも。
 どうぞ、お部屋にお通しします。
 すぐ、ココアを入れてまいりますね</JapaneseText>
@@ -184,6 +205,7 @@
   <Strings>
     <Section>Unreferenced</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>？？？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -191,6 +213,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>セネルがギルドに加わりました。</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -198,6 +221,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クロエがギルドに加わりました。</JapaneseText>
       <EnglishText/>
       <Notes/>

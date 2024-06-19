@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ガイ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -19,6 +21,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>さて、ここもだな</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -27,6 +30,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>機械というより、生物のようだ…。
 脈打つような、息をするような光</JapaneseText>
       <EnglishText/>
@@ -36,6 +40,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>不思議だな。
 無機物のはずなのに、まるで眠っている人に
 触れているような感じがする</JapaneseText>
@@ -46,6 +51,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>よし、ここは終了だ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -54,6 +60,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>発進していったネズミロボットは三つ。
 ここで二つ目だから、あと、一ヶ所ね</JapaneseText>
       <EnglishText/>

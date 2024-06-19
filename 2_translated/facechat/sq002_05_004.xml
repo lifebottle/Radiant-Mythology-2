@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リオン</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -12,6 +13,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>誰からの依頼だったかって？
 その…、民間人からの依頼だ</JapaneseText>
       <EnglishText/>
@@ -21,6 +23,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なんだ、疑ってるのか？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -29,6 +32,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>パニール………、からの又聞きだ。
 僕だって詳しい事は知らない</JapaneseText>
       <EnglishText/>
@@ -38,6 +42,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>モンブラン…だっけ？</JapaneseText>
       <EnglishText/>
       <Notes>Choice 1</Notes>
@@ -45,6 +50,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>動物たちの依頼でしょ？</JapaneseText>
       <EnglishText/>
       <Notes>Choice 2</Notes>
@@ -52,6 +58,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そ、それはパニールが
 勝手に申し出ただけだ。
 僕から要求したわけじゃない</JapaneseText>
@@ -62,6 +69,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そんな目で見るな。
 …わかった。
 一個だけならくれてやる</JapaneseText>
@@ -72,6 +80,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>二個は駄目だ。
 欲しかったら、じかにパニールに頼むんだな</JapaneseText>
       <EnglishText/>
@@ -81,6 +90,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…だ、だからどうした。
 動物も、民間人も困っているのなら
 一緒だろう</JapaneseText>
@@ -91,6 +101,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>依頼人には…、違いない</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -99,6 +110,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………行くぞ。
 こんな所で時間をつぶしてる
 場合じゃないんだからな</JapaneseText>

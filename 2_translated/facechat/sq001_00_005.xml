@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リフィル</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -12,6 +13,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>とても充実した調査になったわ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -20,6 +22,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あそこで書き写した文字を解読してみたの。
 やっぱり、金属の強化技術について
 書かれているわ</JapaneseText>
@@ -30,6 +33,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ただ、それを証明するには、
 いくつか材料が必要なのだけれども。
 それは解読を進めて調べてみるわ</JapaneseText>
@@ -40,6 +44,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ひょっとしたら、これをヒントに
 新しく武具を開発出来るかもしれなくてよ。
 それに…</JapaneseText>
@@ -50,6 +55,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>これは、ディセンダーの為に作られたと
 言われる武具、「レディアント」の
 正体を知る鍵になるかもしれないわ</JapaneseText>

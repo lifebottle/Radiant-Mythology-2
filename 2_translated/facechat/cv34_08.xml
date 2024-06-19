@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ユージーン</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ジェイド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -19,6 +21,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ふーむ、しかしジェイドよ。
 おまえからは全然軍人臭がせんな</JapaneseText>
       <EnglishText/>
@@ -28,6 +31,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>私は学者あがりですからねぇ。
 そのせいでしょうか。
 上からは随分煙たがられたもんです</JapaneseText>
@@ -38,6 +42,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…それは
 おまえの性格のせいじゃないか？</JapaneseText>
       <EnglishText/>
@@ -47,6 +52,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おや、私のような慎ましい人間を捕まえて
 冷徹でイヤミで、皮肉屋で厚顔無恥だなんて
 ひどい言いようですね</JapaneseText>
@@ -57,6 +63,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>自覚はあるようだな…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -65,6 +72,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あ、いんぎん無礼で陰険というのも
 足しておきましょうか</JapaneseText>
       <EnglishText/>
@@ -74,6 +82,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…自覚がありすぎる、というのも問題だな</JapaneseText>
       <EnglishText/>
       <Notes/>

@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ハロルド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>&lt;Name:83&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ジェイド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -23,6 +26,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ゼロス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -33,6 +37,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あ、来た…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -41,6 +46,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>メカ！　メカ！
 グギギ…　テキ…　ハッケン…</JapaneseText>
       <EnglishText/>
@@ -50,6 +56,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>言語レベルが低下してますよ。
 何があったんですか？</JapaneseText>
       <EnglishText/>
@@ -59,6 +66,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あんた達ね、来るなら来るでいいけど
 今度はちゃんとコイツ倒してよね</JapaneseText>
       <EnglishText/>
@@ -68,6 +76,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ここでこいつと二人っきりで
 待たないといけないなんて、
 結構キツいんだから</JapaneseText>
@@ -78,6 +87,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>メカを倒そうだなんて、
 許さないメカ！</JapaneseText>
       <EnglishText/>
@@ -87,6 +97,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>だから話せんじゃねーかよ！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -95,6 +106,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>んあ〜…、面倒臭ェ。
 とっとと終わらせるぜ！</JapaneseText>
       <EnglishText/>

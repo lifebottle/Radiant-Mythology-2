@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ナナリー</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アニー</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>コレット</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -23,6 +26,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>イリア</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -33,6 +37,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ねえ、イリア！
 あんた、暇だったらさぁ、
 ちょっと手伝ってくんない？</JapaneseText>
@@ -43,6 +48,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>は、はい？
 わかりました。
 何をしましょう</JapaneseText>
@@ -53,6 +59,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あ…。
 ごめん、アニーだったんだね。
 髪型そっくりだからわかんなかったよ</JapaneseText>
@@ -63,6 +70,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ねえねえ、イリア。
 聞いて聞いて、さっきルカが
 泣いてたんだけどね、それが…</JapaneseText>
@@ -73,6 +81,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>って、アニーだったんだね</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -81,6 +90,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>間違えちゃった。
 ごめんね</JapaneseText>
       <EnglishText/>
@@ -90,6 +100,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>い、いえ、大丈夫です</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -98,6 +109,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>んあ〜、しかし。
 なーんでか最近アニーに
 間違えられまくりなんだな、しかし…</JapaneseText>
@@ -108,6 +120,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…あ、イリア</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -116,6 +129,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>並んで見ると、確かに似てるかも…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -124,6 +138,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>髪型だけだよ</JapaneseText>
       <EnglishText/>
       <Notes>Choice 1</Notes>
@@ -131,6 +146,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>偶然、かな</JapaneseText>
       <EnglishText/>
       <Notes>Choice 2</Notes>
@@ -138,6 +154,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そうですよ。
 中身は全然似てないと思います</JapaneseText>
       <EnglishText/>
@@ -147,6 +164,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なーんか険がない？
 微妙に…</JapaneseText>
       <EnglishText/>
@@ -156,6 +174,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>偶然ですよ！
 決まってます</JapaneseText>
       <EnglishText/>
@@ -165,6 +184,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そ、そんなに力説する事？
 あたしと似てるのって、
 そんな嫌だったのね、アニーって</JapaneseText>
@@ -175,6 +195,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>でも、すごい偶然だね。
 名前だって、イリア・アニーミと
 アニーでかぶってるし</JapaneseText>
@@ -185,6 +206,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>作った人が同じだったりして</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -193,6 +215,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>作った人って親の事？
 だったらアニーとあたし、
 姉妹ってわけね</JapaneseText>
@@ -203,6 +226,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>わたし、イリアのお姉さんかぁ。
 逆にいじめられそう…</JapaneseText>
       <EnglishText/>
@@ -212,6 +236,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あの、アニー？
 あたしとあんた、同い年</JapaneseText>
       <EnglishText/>
@@ -221,6 +246,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ってか身長も胸もあたしの方が
 ずっとデカいじゃん。
 どっちかってぇと、あたしがお姉さんでしょ</JapaneseText>
@@ -231,6 +257,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>同い年…。
 なんだかショック…</JapaneseText>
       <EnglishText/>
@@ -240,6 +267,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なんでそこで
 ショック受けんのよぉ！</JapaneseText>
       <EnglishText/>

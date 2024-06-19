@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クレス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ジーニアス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>セネル</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -23,6 +26,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>チャット</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -33,6 +37,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>はぁ…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -41,6 +46,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>どうしたの？
 溜息なんてついちゃってさ</JapaneseText>
       <EnglishText/>
@@ -50,6 +56,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>僕は品行方正に生きてきたつもりだった。
 剣を正義の為に振るい続けてきた
 つもりだった…</JapaneseText>
@@ -60,6 +67,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それが…、今ではアイフリードの子孫の手下。
 海賊の一味なんだと思うと…ね</JapaneseText>
       <EnglishText/>
@@ -69,6 +77,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…実質、海賊行為を働いているわけじゃ
 ないだろ？
 そんなの気にするなよ</JapaneseText>
@@ -79,6 +88,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そうだよ。
 ボク達はアドリビトムなんだからさぁ、
 そっちの方が重要じゃない？</JapaneseText>
@@ -89,6 +99,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…その通りだね。
 僕の気にしすぎかもしれない</JapaneseText>
       <EnglishText/>
@@ -98,6 +109,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>さあ、皆さん。
 今日も楽しい海賊生活の始まりですよ！
 さて、何をやってもらいましょうか</JapaneseText>
@@ -108,6 +120,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>何か依頼でもあったの？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -116,6 +129,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>依頼よりも大事な事がありますよ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -124,6 +138,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そうですね、商船でも通りかからないかな。
 こっちの武力を誇示して、積荷の
 一割か二割ぐらいを差し出させるんです</JapaneseText>
@@ -134,6 +149,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なるほど、怪我人も出ないし
 船も傷まない。
 無難な方法だな</JapaneseText>
@@ -144,6 +160,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>でしょう？
 でもそれには、相手に「戦っても勝てない」
 と思わせる、圧倒的な武力が必要です</JapaneseText>
@@ -154,6 +171,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クレスさん！
 あなたの剣を頼りにしていますよ！
 ではボクはこれで</JapaneseText>
@@ -164,6 +182,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>だってさ、クレス。
 頑張らないとね</JapaneseText>
       <EnglishText/>
@@ -173,6 +192,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>はあぁぁぁぁあぁ〜…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -181,6 +201,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>溜息を頑張ってどうするんだ…？</JapaneseText>
       <EnglishText/>
       <Notes/>

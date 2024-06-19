@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>パニール</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -12,6 +13,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ふう、おっとととと…。
 最近、また急に
 老け込んじゃってですね</JapaneseText>
@@ -22,6 +24,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>でも、カノンノがお嫁さんになるまでは
 何としても生きていないと</JapaneseText>
       <EnglishText/>
@@ -31,6 +34,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ううん、カノンノの子どもを見るまでは
 死ねないわ</JapaneseText>
       <EnglishText/>
@@ -40,6 +44,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>さあ、もうひとがんばり。
 今日は、お鍋ですよ。
 楽しみにしていて下さいね</JapaneseText>

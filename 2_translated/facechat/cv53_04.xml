@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ゼロス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>エステル</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ジェイド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -26,6 +29,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>やあ、エステルちゃん。
 元気〜？</JapaneseText>
       <EnglishText/>
@@ -35,6 +39,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>元気です。
 ゼロスさんはご機嫌いかがです？</JapaneseText>
       <EnglishText/>
@@ -44,6 +49,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ちゃんと挨拶を返してくれるなんて、
 若いのにしっかりしてんだねぇ。
 俺さま感心しちゃうぜ〜</JapaneseText>
@@ -54,6 +60,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おやおや、男性からの挨拶を
 ことごとく無視するお方の発言とは
 思えませんね</JapaneseText>
@@ -64,6 +71,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>へっ、どういたしまして。
 気分悪ぃ顔が来たから、俺さまひっこむわ。
 またな、エステルちゃん</JapaneseText>
@@ -74,6 +82,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -82,6 +91,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あ、あの…、
 お二人は仲がよろしくないんです？</JapaneseText>
       <EnglishText/>
@@ -91,6 +101,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あなたはどう見えましたか？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -99,6 +110,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あまり良好には見えませんでしたが…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -107,6 +119,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それは残念ですね。
 私は彼との会話を楽しんでるつもりですが</JapaneseText>
       <EnglishText/>
@@ -116,6 +129,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ゼロスさんも同じ意見でしょうか</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -124,6 +138,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>さあ、そこまでは知りませんね</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -132,6 +147,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………</JapaneseText>
       <EnglishText/>
       <Notes/>

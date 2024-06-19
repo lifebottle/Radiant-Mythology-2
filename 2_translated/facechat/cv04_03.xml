@@ -2,93 +2,112 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ハロルド</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Harold</EnglishText>
       <Notes/>
       <Id>22</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カイウス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Caius</EnglishText>
       <Notes/>
       <Id>45</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ユージーン</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Eugene</EnglishText>
       <Notes/>
       <Id>34</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カイウスって、変身出来るんだって？
 なかなか非常識な体質してるわね</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>So, can Caius  transform? That's quite
+an unusual constitution.</EnglishText>
+      <Notes>19 - Revised by Murilo - 14/06/2024</Notes>
       <SpeakerId>22</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>非常識って言うな！
 仕方ないだろ！
 レイモーンの民の血を引いてるんだから</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Don't call it unusual! It can't be helped! He's inherited the blood of the Raymon people, after all.
+
+</EnglishText>
       <Notes/>
       <SpeakerId>45</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>へえ〜、あのレイモーンの民？
 珍しいわねぇ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wow, the Raymon people? That's rare.
+
+</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>んで、ユージーンは
 いつまで変身してんのかしら？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So, how long does Eugene stay
+transformed?</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>俺はガジュマだ。
 変身したりはしない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm Gajuma. I don't transform.</EnglishText>
       <Notes/>
       <SpeakerId>34</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>うそ！　じゃあ、ずっとこのまま？
 すっごいわね〜。
 現実は時に科学を超越するから面白いわ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No way! You'll stay like this forever?
+Incredible! Reality can sometimes
+surpass science. Fascinating...</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…楽しんでもらえて
 結構な事だ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...It's quite something if you're enjoying
+it.</EnglishText>
       <Notes/>
       <SpeakerId>34</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

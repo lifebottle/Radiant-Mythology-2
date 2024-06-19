@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>パニール</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -12,6 +13,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ええっ、引き受けるですって？
 フルーツグラタン、１５人前ですよ！？</JapaneseText>
       <EnglishText/>
@@ -21,6 +23,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ん〜…、何だか悪いわねぇ。
 でも、みんなが食べたがっているし</JapaneseText>
       <EnglishText/>
@@ -30,6 +33,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>じゃあ、あなたにお願いするわ。
 やっぱり、みんなの美味しいって言う
 顔が見たいものね</JapaneseText>
@@ -40,6 +44,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>大変でしょうけど…。
 ここは、甘えさせてもらいます</JapaneseText>
       <EnglishText/>

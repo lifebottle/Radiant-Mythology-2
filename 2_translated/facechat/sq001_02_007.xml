@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ハロルド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -12,6 +13,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>渡す</JapaneseText>
       <EnglishText/>
       <Notes>Choice 1</Notes>
@@ -19,6 +21,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>保留にする</JapaneseText>
       <EnglishText/>
       <Notes>Choice 2</Notes>
@@ -26,6 +29,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>えっ？　本当に持ってたんだ。
 言ってみるものね〜。
 で、もちろん私にくれるんでしょ</JapaneseText>
@@ -36,6 +40,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ありがたくちょうだいするわ。
 それじゃ、早速実験に使おうかしらね</JapaneseText>
       <EnglishText/>

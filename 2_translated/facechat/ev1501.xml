@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>チャット</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -12,6 +13,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ああ、やっぱり受けに来ましたか。
 クラトスさんからのご指名みたいですね</JapaneseText>
       <EnglishText/>
@@ -21,6 +23,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>これからクラトスさんが案内するのは
 「マンダージ地下都市跡」という所です</JapaneseText>
       <EnglishText/>
@@ -30,6 +33,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そこが本当に例の場所だと判明したなら、
 先日のルチルブライトを
 設置してきて下さい</JapaneseText>
@@ -40,6 +44,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クラトスさん、あまり多くを
 語ってはくれませんでしたから、
 ボクからはこれ以上、話せません</JapaneseText>
@@ -50,6 +55,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>では、世界樹の為に
 頑張って下さいね</JapaneseText>
       <EnglishText/>

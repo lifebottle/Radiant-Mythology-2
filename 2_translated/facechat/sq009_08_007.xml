@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -12,6 +13,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>え？
 「小麦粉」2つ持ってるの？</JapaneseText>
       <EnglishText/>
@@ -21,6 +23,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>○○って、すごいねー。
 だって、私が教える前に
 用意してるんだもん</JapaneseText>
@@ -31,6 +34,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それじゃ、チャットに
 「小麦粉」を2つ渡して
 仕事は終わりよ</JapaneseText>
@@ -41,6 +45,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>（…私が教えられることってあるのかな）</JapaneseText>
       <EnglishText/>
       <Notes/>

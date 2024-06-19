@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>チェスター</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ジェイド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クレス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -23,6 +26,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>パニール</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -30,6 +34,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アッシュ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -40,6 +45,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そういや、ナディのヤツらがいたぜ。
 あいつら、ジャニスを探している</JapaneseText>
       <EnglishText/>
@@ -49,6 +55,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ラルヴァはナディの思想上の敵ですから。
 ジャニスは悪の総大将のように
 思われているのでしょう</JapaneseText>
@@ -59,6 +66,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ジャニスも、もう研究所を捨てて
 他所へ逃げている可能性もあります</JapaneseText>
       <EnglishText/>
@@ -68,6 +76,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>しかし、ホントやり方が過激だな。
 ロゼット村のラルヴァ推進派より
 始末が悪いぜ</JapaneseText>
@@ -78,6 +87,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ああ、推進派は村に火をつけたりは
 しなかった</JapaneseText>
       <EnglishText/>
@@ -87,6 +97,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>村がラルヴァに傾いたのは
 多数決の結果だしね</JapaneseText>
       <EnglishText/>
@@ -96,6 +107,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>だけど、ナディは違う…。
 あれは明らかにテロだ。
 放ってはおけないな</JapaneseText>
@@ -106,6 +118,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あらあら、いけませんってば。
 まだふらついてるじゃないですか…</JapaneseText>
       <EnglishText/>
@@ -115,6 +128,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ジャニスと言ったな…。
 ヤツはっ…、どこにいるっ！！</JapaneseText>
       <EnglishText/>
@@ -124,6 +138,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>俺は、奴を…。
 うッ…</JapaneseText>
       <EnglishText/>
@@ -133,6 +148,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ほら。
 まだ立つ事も出来ないじゃ
 ありませんか</JapaneseText>
@@ -143,6 +159,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>私が運びます。
 部屋でゆっくり話を聞いておきますよ</JapaneseText>
       <EnglishText/>

@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>スタン</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>フィリア</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -19,6 +21,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なあ、フィリア。
 ルチルクォーツって、どんな石なんだ？</JapaneseText>
       <EnglishText/>
@@ -28,6 +31,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>水晶の中に、他鉱石による針状結晶が
 内包されたものですよ。
 装飾品としてよく使われます</JapaneseText>
@@ -38,6 +42,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>へぇー、そうなんだ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -46,6 +51,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ところで、スタンさんは
 どうしてルチルクォーツが
 必要なんですか？</JapaneseText>
@@ -56,6 +62,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>んー、何かルーティのやつが
 必要みたいだったからさ。
 プレゼントしてもいいかなって</JapaneseText>
@@ -66,6 +73,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あ、そ、そうですか…。
 それは、喜ばれると思います</JapaneseText>
       <EnglishText/>
@@ -75,6 +83,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>うん。
 持って帰って、びっくりさせてやるんだ</JapaneseText>
       <EnglishText/>

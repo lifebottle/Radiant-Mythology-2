@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>パニール</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -19,6 +21,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>どれほどのマナを使ったから、
 こんなに弱ってしまったのかしら</JapaneseText>
       <EnglishText/>
@@ -28,6 +31,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>代わってあげられるものなら、
 代わってあげたいわ…</JapaneseText>
       <EnglishText/>
@@ -37,6 +41,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノ…。
 あなたが大好きな焼きリンゴを作ったわ。
 …食べられる？</JapaneseText>
@@ -47,6 +52,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…ぅ…、…ん。
 パニール…、
 それに、○○だったんだ…</JapaneseText>
@@ -57,6 +63,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>今、見えたの…。
 あのね…</JapaneseText>
       <EnglishText/>
@@ -66,6 +73,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>待って。
 大きな声は力を使うわ。
 近くに寄るわね</JapaneseText>
@@ -76,6 +84,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そう。
 よく、がんばったわね。
 あとは任せて、お眠りなさいな…</JapaneseText>
@@ -86,6 +95,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アニスさんの居場所がわかりました。
 私、すぐに伝えてまいります</JapaneseText>
       <EnglishText/>

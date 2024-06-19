@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ロイド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>イリア</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ジェイド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -26,6 +29,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ギルドか。
 腕がなるぜ</JapaneseText>
       <EnglishText/>
@@ -35,6 +39,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>キシシシシ、まあ、この
 あたしの活躍には
 かなわないでしょうけどね</JapaneseText>
@@ -45,6 +50,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ええ、確かに。
 イリアのおかげで、鉛を生産する業者が
 大喜びだそうですよ</JapaneseText>
@@ -55,6 +61,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>へへ、それって、
 無駄玉撃ちまくってるって事だろ</JapaneseText>
       <EnglishText/>
@@ -64,6 +71,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なんだっけ
 「下手な豆鉄砲を食らう」って
 言うんだっけ？</JapaneseText>
@@ -74,6 +82,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ロイドって馬鹿ね〜。
 それじゃあ豆屋さんが大喜びでしょ</JapaneseText>
       <EnglishText/>
@@ -83,6 +92,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いえいえ、そういうことわざも
 ありますよ。
 「驚くに驚けない」って意味ですね</JapaneseText>
@@ -93,6 +103,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>だろ？　聞いた事あったんだ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -101,6 +112,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -109,6 +121,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…ちょっと、ジェイド、
 何笑ってるのよ！
 あんたフカしコイてんでしょ！</JapaneseText>
@@ -119,6 +132,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>元々こういう顔ですよ。
 まあ、嘘ついた事は認めますがね</JapaneseText>
       <EnglishText/>
@@ -128,6 +142,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ええ？
 「驚くに驚けない」って意味じゃ
 なかったってのか？</JapaneseText>
@@ -138,6 +153,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…いや、ソコじゃないし</JapaneseText>
       <EnglishText/>
       <Notes/>

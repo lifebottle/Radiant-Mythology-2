@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>セネル</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ファラ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -19,6 +21,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ファラは、なぜ拳法を？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -27,6 +30,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リッドより強くなりたいって思ったから。
 まあ近所に道場があったからってのが
 一番大きな理由かもね</JapaneseText>
@@ -37,6 +41,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そうか。
 それでリッドに勝ったのか？</JapaneseText>
       <EnglishText/>
@@ -46,6 +51,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>まさか！
 リッドと勝負してもしかたないよ</JapaneseText>
       <EnglishText/>
@@ -55,6 +61,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ああ、勝ち負け以上に
 重要な事はある</JapaneseText>
       <EnglishText/>
@@ -64,6 +71,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いや、そんなんじゃなくて、
 絶対わざと負けるに決まってるんだもん。
 リッドだったらさ</JapaneseText>
@@ -74,6 +82,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そうか…</JapaneseText>
       <EnglishText/>
       <Notes/>

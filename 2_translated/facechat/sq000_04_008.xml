@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アニス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -12,6 +13,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ラッピングもしたし、
 短いけど手紙も書いたし、
 さあ送ろうかな…って時に</JapaneseText>
@@ -22,6 +24,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ひょっとして、メスカル山脈まで
 行かなくっちゃいけないのかなって
 気が付いて〜…</JapaneseText>
@@ -32,6 +35,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ここから故郷まで、
 配達を頼める人はいないし…</JapaneseText>
       <EnglishText/>
@@ -41,6 +45,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>せめてメスカル山脈の道中まで
 誰か一緒に付いて来てくれたらな…</JapaneseText>
       <EnglishText/>

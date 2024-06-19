@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アッシュ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>&lt;Name:82&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -19,6 +21,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おまえか…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -27,6 +30,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>安心しろ。
 もう、あのお坊っちゃんを
 斬るようなことはしない</JapaneseText>
@@ -37,6 +41,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>奴を斬っても、
 もう俺の過去や未来が
 覆るわけでもない</JapaneseText>
@@ -47,6 +52,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -55,6 +61,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>替え玉として、あの坊っちゃんが死ぬのを
 待つ生き方なんざ、こっちから願い下げだ</JapaneseText>
       <EnglishText/>
@@ -64,6 +71,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>だから、俺は育った僧院を逃げ出して
 一人で生きて行く事を決めたんだよ</JapaneseText>
       <EnglishText/>

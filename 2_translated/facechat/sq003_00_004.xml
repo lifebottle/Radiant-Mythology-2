@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ジェイド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ルーク</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -19,6 +21,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>さて、どうしましょうか。
 ルークにもアッシュにも
 精神衛生上よろしくないでしょうし</JapaneseText>
@@ -29,6 +32,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>こうなるとアッシュには
 降りてもらわなくてはなりませんね。
 戦力としては魅力的な人材なのですが</JapaneseText>
@@ -39,6 +43,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>俺は…、構わないんだ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -47,6 +52,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>しかし、あなたに何かあった時は
 私は首を括らなければならない
 立場ですし</JapaneseText>
@@ -57,6 +63,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アッシュとの事は、
 誰も口出ししないでくれ。
 俺が、自分で…やれる事をやりたい</JapaneseText>
@@ -67,6 +74,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>まだ、俺が国や世界の為に出来る事なんて
 知れちゃいるけど…、自分の兄弟くらいは
 救いたい…</JapaneseText>
@@ -77,6 +85,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>わかりました。
 この件に関しては、
 私は触れないでおきましょう</JapaneseText>
@@ -87,6 +96,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>成長しましたね、ルーク</JapaneseText>
       <EnglishText/>
       <Notes/>

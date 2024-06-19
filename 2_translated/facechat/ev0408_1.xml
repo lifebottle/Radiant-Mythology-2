@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ミント</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>チャット</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クレス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -23,6 +26,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>すず</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -33,6 +37,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>私達のロゼット村は、決して裕福では
 ありませんが、少量のマナを分け合って、
 恵みに感謝しつつ静かに生活していました</JapaneseText>
@@ -43,6 +48,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>でも、最近ラルヴァというエネルギーが
 村に導入され始めてから事情が変わりました</JapaneseText>
       <EnglishText/>
@@ -52,6 +58,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ロゼット村にも
 ラルヴァ推進派が現れたんですか</JapaneseText>
       <EnglishText/>
@@ -61,6 +68,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ああ。
 少ないマナを細々と分け合うよりも
 もっと村が豊かになれる、と言ってね…</JapaneseText>
@@ -71,6 +79,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>マナ貯蔵プラントは破壊され、
 マナによる生活を守ろうとする人々は
 激しい非難を受けていたんだ</JapaneseText>
@@ -81,6 +90,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>挙句、ラルヴァ推進派によって
 立ち退きを要求されて…</JapaneseText>
       <EnglishText/>
@@ -90,6 +100,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>争いを好まない村民は、ラルヴァ推進派の
 一方的な圧力に耐えられず、
 村を捨てる事にしました</JapaneseText>
@@ -100,6 +111,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それで、その村の人達を、
 この船で安全な土地へ誘導してほしい。
 …と言うわけですね？</JapaneseText>
@@ -110,6 +122,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>構いませんとも。
 お安い御用です</JapaneseText>
       <EnglishText/>
@@ -119,6 +132,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>村の人を助けてくれて、ありがとう。
 さすが、噂に聞いていた通りの
 アドリビトムだ</JapaneseText>
@@ -129,6 +143,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いえいえ、当然の事をしたまでです</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -137,6 +152,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>今、あなた達ロゼット村の皆さんを
 グランマニエで受け入れてもらうよう
 ジェイドさんが手続きをしています</JapaneseText>
@@ -147,6 +163,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>難民の受け入れという事であれば
 簡単に入国出来ますし、
 国際法で難民の受け入れ義務がありますから</JapaneseText>
@@ -157,6 +174,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>本当に？
 それは願ってもないよ！
 きっと、みんなも安心する</JapaneseText>
@@ -167,6 +185,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>本当に感謝いたします。
 一体どうやってお返ししたら
 いいでしょう…</JapaneseText>
@@ -177,6 +196,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そうだ、僕達もここで働かせて欲しい。
 元々はロゼット村でギルドに
 所属していたんだ</JapaneseText>
@@ -187,6 +207,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ええ、それがいいと思います</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -195,6 +216,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>また、子分が増えるんですね。
 世界一の海賊への道に
 さらに一歩近づきました！</JapaneseText>
@@ -205,6 +227,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>か、海賊！？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -213,6 +236,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>まあまあ。
 お気になさらずに</JapaneseText>
       <EnglishText/>
@@ -222,6 +246,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>さて、解散しましょうか。
 これからアドリビトムの一員として
 がんばってくださいね</JapaneseText>
@@ -235,6 +260,7 @@
   <Strings>
     <Section>Unreferenced</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クレスがギルドに加わりました。</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -242,6 +268,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>チェスターがギルドに加わりました。</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -249,6 +276,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ミントがギルドに加わりました。</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -256,6 +284,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アーチェがギルドに加わりました。</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -263,6 +292,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>すずがギルドに加わりました。</JapaneseText>
       <EnglishText/>
       <Notes/>

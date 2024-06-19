@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ナナリー</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -12,6 +13,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カイルとリアラ、大丈夫かな…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -20,6 +22,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なんか、弟と妹が出来たみたいでさ。
 可愛い子達だよね。
 面倒見なきゃって思ってさ</JapaneseText>
@@ -30,6 +33,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>無事に、もとの世界へ
 帰してあげたいね…</JapaneseText>
       <EnglishText/>
@@ -39,6 +43,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>だから、しっかりハロルドに
 目を光らせとかないと</JapaneseText>
       <EnglishText/>
@@ -48,6 +53,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あの子達が、もとの世界へ帰れる方法を
 編み出してもらわないといけないんだから</JapaneseText>
       <EnglishText/>
@@ -57,6 +63,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ただ、不安だね。
 天才を自称してる割には
 失敗も多いし</JapaneseText>
@@ -67,6 +74,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ああ、またあの子達の事が
 心配になってきたよ…</JapaneseText>
       <EnglishText/>

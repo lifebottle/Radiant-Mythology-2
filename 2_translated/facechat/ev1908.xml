@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リフィル</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ジェイド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -19,6 +21,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>彼、すごいわ…。
 こんなものを作ってしまうなんて</JapaneseText>
       <EnglishText/>
@@ -28,6 +31,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>皮肉ね。
 学会は、彼のこの才能を
 認めようとしなかったのに</JapaneseText>
@@ -38,6 +42,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>今度は、害のない
 マナに代わるエネルギーを
 研究しているそうですよ</JapaneseText>
@@ -48,6 +53,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>グランマニエに研究資金を
 出させるように陳情しておきました。
 きっと倍になって返ってくるでしょうから</JapaneseText>
@@ -58,6 +64,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それはいいわね。
 彼、きっと世界を変える人材よ</JapaneseText>
       <EnglishText/>
@@ -67,6 +74,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アッシュが彼を許してくれて
 幸いでしたね</JapaneseText>
       <EnglishText/>
@@ -76,6 +84,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>さて、後ひと踏ん張りですね。
 次は火山、ですか…</JapaneseText>
       <EnglishText/>

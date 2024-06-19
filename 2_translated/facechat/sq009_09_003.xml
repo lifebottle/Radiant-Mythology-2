@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -12,6 +13,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>操舵輪の前で○ボタンを押せば
 船内の好きな階層やワールドマップへ行ける
 メニューが表示されるの</JapaneseText>
@@ -22,6 +24,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>でも、今は準備中だから少し待っててね。
 ちなみにSTARTボタンを押しても
 同じメニューに移るけど、こっちも準備中よ</JapaneseText>

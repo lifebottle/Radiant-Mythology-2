@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ルーク</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アッシュ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ジェイド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -26,6 +29,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あ、あの、アッシュ…でいいかな？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -34,6 +38,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -42,6 +47,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>その、挨拶した時、俺…、
 何か怒らせるようなことをしたかな</JapaneseText>
       <EnglishText/>
@@ -51,6 +57,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…呑気なモンだな！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -59,6 +66,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あの…、俺はただ、
 気に障る事があったら謝ろうと思って。
 自分に出来ることは…、したいから…</JapaneseText>
@@ -69,6 +77,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>だったら、
 …死ねって言えば、死んでくれるのか？</JapaneseText>
       <EnglishText/>
@@ -78,6 +87,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>え…？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -86,6 +96,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…悪い予感はあたりましたか</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -94,6 +105,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アッシュ。
 あなたもファブレ家の血を引いて
 いるのですね？</JapaneseText>
@@ -104,6 +116,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ジェイド。
 何だそれ…、何を言ってるんだよ</JapaneseText>
       <EnglishText/>
@@ -113,6 +126,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>グランマニエの歴史の中において、
 王侯貴族の社会では、直系の双子には
 血生臭い事件ばかり起きていました</JapaneseText>
@@ -123,6 +137,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ほとんどが、
 後継ぎを巡ってのトラブルです</JapaneseText>
       <EnglishText/>
@@ -132,6 +147,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アッシュ、あなたはルークの双子として
 生を受け、将来様々なトラブルを防ぐ為に
 ファブレ家からその存在を消されてしまった…</JapaneseText>
@@ -142,6 +158,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ジェイドは、知っていたのか？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -150,6 +167,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>個人で調査しました。
 先ほど、本国の内通者を通じて
 わかったんです</JapaneseText>
@@ -160,6 +178,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>俺はただ、おまえよりも数分遅れて
 生まれただけで、違う生き方を強いられた</JapaneseText>
       <EnglishText/>
@@ -169,6 +188,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>殺された方がまだマシだったさ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -177,6 +197,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>俺は、おまえが死んだ時の為の
 替えとして、僧院に預けられて育てられたんだ</JapaneseText>
       <EnglishText/>
@@ -186,6 +207,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>こんな、自分の手も何も汚さずに
 ぬくぬく育ってきた奴の替えとしてな！！</JapaneseText>
       <EnglishText/>
@@ -195,6 +217,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そんな…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -203,6 +226,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>消えろ…。
 俺の前に姿を現すな…</JapaneseText>
       <EnglishText/>
@@ -212,6 +236,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………</JapaneseText>
       <EnglishText/>
       <Notes/>

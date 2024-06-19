@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ゼロス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ジェイド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>&lt;Name:82&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -26,6 +29,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>よぉ、待ってたぜ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -34,6 +38,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おっと、何処に行かれるのですか？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -42,6 +47,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ま、ここまでご足労願ったのは
 他でもねーんだけどよ</JapaneseText>
       <EnglishText/>
@@ -51,6 +57,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ええ、大した用事ではありません</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -59,6 +66,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -67,6 +75,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>「私をどうするつもりだ？」
 とか言いたげだな</JapaneseText>
       <EnglishText/>
@@ -76,6 +85,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そうですか？
 「なぜＧＶをドタキャンしたのか？」
 と問うた表情のように見えます</JapaneseText>
@@ -86,6 +96,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -94,6 +105,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…まあ、どっちでもいいけどさ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -102,6 +114,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>こうなりゃ、俺さま達でこの作品を
 乗っ取っちまえばいいじゃん？
 そうすりゃ、毎日「ＧＶ」日和だぜ</JapaneseText>
@@ -112,6 +125,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>幸い、世界樹の危機は去りました。
 つまりディセンダーたるあなたの役目は
 もう無いと見て問題ありません</JapaneseText>
@@ -122,6 +136,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>「負」の影響もなさそうだしな</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -130,6 +145,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…ときどき忘れちまいそうになるけど
 ほら、一応あのＧＶってさぁ
 「負」の影響かどうか調査だったのよね</JapaneseText>
@@ -140,6 +156,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>調査の結果、
 「負」を要因にした行動ではないと
 我々は判断しました</JapaneseText>
@@ -150,6 +167,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>だからさ、これからは
 俺さま達に主役の座を譲って、
 もうゆっくりすりゃいいんじゃないか？</JapaneseText>
@@ -160,6 +178,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>お話の盛り上がりとして、
 やはりここではこういう展開が
 王道かと思いまして</JapaneseText>
@@ -170,6 +189,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -178,6 +198,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…って、自分の状況
 わかってんのかぁ？</JapaneseText>
       <EnglishText/>
@@ -187,6 +208,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>では慣例に則り、これから
 セーブや戦闘準備の時間を設けます</JapaneseText>
       <EnglishText/>
@@ -196,6 +218,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ここで待ってっから。
 始めたいなら、
 俺さま達の前まで来てちょーだいな</JapaneseText>
@@ -206,6 +229,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あ、無視して帰ってもいいけど、
 …ソレ、ちょっと寂しいからなっ！
 後で絶対戻って来いよ！</JapaneseText>
@@ -216,6 +240,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>では、後ほど</JapaneseText>
       <EnglishText/>
       <Notes/>

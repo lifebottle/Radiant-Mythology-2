@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ハロルド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ナナリー</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リアラ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -26,6 +29,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ふんふん、元の世界へ帰りたいと。
 ま、空間転送だけなら、ゴマ１粒くらいは
 出来るかも…</JapaneseText>
@@ -36,6 +40,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>でもあんた達、デカ過ぎだわ。
 ムリね</JapaneseText>
       <EnglishText/>
@@ -45,6 +50,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そんな言い方ないだろ？
 この子達、困ってるじゃないのさ</JapaneseText>
       <EnglishText/>
@@ -54,6 +60,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>わたし達の頼みは、
 聞いてもらえないということですか？</JapaneseText>
       <EnglishText/>
@@ -63,6 +70,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>馬鹿ねぇ、そんな面白そうな話、
 乗らないわけないでしょ？</JapaneseText>
       <EnglishText/>
@@ -72,6 +80,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いい？　あんた達二人をどこかに
 飛ばすってんなら、結構な量の
 エネルギーが必要なのよ</JapaneseText>
@@ -82,6 +91,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ま、時間転移も一緒にするんだったら
 どれだけ時間掛けても問題ないでしょ？</JapaneseText>
       <EnglishText/>
@@ -91,6 +101,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それよりさ、今はココのギルドで研究してる
 ラルヴァって奴の方が面白そうなのよね。
 ぐふふ…、未知のマターの匂いがするわ</JapaneseText>
@@ -101,6 +112,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おっじゃまっしま〜す￥</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -109,6 +121,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ああ言うところさえなければねぇ。
 確かに天才科学者なんだろうけど…</JapaneseText>
       <EnglishText/>

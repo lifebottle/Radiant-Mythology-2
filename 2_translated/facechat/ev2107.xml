@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ニアタ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -12,6 +13,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ディセンダーよ、負と戦うつもりか？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -20,6 +22,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>私は今までにも
 負と戦い続け、共倒れになっていった世界を
 見てきたよ</JapaneseText>
@@ -30,6 +33,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>負は、打ち負かすものではなく、
 越えるもの</JapaneseText>
       <EnglishText/>
@@ -39,6 +43,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>戦う、にも意味がある。
 ただ、従わせる為に、消滅させる為に戦うか。
 守る為に戦うか</JapaneseText>
@@ -49,6 +54,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そして、相手の心とぶつかる為に戦うか</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -57,6 +63,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>まあ、その意味はそなたが決めなさい。
 ディセンダーよ、どうしたい？</JapaneseText>
       <EnglishText/>
@@ -66,6 +73,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>自分は、この世界が好きなだけ</JapaneseText>
       <EnglishText/>
       <Notes>Choice 1</Notes>
@@ -73,6 +81,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>みんなを守りたい</JapaneseText>
       <EnglishText/>
       <Notes>Choice 2</Notes>
@@ -80,6 +89,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それでいい</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -88,6 +98,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そうだな。
 我々もそれは一緒だよ</JapaneseText>
       <EnglishText/>
@@ -97,6 +108,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>闇を越えなさい。
 向き合うのだ、負と。
 逃げてはいけない</JapaneseText>
@@ -110,6 +122,7 @@
   <Strings>
     <Section>Unreferenced</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>evobj_033</JapaneseText>
       <EnglishText/>
       <Notes/>

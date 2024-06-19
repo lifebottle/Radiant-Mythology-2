@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>コレット</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アニス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -26,6 +29,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ねえ、カノンノ。
 すべてが終わったら、どうするの？</JapaneseText>
       <EnglishText/>
@@ -35,6 +39,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>まだ決めてないの。
 とりあえず、お話は書き続けて…</JapaneseText>
       <EnglishText/>
@@ -44,6 +49,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あ、でも両親のお墓参りには
 行きたいな</JapaneseText>
       <EnglishText/>
@@ -53,6 +59,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>両親の事、
 ずーっと知らなかったんでしょ？
 丹念にお墓洗ってあげなきゃねっ</JapaneseText>
@@ -63,6 +70,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>な〜んちゃって</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -71,6 +79,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そだね。
 あ、スポンジよりタワシの方が
 いいと思う</JapaneseText>
@@ -81,6 +90,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>だって、一生懸命洗ってるって
 気持ちがずっと伝わると思うから</JapaneseText>
       <EnglishText/>
@@ -90,6 +100,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>スポンジと洗剤じゃ駄目なのかな？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -98,6 +109,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>お墓の材質によるのかもね。
 まず見てから決めた方がいいよ</JapaneseText>
       <EnglishText/>
@@ -107,6 +119,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そうしようかな</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -115,6 +128,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>って、アニス、どうしたの？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -123,6 +137,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>だって、私の話が発展するだなんて
 思わないじゃん。
 天然って怖いわ〜</JapaneseText>

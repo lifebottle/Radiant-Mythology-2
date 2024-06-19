@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>チャット</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -12,6 +13,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>「パーティ編成」については、
 もうご存知かと思いますので、
 「評価」について、説明しておきましょう</JapaneseText>
@@ -22,6 +24,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>説明をお願い</JapaneseText>
       <EnglishText/>
       <Notes>Choice 1</Notes>
@@ -29,6 +32,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>説明はいい</JapaneseText>
       <EnglishText/>
       <Notes>Choice 2</Notes>
@@ -36,6 +40,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>「評価」は、ギルドの面子が
 あなた対して持っているポイントです</JapaneseText>
       <EnglishText/>
@@ -45,6 +50,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ボクを含めて、このギルドの構成員は
 皆、あなたに対して良かれ悪かれ
 何かしらの「評価」を持っています</JapaneseText>
@@ -55,6 +61,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>この「評価」状況を知りたい時には、
 ボクに話し掛けて、
 「評価を確認する」を選んで下さい</JapaneseText>
@@ -65,6 +72,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>「評価」が高いと、相談事を持ちかけられ
 新たなクエストが発生するかもしれません</JapaneseText>
       <EnglishText/>
@@ -74,6 +82,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>「評価」を上げたいキャラと一緒にクエストを
 こなすのが「評価」を上げる近道でしょう。
 皆さんと分け隔てなく接すれば大丈夫ですよ</JapaneseText>
@@ -84,6 +93,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>周りからの「評価」が気になったら
 ボクに言って下さい。
 船長たるもの、全てを知って当然ですから</JapaneseText>

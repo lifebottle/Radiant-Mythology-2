@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ジェイド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>&lt;Name:82&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -19,6 +21,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>本国にいる時は、このような仕事を
 受けた事はなかったんですが</JapaneseText>
       <EnglishText/>
@@ -28,6 +31,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>まあ、ギルドともなれば
 しょうがありません。
 自分から本国に願い出た事ですし</JapaneseText>
@@ -38,6 +42,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>長い休暇を取ったつもりで
 ギルドの雑務を楽しみましょうか。
 本職よりは、気が楽です</JapaneseText>
@@ -48,6 +53,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -56,6 +62,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>忙しさの度合いは違いますが、
 このギルドの仕事なんて、まだまだ
 精神的に楽な方なんですよ</JapaneseText>
@@ -66,6 +73,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ルークは、むしろこの環境の中にいた方が
 いいのかもしれません。
 王族は何かと血生臭い所ですから…</JapaneseText>

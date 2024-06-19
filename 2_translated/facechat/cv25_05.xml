@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>すず</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ミント</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クレス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -26,6 +29,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ミントさん。
 調査結果です</JapaneseText>
       <EnglishText/>
@@ -35,6 +39,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>聞かせて下さい</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -43,6 +48,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>声が高いです。
 もっと低く…</JapaneseText>
       <EnglishText/>
@@ -52,6 +58,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>何人かに声を掛けられたようですが、
 ちゃんと距離を取っています</JapaneseText>
       <EnglishText/>
@@ -61,6 +68,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ですが、当人はまんざらでも
 ないみたいなので、
 早急に手を打つ必要がありますね</JapaneseText>
@@ -71,6 +79,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…そうですか</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -79,6 +88,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>やあ、どうしたの？
 内緒話なんてしてさ</JapaneseText>
       <EnglishText/>
@@ -88,6 +98,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あ、ク、クレスさん。
 なんでもないんです</JapaneseText>
       <EnglishText/>
@@ -97,6 +108,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ははは、わかったよ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -105,6 +117,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>では、引き続き、
 クレスさんの船内における
 女性との接触を監視します</JapaneseText>
@@ -115,6 +128,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>はい、あの……お願いします……</JapaneseText>
       <EnglishText/>
       <Notes/>

@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>コレット</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ロイド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -19,6 +21,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あ…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -27,6 +30,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>うわわ、コレット！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -35,6 +39,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ごめん、ロイド…。
 ありがとね</JapaneseText>
       <EnglishText/>
@@ -44,6 +49,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ああ、怪我はないか？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -52,6 +58,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>心配する</JapaneseText>
       <EnglishText/>
       <Notes>Choice 1</Notes>
@@ -59,6 +66,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ビックリする</JapaneseText>
       <EnglishText/>
       <Notes>Choice 2</Notes>
@@ -66,6 +74,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あ、私ならだいじょぶだよ。
 慣れてるから</JapaneseText>
       <EnglishText/>
@@ -75,6 +84,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あ、ごめん…。
 私ならだいじょぶだから…</JapaneseText>
       <EnglishText/>
@@ -84,6 +94,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>コレットって、よく転ぶんだ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -92,6 +103,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>だから○○、
 近くにいる時は気をつけてやってくれよな</JapaneseText>
       <EnglishText/>
@@ -101,6 +113,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そこまで私、ドジじゃないってば。
 うん、だいじょぶだいじょぶ</JapaneseText>
       <EnglishText/>

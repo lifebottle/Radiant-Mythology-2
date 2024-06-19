@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>チェスター</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クレス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ミント</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -23,6 +26,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>すず</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -33,6 +37,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それにしてもよ、
 クレスが情報収集するたぁな</JapaneseText>
       <EnglishText/>
@@ -42,6 +47,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>まあ、これぐらいは…ね</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -50,6 +56,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>引っ込み思案というわけではありませんが、
 口が得意というわけでも
 ありませんのにね</JapaneseText>
@@ -60,6 +67,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>私のお株を奪われてしまいました</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -68,6 +76,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>お見事</JapaneseText>
       <EnglishText/>
       <Notes>Choice 1</Notes>
@@ -75,6 +84,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>どうやったの？</JapaneseText>
       <EnglishText/>
       <Notes>Choice 2</Notes>
@@ -82,6 +92,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>うん、会心の出来だったからね</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -90,6 +101,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なに、ちょっとしたコツがあってね</JapaneseText>
       <EnglishText/>
       <Notes>Previous Choice 2 leads here</Notes>
@@ -98,6 +110,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>？？
 どういう事ですか？</JapaneseText>
       <EnglishText/>
@@ -107,6 +120,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>僕の得意とする「小粋なジョーク」で
 相手の心をまず和ませるんだ。
 すると相手も気を許してくれる</JapaneseText>
@@ -117,6 +131,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>聞けばなんだって教えてもらえたよ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -125,6 +140,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -133,6 +149,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>得意…？
 そうか、おまえ、あのダジャレが
 ホンキで面白れぇと思ってたんだな…</JapaneseText>
@@ -143,6 +160,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ん？
 何か言ったかい？</JapaneseText>
       <EnglishText/>
@@ -152,6 +170,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なんでもねぇよ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -160,6 +179,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>相手が和んでくれない場合は
 どうしたのですか？</JapaneseText>
       <EnglishText/>
@@ -169,6 +189,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>まあ、不発なネタもあるからね…。
 何度も何度もチャレンジしたよ。
 相手が笑ってくれるまで</JapaneseText>
@@ -179,6 +200,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…それは、誰でも口を開くでしょうね</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -187,6 +209,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>だろ？</JapaneseText>
       <EnglishText/>
       <Notes/>

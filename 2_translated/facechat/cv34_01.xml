@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ユージーン</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>コレット</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クレス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -23,6 +26,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>パニール</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -33,6 +37,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>失礼。
 少し挨拶させてもらいたい</JapaneseText>
       <EnglishText/>
@@ -42,6 +47,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>俺はユージーン・ガラルド。
 ガレット地方ではギルドを運営していた。
 これから世話になるのでよろしく頼む</JapaneseText>
@@ -52,6 +58,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>大きいね〜</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -60,6 +67,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>巌のように鍛え上げられた筋肉…。
 その身体を見ればわかります。
 あなたは歴戦の武人ですね</JapaneseText>
@@ -70,6 +78,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ちょうど良かったわ〜。
 調理場の天袋に入れた調理用具が
 取れなくて困ってたのよ〜</JapaneseText>
@@ -80,6 +89,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>この人をそんな風に使うのか？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -88,6 +98,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ははは、構わんぞ。
 ここはギルドだ。
 困った者を助ける仕事だ</JapaneseText>
@@ -98,6 +109,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それに先任者を立てるのは当然だからな</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -106,6 +118,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>先任者？</JapaneseText>
       <EnglishText/>
       <Notes>Choice 1</Notes>
@@ -113,6 +126,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>軍隊出身者か？</JapaneseText>
       <EnglishText/>
       <Notes>Choice 2</Notes>
@@ -120,6 +134,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>先に任務へ着いた者という意味だ。
 軍隊内で使われる言葉だな</JapaneseText>
       <EnglishText/>
@@ -129,6 +144,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>その通りだ。
 よくわかったな</JapaneseText>
       <EnglishText/>
@@ -138,6 +154,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ま〜、プロの軍人さんだったんですか〜。
 頼もしいですわね〜</JapaneseText>
       <EnglishText/>
@@ -147,6 +164,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>その身体ですもの。
 沢山お食べになるんでしょ？</JapaneseText>
       <EnglishText/>
@@ -156,6 +174,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>やっぱり肉と魚が好き？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -164,6 +183,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>「やっぱり」とはどういう意味だ？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -172,6 +192,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ええと、その、
 猫さんに似てるな、って思って
 ……ごめんなさい</JapaneseText>
@@ -182,6 +203,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>俺のような人種をガジュマという。
 猫扱いは困るな</JapaneseText>
       <EnglishText/>
@@ -191,6 +213,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…ごめんなさい</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -199,6 +222,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>はははは、謝る事はない。
 怖がられるよりマシだからな</JapaneseText>
       <EnglishText/>
@@ -208,6 +232,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>じゃあ、今度触っていい？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -216,6 +241,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ああ、いいぞ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -224,6 +250,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>じゃあ、ティアとプレセアにも
 声掛けておくね！
 ありがと、ユージーン</JapaneseText>
@@ -234,6 +261,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…知りませんよ？
 あとでもみくちゃにされても</JapaneseText>
       <EnglishText/>
@@ -243,6 +271,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>早計だったか…</JapaneseText>
       <EnglishText/>
       <Notes/>

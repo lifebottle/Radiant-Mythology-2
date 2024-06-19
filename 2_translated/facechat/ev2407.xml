@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>パニール</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ファラ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リフィル</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -26,6 +29,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ファラさん、お帰りなさい</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -34,6 +38,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>パニールぅ…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -42,6 +47,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>フフ…。
 顔が泥だらけですよ、可愛いレディさん。
 さあ、拭いてあげますよ</JapaneseText>
@@ -52,6 +58,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>どうして、パニールは
 そんな風に自然に優しくなれるの？
 わたしも、そうなりたいよ</JapaneseText>
@@ -62,6 +69,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>自分をまず愛して。
 本当の自分が良く見えるようにね</JapaneseText>
       <EnglishText/>
@@ -71,6 +79,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>自分を愛して初めて、
 他人が何を望んでいるか
 わかるようになるわ</JapaneseText>
@@ -81,6 +90,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>自分がして欲しい事を、
 すればいいだけなのよ。
 自分が出来る範囲でね</JapaneseText>
@@ -91,6 +101,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>無理をして親切にされても、
 相手に気を使わせてしまうでしょ？</JapaneseText>
       <EnglishText/>
@@ -100,6 +111,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>うん</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -108,6 +120,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あなたはとても優しい子。
 ありのままでいなさいな</JapaneseText>
       <EnglishText/>
@@ -117,6 +130,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ありがとう、パニール</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -125,6 +139,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ご苦労様。
 あなた達を信じていたわ</JapaneseText>
       <EnglishText/>
@@ -134,6 +149,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いいのよ。
 何も聞かないわ</JapaneseText>
       <EnglishText/>
@@ -143,6 +159,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>無事に戻ってきてくれた。
 それで、じゅうぶんよ</JapaneseText>
       <EnglishText/>
@@ -152,6 +169,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それより、
 カノンノを見に行ってあげて。
 あんまり、思わしくないの</JapaneseText>
@@ -165,6 +183,7 @@
   <Strings>
     <Section>Unreferenced</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ファラがギルドに復帰しました。</JapaneseText>
       <EnglishText/>
       <Notes/>

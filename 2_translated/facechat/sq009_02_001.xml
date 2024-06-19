@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>チャット</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -12,6 +13,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>バンエルティア号、微速前進！
 ヨーソロー！
 くーっ、この瞬間がたまりませんね！</JapaneseText>
@@ -22,6 +24,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おや、どうされました？
 『ワールドマップ』は初めてですか？</JapaneseText>
       <EnglishText/>
@@ -31,6 +34,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>初めてかな？</JapaneseText>
       <EnglishText/>
       <Notes>Choice 1</Notes>
@@ -38,6 +42,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>知ってる気がする</JapaneseText>
       <EnglishText/>
       <Notes>Choice 2</Notes>
@@ -45,6 +50,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>では、キャプテンであるボクが
 教えてさしあげましょう！</JapaneseText>
       <EnglishText/>
@@ -54,6 +60,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ワールドマップ上では方向キーで
 バンエルティア号を移動させる事が可能です</JapaneseText>
       <EnglishText/>
@@ -63,6 +70,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>まぁ、舵取りが面倒というのなら
 ＳＴＡＲＴボタンで目的地を選ぶ事も出来ます</JapaneseText>
       <EnglishText/>
@@ -72,6 +80,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>船の中へ戻りたいのなら、
 ×ボタンを押すといいでしょう</JapaneseText>
       <EnglishText/>
@@ -81,6 +90,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>どうです、簡単でしょう？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -89,6 +99,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そうですか、航海をした経験は
 あったのかもしれませんね</JapaneseText>
       <EnglishText/>
@@ -98,6 +109,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>では、さっそく目的地へ向けて
 進行ですよ！</JapaneseText>
       <EnglishText/>

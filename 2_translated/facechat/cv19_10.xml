@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リフィル</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>キール</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ハロルド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -26,6 +29,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>キール。
 論文の方は進んでいて？</JapaneseText>
       <EnglishText/>
@@ -35,6 +39,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おかげさまでね</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -43,6 +48,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>天体の動きとマナの関連性を
 観測者の与える影響の観点から
 まとめてみたんだ</JapaneseText>
@@ -53,6 +59,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>船上からの観測のみで
 成り立つのかしら？</JapaneseText>
       <EnglishText/>
@@ -62,6 +69,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ぼくの過去の観測記録を元にしている。
 「観測者の与える影響」によるデータの
 誤差は、ちゃんと想定内さ</JapaneseText>
@@ -72,6 +80,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あら、カオス理論的な切り口ね。
 よかったらアドバイスして
 差し上げましょうか？</JapaneseText>
@@ -82,6 +91,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いや、今回は与えられた影響そのものの
 考察に留めている</JapaneseText>
       <EnglishText/>
@@ -91,6 +101,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>今回はカオス理論的要素には
 論述しないつもりだ。
 論旨がブレかねないからな</JapaneseText>
@@ -101,6 +112,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>でも添削は他人に任せたほうが
 いいわよ？
 よかったら私がやるけど</JapaneseText>
@@ -111,6 +123,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ジェイドやハロルドよりは
 適任だな</JapaneseText>
       <EnglishText/>
@@ -120,6 +133,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>まだまとめている最中だから
 今度お願いしよう</JapaneseText>
       <EnglishText/>
@@ -129,6 +143,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>えー？　私がやってあげるのに。
 適当に…</JapaneseText>
       <EnglishText/>
@@ -138,6 +153,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>お断りだ！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -146,6 +162,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>初めは頼りない子だったけど、
 ちゃんと成長するものね</JapaneseText>
       <EnglishText/>
@@ -155,6 +172,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>人間的には、ね。
 学識は年齢のわりには
 ちゃんとしてたと思うけど</JapaneseText>
@@ -165,6 +183,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…たまにはまともな事
 言うのね</JapaneseText>
       <EnglishText/>
@@ -174,6 +193,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>たまにはね〜♪</JapaneseText>
       <EnglishText/>
       <Notes/>

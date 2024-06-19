@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アーチェ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>セルシウス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ロイド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -23,6 +26,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クラトス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -30,6 +34,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>コレット</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -37,6 +42,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ジェイド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -44,6 +50,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ガイ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -51,6 +58,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ユージーン</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -58,6 +66,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クレス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -65,6 +74,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>チェスター</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -72,6 +82,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>スタン</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -79,6 +90,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ルーティ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -86,6 +98,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>パニール</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -93,6 +106,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -100,6 +114,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ニアタ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -110,6 +125,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ねぇ、この光って何？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -118,6 +134,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>これはマナだ…。
 世界にこんなにもマナがあふれた事は
 かつてなかった</JapaneseText>
@@ -128,6 +145,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>負が…、
 ゲーデが生まれ変わったのか…</JapaneseText>
       <EnglishText/>
@@ -137,6 +155,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>負にまみれていたこの身が
 清められていくかのようだ…</JapaneseText>
       <EnglishText/>
@@ -146,6 +165,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>体が…、軽くなる</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -154,6 +174,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>精霊の世界へ戻れる…！！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -162,6 +183,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>○○は…？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -170,6 +192,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>世界樹へ帰ったのだろう。
 ディセンダーは世界を負から救い、
 その役目を終えたのだからな</JapaneseText>
@@ -180,6 +203,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>もう、会えないの？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -188,6 +212,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それは奴自身が決める…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -196,6 +221,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…我々も、
 グランマニエに戻りましょうか</JapaneseText>
       <EnglishText/>
@@ -205,6 +231,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>我が国の問題は、まだ
 めでたしめでたしとは
 いきませんから</JapaneseText>
@@ -215,6 +242,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>皇帝陛下が
 お待ちかねみたいだしな</JapaneseText>
       <EnglishText/>
@@ -224,6 +252,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>少々、名残惜しいですねぇ。
 この船…。
 まあ、でもいいでしょう</JapaneseText>
@@ -234,6 +263,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>さて、と。
 みなさんはどうするんですか？</JapaneseText>
       <EnglishText/>
@@ -243,6 +273,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>我々は故郷に戻って、村を建て直す</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -251,6 +282,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>僕達も、ロゼット村へ戻るよ。
 やっぱり故郷の事は、放っておけない</JapaneseText>
       <EnglishText/>
@@ -260,6 +292,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そうさ。
 あそこでまた家族と共に暮らすんだ。
 なんたって、故郷だからな</JapaneseText>
@@ -270,6 +303,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ほとんど、いなくなっちゃうんだね</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -278,6 +312,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そんなもんでしょ？
 環境って変わっていくもんなんだから。
 自分自身も含めて、ね</JapaneseText>
@@ -288,6 +323,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>私も、いずれここを出るわ。
 …ま、その時まで
 しっかり稼がないとね</JapaneseText>
@@ -298,6 +334,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>うん、その時は俺も行くよ！
 よぉっし、頑張ろう！</JapaneseText>
       <EnglishText/>
@@ -307,6 +344,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>やっと、ことが落ち着いたわね…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -315,6 +353,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…ん</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -323,6 +362,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノ、あなたの故郷を教えるわ。
 お父さんとお母さんのお墓に
 花を届けてちょうだい</JapaneseText>
@@ -333,6 +373,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…うん、私もそうしたいと思ってた</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -341,6 +382,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ニアタはどうするの？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -349,6 +391,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>この世界を飛び出すエネルギーが
 用意出来るまではいるよ</JapaneseText>
       <EnglishText/>
@@ -358,6 +401,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いなくなっちゃうの？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -366,6 +410,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いずれな、すぐではないさ。
 まだ見ぬ世界にいるおまえ達に
 会わねばならん</JapaneseText>
@@ -376,6 +421,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>我々の器が持ちこたえ続ける限り、
 それらの世界に力を貸して生きていこうと
 思っている</JapaneseText>
@@ -386,6 +432,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>○○は、
 帰ってくるよね？</JapaneseText>
       <EnglishText/>
@@ -395,6 +442,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ディセンダーは、しばらく休んだら
 きっとまた戻る</JapaneseText>
       <EnglishText/>
@@ -404,6 +452,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>心配しなくていい。
 少し眠らせてあげなさい。
 信じなさい、会えるその日を</JapaneseText>
@@ -414,6 +463,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>うん、信じるよ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -422,6 +472,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>信じてる…</JapaneseText>
       <EnglishText/>
       <Notes/>

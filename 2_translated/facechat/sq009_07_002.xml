@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -12,6 +13,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ここの１層目で採れる、
 「小麦」を２つ手に入れるのが
 今回の仕事よ！</JapaneseText>
@@ -22,6 +24,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>「銅の草刈鎌」は、持ってたよね？
 「採取ポイント」で、それが必要になるの</JapaneseText>
       <EnglishText/>
@@ -31,6 +34,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ここの「採取ポイント」は、
 赤と黄の水玉模様の「大きなキノコ」だから、
 探すのは簡単なんだけど</JapaneseText>
@@ -41,6 +45,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>画面左上に「マップ」が表示されているでしょ。
 採取や採掘が出来る場所には、
 マップの上に「黄色い印」が付いてるの</JapaneseText>
@@ -51,6 +56,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>採取や採掘が出来る場所は、
 この「黄色い印」の所へ行けば、
 もっと楽に見つかるわ</JapaneseText>
@@ -61,6 +67,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>とりあえず、
 「採取ポイント」を探しましょ！</JapaneseText>
       <EnglishText/>

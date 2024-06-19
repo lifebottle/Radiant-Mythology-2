@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ヴェイグ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>セルシウス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -19,6 +21,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>魔神剣の使い手は皆、
 ここへ来たのか？</JapaneseText>
       <EnglishText/>
@@ -28,6 +31,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いや、そうとは限らんな。
 ほとんどは、相伝されたか、
 剣技を磨く中で自然に体得したのだろう</JapaneseText>
@@ -38,6 +42,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>魔神剣を習得している者は、
 魔神の魂に触れ、その力を内包している</JapaneseText>
       <EnglishText/>
@@ -47,6 +52,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そして、その体得者に同調する事で
 他者も魔神の魂に触れる事が出来る</JapaneseText>
       <EnglishText/>
@@ -56,6 +62,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>この世界中にも、魔神の魂の
 「波」がある</JapaneseText>
       <EnglishText/>
@@ -65,6 +72,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>自然に体得した者は、その波と
 感応したのだろう</JapaneseText>
       <EnglishText/>
@@ -74,6 +82,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おまえは触れなければならぬ。
 魔神の魂に…</JapaneseText>
       <EnglishText/>

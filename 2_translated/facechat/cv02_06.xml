@@ -2,173 +2,197 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ナナリー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Nanaly</EnglishText>
       <Notes/>
       <Id>21</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カイル</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kyle</EnglishText>
       <Notes/>
       <Id>19</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リオン</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Leon</EnglishText>
       <Notes/>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>何を拾って来たんだい？
 カイル</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>What did you pick up, Kyle?</EnglishText>
+      <Notes>6 - Revised by Murilo - 04/06/2024</Notes>
       <SpeakerId>21</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…多分、なんかの動物の頭蓋骨だね。
 随分大きいや。
 頭に被れそうだもん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...I think it's probably the skull of some
+animal. It's quite large. It looks like
+it could fit over your head.</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そんなものどうだっていいだろう。
 とっとと捨てて来い</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Who cares about that kind of thing?
+Go throw it away already.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>待ってよ、リオン。
 …これ、リオンに似合うんじゃないかな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wait, Leon... Leon, this might suit you.</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>な…、何を馬鹿な事を…</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wh... What nonsense...</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あはは！　そりゃいいねぇ。
 ねえ、ちょっと被ってごらんよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Haha! That sounds great. Hey, try
+putting it on for a bit!</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>お断りだ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I refuse!</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ねえ、いいじゃないか。
 ちょっとだけだからさぁ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey, why not? It's just for a little while.</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>断ると言っただろう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I said no.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ほら！　ちょっと持ってみてよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Come on! Just try holding it for a bit.</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>馬鹿馬鹿しい。
 いい加減にしろ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ridiculous. Cut it out already.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>付き合い悪いねぇ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You're no fun.</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>12</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>13</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>悪くない…かもな…</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Not bad...perhaps...</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>14</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あれ？　リオン。
 どうしたの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Huh? Leon. What's wrong?</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>15</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>な、なんでもないっ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>N-Nothing at all!</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>16</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

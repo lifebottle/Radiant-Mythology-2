@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>————</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -12,6 +13,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>『緑の宝箱』に近づきました。
 『緑の宝箱』について説明を聞きますか？</JapaneseText>
       <EnglishText/>
@@ -21,6 +23,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>聞く</JapaneseText>
       <EnglishText/>
       <Notes>Choice 1</Notes>
@@ -28,6 +31,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>聞かない</JapaneseText>
       <EnglishText/>
       <Notes>Choice 2</Notes>
@@ -35,6 +39,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>『緑の宝箱』は、普通の宝箱と違い
 特別な仕掛けがしてあります</JapaneseText>
       <EnglishText/>
@@ -44,6 +49,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>この宝箱を開けるには、『石版の欠片』という
 絵のついた欠片をそろえる事が必要です</JapaneseText>
       <EnglishText/>

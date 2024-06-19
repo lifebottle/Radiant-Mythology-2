@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>チャット</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>&lt;Name:82&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>セネル</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -26,6 +29,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>○○さん、いいところに！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -34,6 +38,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クロエさんとアニスさんとファラさんが
 いないんです</JapaneseText>
       <EnglishText/>
@@ -43,6 +48,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>無断で船を下りたようなんですが、
 あなたのその顔だと、
 やっぱり、心当たりはないみたいですね</JapaneseText>
@@ -53,6 +59,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ああ、もう！　こんな時に！！
 船長に無断で船から離れるなんて！
 これはもう反逆罪ですよ！</JapaneseText>
@@ -63,6 +70,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>本気？</JapaneseText>
       <EnglishText/>
       <Notes>Choice 1</Notes>
@@ -70,6 +78,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>バカな事を！</JapaneseText>
       <EnglishText/>
       <Notes>Choice 2</Notes>
@@ -77,6 +86,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…もちろん本気じゃありませんよ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -85,6 +95,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>苦楽を共にした子分がただの一度の
 気まぐれで船を出たからって、
 板を渡らせるような事をするもんですか</JapaneseText>
@@ -95,6 +106,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ひいおじいさんなら、
 そういうことはしないでしょうからね</JapaneseText>
       <EnglishText/>
@@ -104,6 +116,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>お、怒らないで下さい！</JapaneseText>
       <EnglishText/>
       <Notes>Previous Choice 2 leads here</Notes>
@@ -112,6 +125,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>海賊頭目への命令違反は、
 板を渡らせて海へ落っことす
 しきたりなんですから…</JapaneseText>
@@ -122,6 +136,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -130,6 +145,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ボクだって苦楽を共にした子分を
 処刑したくなんてありません</JapaneseText>
       <EnglishText/>
@@ -139,6 +155,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>今の発言は…、その…、
 キャプテンとしての見栄みたいなものです。
 本気なんかじゃありませんてば…</JapaneseText>
@@ -149,6 +166,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>とにかく、一人ならともかく、
 三人同時というのは、
 ただ事じゃありません</JapaneseText>
@@ -159,6 +177,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>これはボクのキャプテンとしての
 器量を試されているのかもしれない…</JapaneseText>
       <EnglishText/>
@@ -168,6 +187,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クロエ…。
 まさか、あいつ…</JapaneseText>
       <EnglishText/>

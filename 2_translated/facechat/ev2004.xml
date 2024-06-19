@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>&lt;Name:39&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -12,6 +13,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ディセンダー…、また会ったな。
 俺を世界樹へ流す、だと？
 そんな事、させるかよ…</JapaneseText>
@@ -22,6 +24,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>俺を生み出したのはおまえ達だ。
 生みっぱなしで、後は捨て去って、
 無に帰れだと？</JapaneseText>
@@ -32,6 +35,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>まっぴらごめんだ。
 おまえ達は死ぬんだよ。
 世界樹も、この世界も、俺と共にな</JapaneseText>
@@ -42,6 +46,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>俺が憎いか…、ディセンダー</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -50,6 +55,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なぜだ！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -58,6 +64,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なぜ、武器を取らない！
 なぜそんな目で見る！</JapaneseText>
       <EnglishText/>
@@ -67,6 +74,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>くッ…！
 ならば、こっちから行くまでだ</JapaneseText>
       <EnglishText/>
@@ -76,6 +84,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>コイツが何かわかるか？
 おまえ達だったものだよ</JapaneseText>
       <EnglishText/>
@@ -85,6 +94,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おまえ達の負が、
 姿を持ってこうなったんだよ</JapaneseText>
       <EnglishText/>
@@ -94,6 +104,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>コイツはおまえ達を憎んでいる。
 まっとうな生命として生きる事も許さず、
 追い払おうとするおまえ達に対してな</JapaneseText>
@@ -104,6 +115,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ただ、恨みのみを原動力として
 動いているんだ</JapaneseText>
       <EnglishText/>
@@ -113,6 +125,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>みにくいか？　おぞましいか？
 それがおまえ達の生んだ負だ</JapaneseText>
       <EnglishText/>
@@ -122,6 +135,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>さて、他にもお返しをして
 こないとな…。
 もっと、こいつらをばらまいてやるさ</JapaneseText>
@@ -132,6 +146,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おまえ達も苦しめよ…。
 俺と同じだけ、苦しめばいい！！</JapaneseText>
       <EnglishText/>
@@ -141,6 +156,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>自分達の負に食い殺されてしまえ！
 ハハハハハ！！</JapaneseText>
       <EnglishText/>
@@ -150,6 +166,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カメラ移動中</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -158,6 +175,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>移動終わり</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -169,6 +187,7 @@
   <Strings>
     <Section>Unreferenced</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>Bip01 R Hand</JapaneseText>
       <EnglishText/>
       <Notes/>

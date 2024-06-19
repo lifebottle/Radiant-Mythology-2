@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クレス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ミント</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -19,6 +21,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>渡す</JapaneseText>
       <EnglishText/>
       <Notes>Choice 1</Notes>
@@ -26,6 +29,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>保留にする</JapaneseText>
       <EnglishText/>
       <Notes>Choice 2</Notes>
@@ -33,6 +37,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>えっ、薬草をくれるって？</JapaneseText>
       <EnglishText/>
       <Notes>Previous Choice 2 leads here</Notes>
@@ -41,6 +46,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>助かります、○○さん</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -49,6 +55,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>内戦や紛争で、難民になった人達の為に、
 私とクレスさんで救援物資として薬を
 送ろうと思ったんです</JapaneseText>
@@ -59,6 +66,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>これは、その薬の材料に
 必要だったんです</JapaneseText>
       <EnglishText/>
@@ -68,6 +76,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ありがとう。
 大事に使わせてもらうよ</JapaneseText>
       <EnglishText/>

@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アーチェ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ジーニアス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カイウス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -23,6 +26,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ユージーン</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -33,6 +37,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あんたひょっとして、
 エルフ…
 （の半分？）</JapaneseText>
@@ -43,6 +48,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>え？　なんでわかったの？
 ひょっとしてアーチェも…</JapaneseText>
       <EnglishText/>
@@ -52,6 +58,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>このギルドの人達は、種族とか
 何も気にしないからいいんだけどさ</JapaneseText>
       <EnglishText/>
@@ -61,6 +68,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>んー、お互い「人間」じゃないって事で、
 色々苦労させられたわよねって</JapaneseText>
       <EnglishText/>
@@ -70,6 +78,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…ああ、まったくだよ。
 人間っていざって時に心狭いんだよな</JapaneseText>
       <EnglishText/>
@@ -79,6 +88,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そんな言い方はよせ。
 異種族同士では一言で語れぬほど
 様々な事情を抱えているものだ</JapaneseText>
@@ -89,6 +99,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ユージーンはそういう差別された事が
 あんまりないんじゃないの？</JapaneseText>
       <EnglishText/>
@@ -98,6 +109,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>馬鹿を言うな。
 ガジュマが軍で出世するのに
 どれだけ苦労させられたか</JapaneseText>
@@ -108,6 +120,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>幸い、領主が聡明だった為に
 親衛隊長に上り詰める事が出来たがな</JapaneseText>
       <EnglishText/>
@@ -117,6 +130,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>うぇえ〜、やっぱそういうの
 あるんだぁ…</JapaneseText>
       <EnglishText/>
@@ -126,6 +140,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あたし軍に入るのやめよう…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -134,6 +149,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>入る気なんて初めからないだろ？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -142,6 +158,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>じゃ、ボクも大きな学校に行ったら
 嫌がらせを受けたりするのかな…</JapaneseText>
       <EnglishText/>
@@ -151,6 +168,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>気が重いや…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -159,6 +177,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>だ〜いじょうぶだって！
 ジーニアスなら平気だよ</JapaneseText>
       <EnglishText/>
@@ -168,6 +187,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ホント？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -176,6 +196,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>だって魔法で火ぃつけられるじゃん！
 そんなヤバい人を、誰も敵に
 回したくないもんね〜</JapaneseText>
@@ -186,6 +207,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…それ、全然大丈夫じゃないよな</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -194,6 +216,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>偏見がさらに強まるような行為は
 控えてくれよ、ジーニアス</JapaneseText>
       <EnglishText/>
@@ -203,6 +226,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>こんなアホなアドバイスを
 受け入れたりしないよ！</JapaneseText>
       <EnglishText/>
@@ -212,6 +236,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ちょっと！
 誰がアホよ！</JapaneseText>
       <EnglishText/>
@@ -221,6 +246,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -229,6 +255,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -237,6 +264,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -245,6 +273,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>うわ〜〜〜〜ん！
 覚えてろ〜！！</JapaneseText>
       <EnglishText/>

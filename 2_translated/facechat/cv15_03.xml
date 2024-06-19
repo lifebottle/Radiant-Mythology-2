@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ウッドロウ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>キール</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アニー</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -26,6 +29,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>キール君のチョーカーは…、
 おしゃれの為なのかな？</JapaneseText>
       <EnglishText/>
@@ -35,6 +39,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>違うよ。
 この白いチョーカーは
 学者を表す身分証だ</JapaneseText>
@@ -45,6 +50,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リッドの寄木のチョーカーは一般市民男子。
 ファラの赤いリボンは一般市民女子の印だな</JapaneseText>
       <EnglishText/>
@@ -54,6 +60,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>身分制度が厳しい地方だったのですか？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -62,6 +69,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>まあ、厳しいというほどでも
 なかったさ</JapaneseText>
       <EnglishText/>
@@ -71,6 +79,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>キール君自身はどう思うかね？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -79,6 +88,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>どうとも思わない。
 区別は必要だろ？</JapaneseText>
       <EnglishText/>
@@ -88,6 +98,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そうですか…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -96,6 +107,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>どうかしたかね？　アニー君</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -104,6 +116,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いえ…、わたしの住んでいた地方には、
 ユージーンのようなガジュマという
 異種族がいます</JapaneseText>
@@ -114,6 +127,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>身分や階級などの差はありませんが、
 ですが…、まあ、その、
 色々ありまして…</JapaneseText>
@@ -124,6 +138,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…ぼくは区別は必要だと思うが、
 差別なんて容認してないぞ。
 誤解するなよ</JapaneseText>
@@ -134,6 +149,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ええ、わかっています。
 気にしないで下さい</JapaneseText>
       <EnglishText/>
@@ -143,6 +159,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…身分か</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -151,6 +168,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>社会を構成する為には
 必要な処置だと考えられるが、
 表面化しない問題が多く存在する</JapaneseText>
@@ -161,6 +179,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ウッドロウは政治に興味あるのか？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -169,6 +188,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>わたし、ウッドロウさんでしたら、
 立派な指導者になれると思うんです</JapaneseText>
       <EnglishText/>
@@ -178,6 +198,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>是非、どこかに仕官して、
 偉くなって下さいね</JapaneseText>
       <EnglishText/>
@@ -187,6 +208,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そうだな…、
 立派な指導者か。
 うむ、目指してみよう</JapaneseText>
@@ -197,6 +219,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ああ、あんたならお似合いだ</JapaneseText>
       <EnglishText/>
       <Notes/>

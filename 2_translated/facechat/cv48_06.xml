@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アニー</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>パニール</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -19,6 +21,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あらっ、ここにある本…。
 「黄色いハートの花園で」だわ。
 こっちは「ビューティフルアンバサダー」</JapaneseText>
@@ -29,6 +32,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>これ、ずっと読みたかった本…。
 誰のかしら…</JapaneseText>
       <EnglishText/>
@@ -38,6 +42,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あらま、散らかしっぱなしで
 ごめんなさいね〜。
 すぐ片付けるわ</JapaneseText>
@@ -48,6 +53,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>これはパニールさんの本ですか？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -56,6 +62,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>も〜、私みたいな
 オバサンの楽しみっていったら…。
 お恥ずかしいわ〜、おほほ…</JapaneseText>
@@ -66,6 +73,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>わたしも小説を読むのが好きなんです。
 特に恋愛小説なんかが</JapaneseText>
       <EnglishText/>
@@ -75,6 +83,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あらー、そ〜なの。
 本の中なら素敵な殿方とロマンス気分も
 許されるものね〜￥</JapaneseText>
@@ -85,6 +94,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ふー、私にも小説みたいに
 白馬の王子様が現れないかしらねェ</JapaneseText>
       <EnglishText/>
@@ -94,6 +104,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>この本、借りてもいいですか？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -102,6 +113,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>どうぞどうぞ〜。
 最近ヒットなの、このお話</JapaneseText>
       <EnglishText/>
@@ -111,6 +123,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>私、読んでて
 涙が出てきて、出てきて…</JapaneseText>
       <EnglishText/>
@@ -120,6 +133,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ありがとうございます。
 フフ…、今夜寝る前に読もうかしら</JapaneseText>
       <EnglishText/>
@@ -129,6 +143,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>まだ、色んな本があるわよ〜。
 おやつの時間になったら、
 持ってきてあげるわね</JapaneseText>
@@ -139,6 +154,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>わあ、楽しみです。
 それじゃ、よろしくお願いします</JapaneseText>
       <EnglishText/>

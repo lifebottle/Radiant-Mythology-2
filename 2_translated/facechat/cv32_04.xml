@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ミント</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クレア</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ファラ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -26,6 +29,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クレアさん、ヴェイグさんとの
 間柄はいかがですか？</JapaneseText>
       <EnglishText/>
@@ -35,6 +39,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いかがもなにも…、普段通りよ？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -43,6 +48,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>普段通り？
 そんなのつまんないよ</JapaneseText>
       <EnglishText/>
@@ -52,6 +58,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ヴェイグさんって、きっと自分から
 積極的に動かないタイプなんでしょうね。
 これはクレアさんの方からアプローチしないと</JapaneseText>
@@ -62,6 +69,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そうだよ！　イケるイケる！
 どんどんいっちゃえ</JapaneseText>
       <EnglishText/>
@@ -71,6 +79,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…そうね、それもいいわね。
 でも、お互いが自然体で、それでそのまま
 行き着く所に行ければいいと思ってるのだけど</JapaneseText>
@@ -81,6 +90,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そんなの、
 何もしてないのと同じじゃない</JapaneseText>
       <EnglishText/>
@@ -90,6 +100,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いいんですか？　別の女性が
 ヴェイグさんを見初めてしまう可能性も
 低くはないと思いますが</JapaneseText>
@@ -100,6 +111,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あら、
 それはそれでいいことなんじゃないかしら？</JapaneseText>
       <EnglishText/>
@@ -109,6 +121,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>うーん…、一押しすれば
 上手く事が運ぶと思ったんだけどなぁ</JapaneseText>
       <EnglishText/>
@@ -118,6 +131,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>仕方ないですよ。
 恋愛なんて、やっぱり当事者同士の
 問題ですもの</JapaneseText>
@@ -128,6 +142,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…このやるせない気持ち、
 どこにぶつけたらいいの？</JapaneseText>
       <EnglishText/>
@@ -137,6 +152,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あ、じゃあ、ミントとクレスは？
 ねえ、クレスとどうなの？</JapaneseText>
       <EnglishText/>
@@ -146,6 +162,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>え、ええ、普段通りです……</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -154,6 +171,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そんなのクレアと同じじゃない…</JapaneseText>
       <EnglishText/>
       <Notes/>

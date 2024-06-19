@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>セルシウス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>パニール</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ジーニアス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -23,6 +26,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ルカ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -30,6 +34,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>プレセア</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -40,6 +45,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それにしても、食事などという経験を
 する事が出来るとは</JapaneseText>
       <EnglishText/>
@@ -49,6 +55,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>普段は何を召し上がって
 いらしたんですか？</JapaneseText>
       <EnglishText/>
@@ -58,6 +65,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>普段は純粋なマナと、
 人々の感謝や祈りを糧にしている</JapaneseText>
       <EnglishText/>
@@ -67,6 +75,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>正しき心は世界樹の糧にもなり、
 マナとなるからな</JapaneseText>
       <EnglishText/>
@@ -76,6 +85,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あらまー、マナや感謝って
 どんな味なのかしら</JapaneseText>
       <EnglishText/>
@@ -85,6 +95,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>味、というものはない。
 私はここで食事をして
 味と言うものを初めて知った</JapaneseText>
@@ -95,6 +106,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あのゲーデって奴は、何を食べるの？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -103,6 +115,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ゲーデは、マナを嫌うがヒトの想念を食う。
 怒り、不安、焦燥、妬み、憎しみなどだな</JapaneseText>
       <EnglishText/>
@@ -112,6 +125,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ゲーデが負を食べ尽くせば
 いいんじゃないの？</JapaneseText>
       <EnglishText/>
@@ -121,6 +135,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>放っておいたら、
 そのうち負がなくなったりして</JapaneseText>
       <EnglishText/>
@@ -130,6 +145,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ヤツが負を吸収し、力をつければ、
 魔物を生み出し、災害を起こし、
 病を流行らせ、さらに世界を襲うだろう</JapaneseText>
@@ -140,6 +156,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>人々は苦しみにあえぎ、
 そしてまた負の連鎖が続く</JapaneseText>
       <EnglishText/>
@@ -149,6 +166,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>食べ尽くされる事はないだろう。
 それこそ、負を生み出す人々が
 絶滅でもしなければ</JapaneseText>
@@ -159,6 +177,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そっか、だめか</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -167,6 +186,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>でも、どうにかならないものかなぁ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -175,6 +195,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>世界樹が傷つくより前にも、
 流しきれないぐらい負が
 溜まってたんでしょ？</JapaneseText>
@@ -185,6 +206,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>特別な事じゃないのに、それで
 世界がおかしくなるなんて、絶対変だし</JapaneseText>
       <EnglishText/>
@@ -194,6 +216,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>昔は…、違った。
 最近は、人間の感謝の念が
 少なくなったように思う</JapaneseText>
@@ -204,6 +227,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>人が物に恵まれ過ぎたせいかな</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -212,6 +236,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ごちそうさまでした。
 ありがとうございます</JapaneseText>
       <EnglishText/>
@@ -221,6 +246,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>たくさん食べてくれて嬉しいわ。
 ありがとう</JapaneseText>
       <EnglishText/>
@@ -230,6 +256,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ほら、プレセアさんのように
 全てのヒトが、感謝や祈り、
 喜びを忘れたわけではないわ</JapaneseText>
@@ -240,6 +267,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>希望を持ちましょう。
 セルシウスさん</JapaneseText>
       <EnglishText/>
@@ -249,6 +277,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そうだな…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -260,6 +289,7 @@
   <Strings>
     <Section>Unreferenced</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>telop1</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -267,6 +297,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>telop1.ppt</JapaneseText>
       <EnglishText/>
       <Notes/>

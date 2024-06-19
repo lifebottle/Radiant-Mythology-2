@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リッド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ファラ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -19,6 +21,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ああ、採って来たタマゴで
 作ったオムレツ？
 今までの中で最高の出来だったぜ</JapaneseText>
@@ -29,6 +32,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あ、でも…。
 タマゴのせいじゃなかったみたいなんだ</JapaneseText>
       <EnglishText/>
@@ -38,6 +42,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>この船の、コンロの火力が強すぎて、
 それで上手く出来なかったみたいなの</JapaneseText>
       <EnglishText/>
@@ -47,6 +52,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>パニールに火を調節してもらったら
 失敗なく作れて…。
 ごめんね、付き合ってもらったのに</JapaneseText>
@@ -57,6 +63,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いいじゃねぇか。
 新しいタマゴだったんだから
 なおさらだよ</JapaneseText>
@@ -67,6 +74,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>今まで食った中で一番だったしさ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -75,6 +83,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>うん、そうだね！
 よし、イケるイケる！</JapaneseText>
       <EnglishText/>
@@ -84,6 +93,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>じゃあ、もっとオムレツを
 極めてみようかな</JapaneseText>
       <EnglishText/>
@@ -93,6 +103,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そりゃいいや。
 また、タマゴを集めに行くか？</JapaneseText>
       <EnglishText/>
@@ -102,6 +113,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ううん、今度必要なのは違うモノ。
 でも、探しに行かなきゃダメかな</JapaneseText>
       <EnglishText/>
@@ -111,6 +123,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>行こうぜ。
 だって、あれより美味いんだろ？
 へへ、オレ楽しみになってきた！</JapaneseText>

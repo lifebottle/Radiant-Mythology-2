@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>スパーダ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ルーティ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ルカ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -23,6 +26,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アーチェ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -33,6 +37,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>よォ、機嫌良さげじゃねェ？
 なんか遺跡で見つけたってのか</JapaneseText>
       <EnglishText/>
@@ -42,6 +47,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あはは、やっぱわかっちゃう？
 ほら、コレ見て。
 海底遺跡で見つけたの</JapaneseText>
@@ -52,6 +58,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…なに？　これ。
 価値がある物には見えないけど…</JapaneseText>
       <EnglishText/>
@@ -61,6 +68,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>うす汚れた石像にしか見えねェな</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -69,6 +77,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ありゃあ、節穴ね、あんたの目って。
 ほら、よく見て！</JapaneseText>
       <EnglishText/>
@@ -78,6 +87,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>うわっ！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -86,6 +96,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>馬鹿女！　放るヤツがあるか！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -94,6 +105,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あ〜あ、壊れちゃった…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -102,6 +114,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あらまぁ、大変な事してくれたわねぇ。
 弁償してくれる￥</JapaneseText>
       <EnglishText/>
@@ -111,6 +124,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>これは世界樹を神格化した
 古代の石像なのよ？
 霊験あらたかな逸品だったんだから</JapaneseText>
@@ -121,6 +135,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…いくらだよ？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -129,6 +144,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そ〜ねぇ、１万ガルドは要求したいけど、
 ５千にまけとくわ</JapaneseText>
       <EnglishText/>
@@ -138,6 +154,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>うわぁ、高っ…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -146,6 +163,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ふ〜ん、霊験あらたか、ねぇ。
 コレ、古代神の石像なんかじゃないじゃん。
 ただの石像っぽい、石だね</JapaneseText>
@@ -156,6 +174,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>さ〜んきゅ、アーチェ。
 なぁるほどねえ、オレから金を
 巻き上げようとしたってのか</JapaneseText>
@@ -166,6 +185,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>さては、オレの実家が金持ちだって
 誰かに聞いたんだろ？</JapaneseText>
       <EnglishText/>
@@ -175,6 +195,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あは、あはははは…、誤解だわよ？
 じゃ、じゃあ、弁償額は
 ５０ガルドにしとくわ</JapaneseText>
@@ -185,6 +206,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>失せろ！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -193,6 +215,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…この期に及んで、まだ５０ガルドを
 せしめようとしてたよ。
 たくましいなあ</JapaneseText>
@@ -203,6 +226,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ありゃ、意地汚いってんだよ。
 とにかくアーチェ、感謝してんぜ。
 ありがとよ</JapaneseText>
@@ -213,6 +237,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>い〜ってばぁ。
 だって、スパーダんちが貴族だって
 言いまくったの、あたしだし</JapaneseText>
@@ -223,6 +248,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………</JapaneseText>
       <EnglishText/>
       <Notes/>

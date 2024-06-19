@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ハロルド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ジーニアス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リフィル</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -26,6 +29,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ただいま〜</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -34,6 +38,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あ、ハロルド！
 何かわかった事、あった？</JapaneseText>
       <EnglishText/>
@@ -43,6 +48,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>んー、世界樹の根から
 まだわずかに噴出してた。
 あれは「負」ね</JapaneseText>
@@ -53,6 +59,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あの時、負の測定機のメーターが
 大きく反応したのは、別に
 故障したわけじゃなかったんだわ</JapaneseText>
@@ -63,6 +70,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>「負」ですって？
 なぜ、マナを生み出す世界樹から
 負が噴出されているの？</JapaneseText>
@@ -73,6 +81,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>さぁ？
 それはこれから調べないとね</JapaneseText>
       <EnglishText/>
@@ -82,6 +91,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>で、問題なのは、傷ついた根の部分が
 どんどん弱っていってるって事。
 回復は難しそうね</JapaneseText>
@@ -92,6 +102,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>つまりそれって…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -100,6 +111,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>当たり前だけど、マナの生産量は更に低下。
 で、これが原因で、このまま世界樹が
 弱ってく一方のまま枯れちゃうとしたら…</JapaneseText>
@@ -110,6 +122,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>みんな、
 生きていけなくなっちゃうって事…</JapaneseText>
       <EnglishText/>
@@ -119,6 +132,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そーゆーコト</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -127,6 +141,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ど、どうすればいいのさ〜！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -138,6 +153,7 @@
   <Strings>
     <Section>Unreferenced</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ハロルドがギルドに戻ってきました。</JapaneseText>
       <EnglishText/>
       <Notes/>

@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ファラ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>&lt;Name:49&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -19,6 +21,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>わたしが、この祠に触らなければ。
 村に災厄が降りかかる事もなく…、
 何も、変わらなかったんだ</JapaneseText>
@@ -29,6 +32,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>何で、封印を解いたんだろう。
 あんなにいつも、ここに近づいちゃ
 いけないって言われてたのに</JapaneseText>
@@ -39,6 +43,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>村に…、たくさんの人に
 被害を与えてしまった</JapaneseText>
       <EnglishText/>
@@ -48,6 +53,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>時間は戻らない。
 どんなにつぐなっても、
 つぐないきれない</JapaneseText>
@@ -58,6 +64,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>わたしは幸せになってはいけない。
 そんな事は許されないんだ</JapaneseText>
       <EnglishText/>
@@ -67,6 +74,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>何かしないと。
 人の為に何かやらないと。
 じゃないと…、怖い…</JapaneseText>
@@ -77,6 +85,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>だから他人の厄介事に関わるのも
 いいって言うの？</JapaneseText>
       <EnglishText/>
@@ -86,6 +95,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>わたしはね、自己満足から人に迷惑かけ、
 後始末するリッドや巻き込まれるキールの
 優しさに甘えているだけだよ</JapaneseText>
@@ -96,6 +106,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ずーっと過去の罪に縛られっぱなし。
 もう疲れたでしょ？
 でも、それももう終わりにしよう</JapaneseText>
@@ -106,6 +117,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ここで死になさい。
 わたしが代わってあげるよ！</JapaneseText>
       <EnglishText/>
@@ -118,6 +130,7 @@
   <Strings>
     <Section>Unreferenced</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>Bip01 Neck</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -125,6 +138,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>Bip01 Pelvis</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -132,6 +146,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>Bip01 Pelvis</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -139,6 +154,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>Bip01 L Foot</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -146,6 +162,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>Bip01 L Foot</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -153,6 +170,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>Bip01 L Foot</JapaneseText>
       <EnglishText/>
       <Notes/>

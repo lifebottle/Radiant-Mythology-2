@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>チャット</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ティア</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>プレセア</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -23,6 +26,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ユージーン</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -33,6 +37,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ちょ、ちょっとなんですか！
 こんな所に無理矢理連れて来て</JapaneseText>
       <EnglishText/>
@@ -42,6 +47,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>船長。
 私はあなたに理解して欲しくて…</JapaneseText>
       <EnglishText/>
@@ -51,6 +57,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いったい何をです？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -59,6 +66,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ふさふさふわふわの
 素晴らしさを…</JapaneseText>
       <EnglishText/>
@@ -68,6 +76,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>嫌ですってば！
 動物は嫌いなんです！</JapaneseText>
       <EnglishText/>
@@ -77,6 +86,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あの毛が与える機械への悪影響とか、
 糞の臭いとか…。
 とにかくボクはお断りです</JapaneseText>
@@ -87,6 +97,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>大丈夫、徐々になれてもらうから…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -95,6 +106,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>船長、目を閉じておいてね。
 プレセア、お願い</JapaneseText>
       <EnglishText/>
@@ -104,6 +116,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>はい………</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -112,6 +125,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ヒッ…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -120,6 +134,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -128,6 +143,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>（あれ？　思ったより気持ち悪くない…。
 　毛足が短いから、大丈夫なのかな。
 　高級なじゅうたんみたいだ…）</JapaneseText>
@@ -138,6 +154,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>（匂いも全然不快じゃないし…、
 　でもこの匂い、嗅いだ事があるような…）</JapaneseText>
       <EnglishText/>
@@ -147,6 +164,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>って、ユージーンじゃないですか！
 あなたまでボクをからかうんですね！
 もう知りません！</JapaneseText>
@@ -157,6 +175,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…俺はここに連れて来られただけなんだが。
 ティア、プレセア…、
 説明してくれ</JapaneseText>
@@ -167,6 +186,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>毛皮…、
 ふかふか〜…</JapaneseText>
       <EnglishText/>
@@ -176,6 +196,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>にくきゅう…、ぷにぷにぷにぷに…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -184,6 +205,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>全く聞いていないな…</JapaneseText>
       <EnglishText/>
       <Notes/>

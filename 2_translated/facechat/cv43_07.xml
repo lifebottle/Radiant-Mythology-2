@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カイウス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ナナリー</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>&lt;Name:82&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -23,6 +26,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>チェスター</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -30,6 +34,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>プレセア</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -40,6 +45,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -48,6 +54,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ハァ…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -56,6 +63,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>どうしたんだい？
 でっかい溜息ついてさぁ</JapaneseText>
       <EnglishText/>
@@ -65,6 +73,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>悩んでるんだ。
 家族の事で</JapaneseText>
       <EnglishText/>
@@ -74,6 +83,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>鼻で笑う</JapaneseText>
       <EnglishText/>
       <Notes>Choice 1</Notes>
@@ -81,6 +91,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ほっとく</JapaneseText>
       <EnglishText/>
       <Notes>Choice 2</Notes>
@@ -88,6 +99,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>笑われると思ったんだよな…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -96,6 +108,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………</JapaneseText>
       <EnglishText/>
       <Notes>Previous Choice 2 leads here</Notes>
@@ -104,6 +117,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>無言かよ…。
 相変わらず冷たいなぁ</JapaneseText>
       <EnglishText/>
@@ -113,6 +127,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>まあ、一応聞くけどさぁ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -121,6 +136,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…親父と思ってたのが、
 どうも血の繋がりは
 なかったらしいんだよな</JapaneseText>
@@ -131,6 +147,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>この前手紙で知らされてさ。
 ちょっとショックだったんだよな</JapaneseText>
       <EnglishText/>
@@ -140,6 +157,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なんだ。
 そんな事なんだね</JapaneseText>
       <EnglishText/>
@@ -149,6 +167,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おい、そんな事ってなんだよ！
 オレは真剣なんだぞ</JapaneseText>
       <EnglishText/>
@@ -158,6 +177,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ああ、ゴメンよ。
 ただねぇ、あたしの目から見て、
 あんたはまだまだ恵まれてる</JapaneseText>
@@ -168,6 +188,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>たとえば、○○。
 記憶喪失だから、
 家族が健在かどうかもわからない</JapaneseText>
@@ -178,6 +199,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -186,6 +208,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それと…、チェスター</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -194,6 +217,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なんだ？
 俺に用事か？</JapaneseText>
       <EnglishText/>
@@ -203,6 +227,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あんた、家族は？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -211,6 +236,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>両親とも、俺がガキの頃に
 死んじまった</JapaneseText>
       <EnglishText/>
@@ -220,6 +246,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>幼い妹抱えて生きていくのは
 大変だったぜ</JapaneseText>
       <EnglishText/>
@@ -229,6 +256,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>じゃあ今は一人なのか…。
 寂しいだろうな</JapaneseText>
       <EnglishText/>
@@ -238,6 +266,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>妹は生きてるよ！
 …何故か妹がよく死んだ事に
 されちまうんだよなぁ</JapaneseText>
@@ -248,6 +277,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>プレセア、あんたは？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -256,6 +286,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…母は知りません。
 父は…、ラルヴァのエネルギーを
 浴びすぎたせいか死んでしまいました</JapaneseText>
@@ -266,6 +297,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…そうか</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -274,6 +306,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…そしてあたしも
 親に死なれてさ</JapaneseText>
       <EnglishText/>
@@ -283,6 +316,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>弟を養ってたんだけどね、
 病気で死んじゃったよ</JapaneseText>
       <EnglishText/>
@@ -292,6 +326,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…そうか。
 みんな色々抱えてんだな</JapaneseText>
       <EnglishText/>
@@ -301,6 +336,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>よし、悩んだりするのは
 もう止めるよ！</JapaneseText>
       <EnglishText/>
@@ -310,6 +346,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ああ、そうしな。
 家族の事なんて悩んでも
 仕方ないもんさ</JapaneseText>
@@ -320,6 +357,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>悩める事、そのものが
 幸せなのかもしれません…</JapaneseText>
       <EnglishText/>
@@ -329,6 +367,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………</JapaneseText>
       <EnglishText/>
       <Notes/>

@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>フィリア</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ユージーン</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>イリア</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -26,6 +29,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あっ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -34,6 +38,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おっと！
 大丈夫か？　フィリア</JapaneseText>
       <EnglishText/>
@@ -43,6 +48,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…は、はい。
 大丈夫ですが、眼鏡のレンズが…</JapaneseText>
       <EnglishText/>
@@ -52,6 +58,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ありゃりゃ、ほんとだ。
 はずれてる。
 どこ落っことしたの？</JapaneseText>
@@ -62,6 +69,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>どこでしょう…？
 そちらにありませんか？
 イリアさん</JapaneseText>
@@ -72,6 +80,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>俺はユージーンだ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -80,6 +89,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>間違えすぎっ！
 なっんであたしと
 身長１９３センチを間違えんのよ！</JapaneseText>
@@ -90,6 +100,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ほら、レンズ！
 足元にあったよ。
 早く、はめちゃいな</JapaneseText>
@@ -100,6 +111,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あら、ありがとうございます</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -108,6 +120,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…ユージーンさん、手がすべすべですね。
 女の子の手みたい…</JapaneseText>
       <EnglishText/>
@@ -117,6 +130,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>だから、なんで間違えんのよ！
 あんたワザとやってんじゃないの？</JapaneseText>
       <EnglishText/>
@@ -126,6 +140,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いえ、そんな事はありませんよ。
 ユージーンさん</JapaneseText>
       <EnglishText/>
@@ -135,6 +150,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なんで声まで混同すんのよ！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -143,6 +159,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…レンズがないだけで、
 大変な事になるようだな。
 大切にしろよ</JapaneseText>
@@ -153,6 +170,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>はい、イリアさん</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -161,6 +179,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>だーかーらっ！
 なっっっんで間違えんのっ！</JapaneseText>
       <EnglishText/>

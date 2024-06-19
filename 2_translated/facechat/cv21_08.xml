@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リッド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カイル</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>すず</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -23,6 +26,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ハロルド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -33,6 +37,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>え〜っと…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -41,6 +46,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>どうしたの、リッドさん。
 何か探してるの？</JapaneseText>
       <EnglishText/>
@@ -50,6 +56,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…って、食べ物探しに来たんだろうけど</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -58,6 +65,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あー、さっきすずが作ってくれた料理、
 …スシってヤツ。
 まだ残ってねーかなぁって思ってさ</JapaneseText>
@@ -68,6 +76,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>よかった。
 残り物をどうしようか
 迷っていたところだったんです</JapaneseText>
@@ -78,6 +87,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>捨てるのも勿体無いですし…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -86,6 +96,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ああ、勿体ねーって。
 そんなのオレに任せてくれりゃいいさ</JapaneseText>
       <EnglishText/>
@@ -95,6 +106,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>じゃあ、いただきま〜す</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -103,6 +115,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>オレにもちょうだい！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -111,6 +124,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カイルさん、
 たくさん食べてらしてたじゃないですか</JapaneseText>
       <EnglishText/>
@@ -120,6 +134,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リッドさんはともかく、
 あなたもそんなにお食べになる方
 だったんですね</JapaneseText>
@@ -130,6 +145,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あ、いや…、そうじゃなくて、
 これすっごい美味しかったからさ、
 孤児院のみんなに持っていってあげたくて…</JapaneseText>
@@ -140,6 +156,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>え？　カ、カイルさん、それはちょっと…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -148,6 +165,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そりゃあ泣かせる話だな…。
 よし、コレも持っていけよ</JapaneseText>
       <EnglishText/>
@@ -157,6 +175,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それ、今食べようとしてたヤツでしょ？
 いいの？</JapaneseText>
       <EnglishText/>
@@ -166,6 +185,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ああ、遠慮すんなよ。
 でもスシってどれぐらい日持ちすんだ？</JapaneseText>
       <EnglishText/>
@@ -175,6 +195,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>一日…です</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -183,6 +204,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>は？　じゃあ、明日にはもうコレ、
 食えないっての？
 やべぇ…、じゃあやっぱ今食っとこうっと</JapaneseText>
@@ -193,6 +215,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…そうかぁ、おみやげに出来ないのかぁ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -201,6 +224,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>すみません…、こういう食べ物なんです</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -209,6 +233,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それじゃ、こういうのはどう？
 私が品種改良したこの魚</JapaneseText>
       <EnglishText/>
@@ -218,6 +243,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>コレを使って作れば…
 そうね、一ヶ月は常温で大丈夫よ</JapaneseText>
       <EnglishText/>
@@ -227,6 +253,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ホント！
 ごめん、すずちゃん、
 これでスシを作ってくれないかな？</JapaneseText>
@@ -237,6 +264,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>じゃ、オレ、入れ物を
 探してくるよ！</JapaneseText>
       <EnglishText/>
@@ -246,6 +274,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -254,6 +283,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あの、ハロルドさん…。
 この魚…というか、そもそもこれ
 魚なんですか？</JapaneseText>
@@ -264,6 +294,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>さあ、わかんないけど、
 なんならインスペクトアイでも
 使ってみる？</JapaneseText>
@@ -274,6 +305,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ってかさぁ、カイルに
 スシの作り方を教えてやれば
 いいんじゃねーの？</JapaneseText>
@@ -284,6 +316,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>モグモグ…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -292,6 +325,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あら、発想の転換ね！
 それが一番コストかかんないわ</JapaneseText>
       <EnglishText/>
@@ -301,6 +335,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あ、すずちゃん。
 その魚、捨てておいて。
 でも海に放流したら駄目よ？</JapaneseText>
@@ -311,6 +346,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>生態系がどう変化するか
 予測もつかないから</JapaneseText>
       <EnglishText/>
@@ -320,6 +356,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そ、そうしておきます…</JapaneseText>
       <EnglishText/>
       <Notes/>

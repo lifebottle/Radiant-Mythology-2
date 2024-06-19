@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カイル</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リアラ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リリス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -26,6 +29,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ねえ、リリス叔母さん</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -34,6 +38,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…カイルっ！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -42,6 +47,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>（あ、しまった…）</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -50,6 +56,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ああああンっ！？
 オバサンですってぇぇぇぇ！
 カイルゥ〜！　あんたねぇ！！</JapaneseText>
@@ -60,6 +67,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>お、抑えて下さい、リリスさん！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -68,6 +76,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ご、ごめんなさい！　リリスさん！
 ちょっと、その…</JapaneseText>
       <EnglishText/>
@@ -77,6 +86,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あ、そうだ、親戚のおばさんの事を
 思い出してて、それで、
 混ざっちゃったんだ</JapaneseText>
@@ -87,6 +97,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あら、そう？
 だったらまあいいけど…。
 でも次言ったら、本気で怒るからね！</JapaneseText>
@@ -97,6 +108,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>もう、気をつけてよ。
 カイル…</JapaneseText>
       <EnglishText/>
@@ -106,6 +118,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>き、気をつけるよ。
 はぁ…、叔母さん、怖ぇえ〜〜〜…</JapaneseText>
       <EnglishText/>
@@ -115,6 +128,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>い、今の聞こえてないよな？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -123,6 +137,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…大丈夫、だと思うけど</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -131,6 +146,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…もう絶対怒らせないようにしよっと</JapaneseText>
       <EnglishText/>
       <Notes/>

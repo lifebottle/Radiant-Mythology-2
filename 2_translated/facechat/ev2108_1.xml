@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ニアタ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -19,6 +21,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ねえ、ニアタ。
 抑圧されていた感情は
 どうすればいいの？</JapaneseText>
@@ -29,6 +32,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>撒いた種は刈られる。
 いつか、必ず向き合わねば
 ならない時が来るだろう</JapaneseText>
@@ -39,6 +43,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>その時、己が受け入れられるかだ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -47,6 +52,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ずっとしこりを残していた「負」も
 受け入れられた喜びを知る事が
 出来たならば、それは豊かさへと変わる</JapaneseText>
@@ -57,6 +63,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>我々の故郷のディセンダーがそうだった。
 そうして越えていったのだ</JapaneseText>
       <EnglishText/>
@@ -66,6 +73,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>私達の生んだ、負と向き合う時が…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -74,6 +82,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノや、よくお聞き。
 この世に「無」というものはない。
 捨て放った感情が「無」に還る事はない</JapaneseText>
@@ -84,6 +93,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>言い方を変えれば「無」とは、
 あらゆるものが潜んで存在している状態だ</JapaneseText>
       <EnglishText/>
@@ -93,6 +103,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>世界樹は、本当に何もない「絶対無」へ
 負を追いやるのではないと思う</JapaneseText>
       <EnglishText/>
@@ -102,6 +113,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>むしろ、新しい可能性へなる為の「無」へ
 還すのだと、我々は思うよ</JapaneseText>
       <EnglishText/>
@@ -114,6 +126,7 @@
   <Strings>
     <Section>Unreferenced</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>telop1</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -121,6 +134,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>evobj_033</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -128,6 +142,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>telop1.ppt</JapaneseText>
       <EnglishText/>
       <Notes/>

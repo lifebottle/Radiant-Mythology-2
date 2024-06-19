@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>マオ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ユージーン</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -19,6 +21,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ここに太陽の門があるんだネ。
 いかにも…って感じだけど
 やっぱここにも精霊がいたのかな</JapaneseText>
@@ -29,6 +32,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>太陽の門とは
 巨大な岩が長い間、風で削られ続け、
 自然にアーチ状となったものを指す</JapaneseText>
@@ -39,6 +43,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そのアーチにちょうど、太陽が
 すっぽり囲まれて見える時、様々な
 精霊と交信出来たとかいう話だ</JapaneseText>
@@ -49,6 +54,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>太古において、穢れ流しは各地で
 行われていた。
 恐らくここもその一つだろう</JapaneseText>
@@ -59,6 +65,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>でも、この荒れ具合を見ると、
 長い間誰も訪れた様子が
 ないみたいだヨ？</JapaneseText>
@@ -69,6 +76,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>今や、どの国も物質至上主義だ。
 精霊の恩恵など、
 必要なくなったのだろうな</JapaneseText>
@@ -79,6 +87,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>多くの人々が精霊と「負」の
 関係を知らんのも事実だ。
 我々は精霊へもっと感謝せねばならなかった</JapaneseText>
@@ -89,6 +98,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いずれ、人々の意識が変わり
 もう一度昔のように精霊を
 尊ぶようになったなら…</JapaneseText>
@@ -99,6 +109,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>精霊はまた、
 姿を見せてくれるかもしれない</JapaneseText>
       <EnglishText/>
@@ -108,6 +119,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>だよネ。
 精霊とボクらは友達になれるんだもん。
 セルシウスみたいに</JapaneseText>
@@ -118,6 +130,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>また、ガレットに戻れる日が来れば
 俺は精霊と人間とを繋ぐあの場所を
 守り続けるつもりだ</JapaneseText>
@@ -128,6 +141,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>うん。
 その時はボクも一緒だヨ♪</JapaneseText>
       <EnglishText/>

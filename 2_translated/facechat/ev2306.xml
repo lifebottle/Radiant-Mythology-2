@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>マオ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ユージーン</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>&lt;Name:83&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -26,6 +29,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ハァ…、ハァ…。
 もー、あいつらしぶといんだから</JapaneseText>
       <EnglishText/>
@@ -35,6 +39,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>マオ、気を抜くな。
 まだ来るぞ！</JapaneseText>
       <EnglishText/>
@@ -44,6 +49,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>えぇ〜。
 ボク、もうヘトヘトなんですけど</JapaneseText>
       <EnglishText/>
@@ -53,6 +59,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>もう…、苦しいのはイヤだ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -61,6 +68,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>憎むのは…苦しい…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -69,6 +77,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>怒りに…蝕まれる…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -77,6 +86,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>助けて…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -85,6 +95,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>奴等は、負か…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -93,6 +104,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…助けて…ディセンダー。
 光を…、光をください…</JapaneseText>
       <EnglishText/>
@@ -102,6 +114,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>還りたい…。
 もう…、こんな思いは…
 持っていたくない…</JapaneseText>
@@ -112,6 +125,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>助けて…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -120,6 +134,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>消えた…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -128,6 +143,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アンテナを置いたせいで、
 異界の匂いをかぎつけたか…？
 負も救われたいのか</JapaneseText>
@@ -138,6 +154,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>助けを求めてたけど…、
 苦しかったのかな？</JapaneseText>
       <EnglishText/>
@@ -147,6 +164,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あのまま、「負」のせいで苦しみながら、
 この場所に長年縛り付けられてたんだと
 思うと…、何かせつないヨ</JapaneseText>
@@ -157,6 +175,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>だからこそ、やらねばならん。
 再び穢れ流しをな</JapaneseText>
       <EnglishText/>
@@ -166,6 +185,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>うん</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -174,6 +194,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…さあ、帰るぞ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -185,6 +206,7 @@
   <Strings>
     <Section>Unreferenced</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>魔物</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -192,6 +214,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>Bip01 L Hand</JapaneseText>
       <EnglishText/>
       <Notes/>

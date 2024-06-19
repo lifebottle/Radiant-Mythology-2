@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ユージーン</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ヴェイグ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クレア</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -23,6 +26,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アニー</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -30,6 +34,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>マオ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -40,6 +45,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…早く、片をつけんとな</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -48,6 +54,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ああ、その通りだ。
 早く村に帰りたいしな</JapaneseText>
       <EnglishText/>
@@ -57,6 +64,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そうだな、それもあるが…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -65,6 +73,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>俺は、女や子どもが戦う様を
 目にしたくないのだ</JapaneseText>
       <EnglishText/>
@@ -74,6 +83,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…お優しいのですね。
 やっぱりマオが心配ですか？</JapaneseText>
       <EnglishText/>
@@ -83,6 +93,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>無論だ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -91,6 +102,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>マオ、アニー、そしておまえらが、
 若者らしい青春を送る事が出来るよう、
 早く事態を落ち着かせねばらん</JapaneseText>
@@ -101,6 +113,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ありがとうございます。
 私達の事まで…</JapaneseText>
       <EnglishText/>
@@ -110,6 +123,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あんたにばかり迷惑をかけてしまうな。
 だが、ユージーンも同様に穏やかな
 日常を送ってもらいたい</JapaneseText>
@@ -120,6 +134,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>オレも手を貸す。
 これまで以上にな</JapaneseText>
       <EnglishText/>
@@ -129,6 +144,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>フ…、感謝するぞ、ヴェイグ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -137,6 +153,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>もう、マオったら。
 変な事言うのは止めて…</JapaneseText>
       <EnglishText/>
@@ -146,6 +163,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あれ、アニー、
 照れちゃって〜</JapaneseText>
       <EnglishText/>
@@ -155,6 +173,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>やあ、ユージーン、ヴェイグ、クレアさん！
 三人で何話してたの？</JapaneseText>
       <EnglishText/>
@@ -164,6 +183,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ああ、これからの事をな</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -172,6 +192,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>どんな話ですか？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -180,6 +201,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ユージーンさんはとても
 優しい方だって話よ</JapaneseText>
       <EnglishText/>
@@ -189,6 +211,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ああ、その通りだ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -197,6 +220,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ナニを今更！
 そんなの当然じゃない！
 ね、アニー</JapaneseText>
@@ -207,6 +231,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ええ、そうね</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -215,6 +240,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…ふふ、みんないいヤツらだ。
 こいつらの為なら、
 俺の命など惜しくはない</JapaneseText>
@@ -225,6 +251,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>何か言いました？
 ユージーンさん</JapaneseText>
       <EnglishText/>
@@ -234,6 +261,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いや、何も…</JapaneseText>
       <EnglishText/>
       <Notes/>

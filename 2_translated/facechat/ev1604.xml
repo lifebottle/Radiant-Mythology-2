@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ウッドロウ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>フィリア</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>男</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -23,6 +26,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>傷ついた兵士</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -33,6 +37,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>フィリア君、
 あれがトライライト・モスではないか？</JapaneseText>
       <EnglishText/>
@@ -42,6 +47,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>はい、まさしく</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -50,6 +56,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なんだ、あれは？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -58,6 +65,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>苦しい…、苦しいぃぃ…。
 体が焼け付くようだ…</JapaneseText>
       <EnglishText/>
@@ -67,6 +75,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あぁぁ…、死にたくない。
 死にたくないぃぃ…</JapaneseText>
       <EnglishText/>
@@ -76,6 +85,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あれは、「緑色斑点病」の症状！
 遥か昔に根絶した伝染病です</JapaneseText>
       <EnglishText/>
@@ -85,6 +95,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>聞いた事がある</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -93,6 +104,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>感染すると、まず助からないという、
 体の内側からただれて壊死する
 感染率も致死率も高い病気だ</JapaneseText>
@@ -103,6 +115,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>家に…、生きて家に帰りたい。
 かあさん…。
 敵が…、もうそこまで…</JapaneseText>
@@ -113,6 +126,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あの軍服…、
 １２０年前にグランマニエに合併されて
 もう存在しない国のものだ</JapaneseText>
@@ -123,6 +137,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>駄目だ…、もう走れない…。
 悲しい、怖いよ、かあさん…。
 もう殺したくないよ…</JapaneseText>
@@ -133,6 +148,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>消えた！！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -141,6 +157,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>実体がなかった。
 今のは一体…</JapaneseText>
       <EnglishText/>

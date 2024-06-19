@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>パニール</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -12,6 +13,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>はぁ…。
 カノンノにはいつ、どうやって
 本当の事を話したらいいのかしら</JapaneseText>
@@ -22,6 +24,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あの子が幼い頃、わがままを言ったら</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -30,6 +33,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>「いい子にしていないと
 　お父さんとお母さんに会えませんよ」
 って…</JapaneseText>
@@ -40,6 +44,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>旅路で歩かないでぐずったりしたら、
 「歩かないと、お父さんとお母さんに
 追いつけませんよ」と</JapaneseText>
@@ -50,6 +55,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>私は…、ご両親の事を持ち出していました</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -58,6 +64,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>実際、そう言うとカノンノは
 素直に言うことを聞いたものですから。
 いつもつい、その言葉を使ってしまって</JapaneseText>
@@ -68,6 +75,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>私が弱かったんです。
 そして、結局あの声を追わせているのも
 私のせい…</JapaneseText>
@@ -78,6 +86,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>どう、強くしてあげれば
 いいのかしら。
 あの子を…</JapaneseText>

@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ジェイド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>セネル</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リフィル</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -23,6 +26,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -30,6 +34,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ゼロス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -40,6 +45,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>今帰ったぜ〜</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -48,6 +54,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ご苦労さん。
 ハロルドも戻って来たようだな</JapaneseText>
       <EnglishText/>
@@ -57,6 +64,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ハロルドがまた何か
 無茶をしたようね。
 困ったものだわ</JapaneseText>
@@ -67,6 +75,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>とはいえ、大切な人材ですからね。
 これぐらいは仕方ありません</JapaneseText>
       <EnglishText/>
@@ -76,6 +85,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ジェイドさん、ゼロス。
 お帰りなさい。
 疲れてない？　ご飯すぐ用意するね</JapaneseText>
@@ -86,6 +96,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -94,6 +105,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そうそう、コレだよコレ…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -102,6 +114,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>？？
 どうしたの？
 二人とも</JapaneseText>
@@ -112,6 +125,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いえ、失礼しました。
 あなたの存在の大きさを
 改めて確認させていただいたところです</JapaneseText>
@@ -122,6 +136,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>もう、何言ってるのよ。
 私なんてそんな…</JapaneseText>
       <EnglishText/>
@@ -131,6 +146,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あ、そういえばハロルドから
 伝言を預かっているの</JapaneseText>
       <EnglishText/>
@@ -140,6 +156,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>へぇ、何だって？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -148,6 +165,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ええっと、このメモを
 読み上げろって言われてて…</JapaneseText>
       <EnglishText/>
@@ -157,6 +175,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>メカ！　メカ！　許せないメカ！！
 このメカ自ら復讐してやるから
 覚悟するんだパン！</JapaneseText>
@@ -167,6 +186,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…何これ、意味わかんないんだけど</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -175,6 +195,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>えーっと…ここは…、
 こうすればいいのか…？</JapaneseText>
       <EnglishText/>
@@ -184,6 +205,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>うひゃー、もう偽者には
 こりごりだよォ〜〜〜〜〜〜！！</JapaneseText>
       <EnglishText/>
@@ -193,6 +215,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>トホホ〜、
 もう勘弁でゴザル〜〜〜</JapaneseText>
       <EnglishText/>
@@ -202,6 +225,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -210,6 +234,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>こんな終わり方でいいの？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -218,6 +243,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いや、終わるしかないだろ？
 メインキャストが退場したんだからさ</JapaneseText>
       <EnglishText/>
@@ -227,6 +253,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…私のせい、ですか？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -235,6 +262,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あなたのせいなんかじゃないわ。
 とにかく終わりましょう</JapaneseText>
       <EnglishText/>
@@ -244,6 +272,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノ、下げは任せた</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -252,6 +281,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>え？？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -260,6 +290,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そ、その………</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -268,6 +299,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>チャンチャン♪</JapaneseText>
       <EnglishText/>
       <Notes/>

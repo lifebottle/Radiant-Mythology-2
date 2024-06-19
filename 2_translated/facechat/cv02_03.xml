@@ -2,225 +2,269 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カイル</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kyle</EnglishText>
       <Notes/>
       <Id>19</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リアラ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Reala</EnglishText>
       <Notes/>
       <Id>20</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>スタン</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sthan</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ルーティ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Rutee</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>...</EnglishText>
+      <Notes>3 Revised by Murilo - 04/06/2024</Notes>
       <SpeakerId>19</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…どうかしたの、カイル？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...What's wrong, Kyle?</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リアラ、オレ、考えたんだ。
 今のこの世界から
 去るわけにいかないよね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Reala, we can't just leave this world
+as it is now, can we?</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>自分の世界を放っておくのは
 心が痛むけどさ、でも目の前で
 困った人を見過ごすなんて出来ない！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It hurts to leave my world behind,
+but I can't ignore those in need
+right in front of me!</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>どうしたんだ？
 大きな声出してたけど</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Is something wrong? You were
+speaking loudly.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>父さ…スタンさん！　オレ、決めました！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Father... Mr. Sthan! I've made
+up my mind!</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>帰れる時が来れば
 すぐ帰るつもりだったけど、
 全部かたがつくまで、ここに残ります</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I was planning to return as soon as
+I could, but I'll stay here until
+everything is settled.</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あらあら、付き合いがいいわね。
 自分の事よりも他人の事だなんて、
 随分お人好しじゃない？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You're so considerate, always putting
+others before yourself. You're quite
+the softy, aren't you?</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そうかもしれません。
 でも、やっぱこの世界の人達の事、
 オレ好きですから！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Maybe so. But I really care about the
+people in this world!</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ね、いいだろ？　リアラ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey, is that okay? Reala.</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>わたしは…、あなたに賛成だわ。
 カイル。
 あなたの思う通りにやってみて</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I... I agree with you, Kyle.
+Do what you think is right.</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>う〜ん…、前から思ってたんだけど、
 リアラはカイルを放任しすぎじゃない？
 もっと手綱握っておかないと</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hmm... I've been thinking, Isn't Reala
+letting Kyle do whatever he wants
+too much? We need to control him.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そう…ですか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Is that so?</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>12</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>男のわがままなんかに
 いちいち付き合ってたら駄目ね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You can't just indulge every whim
+of a man.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>13</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>自分の理想を叶える前に
 おばあちゃんになっちゃうわよ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You'll become a grandmother before
+you fulfill your own dreams!</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>14</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それは違うよ、ルーティ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's not true, Rutee!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>15</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カイルは世界を守りたいんだ。
 世界を守って、みんなの未来まで
 守りたいって言ってるんじゃないか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kyle wants to protect the world. I think
+he wants to protect everyone's future
+by protecting the world.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>16</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>うん、その通りだよ！
 みんなが幸せになるには、
 世界が平和じゃないと！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah, that's right! Everyone can only
+be happy if the world is at peace!</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>17</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…やっぱり似てますね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...They really are alike.</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>18</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ほんと不思議なぐらい似てるわねぇ。
 兄弟か従兄弟かってぐらいに</JapaneseText>
-      <EnglishText/>
+      <EnglishText>They really are strangely similar. Like
+siblings or cousins.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>19</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>20</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

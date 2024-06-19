@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>コングマン</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -12,6 +13,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なあ、人間ってのはよ、
 どこまで強くなれると思う？</JapaneseText>
       <EnglishText/>
@@ -21,6 +23,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ガハハ！　わかんねぇだろうなぁ。
 正解は、「どこまでも」だ</JapaneseText>
       <EnglishText/>
@@ -30,6 +33,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>だから、俺様は
 負けるって言葉は
 「知らねぇ」って事にしてんだ</JapaneseText>
@@ -40,6 +44,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おめえ、いいか？
 強くなるってのは、がむしゃらに鍛えて
 強さを求め続ける事じゃねぇ</JapaneseText>
@@ -50,6 +55,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>弱さや不安を、
 いかに越えていくかなんだぜ</JapaneseText>
       <EnglishText/>
@@ -59,6 +65,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>じゃないと、本当に負けた時…、
 自分に何も残らなくなっちまう</JapaneseText>
       <EnglishText/>
@@ -68,6 +75,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>真のチャンピオンにはその強さがある。
 何者にも、何度でも、越えていく
 不滅の強さだ</JapaneseText>
@@ -78,6 +86,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>上手い言葉は言えねぇけどよ。
 おめえは一切合財を越えてきな</JapaneseText>
       <EnglishText/>
@@ -87,6 +96,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ま、おめえがそうなっても
 負ける気なんざ、さらさらねぇしな。
 俺様がずっとチャンピオンよ！</JapaneseText>

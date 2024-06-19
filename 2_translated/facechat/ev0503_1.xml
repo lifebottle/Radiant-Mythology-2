@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>すず</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -12,6 +13,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ロゼット村がラルヴァ支持に傾いた今、
 次に問題となるのは
 ナディによるテロ行為</JapaneseText>
@@ -22,6 +24,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あれは、マナ以外の力を認めない教義を
 持っていますから。
 きっと私達の村を襲うでしょう</JapaneseText>
@@ -32,6 +35,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ラルヴァに傾き、ロゼットに残った人々も
 安全ではなくなるのかもしれません…</JapaneseText>
       <EnglishText/>

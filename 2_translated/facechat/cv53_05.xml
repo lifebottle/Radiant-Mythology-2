@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>コレット</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>エステル</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>フィリア</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -26,6 +29,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ねえねえ、エステル</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -34,6 +38,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -42,6 +47,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あ、コレット。
 どうかしましたか？</JapaneseText>
       <EnglishText/>
@@ -51,6 +57,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ごめんね。
 読書の邪魔しちゃって…</JapaneseText>
       <EnglishText/>
@@ -60,6 +67,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あ、いえ、
 邪魔なんかじゃ…。
 気にしないで下さいね</JapaneseText>
@@ -70,6 +78,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>本好きなんだね。
 どんなの読んでるの？</JapaneseText>
       <EnglishText/>
@@ -79,6 +88,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>本ならなんでも好きですよ。
 小説だけじゃなく、学術書や、
 論文、図鑑なんかも読みますね</JapaneseText>
@@ -89,6 +99,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>エステルさん。
 今日は違う本を持ってきましたよ。
 「世界猫図鑑」です</JapaneseText>
@@ -99,6 +110,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>わあ、ありがとうございます。
 お借りしますね</JapaneseText>
       <EnglishText/>
@@ -108,6 +120,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>猫図鑑？
 じゃあ、ひょっとして犬図鑑もある？</JapaneseText>
       <EnglishText/>
@@ -117,6 +130,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>犬…食肉目イヌ科。
 追跡型狩猟に適した身体に変化させた
 動物で、ペットとしても飼育される、ですね</JapaneseText>
@@ -127,6 +141,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>先日お借りして、読み終えました。
 犬は大好きなので、とても楽しかったです</JapaneseText>
       <EnglishText/>
@@ -136,6 +151,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>犬種って１５０種ぐらいあるんですよ。
 チワワ、パグ、シバ、プードル、
 チャウチャウ、スピッツ、テリア、他には…</JapaneseText>
@@ -146,6 +162,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>へ、へえー…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -154,6 +171,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>わざわざ覚えたんですか？
 すごいですね…</JapaneseText>
       <EnglishText/>
@@ -163,6 +181,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あれ？
 ひょっとしてわたし、
 呆れられてませんか？</JapaneseText>

@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ガイ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ルーク</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>&lt;Name:82&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -26,6 +29,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>○○。
 ルークの事は、俺からもよろしく頼む</JapaneseText>
       <EnglishText/>
@@ -35,6 +39,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>世間知らずで、貴族の自覚が
 まるでないヤツだから、
 その点容赦してやってくれよ</JapaneseText>
@@ -45,6 +50,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>よけーなお世話だよ！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -53,6 +59,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あ、そうだ！　ジェイドから
 聞いてるとは思うけど、一応
 俺からも今の状況を説明しとくよ</JapaneseText>
@@ -63,6 +70,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -71,6 +79,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>今、俺の国ではマナに替わる、
 新しいエネルギー開発が行われてるんだ</JapaneseText>
       <EnglishText/>
@@ -80,6 +89,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>で、こういう事業は一国だけで頑張っても
 なかなか上手くいかないらしくてさ</JapaneseText>
       <EnglishText/>
@@ -89,6 +99,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>周りの国にも手伝ってもらおうとして
 いるところなんだ</JapaneseText>
       <EnglishText/>
@@ -98,6 +109,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>だから、今近隣諸国にマナの枯渇問題と
 代替エネルギー開発の重要性を
 理解してもらう為、遊説して周ってるのさ</JapaneseText>
@@ -108,6 +120,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そういうわけで俺は
 「親善大使」として各国を訪問中なんだが…</JapaneseText>
       <EnglishText/>
@@ -117,6 +130,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>今回こんな風に
 テロの対象になっちまって…</JapaneseText>
       <EnglishText/>
@@ -126,6 +140,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ああ、こんな強行手段に出るなんて、
 思いもしなかったぜ。
 ナディのヤツら、焦ってる証拠だな</JapaneseText>
@@ -136,6 +151,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>とにかく、しばらくここで大人しく
 しておいた方がいいのかな…</JapaneseText>
       <EnglishText/>
@@ -145,6 +161,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ああ、そうしよう。
 世話になるよ、○○</JapaneseText>
       <EnglishText/>
@@ -154,6 +171,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あ、じゃあ俺も握手を</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -162,6 +180,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おっと！！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -170,6 +189,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…あ、いや、気にしないでくれ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -178,6 +198,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ああ、言い忘れてた。
 ガイは女の人が嫌いなんだよな</JapaneseText>
       <EnglishText/>
@@ -187,6 +208,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>嫌いじゃない！
 ただ、近くにいられるのが
 苦手なだけなんだ！</JapaneseText>
@@ -197,6 +219,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>すまん、○○。
 気を悪くしてなきゃいいんだが…</JapaneseText>
       <EnglishText/>
@@ -206,6 +229,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -214,6 +238,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それは良かった。
 キミに嫌われたくはないからな</JapaneseText>
       <EnglishText/>
@@ -223,6 +248,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…これで女嫌いなんだから、
 世の中わかんないよなぁ</JapaneseText>
       <EnglishText/>

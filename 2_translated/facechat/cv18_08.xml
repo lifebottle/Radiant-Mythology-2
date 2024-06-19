@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>チャット</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ルビア</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>パニール</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -23,6 +26,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ファラ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -33,6 +37,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>やあ、ファラさんが戻ってきてくれて
 本当に助かりました</JapaneseText>
       <EnglishText/>
@@ -42,6 +47,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そうよね。
 やっぱりアドリビトムの
 オリジナルメンバーなんですもの</JapaneseText>
@@ -52,6 +58,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>まったくだわ〜</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -60,6 +67,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ファラさんの励ましがないと、
 皆さんイマイチ張り合いがなくて、
 調子が狂ってしまってましたのよ〜？</JapaneseText>
@@ -70,6 +78,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>うん…、みんな迷惑かけちゃって
 ゴメンね？
 もう私、大丈夫だから</JapaneseText>
@@ -80,6 +89,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>微笑む</JapaneseText>
       <EnglishText/>
       <Notes>Choice 1</Notes>
@@ -87,6 +97,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>怒る</JapaneseText>
       <EnglishText/>
       <Notes>Choice 2</Notes>
@@ -94,6 +105,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>もう、○○さんったら
 お優しいのねぇ</JapaneseText>
       <EnglishText/>
@@ -103,6 +115,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そうよ。
 少しぐらい怒っても
 いいと思うよ？</JapaneseText>
@@ -113,6 +126,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あら、○○さんが
 怒るなんて珍しいわね〜</JapaneseText>
       <EnglishText/>
@@ -122,6 +136,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>でも、その気持ち
 ちょっとわかるなぁ…</JapaneseText>
       <EnglishText/>
@@ -131,6 +146,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ほんと、ごめんなさい…。
 やっぱり迷惑だったよね、私…</JapaneseText>
       <EnglishText/>
@@ -140,6 +156,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>じゃなくってぇ！
 迷惑かけられた、なんて思われてるのが
 悔しいんだってば</JapaneseText>
@@ -150,6 +167,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ですよぉ。
 皆さん、ちゃ〜んと事情あっての事と
 理解しておられますとも</JapaneseText>
@@ -160,6 +178,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そ、そっか…。
 ごめんなさい…</JapaneseText>
       <EnglishText/>
@@ -169,6 +188,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>また謝ってる</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -177,6 +197,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ええ、謝られても困ります。
 いつもの調子で結構ですのよ？</JapaneseText>
       <EnglishText/>
@@ -186,6 +207,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>わかった！
 じゃ、これから倍ぐらい頑張るっ！</JapaneseText>
       <EnglishText/>
@@ -195,6 +217,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>うん、イケる♪</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -203,6 +226,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>イケますよ〜</JapaneseText>
       <EnglishText/>
       <Notes/>

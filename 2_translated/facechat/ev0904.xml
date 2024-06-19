@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>プレセア</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リフィル</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ゼロス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -23,6 +26,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ハロルド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -33,6 +37,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ただいま戻りました</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -41,6 +46,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>どう、ジャニスを止められた？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -49,6 +55,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>結構、話がわかる奴だったぜ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -57,6 +64,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>彼、思い止まってくれたのね！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -65,6 +73,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>思い止まってくれたんだがなぁ…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -73,6 +82,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おっけー、○○。
 説明まかせた￥</JapaneseText>
       <EnglishText/>
@@ -82,6 +92,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>何ですって！！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -90,6 +101,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>世界樹を守る事が、出来ませんでした…。
 申し訳ありません</JapaneseText>
       <EnglishText/>
@@ -99,6 +111,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>故障〜？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -107,6 +120,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>負の測定器を作ったんだけど
 何か、急に負の濃度が高く
 なったのよね、おっかしいなー</JapaneseText>
@@ -117,6 +131,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>まぁいいや。
 で、アンタ達さ。
 世界樹の根は守ってきてくれた？</JapaneseText>
@@ -127,6 +142,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ま、不慮の事故ってヤツ？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -135,6 +151,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あっそ。
 まあ、想定の範囲内ね〜</JapaneseText>
       <EnglishText/>
@@ -144,6 +161,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ともかくゼロスって人間の期待値を
 多少修正する必要はありそうね</JapaneseText>
       <EnglishText/>
@@ -153,6 +171,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そんなぁ、
 怒んないでよ、ハロルドちゃ〜ん￥</JapaneseText>
       <EnglishText/>
@@ -162,6 +181,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>詳しくは科学部屋で聞くわ。
 後で、来てちょうだい…</JapaneseText>
       <EnglishText/>

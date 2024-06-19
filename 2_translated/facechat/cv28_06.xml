@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アーチェ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>チェスター</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -19,6 +21,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>さーてとぉ！
 チェスターのヤツ、
 今日はどんなマヌケ面してるかな〜</JapaneseText>
@@ -29,6 +32,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>人様の顔をつかまえて
 マヌケ面とはなんだ！
 このアホ面！</JapaneseText>
@@ -39,6 +43,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>うっわ、ひっど〜い！
 この美貌のキューティフェイスを
 アホ面呼ばわり？</JapaneseText>
@@ -49,6 +54,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あんた、その細すぎの目、
 ちゃんと見えてんの？</JapaneseText>
       <EnglishText/>
@@ -58,6 +64,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>さ〜、見えてねぇのかも？
 だから適当に放った矢が
 おまえの後頭部目掛けていくかも…</JapaneseText>
@@ -68,6 +75,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ぶるぶるぶる…。
 か、神様…、チェスターの残念な
 細目をお救い下さい…</JapaneseText>
@@ -78,6 +86,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>神頼みすんな！
 んで、残念とか言うな！！</JapaneseText>
       <EnglishText/>

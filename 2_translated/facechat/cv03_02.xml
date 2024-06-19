@@ -2,162 +2,187 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カイル</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kyle</EnglishText>
       <Notes/>
       <Id>19</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リアラ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Reala</EnglishText>
       <Notes/>
       <Id>20</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ゼロス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Zelos</EnglishText>
       <Notes/>
       <Id>29</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>オレ達、帰れるのかな？</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Can we go back?</EnglishText>
+      <Notes>10 - Revised by Murilo - 04/06/2024</Notes>
       <SpeakerId>19</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そんなの、わからないわ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I don't know about that.</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>でも、
 リアラの力で
 こうなったんだよね？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But this happened because of
+Reala's power, right?</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おや〜？
 いけないなあ、カイルくーん。
 女の子を追い詰めるなんて</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh? My my, Kyle. It's not good to corner a girl like that.</EnglishText>
       <Notes/>
       <SpeakerId>29</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>オ、オレはそんなつもり…</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I-I didn't mean to...</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>まあ俺さまは事情知らねーからよ。
 あんまり口挟む気はないがね。
 でも、リアラちゃん、泣きそうだぜ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm not fully aware of what's going on,
+so I won't meddle much. But Reala
+seems close to tears.</EnglishText>
       <Notes/>
       <SpeakerId>29</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ご、ごめん、リアラ！
 オレ、手がかりが他にないかなって
 思っただけなんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>S-Sorry, Reala! I was just wondering if
+there were any other leads...</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>責めてるつもりなんてないよ！
 ホントに</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm not blaming you! Really.</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…ええ、わかってる。
 あなたは…、そんな人じゃない…</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Y-Yes, I understand. You're not that
+kind of person...</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ホント、ごめん…</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm really sorry...</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>うん、もう大丈夫。
 まだまだわからない事が多いわ。
 ゆっくり考えていきましょう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah, it's okay now. There's still a lot
+we don't know. Let's take our time to
+think.</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>12</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>うん、そうだね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah, that's right!</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>13</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>や〜れやれ。
 世話の焼ける
 坊っちゃん嬢ちゃんだぜぇ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Phew. These kids sure are a handful.</EnglishText>
       <Notes/>
       <SpeakerId>29</SpeakerId>
       <Id>14</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

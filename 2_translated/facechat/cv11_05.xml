@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ルーク</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ティア</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ルーティ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -26,6 +29,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ふう、ちょっと旅疲れかなぁ。
 なんかやたらとダルいし</JapaneseText>
       <EnglishText/>
@@ -35,6 +39,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>気を抜かないで。
 そういう気の緩みが死に
 繋がる事もあるのよ</JapaneseText>
@@ -45,6 +50,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>今、緩い分には構わねーだろ？
 敵を前にして油断するようなヘマは
 しねーよ</JapaneseText>
@@ -55,6 +61,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…そうね。
 そういえば、親善大使としての仕事は
 もう終わったの？</JapaneseText>
@@ -65,6 +72,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あと報告書を書くぐらいだな。
 どれ、そろそろソレも終わらせっかな</JapaneseText>
       <EnglishText/>
@@ -74,6 +82,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>どうでもいいけど、
 ティアって、貴族ルークの身辺警護をする
 軍人なのよね</JapaneseText>
@@ -84,6 +93,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ええ、そうよ。
 それが何？</JapaneseText>
       <EnglishText/>
@@ -93,6 +103,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そのルークに、なんでそんなに
 ぞんざいな話し方するの？</JapaneseText>
       <EnglishText/>
@@ -102,6 +113,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>最敬礼しながら会話するのが
 普通なんじゃないかしら</JapaneseText>
       <EnglishText/>
@@ -111,6 +123,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そうね…、
 でもそれはルークが許してくれるからだわ</JapaneseText>
       <EnglishText/>
@@ -120,6 +133,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なんで、許してんの？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -128,6 +142,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…色々あるのよ、彼も</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -136,6 +151,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ふ〜ん…、でももうすぐ
 あなたの任務も終わりっぽいわね。
 その彼とも離れないといけないかも☆</JapaneseText>
@@ -146,6 +162,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -154,6 +171,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>まだ先の事なんて、考えてなかったわ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -162,6 +180,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>んー…、ちょっと落ち込んでた、かな？
 世話女房にはバカ旦那がいないと
 やっぱ寂しいのかしら</JapaneseText>

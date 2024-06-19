@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>スパーダ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>イリア</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ティア</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -26,6 +29,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>船がギルドってのもいいな。
 オレ、ここ気に入ったぜ</JapaneseText>
       <EnglishText/>
@@ -35,6 +39,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>うええ？　そ〜おぉ？
 あたし、もうウンザリなんだけど…</JapaneseText>
       <EnglishText/>
@@ -44,6 +49,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>相変わらず船が苦手みてェだな</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -52,6 +58,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>もう、船キライ！
 全部沈んじゃえばいいのにぃぃっ！</JapaneseText>
       <EnglishText/>
@@ -61,6 +68,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…仲が良さそうね。
 知り合い？</JapaneseText>
       <EnglishText/>
@@ -70,6 +78,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あ、ティア。
 コイツはルカの村で
 知り合ったヤツでさぁ…</JapaneseText>
@@ -80,6 +89,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>っと、紹介ぐらいオレにさせろよな！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -88,6 +98,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>デヘヘ…。
 オレはスパーダ・ベルフォルマ</JapaneseText>
       <EnglishText/>
@@ -97,6 +108,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>地元じゃオレの名前知らねェやつは
 モグリだぜ</JapaneseText>
       <EnglishText/>
@@ -106,6 +118,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>有名人だったの？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -114,6 +127,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ああ、そりゃもう。
 オレの名を聞くだけで泣く子も黙る、
 超不良さ</JapaneseText>
@@ -124,6 +138,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>はぁ？　ただの実家に寄り付かない
 いいトコのボンって事で
 有名だっただけじゃん</JapaneseText>
@@ -134,6 +149,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ああ？　そんなワケねーだろ！
 おまえ、オレの悪行の数々、
 知らねェだけだって</JapaneseText>
@@ -144,6 +160,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ま、ケンカじゃ有名だったみたいね</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -152,6 +169,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>だろ♪</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -160,6 +178,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>他には？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -168,6 +187,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -176,6 +196,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>まァ、とにかく、だ。
 オレは不良なのさ。
 わかってくれたか、お嬢さん？</JapaneseText>
@@ -186,6 +207,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>格好をつけてるつもりなら、
 もう少し別路線を考えた方がいいわ</JapaneseText>
       <EnglishText/>
@@ -195,6 +217,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>う…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -203,6 +226,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>い、いや、カッコつけとか
 そんなんじゃなくってさ！
 オレって、本当に悪くて悪くて、もうっ</JapaneseText>
@@ -213,6 +237,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>一度、私達のところに
 入隊してみたらどうかしら。
 鍛えなおされると思うわ</JapaneseText>
@@ -223,6 +248,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>もうこれ以上、
 そういう人の面倒見られないものね</JapaneseText>
       <EnglishText/>
@@ -232,6 +258,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あああ…、行っちまった…。
 クソ…、いい女だったってのによォ〜〜〜</JapaneseText>
       <EnglishText/>
@@ -241,6 +268,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>もう、不良卒業すればぁ〜？</JapaneseText>
       <EnglishText/>
       <Notes/>

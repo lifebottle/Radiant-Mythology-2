@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>コングマン</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>キール</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>フィリア</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -23,6 +26,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>チャット</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -33,6 +37,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>はっ、小せぇ小せぇ。
 ケチな船だ</JapaneseText>
       <EnglishText/>
@@ -42,6 +47,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おおい！　○○！
 出て来やがれ！！</JapaneseText>
       <EnglishText/>
@@ -51,6 +57,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あ、おまえは…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -59,6 +66,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>どうかしましたか、キールさん</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -67,6 +75,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あら、この方は…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -75,6 +84,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ドキーン￥</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -83,6 +93,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ええ！　その通りです！　可憐なお嬢さん。
 俺様はマイティ・コングマン。
 闘技場の永遠不滅絶対王者だった者です</JapaneseText>
@@ -93,6 +104,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>は、はあ……</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -101,6 +113,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なんだよ。
 ○○に
 復讐しに来たってわけか？</JapaneseText>
@@ -111,6 +124,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>まぁ…、そうなのですか？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -119,6 +133,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そ、そうではありません、眼鏡のお嬢さん。
 このコングマン、潔く負けを認め、
 ベルトを預けに参ったのです</JapaneseText>
@@ -129,6 +144,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そしていずれは再び王座奪還を懸けて
 リターンマッチを果たすつもりです</JapaneseText>
       <EnglishText/>
@@ -138,6 +154,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それって復讐しに来たのと
 同じじゃないか…</JapaneseText>
       <EnglishText/>
@@ -147,6 +164,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ええい、ごちゃごちゃうるせぇ野郎だぜ。
 どうやら○○より先に
 片付ける必要があるようだな</JapaneseText>
@@ -157,6 +175,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>騒がしいですね。
 どうしたんですか？</JapaneseText>
       <EnglishText/>
@@ -166,6 +185,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あ…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -174,6 +194,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あなたは闘技場のチャンプ、
 マイティ・コングマンじゃありませんか！！
 ボ、ボク、大ファンだったんです！</JapaneseText>
@@ -184,6 +205,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>チャット…？
 こいつの…ファン…？</JapaneseText>
       <EnglishText/>
@@ -193,6 +215,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ほう、船長か。
 だったら頼みがある。
 俺様をこの船においてくれ</JapaneseText>
@@ -203,6 +226,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>王座奪還まで、○○の
 側を離れられねぇし、
 このお嬢さんだって守ってやりてぇしな</JapaneseText>
@@ -213,6 +237,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>王座陥落残念でした。
 ですが、ボクは期待していますよ！
 再び王座に返り咲くまで…</JapaneseText>
@@ -223,6 +248,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ええ、ボクはあなたを全力で支援します！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -231,6 +257,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>じゃあ、さっそく部屋を用意してくれ。
 この俺様に相応しい部屋をな！</JapaneseText>
       <EnglishText/>
@@ -240,6 +267,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>こちらです！　どうぞ！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -248,6 +276,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なんなんだあいつ？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -256,6 +285,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>さあ…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -267,6 +297,7 @@
   <Strings>
     <Section>Unreferenced</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>コングマンがギルドに加わりました。</JapaneseText>
       <EnglishText/>
       <Notes/>

@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ゼロス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ガイ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アニー</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -23,6 +26,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リアラ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -33,6 +37,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>やぁ、これはこれはガイどのじゃ
 ございませんか。
 ご機嫌うるわしゅう〜</JapaneseText>
@@ -43,6 +48,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…なんだよ。
 随分機嫌良さそうじゃないか。
 いったいどうしたんだ？</JapaneseText>
@@ -53,6 +59,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いやいや、あんたが女性嫌いって
 伺ってねぇ。
 な〜んかソレ聞いて、気分爽快なのさ</JapaneseText>
@@ -63,6 +70,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なるほど。
 あんたの敵にはならないってわけか。
 でも残念ながら、俺は女性嫌いじゃない</JapaneseText>
@@ -73,6 +81,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ただ、その…、近くにいられるのが
 苦手なだけさ</JapaneseText>
       <EnglishText/>
@@ -82,6 +91,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>は〜いはい、それも聞いてるぜぇ？
 だがイマイチ理解出来ねぇんだよなぁ。
 だから、実験させてくれ</JapaneseText>
@@ -92,6 +102,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リアラちゃん、アニーちゃん、
 ちょっくら来てくんな〜い？</JapaneseText>
       <EnglishText/>
@@ -101,6 +112,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>はい…？　えっと…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -109,6 +121,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>何か用かしら？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -117,6 +130,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>え、あ…、いや、
 その、なんだ…</JapaneseText>
       <EnglishText/>
@@ -126,6 +140,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ゼロスと言ってたんだ。
 キミ達のような真面目でひたむきな
 女性は素晴らしいってね</JapaneseText>
@@ -136,6 +151,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そんな事言われたのは初めて…だわ。
 どうしよう…</JapaneseText>
       <EnglishText/>
@@ -145,6 +161,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ありがとうございます。
 褒めていただいて、
 わたし、あの…、うれしいです</JapaneseText>
@@ -155,6 +172,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ああ、でも本当に用事は
 これだけなんだ。
 忙しいところ申し訳ないね</JapaneseText>
@@ -165,6 +183,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>い、いえ、全然構いません</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -173,6 +192,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>はい、その…、あの…、
 じゃあ、失礼いたしますっ</JapaneseText>
       <EnglishText/>
@@ -182,6 +202,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>うへぇ〜…、な〜んだよ、
 あの子達、完全にあんたに
 メロメロだったじゃん</JapaneseText>
@@ -192,6 +213,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>こりゃやっぱ、
 あんた油断出来ねぇな</JapaneseText>
       <EnglishText/>
@@ -201,6 +223,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あの「身持ちが固くて男慣れしてなさそう」
 コンビをあんなにメロメロに
 させんだもん…</JapaneseText>
@@ -211,6 +234,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おまえ、自分が苦手そうな
 女性を俺に押しつけようとしただけじゃ
 ないのか？</JapaneseText>
@@ -221,6 +245,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>バカだね〜、あのハニー達に
 まず安全な男に免疫を付けてもらおうって
 いう俺さまの老婆心、わかってね〜な〜</JapaneseText>
@@ -231,6 +256,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…どうせ安全な男だよ、俺は</JapaneseText>
       <EnglishText/>
       <Notes/>

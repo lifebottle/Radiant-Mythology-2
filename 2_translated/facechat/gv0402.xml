@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ジェイド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ゼロス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ファラ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -23,6 +26,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クレア</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -30,6 +34,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クロエ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -37,6 +42,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>コレット</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -47,6 +53,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>明日への勝利を招く、
 金色の開運法</JapaneseText>
       <EnglishText/>
@@ -56,6 +63,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>桃色のスィートタイムを
 あなたに！
 テイルズ・オブ・ゴールデンビクトリ〜</JapaneseText>
@@ -66,6 +74,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>さあ、始まりま…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -74,6 +83,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>はい、今回のゲストの
 登場でーっす！</JapaneseText>
       <EnglishText/>
@@ -83,6 +93,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>お待ち下さい</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -91,6 +102,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>以前も言いましたが、
 一応総合司会なんですから
 きちんと進行していただかなければ困ります</JapaneseText>
@@ -101,6 +113,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>挨拶なんてもういいだろ？
 俺さまゼロス、こいつジェイド</JapaneseText>
       <EnglishText/>
@@ -110,6 +123,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -118,6 +132,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>では、お待ちかね！
 今回のゲスト！
 「ＴＯＥ」からファラちゃん！</JapaneseText>
@@ -128,6 +143,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>こんにちは、
 ファラ・エルステッドです。
 よろしくね！</JapaneseText>
@@ -138,6 +154,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>お待ちかねしてたのは、
 ゼロスでしょうに…。
 まあ、いいですが</JapaneseText>
@@ -148,6 +165,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>えー、「ＴＯＲ」から
 クレア・ベネット</JapaneseText>
       <EnglishText/>
@@ -157,6 +175,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クレアです。
 どうぞよろしくお願いします</JapaneseText>
       <EnglishText/>
@@ -166,6 +185,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>えー、んで「ＴＯＬ」から
 クロエちゃん！</JapaneseText>
       <EnglishText/>
@@ -175,6 +195,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クロエ・ヴァレンスだ。
 …私、この並びで出ても良かったのか？</JapaneseText>
       <EnglishText/>
@@ -184,6 +205,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ええ、お気になさらずに</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -192,6 +214,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>最後です。
 「ＴＯＳ」から
 コレット・ブルーネル！</JapaneseText>
@@ -202,6 +225,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>こんにちわー。
 えーっと、コレット・ブルーネルです。
 よろしくお願いします</JapaneseText>
@@ -212,6 +236,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>以上、四人から
 お話を伺いたいと思います</JapaneseText>
       <EnglishText/>
@@ -221,6 +246,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>うっひょ〜！！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -229,6 +255,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>壮観の一言に尽きるね〜。
 いやぁ、ＧＶを始めて良かったぁ…</JapaneseText>
       <EnglishText/>
@@ -238,6 +265,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>はい、ここでメールが一通。
 「おふた方のご活躍、
 　拝見させていただいております」</JapaneseText>
@@ -248,6 +276,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>これはご丁寧に、ありがとうございます</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -256,6 +285,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>「私も出演したかったのですが、
 　王族としての業務が多忙で
 　出向く事かないません」</JapaneseText>
@@ -266,6 +296,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>「周囲には同世代の女性がおらず、
 　そちらの皆様と気兼ねないお喋りなどを
 　願っておりましたので残念でなりません」</JapaneseText>
@@ -276,6 +307,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>「ですので、今回、そちらの女性達の
 　日常的なお話を伺いたく存じます。
 　何とぞ宜しくお願い申し上げいたします」</JapaneseText>
@@ -286,6 +318,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ＨＮとある国の王女様。
 お手紙ありがとうございます</JapaneseText>
       <EnglishText/>
@@ -295,6 +328,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>王女様…？
 さて、どっちの王女様かね。
 弓矢使いの方か、獣耳の方か…</JapaneseText>
@@ -305,6 +339,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>まあ、どっちでもいいかぁ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -313,6 +348,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そういう事ですので、
 今回は付きまとい被害にあった女性達に
 お話をうかがわせていただきます</JapaneseText>
@@ -323,6 +359,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>げひゃひゃひゃひゃ！
 あ〜、もうっ最高！</JapaneseText>
       <EnglishText/>
@@ -332,6 +369,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ねえねえ、ゼロス。
 ジェイドを放っておいていいの？</JapaneseText>
       <EnglishText/>
@@ -341,6 +379,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ん？　まあ、いいんじゃねーの？
 それよりさあ、ほら、
 もっとくっついてくれよ</JapaneseText>
@@ -351,6 +390,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…というより、なぜ
 こんなにくっつかないといけないんだ？</JapaneseText>
       <EnglishText/>
@@ -360,6 +400,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そ、その…、
 プレイヤーが変な想像してしまうんじゃ
 ないだろうか？</JapaneseText>
@@ -370,6 +411,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>これはアレよ〜。
 こうやってまとまってた方が、
 要領小さくて済むんだって</JapaneseText>
@@ -380,6 +422,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ほら、携帯機って、
 やっぱ据え置き機に比べて
 スペック劣るじゃん？</JapaneseText>
@@ -390,6 +433,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いいんですか、そんな事言って？
 ハード批判に取られませんか？</JapaneseText>
       <EnglishText/>
@@ -399,6 +443,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -407,6 +452,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ま、まあ、いいじゃん</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -415,6 +461,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ほらほらぁ、そんな事よりさぁ、
 もっと俺さまの耳元に
 そのかわいいお口を近づけてくれよ</JapaneseText>
@@ -425,6 +472,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>こ、こう…ですか？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -433,6 +481,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それそれ！　その感じ！
 うひゃひゃひゃひゃひゃ！</JapaneseText>
       <EnglishText/>
@@ -442,6 +491,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…ねえ、ゼロス。
 私達、話をするためにここに
 呼ばれたんじゃなかったの？</JapaneseText>
@@ -452,6 +502,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ああ、大丈夫だって〜〜〜</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -460,6 +511,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ここで俺さまとこうしてる限り、
 誰もハニー達をつけ回したり
 出来ないっしょ？</JapaneseText>
@@ -470,6 +522,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>見つけましたよ。
 さあ、もう充分でしょう。
 ちゃんと仕事してもらいましょうか</JapaneseText>
@@ -480,6 +533,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あちゃー…。
 まさか俺さま自身が
 つけ回されるとは想像してなかったぜ…</JapaneseText>
@@ -490,6 +544,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>さて、では、今度こそお話を伺います。
 何者かにつけ回されていた、というのは
 本当ですか？</JapaneseText>
@@ -500,6 +555,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>うん、本当だよ。
 遠巻きから、いつも同じように
 こっちを見てる感じだったんだもん</JapaneseText>
@@ -510,6 +566,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そうだよね。
 物陰に隠れてたり、通路の角の所から
 こっちみてたり、とか</JapaneseText>
@@ -520,6 +577,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>トイレとかシャワー室にも
 いる事があったよね</JapaneseText>
       <EnglishText/>
@@ -529,6 +587,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…シャワー室にまで、ですか</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -537,6 +596,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>まあ、同じ乗員と長い時間一緒に
 過ごしているから、
 勘違いかな…とも思ったんだけどね</JapaneseText>
@@ -547,6 +607,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>どうもやっぱり
 私達を探っていたみたい</JapaneseText>
       <EnglishText/>
@@ -556,6 +617,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>って事ぁ、
 何かそういう証拠があったってのか？</JapaneseText>
       <EnglishText/>
@@ -565,6 +627,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>調べた情報の詳細をレポートの
 まとめていたんだ</JapaneseText>
       <EnglishText/>
@@ -574,6 +637,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>物陰から私を見ていた不審者に、
 思い切って近寄っていったら、
 レポートの一部を落として逃げていった</JapaneseText>
@@ -584,6 +648,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>うひょ、大胆だねぇ。
 そういう高潔さと勇敢さは
 クロエちゃんの魅力の一つだけどさ</JapaneseText>
@@ -594,6 +659,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そ、そんな事はどうでもいいだろ！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -602,6 +668,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>とにかくこれがそのレポートだ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -610,6 +677,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>拝見いたします</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -618,6 +686,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ふむふむ、どうやら皆さんの
 行動パターンや思考パターンを
 分析しているようですね</JapaneseText>
@@ -628,6 +697,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>んで、几帳面にグラフにしてんぜ。
 ええっと、この表と数値の関係は…っと</JapaneseText>
       <EnglishText/>
@@ -637,6 +707,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なんか、複雑な公式に当てはめて
 算出してるみたいだぜ。
 こりゃ相当な数学力だな</JapaneseText>
@@ -647,6 +718,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ふむ、ゼロスが言うほどですから、
 これはかなりの学力ですね</JapaneseText>
       <EnglishText/>
@@ -656,6 +728,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そして、学術論文めいた形式。
 専門書からの引用や、学術用語の使用…</JapaneseText>
       <EnglishText/>
@@ -665,6 +738,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>んで、シャワー室や女子トイレに
 入り込める人物っていやぁ…</JapaneseText>
       <EnglishText/>
@@ -674,6 +748,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それって、リフィル先生？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -682,6 +757,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>まさか！
 あの人は、こうしてジェイドやゼロスに
 話を通してくれている</JapaneseText>
@@ -692,6 +768,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>もしリフィルさんが犯人なら、
 私達が相談した事を
 明るみに出すわけがないがないものね</JapaneseText>
@@ -702,6 +779,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>という事は………</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -710,6 +788,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ハロルド！？
 …でもなんで？</JapaneseText>
       <EnglishText/>
@@ -719,6 +798,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そりゃ、本人に聞くしかねーな</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -727,6 +807,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…そういえば、先ほど彼女の研究室に
 張り紙がありました</JapaneseText>
       <EnglishText/>
@@ -736,6 +817,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>○○に実験に向かうので、
 何日か留守にする、とね</JapaneseText>
       <EnglishText/>
@@ -745,6 +827,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>私達を調べていたのは、
 その実験のためなんだね</JapaneseText>
       <EnglishText/>
@@ -754,6 +837,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なんの実験だろ？
 気になるなぁ〜</JapaneseText>
       <EnglishText/>
@@ -763,6 +847,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ね、ついて行ってもいい？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -771,6 +856,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おいおい、止めとけよ。
 相手はあのハロルドだぜ？</JapaneseText>
       <EnglishText/>
@@ -780,6 +866,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>大丈夫よ。
 彼女が犯人なら、
 私達に危害を加えるような事は…</JapaneseText>
@@ -790,6 +877,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…どうですかねぇ。
 本人にその意思はなくとも、
 結果的に被害を被る事もありそうですが</JapaneseText>
@@ -800,6 +888,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…リアルに想像出来た。
 ここはやはりジェイドとゼロスに
 任せた方が得策だろう</JapaneseText>
@@ -810,6 +899,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ああ、期待しててくれよ。
 んじゃちょっくら○○に
 行ってくっか</JapaneseText>
@@ -820,6 +910,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リフィルから依頼が出てますから、
 まず彼女と話をして下さいね</JapaneseText>
       <EnglishText/>
@@ -829,6 +920,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そして私二人をＰＴに加える事を
 忘れないで下さい</JapaneseText>
       <EnglishText/>

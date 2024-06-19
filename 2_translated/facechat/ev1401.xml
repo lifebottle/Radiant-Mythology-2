@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>チャット</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -12,6 +13,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リフィルさんから
 お話は聞いていたでしょうから、
 手短に説明しますね</JapaneseText>
@@ -22,6 +24,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>グランマニエから深海仕様潜水服が
 届きました</JapaneseText>
       <EnglishText/>
@@ -31,6 +34,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>これから深海２４０メートル下にある、
 「チュロス海底遺跡」へ行って
 もらいます</JapaneseText>
@@ -41,6 +45,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>で、今からお渡しする「ルチルクォーツ」に
 月光虫の光を宿らせて下さい</JapaneseText>
       <EnglishText/>
@@ -50,6 +55,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>チュロス遺跡の存在は認知されているものの
 大々的に調査が進んだ場所では
 ないそうなので、危険が予想されます</JapaneseText>
@@ -60,6 +66,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>十分警戒して下さい</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -68,6 +75,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なお、今回は
 ルーティさんとスタンさんが同行します。
 では、説明は以上です</JapaneseText>
@@ -78,6 +86,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>時間がかかりそうな依頼ですし、
 依頼の事務処理があるので、
 ボクは、ここで報告を待ちます</JapaneseText>

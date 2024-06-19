@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ウッドロウ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リオン</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リッド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -23,6 +26,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>マオ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -33,6 +37,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>かくしてディセンダーは現れた。
 世界はこれで安心かな</JapaneseText>
       <EnglishText/>
@@ -42,6 +47,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>うん</JapaneseText>
       <EnglishText/>
       <Notes>Choice 1</Notes>
@@ -49,6 +55,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>どうかな</JapaneseText>
       <EnglishText/>
       <Notes>Choice 2</Notes>
@@ -56,6 +63,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そうだ。
 君がそう言えば、多くの者が
 心休まる事だろう</JapaneseText>
@@ -66,6 +74,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>人を導く者が、
 その態度では困るな</JapaneseText>
       <EnglishText/>
@@ -75,6 +84,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>僕には未だにこいつが
 ディセンダーだなんて思えない。
 何度接しても、やはりただの馬鹿だ</JapaneseText>
@@ -85,6 +95,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そーか？
 ○○って、
 結構いいヤツだぜ？</JapaneseText>
@@ -95,6 +106,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>うん♪　ボクもそう思うヨ。
 でもリッドの「いいヤツ」基準は
 食べ物くれる人なんでしょ？</JapaneseText>
@@ -105,6 +117,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それだけで決めてんじゃねぇよ。
 まあ、デカい要因ではあるけどさ</JapaneseText>
       <EnglishText/>
@@ -114,6 +127,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>フン、まあ僕がどう思おうと、
 ○○が
 ディセンダーである事に変わりはない</JapaneseText>
@@ -124,6 +138,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>すべてはコイツ次第というワケか。
 そのわりには、各国からの
 注目が集まっていないじゃないか</JapaneseText>
@@ -134,6 +149,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…いや、そうでもない。
 ルーク殿やジェイド殿が
 方々に働きかけてくれているらしい</JapaneseText>
@@ -144,6 +160,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>だが各国で起こる混乱のお陰で、
 こちらへの支援の手が回らないといった
 状態だそうだ</JapaneseText>
@@ -154,6 +171,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あ〜、まあ、仕方ないヨ。
 船に乗ってるとわかんないけど、
 結構色々起こってるらしいし</JapaneseText>
@@ -164,6 +182,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…僕達が一つ一つ事件を潰していく
 わけにはいかないからな</JapaneseText>
       <EnglishText/>
@@ -173,6 +192,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>その通りだ。
 我々のみで○○を
 全力で支援し、事態の収束を図る以外無い</JapaneseText>
@@ -183,6 +203,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…やはりこの馬鹿頼りか。
 気に入らんな</JapaneseText>
       <EnglishText/>
@@ -192,6 +213,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>だからいいヤツだって</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -200,6 +222,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>もういいってば、その話は</JapaneseText>
       <EnglishText/>
       <Notes/>

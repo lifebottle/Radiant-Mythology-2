@@ -2,138 +2,160 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>スタン</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sthan</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ルーティ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Rutee</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リアラ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Reala</EnglishText>
       <Notes/>
       <Id>20</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ふぁぁ〜〜〜〜、眠い…</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Yawn... I'm sleepy...</EnglishText>
+      <Notes>13 - Revised by Murilo - 05/06/2024</Notes>
       <SpeakerId>8</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ほら、
 さっさと目を覚ましなさいな。
 何が起こるかわかんないんだからさ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Come on, wake up already. You never
+know what might happen.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そ、そうだよね。
 みんなを守らなぁぁぁぁはあぅふ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Y-Yeah, you're right. I have to protect
+everyone... Yawn...</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>欠伸混じりで言わないでよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Don't say that with a "yawn" mixed in.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あら、どーしたの？
 じーっとあたしを見ちゃってさぁ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh, what's wrong? Oh, what's wrong?
+You're staring at me.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いえ、仲がいいなぁって…</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No, I was just thinking how close
+you two are...</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そ〜ぉ？
 こいつの天然に付き合うのって、
 結構大変なのよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Is that so? Dealing with this guy's
+naivety can be quite a challenge,
+you know.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ええ？　俺って天然かなぁ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Huh? Am I really that naive?</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>で、天然って何？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So, what does "naive" mean?</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…ほらね？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...See?</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カイルの上を行ってます</JapaneseText>
-      <EnglishText/>
+      <EnglishText>He's even more naive than Kyle.</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…あれは遺伝だったのね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...So it runs in the family.</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>12</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

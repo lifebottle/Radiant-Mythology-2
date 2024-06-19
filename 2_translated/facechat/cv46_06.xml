@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クラトス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ルカ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ヴェイグ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -26,6 +29,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -34,6 +38,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>な、なに？　クラトス…。
 僕なんかしたっけ…？</JapaneseText>
       <EnglishText/>
@@ -43,6 +48,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>こう改めて見ると、
 やはりおまえの剣は大きすぎるな。
 剣と体格があっていない</JapaneseText>
@@ -53,6 +59,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そうかなぁ…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -61,6 +68,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ヴェイグ、ちょっといいか？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -69,6 +77,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…なんだ？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -77,6 +86,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>こうして比べてみると歴然だな。
 ルカとヴェイグでは
 明らかに体格が違っている</JapaneseText>
@@ -87,6 +97,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>大剣術とは、いうなれば重さの技。
 相手の受けや武具をもろともに粉砕する
 破壊の技術だ</JapaneseText>
@@ -97,6 +108,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>その通りだ。
 身体全体を使って、大剣を振る。
 体格がすべてを決める、とも言えるな</JapaneseText>
@@ -107,6 +119,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…そ、そうだよね</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -115,6 +128,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…ルカ。
 おまえ、その剣は
 本当に金属なのか？</JapaneseText>
@@ -125,6 +139,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>少し貸してみろ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -133,6 +148,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あ、うん…、どうぞ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -141,6 +157,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クッ…、これは…、
 オレの剣よりも重い…</JapaneseText>
       <EnglishText/>
@@ -150,6 +167,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>私もその剣で戦うだけの
 力はないだろう</JapaneseText>
       <EnglishText/>
@@ -159,6 +177,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ルカは体幹が強いのか…？
 いや、そんな風にも見えんな</JapaneseText>
       <EnglishText/>
@@ -168,6 +187,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ルカ。
 おまえはどこで剣を習った？</JapaneseText>
       <EnglishText/>
@@ -177,6 +197,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>え…、あ…、その、
 習ってっていうか…、
 見てただけっていうか…</JapaneseText>
@@ -187,6 +208,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>我流だというのか？
 それにしては利にかなっているが…</JapaneseText>
       <EnglishText/>
@@ -196,6 +218,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それに「見てた」…だと？
 身近にそれほどの武芸者がいた、
 という事だな</JapaneseText>
@@ -206,6 +229,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ハハハ…、ま、まあいいじゃない。
 じゃ、僕はこの辺で…</JapaneseText>
       <EnglishText/>
@@ -215,6 +239,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…ふに落ちないな</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -223,6 +248,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>剣の道は険しい。
 そのはずなんだがな…</JapaneseText>
       <EnglishText/>

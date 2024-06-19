@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>チャット</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ルーティ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -19,6 +21,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>さあ、ルーティさん。
 海賊と盗賊のコンビ結成ですよ。
 一緒に頑張りましょうね</JapaneseText>
@@ -29,6 +32,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ちょっとぉ！
 あたしは盗賊じゃなく
 トレジャー・ハンターなの！</JapaneseText>
@@ -39,6 +43,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>人聞きの悪い事を
 言わないでもらいたいわね</JapaneseText>
       <EnglishText/>
@@ -48,6 +53,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>敵からアイテムを盗むじゃありませんか。
 アレはドロボウではないと
 おっしゃるわけですか？</JapaneseText>
@@ -58,6 +64,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>敵を倒すと、お金もらえるでしょ？
 アイテムも見つかる事もあるしね</JapaneseText>
       <EnglishText/>
@@ -67,6 +74,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>倒して手に入れるか、
 倒す前に手に入れるのか、だなんて
 些細な違いだと思わない？</JapaneseText>
@@ -77,6 +85,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>説得力ゼロですね</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -85,6 +94,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>う〜ん、やっぱり？</JapaneseText>
       <EnglishText/>
       <Notes/>

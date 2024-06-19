@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>パニール</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -12,6 +13,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…何ででしょうね。
 あなたにあんな話をしてしまって</JapaneseText>
       <EnglishText/>
@@ -21,6 +23,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノの気持ち、わかるわ。
 本当にディセンダーなら、って
 私もつい、すがりたくなったのね</JapaneseText>
@@ -31,6 +34,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あの日、村を失ってから、
 私はカノンノを連れ旅に出ました。
 とても、辛く、苦しい旅…！</JapaneseText>
@@ -41,6 +45,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いつも私達は貧しく、
 時に泥水をすすり、草を食べ</JapaneseText>
       <EnglishText/>
@@ -50,6 +55,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノはそんな境遇でも
 心荒む事なく育ちました。
 それというのも</JapaneseText>
@@ -60,6 +66,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>夢の中で、言葉や、剣や知識を
 教える声がして、いつも支えてくれると
 言うんです</JapaneseText>
@@ -70,6 +77,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>私も最初は、ただの夢だと思っていました。
 ですが、それを真実だと認めざるをえない事が
 起こりました</JapaneseText>
@@ -80,6 +88,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>確かに誰から教わるでもなく、
 ある朝起きたら難しい字を読んだり、
 剣技を使いこなしたりしたんです…</JapaneseText>
@@ -90,6 +99,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なんだか怖いのよ。
 その声が、いつかカノンノを連れて
 行ってしまうような気がして</JapaneseText>

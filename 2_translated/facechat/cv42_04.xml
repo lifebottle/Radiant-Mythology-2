@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リフィル</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>チャット</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>フィリア</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -23,6 +26,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リオン</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -33,6 +37,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ねえ、チャット</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -41,6 +46,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>はい、なんでしょう？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -49,6 +55,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あなたのご先祖が、
 このバンエルティア号で
 活躍し始めたのは何年前？</JapaneseText>
@@ -59,6 +66,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>えっと…、今の年号と、航海日誌の記述の
 年を引き算すると…。
 えっと…</JapaneseText>
@@ -69,6 +77,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ちょ、ちょっとメモないですか？
 メモ！
 メモと鉛筆を探してきます！</JapaneseText>
@@ -79,6 +88,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おおよそ百年前ですね</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -87,6 +97,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>フン…、とんだ老朽艦だな</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -95,6 +106,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>でも、それだけで
 片付く問題かしら？</JapaneseText>
       <EnglishText/>
@@ -104,6 +116,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>どういう事だ？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -112,6 +125,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>古文書にも記載されてる船よ？
 たかだか百年やそこらの昔が
 「古代」に分類されると思う？</JapaneseText>
@@ -122,6 +136,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…そういえば、そうですね。
 船の随所で古代文字を見ますし</JapaneseText>
       <EnglishText/>
@@ -131,6 +146,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>内装をした人間が
 ただの古代語マニアという可能性は？</JapaneseText>
       <EnglishText/>
@@ -140,6 +156,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…そうね、
 そう考えると楽だけれど</JapaneseText>
       <EnglishText/>
@@ -149,6 +166,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ですが、船の持ち主は、
 あのアイフリードでしょう？</JapaneseText>
       <EnglishText/>
@@ -158,6 +176,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>とても古代文字マニアとは
 そぐわない人物像だと思いますが…</JapaneseText>
       <EnglishText/>
@@ -167,6 +186,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -175,6 +195,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…まだまだこの船には
 謎が尽きないわね</JapaneseText>
       <EnglishText/>
@@ -184,6 +205,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>まだまだこの船から
 離れるわけにはいかないわ</JapaneseText>
       <EnglishText/>
@@ -193,6 +215,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>わかりました！
 １０６年前です</JapaneseText>
       <EnglishText/>
@@ -202,6 +225,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ホラ、この年数と今の年数を
 引いた数です</JapaneseText>
       <EnglishText/>
@@ -211,6 +235,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…計算を間違っている。
 ９６年前だぞ</JapaneseText>
       <EnglishText/>
@@ -220,6 +245,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あれ…？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -228,6 +254,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>船の研究より、
 先にすべき事があるようね…</JapaneseText>
       <EnglishText/>

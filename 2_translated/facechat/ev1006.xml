@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アニー</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>パニール</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -19,6 +21,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>もう、ガレット村には帰れないんですね。
 村のみんなは、…大丈夫かしら</JapaneseText>
       <EnglishText/>
@@ -28,6 +31,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あらまあ、お帰りなさいませ。
 今日はシャケをとりましたのよ。
 暖かいクリームシチューに仕立てますね</JapaneseText>
@@ -38,6 +42,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ジェイドさんがね、ガレット村の方々を
 グランマニエで受け入れると
 手続きをしてくれたんですよ</JapaneseText>
@@ -48,6 +53,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ありがとうございます…。
 何から、何まで…</JapaneseText>
       <EnglishText/>
@@ -57,6 +63,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あら、あらあら。
 お礼はジェイドさんにお願いしますよ</JapaneseText>
       <EnglishText/>
@@ -66,6 +73,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それに、あなた達はここで働いて
 恩返しをするって話みたいだし。
 えぇ、ユージーンさんが言ってらしたわよォ</JapaneseText>
@@ -76,6 +84,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>さ、ここは冷えますから中へ。
 暖かいココアを召し上がって下さいな…</JapaneseText>
       <EnglishText/>
@@ -88,6 +97,7 @@
   <Strings>
     <Section>Unreferenced</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ヴェイグがギルドに加わりました。</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -95,6 +105,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ユージーンがギルドに加わりました。</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -102,6 +113,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>マオがギルドに加わりました。</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -109,6 +121,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アニーがギルドに加わりました。</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -116,6 +129,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>セルシウスがギルドに加わりました。</JapaneseText>
       <EnglishText/>
       <Notes/>

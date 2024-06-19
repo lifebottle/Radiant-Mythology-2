@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リッド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ルビア</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>パニール</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -23,6 +26,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ルカ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -33,6 +37,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なあ、○○</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -41,6 +46,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ここで拾われたからって、
 律儀に恩返ししなくたって
 いいと思うぜ</JapaneseText>
@@ -51,6 +57,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そうだろうか</JapaneseText>
       <EnglishText/>
       <Notes>Choice 1</Notes>
@@ -58,6 +65,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そうかも…</JapaneseText>
       <EnglishText/>
       <Notes>Choice 2</Notes>
@@ -65,6 +73,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そうよ。
 これが世間のしがらみってものでしょ。
 リッドさん</JapaneseText>
@@ -75,6 +84,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そうかもしんねぇけど…、
 オレはあんまりそういうの
 好きじゃないなぁ</JapaneseText>
@@ -85,6 +95,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ええ〜？　駄目よ、そんなの。
 それが世間のしがらみって
 ものでしょう？</JapaneseText>
@@ -95,6 +106,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そういうもんかな。
 …オレよくわかんねぇや</JapaneseText>
       <EnglishText/>
@@ -104,6 +116,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>またまた〜、
 そんなに悪ぶらなくてもいいじゃ
 ありませんか</JapaneseText>
@@ -114,6 +127,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>どういう意味？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -122,6 +136,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リッドさんって、なんだかんだで
 他の皆さんの後始末ばかり
 なさってるじゃありませんか？</JapaneseText>
@@ -132,6 +147,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>しょーがねぇだろ？
 キールは口ばっかりだし、
 ファラは後先考えねぇしさ…</JapaneseText>
@@ -142,6 +158,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いえ、あのお二人だけじゃなくて、
 皆さんの分も、ですよ。
 私はちゃんと見てるんですから</JapaneseText>
@@ -152,6 +169,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…僕と似てますよね。
 僕もみんなの当番を代わったり、
 おやつを分けたりしてるし…</JapaneseText>
@@ -162,6 +180,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それは、あなたが
 利用されてるだけじゃないの？</JapaneseText>
       <EnglishText/>
@@ -171,6 +190,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ルカさんはお人よし過ぎるというか、
 押しに弱すぎるというか…</JapaneseText>
       <EnglishText/>
@@ -180,6 +200,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ともかくリッドさんの気遣いとは
 ちょっと違うかしら…？</JapaneseText>
       <EnglishText/>
@@ -189,6 +210,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…だってよ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -197,6 +219,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………</JapaneseText>
       <EnglishText/>
       <Notes/>

@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アニス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ルビア</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -19,6 +21,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>私はスタート地点を決めちゃいますぅ￥</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -27,6 +30,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>何もなさらないんですね？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -35,6 +39,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>設定しちゃいました</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -43,6 +48,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あたしは、環境設定をします！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -51,6 +57,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>何もしないの？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -59,6 +66,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>設定しちゃいました</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -67,6 +75,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>常駐設定数のダミーデータを、
 読み込みました</JapaneseText>
       <EnglishText/>
@@ -76,6 +85,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>イベント発生状態を設定します</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -87,6 +97,7 @@
   <Strings>
     <Section>Unreferenced</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>１章</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -94,6 +105,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>４章</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -101,6 +113,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>５章</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -108,6 +121,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>６章</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -115,6 +129,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>７章</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -122,6 +137,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>８章</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -129,6 +145,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>９章</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -136,6 +153,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>１０章</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -143,6 +161,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>１１章</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -150,6 +169,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>１２章</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -157,6 +177,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>１３章</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -164,6 +185,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>１４章</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -171,6 +193,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>１５章</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -178,6 +201,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>１６章</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -185,6 +209,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>１７章</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -192,6 +217,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>１８章</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -199,6 +225,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>１９章</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -206,6 +233,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>２０章</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -213,6 +241,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>２１章</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -220,6 +249,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>２２章</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -227,6 +257,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>２３章</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -234,6 +265,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>２４章</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -241,6 +273,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>２６章</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -248,6 +281,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>２７章</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -255,6 +289,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>２８章</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -262,6 +297,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>２９章</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -269,6 +305,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>３０章</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -276,6 +313,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>音声の先読み数</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -283,6 +321,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>フェイス常駐数</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -290,6 +329,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ゲーム周回設定</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -297,6 +337,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>先読みナシ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -304,6 +345,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>先読み１個</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -311,6 +353,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>先読み２個</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -318,6 +361,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>先読み３個</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -325,6 +369,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>先読み４個</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -332,6 +377,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>先読み５個</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -339,6 +385,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>常駐なし</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -346,6 +393,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>常駐１枚</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -353,6 +401,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>常駐２枚</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -360,6 +409,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>常駐３枚</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -367,6 +417,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>１周目</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -374,6 +425,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>２周目以降</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -381,6 +433,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>継続プレイ</JapaneseText>
       <EnglishText/>
       <Notes/>

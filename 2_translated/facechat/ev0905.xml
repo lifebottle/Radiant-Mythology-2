@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リフィル</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ゼロス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ハロルド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -23,6 +26,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>プレセア</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -33,6 +37,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ゼロス、報告を続けて。
 これからの対策を練るから</JapaneseText>
       <EnglishText/>
@@ -42,6 +47,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あー…、世界樹の根が爆破されて、
 そんで、根の傷口からだと思うんだけど
 ブワーッと何かが噴き出してきたんだよね</JapaneseText>
@@ -52,6 +58,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>噴き出した？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -60,6 +67,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そんで、妙ちくりんなヤツが
 その中から出てきたわけ</JapaneseText>
       <EnglishText/>
@@ -69,6 +77,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>根の中に潜んでたって事？
 ありえないわね</JapaneseText>
       <EnglishText/>
@@ -78,6 +87,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いえ、事実です。
 ゼロスくんの言葉に嘘はありません</JapaneseText>
       <EnglishText/>
@@ -87,6 +97,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>んでよぉ、そいつ
 俺さま達を攻撃してきたんだ。
 結局、逃げられちまったけど</JapaneseText>
@@ -97,6 +108,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>はっきりしているのは、
 世界樹を守れなかったこと。
 報告出来るのはここまでです</JapaneseText>
@@ -107,6 +119,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>参ったわね、今回の件が世界樹に
 大きなダメージとなったのなら…</JapaneseText>
       <EnglishText/>
@@ -116,6 +129,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>気を落としてもしょうがないわよ！
 どいて</JapaneseText>
       <EnglishText/>
@@ -125,6 +139,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>どこ行くの？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -133,6 +148,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>私、その場所に行ってくる。
 まずは噴出したものが何か、
 正体を突き止めてこようかなって</JapaneseText>
@@ -146,6 +162,7 @@
   <Strings>
     <Section>Unreferenced</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ハロルドがギルドから一時離脱しました。</JapaneseText>
       <EnglishText/>
       <Notes/>

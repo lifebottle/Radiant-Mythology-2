@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ガイ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ルーク</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -19,6 +21,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>さっきはすまなかったな。
 改めて謝罪と礼をさせてくれ</JapaneseText>
       <EnglishText/>
@@ -28,6 +31,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>剣を向けて悪かった。
 そして、ルークを助けてくれて
 ありがとう</JapaneseText>
@@ -38,6 +42,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>俺からも言わせてくれ。
 感謝してる、ありがとう</JapaneseText>
       <EnglishText/>
@@ -47,6 +52,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あのな、ルーク。
 おまえ、仮にも王族だろ？</JapaneseText>
       <EnglishText/>
@@ -56,6 +62,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>公の場じゃないにしても、
 その口調はないんじゃないか</JapaneseText>
       <EnglishText/>
@@ -65,6 +72,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…あ、ああ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -73,6 +81,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>えーっと…、さっきは迷惑をかけて…、
 その、すみませんでした。
 ありがとう</JapaneseText>
@@ -83,6 +92,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>祖国グランマニエの名に掛けて、
 貴公の活躍に感謝の意を
 示させてもらいたく存じます</JapaneseText>
@@ -93,6 +103,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>じゃあ、改めて○○に
 自己紹介だ</JapaneseText>
       <EnglishText/>
@@ -102,6 +113,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…と、従者の俺がするのはまずいな。
 ルーク、おまえから頼む</JapaneseText>
       <EnglishText/>
@@ -111,6 +123,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あ、ああ…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -119,6 +132,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>俺は…いや、私はルーク・フォン・ファブレ
 といいます</JapaneseText>
       <EnglishText/>
@@ -128,6 +142,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>えっと、グランマニエの公爵家のものです</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -136,6 +151,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>こっちは、俺…じゃない、私の従者、
 ガイ・セシル。
 えーと、よろしく…お見知りおき下さい…？</JapaneseText>
@@ -146,6 +162,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おお〜、よく言えた。
 偉い偉い</JapaneseText>
       <EnglishText/>
@@ -155,6 +172,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>バ、バカにすんなよな！
 けど…、駄目だな。
 ああいう口調、全然言い馴れねぇや</JapaneseText>
@@ -165,6 +183,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なあ、○○。
 悪いけど普通に喋らせてもらうけど。
 …いいか？</JapaneseText>
@@ -175,6 +194,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>さんきゅ。
 ま、そんなワケでよろしく頼むよ</JapaneseText>
       <EnglishText/>

@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>&lt;Name:39&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -12,6 +13,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>俺の眷属を
 あっさりと倒しやがって。
 何故、俺の力がかなわない</JapaneseText>
@@ -22,6 +24,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>忌々しいマナの匂い。
 俺を閉じ込めてきた世界樹と
 同じ匂いをあいつは持っている</JapaneseText>
@@ -32,6 +35,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…ディセンダー。
 おまえを倒せば、俺は自由だ。
 この世界に恐れるものは何も無い</JapaneseText>
@@ -42,6 +46,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それにしても何だ、
 この渇きと焦りは…</JapaneseText>
       <EnglishText/>
@@ -51,6 +56,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>バカな…、
 あいつは俺を敵視しているはずだ</JapaneseText>
       <EnglishText/>
@@ -60,6 +66,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…そうだ、あれはワナだ。
 ディセンダーの…</JapaneseText>
       <EnglishText/>
@@ -69,6 +76,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>もっと、ヤツより強く…。
 負を取り入れて、俺はもっと強く…。
 もっと壊して、もっと苦しめてやる…</JapaneseText>
@@ -79,6 +87,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>苦しめばいい。
 すべて、全部…</JapaneseText>
       <EnglishText/>

@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リフィル</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ニアタ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -26,6 +29,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ニアタ…、
 世界樹を回復させる手立てを聞いた時、
 あなたは「世界を覗く」と言ったわね？</JapaneseText>
@@ -36,6 +40,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あの時のように、まだ見つかっていない
 二人の行方を知る事は出来ないかしら？</JapaneseText>
       <EnglishText/>
@@ -45,6 +50,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>世界を覗くには、我々の中に在る
 多くのマナを使う。
 今、我々にはその力は少ないのだよ</JapaneseText>
@@ -55,6 +61,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>私にあるマナを使えない？
 お願いニアタ、力を貸して！</JapaneseText>
       <EnglishText/>
@@ -64,6 +71,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ファラも、アニスも、夢を持ってる。
 叶えたい事があるんだよ。
 だから、終わらせちゃだめ！</JapaneseText>
@@ -74,6 +82,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………。
 カノンノ…</JapaneseText>
       <EnglishText/>
@@ -83,6 +92,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>我等がディセンダーと同じ眼差し。
 覚悟をしているという目だな</JapaneseText>
       <EnglishText/>
@@ -92,6 +102,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>わかった。
 おまえを通して世界を見せよう</JapaneseText>
       <EnglishText/>
@@ -101,6 +112,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ファラは…。
 ここは暑い、とても。</JapaneseText>
       <EnglishText/>
@@ -110,6 +122,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>硫黄の匂いがすごくて。
 ここはレーズン…　火山…？</JapaneseText>
       <EnglishText/>
@@ -119,6 +132,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノ！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -127,6 +141,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>強い娘だ…。
 だが、これ以上は危険かもしれん。
 休ませてやってくれ</JapaneseText>
@@ -137,6 +152,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ええ、医務室へ連れて行くわ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -145,6 +161,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それと、ファラとレーズン火山に
 何か関係あるのか、私から
 リッドとキールに聞いてみるわ</JapaneseText>

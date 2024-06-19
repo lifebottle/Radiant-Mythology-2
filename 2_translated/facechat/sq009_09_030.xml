@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>————</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -19,6 +21,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…これは「精霊台石」！？
 …実際に存在したんだ…初めて見た…</JapaneseText>
       <EnglishText/>
@@ -28,6 +31,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>滅多に見つからない「緑の宝箱」。
 これを開ける鍵となるのが、この「精霊台石」
 だと言われているの</JapaneseText>
@@ -38,6 +42,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>「精霊台石」に「精霊の欠片」をはめて
 台石のパズルを解くと「緑の宝箱」が開く、
 そう聞いた事があるわ</JapaneseText>
@@ -48,6 +53,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>「精霊台石」について説明を聞きますか？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -56,6 +62,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>聞く</JapaneseText>
       <EnglishText/>
       <Notes>Choice 1</Notes>
@@ -63,6 +70,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>聞かない</JapaneseText>
       <EnglishText/>
       <Notes>Choice 2</Notes>
@@ -70,6 +78,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>「精霊台石」は、ダンジョンで稀に見つかる
 「緑の宝箱」を開ける鍵です</JapaneseText>
       <EnglishText/>
@@ -79,6 +88,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>「精霊台石」に「精霊の欠片」を揃えて
 「緑の宝箱」に触れると、宝箱を開ける為の
 パズルが起動します</JapaneseText>
@@ -89,6 +99,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>このパズルを解くと、「緑の宝箱」が開錠され
 中の宝が入手可能となります</JapaneseText>
       <EnglishText/>
@@ -98,6 +109,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>どのダンジョンのどの欠片が揃っているか
 メニューの「ライブラリ」の「精霊台石」で
 確認出来ます</JapaneseText>

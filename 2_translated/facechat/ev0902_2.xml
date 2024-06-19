@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>助手</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>プレセア</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ジャニス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -23,6 +26,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ゼロス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -33,6 +37,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ニャー！！
 しつこい〜</JapaneseText>
       <EnglishText/>
@@ -42,6 +47,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>考え直してください。
 減少傾向にあるマナの恵みを
 これ以上失うのは危険です</JapaneseText>
@@ -52,6 +58,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>その恵みが均一ではないのが問題なのだ！
 その為、地域による貧富の差が生まれ、
 先進国と途上国に隔てられる</JapaneseText>
@@ -62,6 +69,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>マナに満たされた地方はその豊かさに溺れ、
 貧困にあえぐ途上国を見捨てる。
 マナのせいで、飢え死にする者もあるのだ！</JapaneseText>
@@ -72,6 +80,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>私は救いたいんだ。
 新しい力によって、世界を…っ！！</JapaneseText>
       <EnglishText/>
@@ -81,6 +90,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ギブ・ピース・ア・チャンス！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -89,6 +99,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あ〜、ご高説は伺いました、と</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -97,6 +108,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>んで、おまえさあ、なんで痩せた土地でしか
 ラルヴァが生成されないって
 わかってるワケ？</JapaneseText>
@@ -107,6 +119,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アイ・ドント・ノウ！
 知らん！</JapaneseText>
       <EnglishText/>
@@ -116,6 +129,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>だが、成分は自然界に充満する
 無害なマターのはずだ。
 私は、特殊な素材を使ってはいない</JapaneseText>
@@ -126,6 +140,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>やれやれ、学者にしちゃあ随分お粗末だな。
 無名なのも、こりゃしゃ〜ねぇな</JapaneseText>
       <EnglishText/>
@@ -135,6 +150,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>せ、先生が無名なのは、陰謀のせいなんだ！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -143,6 +159,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>マナ先進国のちょうちん研究しかしない
 学者達が、ラルヴァの台頭を恐れ、
 先生を異端として排斥しちゃったからなんだ</JapaneseText>
@@ -153,6 +170,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>だから結果を提示しちゃわないと！
 学会の石頭達を黙らせるには
 ラルヴァをまず認めさせるしかないんだ！</JapaneseText>
@@ -163,6 +181,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>研究は…、二の次さ！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -171,6 +190,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いない…！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -179,6 +199,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>これまた古典的な事やってくれちゃって。
 しゃあねぇ、追っかけるか</JapaneseText>
       <EnglishText/>

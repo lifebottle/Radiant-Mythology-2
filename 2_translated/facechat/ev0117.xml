@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>&lt;Name:82&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -19,6 +21,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>お疲れ様、○○。
 ここの生活には慣れた？</JapaneseText>
       <EnglishText/>
@@ -28,6 +31,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>んー…</JapaneseText>
       <EnglishText/>
       <Notes>Choice 1</Notes>
@@ -35,6 +39,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>大丈夫</JapaneseText>
       <EnglishText/>
       <Notes>Choice 2</Notes>
@@ -42,6 +47,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そう、よかった。
 みんないい人達だもんね</JapaneseText>
       <EnglishText/>
@@ -51,6 +57,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そっかー。
 器用だもんねぇ、仕事だって
 すいすい終わらせちゃうし</JapaneseText>
@@ -61,6 +68,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>○○なら
 何でもやれそうだもんね</JapaneseText>
       <EnglishText/>
@@ -70,6 +78,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>私は…、最近やっと慣れたのかな？
 最初は船酔いが大変だった</JapaneseText>
       <EnglishText/>
@@ -79,6 +88,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>船が苦手だったの？</JapaneseText>
       <EnglishText/>
       <Notes>Choice 1</Notes>
@@ -86,6 +96,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>今は平気？</JapaneseText>
       <EnglishText/>
       <Notes>Choice 2</Notes>
@@ -93,6 +104,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そう…、だね</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -101,6 +113,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>でも、海に出るチャンスを
 逃したくなかったし。
 絶対に船酔いなんか乗り越えてやるーって</JapaneseText>
@@ -111,6 +124,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>うん。
 今はね、嵐の日でもへっちゃら。
 どんな波が来ても大丈夫</JapaneseText>
@@ -121,6 +135,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>私ね、海に出たかったんだ。
 どうしても…</JapaneseText>
       <EnglishText/>
@@ -130,6 +145,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>小さい頃からずっと
 そればかりを考えて
 生きてきたから</JapaneseText>
@@ -140,6 +156,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -148,6 +165,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>自分でもわかんないんだけど、
 海からね、誰かが私を呼んでいるんだ</JapaneseText>
       <EnglishText/>
@@ -157,6 +175,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>笑う</JapaneseText>
       <EnglishText/>
       <Notes>Choice 1</Notes>
@@ -164,6 +183,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>笑わない</JapaneseText>
       <EnglishText/>
       <Notes>Choice 2</Notes>
@@ -171,6 +191,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あー、やっぱり笑われちゃったかぁ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -179,6 +200,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>けどね、本当なの。
 誰かが呼んでるのは</JapaneseText>
       <EnglishText/>
@@ -188,6 +210,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>笑われても、それが私の現実だから
 しょうがないしね</JapaneseText>
       <EnglishText/>
@@ -197,6 +220,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…あ</JapaneseText>
       <EnglishText/>
       <Notes>Previous Choice 2 leads here</Notes>
@@ -205,6 +229,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ううん、ごめん。
 ちょっと驚いちゃった</JapaneseText>
       <EnglishText/>
@@ -214,6 +239,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>だって、この話をして笑わなかったの
 あなたが初めてだもん</JapaneseText>
       <EnglishText/>
@@ -223,6 +249,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>でも、信じるしかないんだ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -231,6 +258,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>みんな、そんな事あるもんかって
 言うけれど。
 信じるしかないんだ、私には…</JapaneseText>
@@ -241,6 +269,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ひょっとしたら、声の主が
 お父さんとお母さんで、海のどこかで
 私を呼んでいるかもしれないし…</JapaneseText>

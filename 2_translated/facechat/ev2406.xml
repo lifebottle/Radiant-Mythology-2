@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>&lt;Name:49&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ファラ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リッド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -23,6 +26,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>キール</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -33,6 +37,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>苦しかった。
 心から笑いたくてもずっと、罪が重かった</JapaneseText>
       <EnglishText/>
@@ -42,6 +47,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それから逃れたくて、
 わたしは、わたしの世界を狭くして</JapaneseText>
       <EnglishText/>
@@ -51,6 +57,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>人の心も理解せずに善意を押し付けて…。
 空回りして、その繰り返し…</JapaneseText>
       <EnglishText/>
@@ -60,6 +67,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>人の幸せの為って思い込む事で
 罪から目をそらしたくて…</JapaneseText>
       <EnglishText/>
@@ -69,6 +77,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ごめんね、辛かったね、あの時のわたし…。
 自分を責めるだけの生き方は、もうやめる</JapaneseText>
       <EnglishText/>
@@ -78,6 +87,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そして、本当に人の為に
 なるように頑張っていくよ</JapaneseText>
       <EnglishText/>
@@ -87,6 +97,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>許してくれて、…ありがとう</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -95,6 +106,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ファラ…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -103,6 +115,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リッド、キール…。
 今までゴメンね</JapaneseText>
       <EnglishText/>
@@ -112,6 +125,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ギルドを始めようって言ったのも
 全部わたしの…罪悪感からのワガママだった。
 ずっと、二人を巻き込みっぱなしで…</JapaneseText>
@@ -122,6 +136,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>気にすんなよ。
 一人で抱え込み過ぎだっての</JapaneseText>
       <EnglishText/>
@@ -131,6 +146,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それを言ったら、
 オレ達だって同罪だろうが</JapaneseText>
       <EnglishText/>
@@ -140,6 +156,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…ううん、違う。
 リッドとキールは封印の事は知らなかった</JapaneseText>
       <EnglishText/>
@@ -149,6 +166,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ただあの場所に近付いちゃ駄目って
 大人に言われていただけ</JapaneseText>
       <EnglishText/>
@@ -158,6 +176,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あそこに封印があったなんて、
 村長の娘だったわたししか知らなかった…</JapaneseText>
       <EnglishText/>
@@ -167,6 +186,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そ、そうだった…かな…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -175,6 +195,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>だから、わたしの方が罪が重いの。
 怒られた時に、リッドが知っててやったって
 言って私をかばってくれたんだよ</JapaneseText>
@@ -185,6 +206,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>けど、ファラの暴走は
 間違っちゃいない</JapaneseText>
       <EnglishText/>
@@ -194,6 +216,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ああ、アドリビトムはファラが始めたんだ。
 そのギルドが今やディセンダーを迎え、
 世界を救おうと動いてるんだから</JapaneseText>
@@ -204,6 +227,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おとぎ話とか言ってなかった？と、言う</JapaneseText>
       <EnglishText/>
       <Notes>Choice 1</Notes>
@@ -211,6 +235,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>黙っている</JapaneseText>
       <EnglishText/>
       <Notes>Choice 2</Notes>
@@ -218,6 +243,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あれは…、あの時は確かにそう言った。
 けど、おまえは本物だった</JapaneseText>
       <EnglishText/>
@@ -227,6 +253,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ぼくの思い込みが事実に反していた、
 ただそれだけの事だろ？</JapaneseText>
       <EnglishText/>
@@ -236,6 +263,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>少しは反応をしろよ、○○！
 おまえの話をしてるんだぞ！！</JapaneseText>
       <EnglishText/>
@@ -245,6 +273,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ともかく、過去の事より、今の事だ。
 戻ろう…、ファラ</JapaneseText>
       <EnglishText/>
@@ -254,6 +283,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>オレ、ファラの後始末、
 ちょっとは面倒だったけど、
 そんなに嫌でもなかったんだぜ</JapaneseText>
@@ -264,6 +294,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>だから…、な？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -272,6 +303,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>うん…。
 ありがとう。
 ほんとに…、ありがとう…</JapaneseText>
@@ -285,6 +317,7 @@
   <Strings>
     <Section>Unreferenced</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>Bip01 L Hand</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -292,6 +325,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>Bip01 L Calf</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -299,6 +333,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>Bip01 Pelvis</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -306,6 +341,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>Bip01 L Foot</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -313,6 +349,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>Bip01 Spine</JapaneseText>
       <EnglishText/>
       <Notes/>

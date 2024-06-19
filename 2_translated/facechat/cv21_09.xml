@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ファラ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>キール</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リッド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -26,6 +29,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>村のみんな、どうしてるかな？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -34,6 +38,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そろそろ収穫の季節だろ？
 村総出で農具の手入れでもしてんじゃ
 ないのかな</JapaneseText>
@@ -44,6 +49,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>だな。
 でも…、今年は凶作かもしんねぇ</JapaneseText>
       <EnglishText/>
@@ -53,6 +59,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>マナの枯渇のせいか？</JapaneseText>
       <EnglishText/>
       <Notes>Choice 1</Notes>
@@ -60,6 +67,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>仕方ない</JapaneseText>
       <EnglishText/>
       <Notes>Choice 2</Notes>
@@ -67,6 +75,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>仕方ねぇよ。
 こればっかりは</JapaneseText>
       <EnglishText/>
@@ -76,6 +85,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>マナの枯渇のせいだもんな。
 どーしょうもねぇさ</JapaneseText>
       <EnglishText/>
@@ -85,6 +95,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>でも、これで落ち込んでちゃ
 駄目だよね！</JapaneseText>
       <EnglishText/>
@@ -94,6 +105,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>お野菜は愛情を注がないと
 美味しく育ってくれないんだから</JapaneseText>
       <EnglishText/>
@@ -103,6 +115,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いや、ぼくが思うに土の成分が
 大きく関係してるんじゃないかな</JapaneseText>
       <EnglishText/>
@@ -112,6 +125,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>野菜の持つ独特の甘味を「美味しさ」と
 するならば、つまり育成過程の中で…</JapaneseText>
       <EnglishText/>
@@ -121,6 +135,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ああ、もういいって。
 大体おまえって、収穫で忙しいってのに
 全然手伝わなかっただろ</JapaneseText>
@@ -131,6 +146,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そんなヤツが味がどうこう言うのは
 変じゃねーのか？</JapaneseText>
       <EnglishText/>
@@ -140,6 +156,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あれはっ！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -148,6 +165,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…手伝わなくていいって言われてたんだ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -156,6 +174,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>だって、キールは秀才だもん！
 勉強の為に、作業を
 免除されてたんだよ</JapaneseText>
@@ -166,6 +185,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>村から大学生が出るなんて、
 すごくおめでたいことだもんね！</JapaneseText>
       <EnglishText/>
@@ -175,6 +195,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -183,6 +204,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>体力無くて、
 すぐ倒れちまうからじゃねーの？
 介抱するのも手が掛かるし</JapaneseText>
@@ -193,6 +215,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>な、なんで知ってるんだよ！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -201,6 +224,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>まあいいじゃない</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -209,6 +233,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>一段落したら、一度村に
 帰ってみようよ</JapaneseText>
       <EnglishText/>
@@ -218,6 +243,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そうだな…。
 久しぶりに、見晴し台に行くか…</JapaneseText>
       <EnglishText/>
@@ -227,6 +253,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そだね、もう夜更かししても
 怒られない年齢だし、
 今度はちゃんと星を眺めようっと</JapaneseText>
@@ -237,6 +264,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>キールも、もう暗くて怖い怖いって
 泣かないだろうしな</JapaneseText>
       <EnglishText/>
@@ -246,6 +274,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>だから、なんでそんな事ばっかり
 覚えているんだよ！</JapaneseText>
       <EnglishText/>

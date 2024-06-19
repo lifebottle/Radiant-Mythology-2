@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ルカ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>イリア</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -19,6 +21,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あ、こんにちは。
 僕はルカ・ミルダと申します</JapaneseText>
       <EnglishText/>
@@ -28,6 +31,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ああ〜、もうっ。
 相変わらず堅っ苦しい挨拶ね</JapaneseText>
       <EnglishText/>
@@ -37,6 +41,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>で、でも…、初対面の挨拶って
 大事だと思うよ？
 やっぱり丁寧にしといた方が…</JapaneseText>
@@ -47,6 +52,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ふふん、あんた海賊の掟を
 知らないんじゃないの？
 「後輩は先輩に絶対服従」！</JapaneseText>
@@ -57,6 +63,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>○○は、今日から
 働くってワケでしょ？
 じゃあ、あたし達先輩じゃん！</JapaneseText>
@@ -67,6 +74,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>その掟、
 今イリアが作ったんじゃないの…？</JapaneseText>
       <EnglishText/>
@@ -76,6 +84,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あらン、鋭いわねぇルカ君ったら♪</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -84,6 +93,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>丁寧に挨拶をする</JapaneseText>
       <EnglishText/>
       <Notes>Choice 1</Notes>
@@ -91,6 +101,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>敬語は不要だと言う</JapaneseText>
       <EnglishText/>
       <Notes>Choice 2</Notes>
@@ -98,6 +109,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ほら、イリア。
 君も挨拶しないと</JapaneseText>
       <EnglishText/>
@@ -107,6 +119,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あ〜、もう、わかったっての！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -115,6 +128,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>えーっと、あたしはイリア・アニーミよ。
 ま、とりあえず仲良くやりましょ！
 とーぜん、敬語は不要だからね</JapaneseText>
@@ -125,6 +139,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あ、うん…でも…</JapaneseText>
       <EnglishText/>
       <Notes>Previous Choice 2 leads here</Notes>
@@ -133,6 +148,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ほーら、そんなんだから、
 あんたいつまでたっても
 友達が出来ないってのよ！</JapaneseText>
@@ -143,6 +159,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あ、あたしはイリア・アニーミね。
 よろしくぅ！</JapaneseText>
       <EnglishText/>

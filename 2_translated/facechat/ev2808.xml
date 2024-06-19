@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ジェイド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>イリア</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アニー</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -23,6 +26,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ミント</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -30,6 +34,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>キール</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -37,6 +42,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クラトス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -44,6 +50,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リオン</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -51,6 +58,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ユージーン</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -58,6 +66,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ウッドロウ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -65,6 +74,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アッシュ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -72,6 +82,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ハロルド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -79,6 +90,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>セルシウス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -89,6 +101,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>みなさん、
 ○○がお帰りです</JapaneseText>
       <EnglishText/>
@@ -98,6 +111,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>よく、がんばってくれました。
 アンテナの設置も終わり、
 ようやく負を世界樹へ流せます</JapaneseText>
@@ -108,6 +122,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>自分の名前以外、
 な〜んにも知らなかった
 ○○がね〜</JapaneseText>
@@ -118,6 +133,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あの…、あなたはいつも何事にも
 真剣に取り組んでいました。
 わたし、尊敬します</JapaneseText>
@@ -128,6 +144,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そう、まるで階段を駆け上がって
 いくように…。
 ひとつひとつに立ち向かっていました</JapaneseText>
@@ -138,6 +155,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おとぎ話の通りだったな。
 おまえは本当に様々な姿を持っていた</JapaneseText>
       <EnglishText/>
@@ -147,6 +165,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おまえは常に、奔放だった。
 ディセンダーとしての義務に
 縛られる事なく、な</JapaneseText>
@@ -157,6 +176,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…そうだな。
 バカのやる事は
 僕の理解をいつも超えていた</JapaneseText>
@@ -167,6 +187,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>まったく、おめでたいヤツだ…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -175,6 +196,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>俺は、おまえと共に力をつくした日々を
 誇りに思おう</JapaneseText>
       <EnglishText/>
@@ -184,6 +206,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おまえがディセンダーだからではない。
 その生き様に心から敬意を払う</JapaneseText>
       <EnglishText/>
@@ -193,6 +216,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あらゆる困難も、君を前にしては
 ただの挑戦に過ぎないのだな</JapaneseText>
       <EnglishText/>
@@ -202,6 +226,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>君のその姿に、多くを学ばせてもらったよ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -210,6 +235,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -218,6 +244,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>フン、ひと段落ついたからといって
 油断するなよ。
 未熟者が</JapaneseText>
@@ -228,6 +255,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おまえの中には、
 まだまだ力が潜んでやがる。
 出し惜しみしてんじゃねぇぞ</JapaneseText>
@@ -238,6 +266,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>これより世界樹のもとへ
 移動します</JapaneseText>
       <EnglishText/>
@@ -247,6 +276,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ハロルド、セルシウス。
 準備はいいですか？</JapaneseText>
       <EnglishText/>
@@ -256,6 +286,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>オッケーよ￥
 いつ、キューをもらっても
 構わないわ</JapaneseText>
@@ -266,6 +297,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>こちらも、いい。
 グラニデ中の精霊に
 協力を要請した</JapaneseText>
@@ -276,6 +308,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>精霊界への道が開ければ、
 あとは我ら精霊の仕事だ</JapaneseText>
       <EnglishText/>
@@ -285,6 +318,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>わかりました</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -293,6 +327,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>では、総員、甲板に集合！
 穢れ流しを始めます</JapaneseText>
       <EnglishText/>

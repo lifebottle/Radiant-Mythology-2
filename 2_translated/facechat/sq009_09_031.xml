@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>チャット</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -12,6 +13,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そう言えば、アメールの洞窟の南西にある
 「闘技場」はご存知ですか？</JapaneseText>
       <EnglishText/>
@@ -21,6 +23,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>知らない</JapaneseText>
       <EnglishText/>
       <Notes>Choice 1</Notes>
@@ -28,6 +31,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>知ってる</JapaneseText>
       <EnglishText/>
       <Notes>Choice 2</Notes>
@@ -35,6 +39,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>まあ、記憶を失くしているのですから
 当然でしょうね</JapaneseText>
       <EnglishText/>
@@ -44,6 +49,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>「闘技場」とは、鍛え上げられた体と体、
 技と技をぶつけ合って、真のツワモノを決める
 漢達の殿堂です！</JapaneseText>
@@ -54,6 +60,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ボクは、現チャンピオンの大ファンなんです！
 彼の底知れぬ強さと言ったらもうっ！
 戦う者全てが憧れる存在ですね</JapaneseText>
@@ -64,6 +71,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…ただ、現チャンプが強すぎて勝負にならず
 大会が盛り上がりに欠けるのも事実…</JapaneseText>
       <EnglishText/>
@@ -73,6 +81,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>彼に匹敵する強さを持ったチャレンジャーが
 現れれば、また盛り上がるのでしょうけどね…</JapaneseText>
       <EnglishText/>
@@ -82,6 +91,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ほっほ〜、ご存知でしたか。
 少し記憶が戻ってきましたか？
 気になるようでしたら足を運んでも結構ですよ</JapaneseText>

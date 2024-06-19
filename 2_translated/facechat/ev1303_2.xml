@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ニアタ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リフィル</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -26,6 +29,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>玉座…？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -34,6 +38,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ようこそ…。
 ここが我々の中枢だ</JapaneseText>
       <EnglishText/>
@@ -43,6 +48,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>さて、グラニデのディセンダー。
 そなたが存在すると言う事は
 この世界に何かあったのではないかね？</JapaneseText>
@@ -53,6 +59,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>世界に溢れた「負」を
 消し去る方法とな</JapaneseText>
       <EnglishText/>
@@ -62,6 +69,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>他の世界ではどうかしら？
 ここを見る限り、あなたの世界は
 随分文明が進んでいたようだけれど</JapaneseText>
@@ -72,6 +80,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>残念だが、「負」を消す事は出来ない</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -80,6 +89,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>やはり、世界樹でなければ
 負を無に還す事が出来ないのね</JapaneseText>
       <EnglishText/>
@@ -89,6 +99,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>「無」かね？
 本当に「無」というものは無い。
 世界樹が負を無に還すなどとは考えられぬ</JapaneseText>
@@ -99,6 +110,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>しかし、世界樹の傷の回復を
 促進させる事は叶えられよう</JapaneseText>
       <EnglishText/>
@@ -108,6 +120,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>その方法、私達に教えてもらえないかしら</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -116,6 +129,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…我々の故郷、そしてディセンダーが
 受け継がれた世界の為とあらば</JapaneseText>
       <EnglishText/>
@@ -125,6 +139,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ここまで生き長らえてきた甲斐も
 あるというものだ</JapaneseText>
       <EnglishText/>
@@ -134,6 +149,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>しばし、待たれよ。
 この世界を覗かせてくれ</JapaneseText>
       <EnglishText/>
@@ -143,6 +159,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リフィルとやら。
 今から、必要な事をそなたの記憶に転写する。
 そして、その通りにするがいい</JapaneseText>
@@ -153,6 +170,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>何、今の…？
 まるで頭の中に何かを書き込まれたみたい</JapaneseText>
       <EnglishText/>
@@ -162,6 +180,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ニアタ、今のが世界樹を回復させる為に
 「必要な事」なのね</JapaneseText>
       <EnglishText/>
@@ -171,6 +190,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…………………</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -179,6 +199,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ニアタ…？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -187,6 +208,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>急に…力を使って…
 回路…が、…一部…
 した…ようだ…</JapaneseText>
@@ -197,6 +219,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノを…頼ん…だぞ…。
 グラニデの…ディセンダー…</JapaneseText>
       <EnglishText/>
@@ -206,6 +229,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…一旦戻りましょう</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -214,6 +238,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>これから取り掛からなければ
 ならない事がたくさんあってよ</JapaneseText>
       <EnglishText/>
@@ -223,6 +248,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それに…、私達ではここの仕組みを
 理解出来ないもの</JapaneseText>
       <EnglishText/>
@@ -232,6 +258,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -240,6 +267,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>話は帰ってからね。
 戻りましょう</JapaneseText>
       <EnglishText/>

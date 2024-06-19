@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リフィル</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -12,6 +13,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>○○、
 目的地はここだ</JapaneseText>
       <EnglishText/>
@@ -21,6 +23,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ここにも、かつてこの都市の住人と
 グラニデが接触を持っていた証拠がある</JapaneseText>
       <EnglishText/>
@@ -30,6 +33,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>この場所にある文字は、
 比較的、今のグラニデの文字に近い。
 解読もしやすいだろう</JapaneseText>
@@ -40,6 +44,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ふははははー！
 素晴らしい！！
 見つけたぞ、太古の技術を</JapaneseText>
@@ -50,6 +55,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>こいつだな。
 特殊な合金を生み出す方法が書いて
 あるようだ</JapaneseText>
@@ -60,6 +66,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>完全にとは行かないが、
 今の製錬技術に応用出来るだろう</JapaneseText>
       <EnglishText/>
@@ -69,6 +76,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>よし、ここにある文字は書き写した。
 調査終了だ。
 さあ、帰りの護衛も頼んだぞ！</JapaneseText>

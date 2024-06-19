@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>フィリア</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>チャット</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リフィル</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -26,6 +29,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そういえばニアタさんのお話では、
 以前この船を見た、との事でしたが…？</JapaneseText>
       <EnglishText/>
@@ -35,6 +39,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>どういう事でしょうね。
 ニアタは何千年もあの遺跡の中で
 眠っていらしたのでしょう？</JapaneseText>
@@ -45,6 +50,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>正確には、
 別の世界で同じような仕組みの
 船を見た、よ</JapaneseText>
@@ -55,6 +61,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>その言葉を信じるなら、
 別世界には、今と同等の
 技術力があった、というわけですね</JapaneseText>
@@ -65,6 +72,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いえ、同等とはいえないわ。
 グラニデ中の技術者がよって集っても
 同じ機能を備えた船は作れないもの</JapaneseText>
@@ -75,6 +83,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そうですよね。
 こんな船に戦場へやって来られては
 手も足も出ませんよね</JapaneseText>
@@ -85,6 +94,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>当然でしょう。
 あらゆる敵艦隊を打ち倒して来た、と
 日誌にあったんですから</JapaneseText>
@@ -95,6 +105,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>現代ですら対抗手段がないんですから、
 １００年前ならなおさらだわ</JapaneseText>
       <EnglishText/>
@@ -104,6 +115,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…１００年前に、すでに現在の技術力を
 大きく越えていたわけですよね</JapaneseText>
       <EnglishText/>
@@ -113,6 +125,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>でしたら、この船が建造されたのは
 どれぐらい前なんでしょうか？</JapaneseText>
       <EnglishText/>
@@ -122,6 +135,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>えっと…、日誌によると…
 アイフリード没年があの年で…</JapaneseText>
       <EnglishText/>
@@ -131,6 +145,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そしてマクストン技師に会って、
 大改造をした時には、すでに建造されて
 何年も経っていて…</JapaneseText>
@@ -141,6 +156,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>覚えていないの？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -149,6 +165,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>覚えていますよ！
 ただ…</JapaneseText>
       <EnglishText/>
@@ -158,6 +175,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>どうしたんですか？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -166,6 +184,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>暗算が苦手なだけです！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -174,6 +193,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…今度ロイドと一緒に
 補習授業を受けてもらおうかしら</JapaneseText>
       <EnglishText/>

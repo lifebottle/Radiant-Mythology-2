@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ゼロス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>フィリア</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>コングマン</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -23,6 +26,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ユージーン</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -33,6 +37,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いやぁ、俺さまは運がいい。
 なんたって、神の遣わした智と美の化身、
 フィリアちゃんの側に居られるんだもんな</JapaneseText>
@@ -43,6 +48,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そんな…、私はそのような大層な者では…。
 もう、止めて下さい</JapaneseText>
       <EnglishText/>
@@ -52,6 +58,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そんな事言われたって、
 神を愛する心は抑えられないぜ？
 さあ、一緒に二人でお祈りをしてみないか</JapaneseText>
@@ -62,6 +69,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おう、ちょっと待ちな！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -70,6 +78,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>フィリアさんが嫌がってるぜ。
 与太者はとっとと去りな</JapaneseText>
       <EnglishText/>
@@ -79,6 +88,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ええ〜、俺さま与太者呼ばわり？
 おいおい、いきなり横から出てきて
 その言い方はないんじゃねーの</JapaneseText>
@@ -89,6 +99,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それに、
 フィリアちゃん全然嫌がってないじゃん。
 ねえ？</JapaneseText>
@@ -99,6 +110,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>え、ええ、嫌というわけでは…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -107,6 +119,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>黙れ黙れ黙れ！
 さあ、さっさと俺様とフィリアさんの
 目の前から消えろ！</JapaneseText>
@@ -117,6 +130,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>さもないと…、俺様のトレビア〜ンな
 ヒップをお見舞いするぜ？</JapaneseText>
       <EnglishText/>
@@ -126,6 +140,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あれ…、俺さま今、ひょっとして
 挑発されちゃってるわけ？
 やれやれ、命知らずもいたもんだぜぇ</JapaneseText>
@@ -136,6 +151,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>お止め下さい、お二人とも！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -144,6 +160,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>何をしている！
 私闘なぞ、この俺が許さんぞ！</JapaneseText>
       <EnglishText/>
@@ -153,6 +170,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>げっ、怖いおっさんが来た…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -161,6 +179,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>画面がむさくるしくなっちまうから、
 俺さま消えるわ</JapaneseText>
       <EnglishText/>
@@ -170,6 +189,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>じゃあフィリアちゃん、またね〜</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -178,6 +198,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>大丈夫でしたか！？
 フィリアさん</JapaneseText>
       <EnglishText/>
@@ -187,6 +208,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>はい、何も問題ありません</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -195,6 +217,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そうですか！
 それは良かった！</JapaneseText>
       <EnglishText/>
@@ -204,6 +227,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>またあの男に言い寄られたならば、
 このコングマンをお呼び下さい。
 すぐさま尻の下敷きにしてやります</JapaneseText>
@@ -214,6 +238,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ふう…
 似た者同士、
 仲良くやれないものでしょうか？</JapaneseText>
@@ -224,6 +249,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>自信家の「オレサマ」野郎同士な</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -232,6 +258,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>だが無理だろう。
 おまえに好意を寄せている点まで
 似てしまってはな</JapaneseText>
@@ -242,6 +269,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そう…、ですか…</JapaneseText>
       <EnglishText/>
       <Notes/>

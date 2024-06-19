@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リフィル</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ニアタ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -19,6 +21,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ニアタ！
 …ニアタ、でいいのね。
 私の声が聞こえて？</JapaneseText>
@@ -29,6 +32,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>私はリフィル・セイジ。
 色々話を聞いてもよくって？</JapaneseText>
       <EnglishText/>
@@ -38,6 +42,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ここグラニデが、あなたの世界の子と
 言ったわね。
 それはどう言う意味なの？</JapaneseText>
@@ -48,6 +53,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>世界樹はマナとディセンダーを生み出す
 ばかりではない</JapaneseText>
       <EnglishText/>
@@ -57,6 +63,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>世界樹は、新たな世界となる種子をつけ、
 世界を生み出す超生命体。
 世界とは、世界より生まれしもの</JapaneseText>
@@ -67,6 +74,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>世界とて「寿命」がある。
 それ故、新たな世界を生み出し、
 世界の記憶を次へ受け継がせるのだ</JapaneseText>
@@ -77,6 +85,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>我々の世界が
 この世界に受け継がれたように…</JapaneseText>
       <EnglishText/>
@@ -86,6 +95,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>では、記憶を共有する世界が
 他にも存在するのね</JapaneseText>
       <EnglishText/>
@@ -95,6 +105,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノだけではなく、
 私やこの子が存在する異世界が</JapaneseText>
       <EnglishText/>
@@ -104,6 +115,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そうだな。
 そう言えばそなたには会った事がある。
 たしか「テレジア」という世界だったか</JapaneseText>
@@ -114,6 +126,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>もっとも、遠い過去の話だ。
 厳密に言えば別人だがね</JapaneseText>
       <EnglishText/>
@@ -123,6 +136,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…途方もない話ね。
 夢を見てるんじゃないかしら</JapaneseText>
       <EnglishText/>

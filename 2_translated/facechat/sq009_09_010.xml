@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -12,6 +13,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アイテムは、どれも頼りになる物ばかり。
 ガルドが許す限り小まめに補充して
 切らさないようにするのが理想ね</JapaneseText>
@@ -22,6 +24,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>△ボタンで開くメニューの「アイテム」。
 ここで、今持っているアイテムを
 確認出来るわ</JapaneseText>
@@ -32,6 +35,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>グミやボトルみたいな回復アイテムは、
 ここで使う事も出来るの。
 大事な事だから忘れないでね</JapaneseText>

@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ジェイド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>チャット</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ルカ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -23,6 +26,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>キール</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -33,6 +37,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>決めました。
 とりあえず私達は、ここでこのまま
 かくまってもらう事にしましょう</JapaneseText>
@@ -43,6 +48,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>テロの標的はもう御免ですし、
 何よりこの船に関心が湧きましたから</JapaneseText>
       <EnglishText/>
@@ -52,6 +58,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>勝手に決めないで下さい。
 船長はボクですよ？
 あなたの処遇はボクが決めます</JapaneseText>
@@ -62,6 +69,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おや、いいんですか？
 所属や国籍不明の船舶は
 立派な航行法違反になりますね</JapaneseText>
@@ -72,6 +80,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>軍規に則り、制圧という展開も
 考えられますが…</JapaneseText>
       <EnglishText/>
@@ -81,6 +90,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>か、海賊はそんな脅しに屈しません！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -89,6 +99,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そこのお坊っちゃんや
 学生さんも海賊だったんですか？
 だったら容赦しませんが…</JapaneseText>
@@ -99,6 +110,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>………えぇぇ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -107,6 +119,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ぼ、ぼくは関係ないからな！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -115,6 +128,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>まあまあ、無所属船なのですから、
 我が国所属になればいいんですよ</JapaneseText>
       <EnglishText/>
@@ -124,6 +138,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>バカな！
 軍船にされるなんてお断りです！</JapaneseText>
       <EnglishText/>
@@ -133,6 +148,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ならば…、ギルドとしてならどうです？
 現状ではまともに依頼など来ないでしょう</JapaneseText>
       <EnglishText/>
@@ -142,6 +158,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>我が国の正式な認可があるとすれば、
 状況はまるで違うと思いますが？</JapaneseText>
       <EnglishText/>
@@ -151,6 +168,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…それは悪くないな</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -159,6 +177,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>悪くないどころか、
 これって好都合なんじゃない？</JapaneseText>
       <EnglishText/>
@@ -168,6 +187,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…いいでしょう。
 ただし、あなたがたもボクの子分として
 船に乗ってもらいます</JapaneseText>
@@ -178,6 +198,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>雑用や、ギルドの仕事を
 請け負ってもらう事になりますが
 とーぜん構いませんね？</JapaneseText>
@@ -188,6 +209,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ええ、もちろんですとも。
 さてと、それにはまず
 ギルドの名前を決めないといけませんね</JapaneseText>
@@ -198,6 +220,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ふむ、「アドリビトム」というのは
 どうでしょう？</JapaneseText>
       <EnglishText/>
@@ -207,6 +230,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>「アドリビトム」…か。
 古代神官語で「自由」という意味だ</JapaneseText>
       <EnglishText/>
@@ -216,6 +240,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>僕達に、ピッタリかもしれないね</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -224,6 +249,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>結構ですね！
 さあ、これから忙しくなりますよ。
 たくさん依頼が来るのを待ちましょう！</JapaneseText>
@@ -237,6 +263,7 @@
   <Strings>
     <Section>Unreferenced</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>「アドリビトム」の称号を得ました。</JapaneseText>
       <EnglishText/>
       <Notes/>

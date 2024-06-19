@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ジェイド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ゼロス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ハロルド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -23,6 +26,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>&lt;Name:83&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -33,6 +37,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>さて、定石でいうなら
 ここにハロルドがいるはずですね</JapaneseText>
       <EnglishText/>
@@ -42,6 +47,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>だろうな</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -50,6 +56,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>まあ、アルファシステムの仕事だし、
 仕掛けがあって、さらに奥に道が…
 なんて凝ったダンジョン作んないって</JapaneseText>
@@ -60,6 +67,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ええ、同意します</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -68,6 +76,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…あれ？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -76,6 +85,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ハロルドじゃありませんか。
 一体どうし…</JapaneseText>
       <EnglishText/>
@@ -85,6 +95,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あ、ちょうど良かった。
 あんた達、手伝ってくんない？</JapaneseText>
       <EnglishText/>
@@ -94,6 +105,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ほら、これだ。
 この唐突感。
 それでこそハロルド様だぜ</JapaneseText>
@@ -104,6 +116,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>んで、何を手伝えばいいの？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -112,6 +125,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>バリケードを作るの。
 ここ封鎖して、一時退避しましょ</JapaneseText>
       <EnglishText/>
@@ -121,6 +135,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>と、その前になんの実験を
 していたのか聞かせてもらえませんか？</JapaneseText>
       <EnglishText/>
@@ -130,6 +145,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>んー、じゃあ、
 フェイスチャットに切り替えましょうか。
 こっちのんが楽だし</JapaneseText>
@@ -140,6 +156,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>楽…って誰がだよ？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -148,6 +165,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>どうだっていいでしょ？
 さて、と。
 研究の話だったわね</JapaneseText>
@@ -158,6 +176,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>船内の人間関係を見ていると、
 気になった事があってね</JapaneseText>
       <EnglishText/>
@@ -167,6 +186,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>長くなりそうな前置きですね</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -175,6 +195,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>聞くの止める？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -183,6 +204,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いえいえ、
 聞く気満点ですよ。
 今の所は</JapaneseText>
@@ -193,6 +215,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>まあ、いいけどね</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -201,6 +224,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>んでね、一人ヒロインとしての要素が
 薄い子がいるのよ。
 これをどうにか出来ないかなって思って</JapaneseText>
@@ -211,6 +235,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>誰の事だよ。
 船にいる子はみんないい子だぜ？</JapaneseText>
       <EnglishText/>
@@ -220,6 +245,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>異性に優しい「女たらし」特有の
 だだ甘な意見ね。
 ほら思い当たらない？</JapaneseText>
@@ -230,6 +256,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ヒロインにも関わらず恋愛要素がなく、
 前作は使用キャラにもならなかった。
 人気投票の順位も奮わなかったし</JapaneseText>
@@ -240,6 +267,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ふむ、誰の事でしょう…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -248,6 +276,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>じゃあ次のヒント。
 外伝作品に登場。
 「生みの親」が私やあんたらとは違う</JapaneseText>
@@ -258,6 +287,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それって…あの子か…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -266,6 +296,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>念のため、もうちょっとヒント。
 大人の事情で前作と声が違う
 本作品のヒロイン</JapaneseText>
@@ -276,6 +307,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノ…ですか…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -284,6 +316,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そう、その通り！
 あの子、売り出し方を間違えなければ、
 もっと人気出ると思うの</JapaneseText>
@@ -294,6 +327,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それをどうにか出来ないかなって思って。
 ちょっと…、色々と</JapaneseText>
       <EnglishText/>
@@ -303,6 +337,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>まさか…、
 カノンノを改造とかしちまった？</JapaneseText>
       <EnglishText/>
@@ -312,6 +347,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>妙ですね。
 ここに来る直前、船で普通に元気に
 していましたけど</JapaneseText>
@@ -322,6 +358,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…おい、なんだありゃ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -330,6 +367,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>げっ、来た！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -338,6 +376,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>何ですか、あれは！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -346,6 +385,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ガガガ…、ギーギーギー、
 ワ　ワワワ　ワタシ　ハ
 カノ　カノ…</JapaneseText>
@@ -356,6 +396,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノ？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -364,6 +405,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いや、聞かれても…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -372,6 +414,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ってか、カノンノじゃねーだろ！
 カタカナで喋らないって、あの子は</JapaneseText>
       <EnglishText/>
@@ -381,6 +424,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>これ、あんたの仕業か？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -389,6 +433,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>うん、パッパと作ったの。
 ありあわせで。
 まあ、言うなればメカ・カノンノね</JapaneseText>
@@ -399,6 +444,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>メカ　メカ〜〜〜〜！！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -407,6 +453,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…大したセンスですね</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -415,6 +462,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>前回までのあらすじ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -423,6 +471,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ジェイド医師から余命二ヶ月と
 宣告されたアタイは、ついその悲しいから
 見舞いに来たゼロスに辛く当たってしまう</JapaneseText>
@@ -433,6 +482,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>その時、ただの人形だった
 メカ・カノンノの瞳から涙が…。
 その涙を見て、アタイも…泣いた…</JapaneseText>
@@ -443,6 +493,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なんだよ、
 その携帯小説みたいな内容は！</JapaneseText>
       <EnglishText/>
@@ -452,6 +503,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それより、
 これ、どうするんですか</JapaneseText>
       <EnglishText/>
@@ -461,6 +513,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ワタワワワタシ　ハ…
 メメメ　メカ・カノンノ　デスＹＯ</JapaneseText>
       <EnglishText/>
@@ -470,6 +523,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>自分でメカって言っちゃったよ…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -478,6 +532,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なあ、ハロルド。
 なんでこんな事態になっちまったんだ？</JapaneseText>
       <EnglishText/>
@@ -487,6 +542,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>う〜ん…、まあ、他のヒロインの要素を
 適当にぶちこんじゃったかしらね。
 そしたら、すっごいカオスになっちゃた</JapaneseText>
@@ -497,6 +553,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いや、カオスってレベルじゃねーぞ！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -505,6 +562,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そんなに変ってほどでもないメカよ？
 メカは普通メカ</JapaneseText>
       <EnglishText/>
@@ -514,6 +572,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>って、普通に喋れんのかよ！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -522,6 +581,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>うん、意外と。
 メカは喋ったりするんだぜ、普通に</JapaneseText>
       <EnglishText/>
@@ -531,6 +591,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>「自分の事を名前で呼ぶ」。
 これ、かわいいヒロインの掟。
 だからメカはヒロインなのメカよ</JapaneseText>
@@ -541,6 +602,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>呼ぶんなら「メカ」じゃなく
 「カノンノ」の方にしとけよ！
 んで、その語尾もわけわかんねーし…</JapaneseText>
@@ -551,6 +613,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なんだか、疲れる相手ですね。
 このメカが暴れだしたから
 退避しようとしたんですか？</JapaneseText>
@@ -561,6 +624,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>せっかく生まれたんだから、
 カノンノを倒して、そのまま
 取って代わりたいんだって</JapaneseText>
@@ -571,6 +635,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なんか生まれた意味を知りたい、とか</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -579,6 +644,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それはまた面倒臭い存在ですね。
 封印しようとして正解です</JapaneseText>
       <EnglishText/>
@@ -588,6 +654,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>しかしそんなの困るメカ、しかし！
 封印されたらメカが生まれた意味が
 無くなってしまうんだパン！</JapaneseText>
@@ -598,6 +665,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…なんか変なの混じってないか？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -606,6 +674,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>とにかく暴走したなら仕方ねーよな。
 かわいそうだがぶっ壊すっきゃ…</JapaneseText>
       <EnglishText/>
@@ -615,6 +684,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>こら！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -623,6 +693,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いてっ！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -631,6 +702,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なっんすんだよぉ！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -639,6 +711,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>人の発明をなんだと思ってんの？
 私の可愛いメカ・カノンノを
 むざむざ壊させたりしないわよ！</JapaneseText>
@@ -649,6 +722,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ちょっとお待ち下さい、ハロルド。
 では何のために
 封印しようとしたんですか？</JapaneseText>
@@ -659,6 +733,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>う〜ん…、この人格的に未完成のまま
 カノンノに取って代わられるのは
 ちょっと不満なのよね</JapaneseText>
@@ -669,6 +744,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>どうせ表に出すなら、人格アルゴリズムを
 完成させてからじゃないと
 製作者の品格が疑われちゃうじゃん</JapaneseText>
@@ -679,6 +755,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>んじゃあ…、バリケードを作らせたのは</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -687,6 +764,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>後からまた調整しようと思って。
 その前に外に出られたら困るもの</JapaneseText>
       <EnglishText/>
@@ -696,6 +774,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>完成させたら、これをそのまま
 表で稼動させるつもりだったんですね？</JapaneseText>
       <EnglishText/>
@@ -705,6 +784,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>メカメカ！
 メカを「これ」って言うな！</JapaneseText>
       <EnglishText/>
@@ -714,6 +794,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>メカは女の子なんだから
 優しくした方が、ファンに受けるメカよ？
 ねえ、人気者のジェイドさ〜ん</JapaneseText>
@@ -724,6 +805,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>はは…、これはこれは。
 無機物相手でも結構殺意が沸くものですね</JapaneseText>
       <EnglishText/>
@@ -733,6 +815,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ああ、とっととぶっ壊して
 船に戻ろうぜ。
 イベントも長くなって来たし…</JapaneseText>
@@ -743,6 +826,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ちょっとぉ！　だから壊されたら
 困るって言ってるでしょ！
 どーしても壊すってんなら…</JapaneseText>
@@ -753,6 +837,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…命知らずもいたものよのぉ。
 よし、製作者よ。
 メカにコマンドを与えるメカ…</JapaneseText>
@@ -763,6 +848,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>よし！
 あの二人をやっちゃいなさい</JapaneseText>
       <EnglishText/>
@@ -772,6 +858,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…俺さま、あのメカのキャラが
 ビタイチわかんねぇぜ！！</JapaneseText>
       <EnglishText/>
@@ -781,6 +868,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>私もです…。
 では戦闘になりますので、
 イベント後、セーブなどをお忘れなく</JapaneseText>

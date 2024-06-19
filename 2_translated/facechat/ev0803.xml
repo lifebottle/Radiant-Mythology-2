@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ハロルド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ナナリー</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カイル</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -26,6 +29,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あれっ、ナナリーじゃない。
 奇遇よねぇ、ピクニック？</JapaneseText>
       <EnglishText/>
@@ -35,6 +39,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あんたねぇ…。
 誰がこんな所でピクニックするっての</JapaneseText>
       <EnglishText/>
@@ -44,6 +49,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あら、それは固定観念というものよ。
 お弁当もって楽しくお散歩すれば、
 ピクニックの定義を満たす事になるわ</JapaneseText>
@@ -54,6 +60,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ピクニックは
 とっとと切り上げてもらえるかい？</JapaneseText>
       <EnglishText/>
@@ -63,6 +70,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>イヤよっ。
 ここでサウナも兼ねて実験するんだから。
 これからマグマを核蒸留するんだもん</JapaneseText>
@@ -73,6 +81,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あんたには、あたしもこの子等も
 用がたっぷりあるんだよ</JapaneseText>
       <EnglishText/>
@@ -82,6 +91,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ちょ、ちょっと待ってよ！
 ひょっとして…、この人がハロルド博士？</JapaneseText>
       <EnglishText/>
@@ -91,6 +101,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>で、その子の用ってなによ？
 異世界から来たけど帰れなくなって、
 どうにかしろとかそーゆーコト？</JapaneseText>
@@ -101,6 +112,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>な、なんで、異世界から来たって
 わかったんですか！</JapaneseText>
       <EnglishText/>
@@ -110,6 +122,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あら、当たっちゃった？
 一番ありえない選択肢を言った
 つもりなんだけど</JapaneseText>
@@ -120,6 +133,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それで、ナナリーは私に何の用？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -128,6 +142,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あんたが以前ギルドで請け負った依頼の
 苦情がわんさか届いてるんだよ</JapaneseText>
       <EnglishText/>
@@ -137,6 +152,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ショー・コーロンのヤツがカンカンでね。
 連れ戻して責任を取らせたいんだって</JapaneseText>
       <EnglishText/>
@@ -146,6 +162,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>へぇ〜、ナナリーも大変ね。
 偏狭な雇い主と無理解な依頼人の
 相手をするなんて、時間の無駄なのに</JapaneseText>
@@ -156,6 +173,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あんたのせいなんだよ！
 引きずってでも連れて帰るからね！</JapaneseText>
       <EnglishText/>
@@ -165,6 +183,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あんた達！！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -173,6 +192,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>オレ、力を借りたいんです。
 元の世界へ戻れるように</JapaneseText>
       <EnglishText/>
@@ -182,6 +202,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>はいはい、わかったわよ。
 その「異世界」うんぬんっての、
 結構面白そうだしね</JapaneseText>
@@ -192,6 +213,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>じゃ、帰るよ！！</JapaneseText>
       <EnglishText/>
       <Notes/>

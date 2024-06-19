@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>バルバトス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クラトス</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -19,6 +21,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>現れおったな、ディセンダー。
 レディアントは携えておるようだな。
 フ…、奪いに行く手間が省けたというものよ</JapaneseText>
@@ -29,6 +32,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クラトス！
 これは貴様の粋な計らいというやつか？</JapaneseText>
       <EnglishText/>
@@ -38,6 +42,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>馬鹿馬鹿しい…。
 優れた武具は、
 相応しき使い手の元にあるべきだ</JapaneseText>
@@ -48,6 +53,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>貴様は気に食わんが、
 その意見には同意してやろう</JapaneseText>
       <EnglishText/>
@@ -57,6 +63,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>さあ、ディセンダー！
 そのレディアントを俺に寄越せ！
 それは俺が手にすべきものだ</JapaneseText>
@@ -67,6 +74,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>どうやってその相応しさを
 証明するつもりだ？</JapaneseText>
       <EnglishText/>
@@ -76,6 +84,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>知れた事！
 力ずくで奪うまでよ！</JapaneseText>
       <EnglishText/>
@@ -85,6 +94,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>フ…、初めから貴様相手に
 話が通じるとは思っていない…</JapaneseText>
       <EnglishText/>
@@ -94,6 +104,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>○○。
 おまえのレディアントの力、
 あいつに見せてみよ</JapaneseText>
@@ -104,6 +115,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>行くぞっ！　ディセンダー！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -112,6 +124,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>貴様ごと、その「伝説」を
 粉砕してくれるわ！</JapaneseText>
       <EnglishText/>

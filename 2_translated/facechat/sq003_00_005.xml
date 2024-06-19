@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ルーク</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アッシュ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -19,6 +21,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アッシュ…。
 …俺の両親に会ってみないか？</JapaneseText>
       <EnglishText/>
@@ -28,6 +31,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アッシュを僧院に預けたのは、
 本意じゃなかったと思う</JapaneseText>
       <EnglishText/>
@@ -37,6 +41,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あれは…、
 昔からのしきたりみたいなもんで、
 きっと今会えば…</JapaneseText>
@@ -47,6 +52,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>フン、笑わせるなよ。
 「俺の両親」だと？</JapaneseText>
       <EnglishText/>
@@ -56,6 +62,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あ、そ、そういう意味で
 言ったんじゃなくて…。
 もちろん、アッシュの両親でもあって…</JapaneseText>
@@ -66,6 +73,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>会ってどうする</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -74,6 +82,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>もし、会うとしたらそれはおまえが死んで
 俺が「ルーク・フォン・ファブレ」と
 名乗る時だな</JapaneseText>
@@ -84,6 +93,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…ああ。
 本当は、「ルーク・フォン・ファブレ」は
 アッシュの方が相応しいと思う</JapaneseText>
@@ -94,6 +104,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>何だと…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -102,6 +113,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アッシュの強さと意志が
 ファブレ家にも、世界にも必要だと思う。
 だから…</JapaneseText>
@@ -112,6 +124,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>甘えた事、言ってんじゃねえ！
 とことん温室育ちだな</JapaneseText>
       <EnglishText/>
@@ -121,6 +134,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おまえの存在に全てを奪われて、
 俺は生きてきた！</JapaneseText>
       <EnglishText/>
@@ -130,6 +144,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>今度は自分の生き方を放り出して、
 俺になすりつけるつもりかよ!</JapaneseText>
       <EnglishText/>
@@ -139,6 +154,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>俺がどんなに望んでも歩けなかった運命は、
 おまえにはいとも容易く捨てられるもの
 だったのか！</JapaneseText>
@@ -149,6 +165,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…アッシュ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -157,6 +174,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>くっ、俺はこんな奴と
 血をわけていると言うのか</JapaneseText>
       <EnglishText/>
@@ -166,6 +184,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…いいだろう</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -174,6 +193,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ルーク、はっきりさせようじゃねぇか。
 どっちが「ルーク・フォン・ファブレ」に
 相応しいかをな</JapaneseText>
@@ -184,6 +204,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>○○、おまえも一緒に来い。
 俺から勝負の場所を伝える</JapaneseText>
       <EnglishText/>
@@ -193,6 +214,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>俺は…、
 おまえと戦うのが望みじゃない！</JapaneseText>
       <EnglishText/>
@@ -202,6 +224,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おまえがファブレ家の跡取として
 相応しくないのなら、家ごとくたばってしまえ！
 俺が、そうしてやるからよ!</JapaneseText>
@@ -212,6 +235,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そのほうが、まだマシだ…</JapaneseText>
       <EnglishText/>
       <Notes/>

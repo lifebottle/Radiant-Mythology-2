@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ガイ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -12,6 +13,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>グランマニエの要人か？</JapaneseText>
       <EnglishText/>
       <Notes>Choice 1</Notes>
@@ -19,6 +21,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あなた達を捜していた</JapaneseText>
       <EnglishText/>
       <Notes>Choice 2</Notes>
@@ -26,6 +29,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>もう追って来やがったな。
 だが、ルークを渡すわけにはいかないな</JapaneseText>
       <EnglishText/>
@@ -35,6 +39,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>で、このまま俺達を捕まえる気か？
 やってみるのはいいが、
 こっちもそれなりの対応はするぜ</JapaneseText>

@@ -2,152 +2,183 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ジーニアス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Genis</EnglishText>
       <Notes/>
       <Id>26</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>キール</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Keele</EnglishText>
       <Notes/>
       <Id>17</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カイル</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kyle</EnglishText>
       <Notes/>
       <Id>19</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リフィル</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Raine</EnglishText>
       <Notes/>
       <Id>27</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…何度聞いてもわからないや</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>I don't understand, no matter how
+many times I hear it.</EnglishText>
+      <Notes>1 Revised by Murilo - 03/06/2024</Notes>
       <SpeakerId>26</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ぼくもだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Me neither.</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>だからぁ、オレとリアラは、
 ほら、よくわからない事になって、
 それで、なんか変になっちゃったんだよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So, Reala and I ended up in this
+confusing situation, and then,
+well, things got weird!</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…整理しましょう。
 カイルの行きたかった所と
 到着した所が全然違ったわけね？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's sort this out. Kyle ended up
+somewhere completely different
+from where he wanted to go, right?</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それぐらいわかる。
 だが問題は…</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I understand that. But the problem is...</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>移動手段がよくわからないんだよね〜。
 どう聞いても瞬間移動なんだもん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I don't understand the means of
+transportation. No matter how you
+explain it, it sounds like teleportation.</EnglishText>
       <Notes/>
       <SpeakerId>26</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>だからそう言ってるじゃないか！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's what I've been saying!</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>その時点で信じがたいのにな。
 さらに、別世界だとかどうとか
 言われてもな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's already unbelievable at that point.
+Also, being told about some other
+world just makes it even more so.</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>でも、本当なんだ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But, it's true!</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>オレの知らない…、あ、いや、
 全然知らないって事もないんだけど、
 なんだか似てて、ほら、えっと…</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I don't know...well, not that I
+don't know it at all, but it
+seems like, um...</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…またわからない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Still don't get it...</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>私達の理解よりも先に、
 カイルの表現力の底上げが
 必要かもしれないわね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Before we try to understand it, maybe
+we need to improve Kyle's ability to
+explain things.</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ロイドと一緒に
 国語の補習授業だね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You're taking remedial language
+lessons with Lloyd!</EnglishText>
       <Notes/>
       <SpeakerId>26</SpeakerId>
       <Id>12</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

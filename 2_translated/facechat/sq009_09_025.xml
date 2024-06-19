@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -12,6 +13,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>「グレードショップ」は基本、
 「道具屋」や「武器・防具屋」と一緒。
 まとめ買いも大丈夫だよ</JapaneseText>
@@ -22,6 +24,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ほかのお店と違うのは、ガルドじゃなくて
 「グレードポイント」を使って購入する所</JapaneseText>
       <EnglishText/>
@@ -31,6 +34,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>「グレードショップ」で売られているのは、
 貴重な品ばかり！
 全部買えるくらい、グレードが貯まるといいね</JapaneseText>

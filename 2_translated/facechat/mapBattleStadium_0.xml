@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>&lt;Name:4F&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -12,14 +13,16 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>よーこそ、闘技場へ。
 参加するなら、ミッションを選んでね。
 いいバトルを見せてちょうだい!</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Welcome to the arena. If you're participating, choose
+a mission. Show us a good battle!</EnglishText>
       <Notes/>
       <SpeakerId>79</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

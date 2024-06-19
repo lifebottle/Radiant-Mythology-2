@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>キール</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>コレット</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>フィリア</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -23,6 +26,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>チェスター</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -33,6 +37,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>コレット、ちょっと聞きたい事がある</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -41,6 +46,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ん、どしたの？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -49,6 +55,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ぼくの住んでいた地方では、
 神子なんて職業の人はいなかった。
 これは地域ごとの信仰体系の違いなのか？</JapaneseText>
@@ -59,6 +66,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>んー…、わかんない。
 フィリアの地方には
 神子はいないの？</JapaneseText>
@@ -69,6 +77,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いえ、神子は「巫女」とも書きます。
 これは「神に仕える女性」の総称ですね</JapaneseText>
       <EnglishText/>
@@ -78,6 +87,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>神に仕える男は？</JapaneseText>
       <EnglishText/>
       <Notes>Choice 1</Notes>
@@ -85,6 +95,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>神？</JapaneseText>
       <EnglishText/>
       <Notes>Choice 2</Notes>
@@ -92,6 +103,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それは、ただ単に「神官」だろ？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -100,6 +112,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>世界樹を神として信仰しても
 別に不自然な事じゃないだろ？</JapaneseText>
       <EnglishText/>
@@ -109,6 +122,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>オレの地方では、
 普通に「神官」だったぜ？</JapaneseText>
       <EnglishText/>
@@ -118,6 +132,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>どうして呼び分ける必要が
 あったのかなぁ？</JapaneseText>
       <EnglishText/>
@@ -127,6 +142,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それは良い質問ですね。
 言葉が異なれば、意味する事も変わります</JapaneseText>
       <EnglishText/>
@@ -136,6 +152,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>古い時代は、細かく区別する必要性が
 あったんでしょう</JapaneseText>
       <EnglishText/>
@@ -145,6 +162,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>確かに…。
 コレットとゼロスが、同じ
 神子だなんて思えないものな</JapaneseText>
@@ -155,6 +173,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>呼び分ける必要性ありだ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -163,6 +182,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>「巫女」と「神官」？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -171,6 +191,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それだとフィリアとゼロスを
 さらに呼び分けたくなる…</JapaneseText>
       <EnglishText/>
@@ -180,6 +201,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>うーむ…、なにか適切な用語は
 ないものか…</JapaneseText>
       <EnglishText/>
@@ -189,6 +211,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>難しく考えねーで、
 「神子」コレット、
 「不良神子」ゼロス、でいいじゃねぇか</JapaneseText>
@@ -199,6 +222,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>え〜？　ゼロスは真面目に…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -207,6 +231,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>やってんのか？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -215,6 +240,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>よくわかんない</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -223,6 +249,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そんな人物が神子を名乗る事に
 問題がありそうですね…</JapaneseText>
       <EnglishText/>

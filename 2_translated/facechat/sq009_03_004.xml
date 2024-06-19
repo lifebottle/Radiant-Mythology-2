@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>————</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -12,6 +13,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>『秘奥義』について説明を聞きますか？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -20,6 +22,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>聞く</JapaneseText>
       <EnglishText/>
       <Notes>Choice 1</Notes>
@@ -27,6 +30,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>聞かない</JapaneseText>
       <EnglishText/>
       <Notes>Choice 2</Notes>
@@ -34,6 +38,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>全ての職業において、ＬＶ４５以上で、
 『秘奥義』が使用可能となります</JapaneseText>
       <EnglishText/>
@@ -43,6 +48,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>『秘奥義』は、オーバーリミッツ中に奥義、
 もしくは術を使っている最中に
 ○ボタンを押し続けると発動出来ます</JapaneseText>
@@ -53,6 +59,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>なお、テイルズキャラクターや傭兵も、
 ＬＶ４５以上で『秘奥義』が使えるように
 なります</JapaneseText>

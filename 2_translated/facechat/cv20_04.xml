@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>チャット</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ジェイド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ファラ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -23,6 +26,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リッド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -33,6 +37,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ちょっと、ジェイドさん！
 勝手に乗組員を増やされては困ります！</JapaneseText>
       <EnglishText/>
@@ -42,6 +47,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おや、ご機嫌を損ねてしまいましたね。
 まだ収容人数には余裕がありそうだったので
 問題ないと判断したんですが</JapaneseText>
@@ -52,6 +58,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>うん。
 まだまだ部屋は空いてるよ</JapaneseText>
       <EnglishText/>
@@ -61,6 +68,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…だよな。
 何、怒ってんだ、船長は…？</JapaneseText>
       <EnglishText/>
@@ -70,6 +78,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>乗組員は多い方がいい、という</JapaneseText>
       <EnglishText/>
       <Notes>Choice 1</Notes>
@@ -77,6 +86,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>乗組員は少ない方がいい、という</JapaneseText>
       <EnglishText/>
       <Notes>Choice 2</Notes>
@@ -84,6 +94,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そんなの当然です！
 子分の数は、海賊としての格を示します</JapaneseText>
       <EnglishText/>
@@ -93,6 +104,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そうですか？
 子分は多いに越した事ありませんよ</JapaneseText>
       <EnglishText/>
@@ -102,6 +114,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>んじゃあ、何が問題なんだ？
 子分がまた増えて嬉しいんだろ</JapaneseText>
       <EnglishText/>
@@ -111,6 +124,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それは…その…</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -119,6 +133,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>私が手順を無視した事を
 怒っておいでなのですね？</JapaneseText>
       <EnglishText/>
@@ -128,6 +143,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>すみません、なにせ急を要したもので、
 事後承諾させていただこうと思ってたんです</JapaneseText>
       <EnglishText/>
@@ -137,6 +153,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そういう手順は守ってもらわなければ
 困りますよ！
 あなたはまだ新顔の子分なんですからね？</JapaneseText>
@@ -147,6 +164,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ファラさん、あなただって
 このギルドの発起人じゃないですか。
 ジェイドさんに大きな顔させていいんですか？</JapaneseText>
@@ -157,6 +175,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>んー、いいんじゃないの？
 だって、ちゃんとギルドが機能しだしたのは
 大佐のおかげじゃない</JapaneseText>
@@ -167,6 +186,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>人の役に立てる事には
 かわりないんだから問題ないよ</JapaneseText>
       <EnglishText/>
@@ -176,6 +196,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>だってよ。
 だからそんなに怒んなよ！</JapaneseText>
       <EnglishText/>
@@ -185,6 +206,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そ、そんな事で怒るボクじゃありません！
 ボクが怒ってるのは、
 その事後承諾を結局しなかった事です</JapaneseText>
@@ -195,6 +217,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ああ、そういう事ですか。
 そういえばすっかり忘れていましたねぇ</JapaneseText>
       <EnglishText/>
@@ -204,6 +227,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>もう、今後こういう事はないように
 お願いしますよ！</JapaneseText>
       <EnglishText/>
@@ -213,6 +237,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>駄目だよ、大佐。
 次から気をつけないと</JapaneseText>
       <EnglishText/>
@@ -222,6 +247,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そうですねぇ…。
 ええ、上官を立てる有能な部下として
 なお一層の忠勤を約束させていただきますよ</JapaneseText>
@@ -232,6 +258,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…なんて心のこもってないセリフ</JapaneseText>
       <EnglishText/>
       <Notes/>

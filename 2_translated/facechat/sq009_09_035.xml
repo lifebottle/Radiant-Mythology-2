@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -12,6 +13,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>みんなに挨拶して、その後に
 チャットに報告して…。
 「ショップ」は、その後にでも行きましょう</JapaneseText>
@@ -22,6 +24,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>「ショップ」は、まだ準備中みたいなの。
 その間に、クエストを受けてみましょう。
 先ずは、チャットに話し掛けてみてね</JapaneseText>

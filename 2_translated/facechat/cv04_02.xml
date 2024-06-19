@@ -2,182 +2,218 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ハロルド</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Harold</EnglishText>
       <Notes/>
       <Id>22</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>チャット</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Chat</EnglishText>
       <Notes/>
       <Id>18</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ガイ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Guy</EnglishText>
       <Notes/>
       <Id>41</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ふ〜ん、ここが機関室かぁ。
 想像してたより、けれんみのない構造ね</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Hmm, so this is the engine room. It's a
+less fancy structure than I imagined.</EnglishText>
+      <Notes>18 - Revised by Murilo - 14/06/2024</Notes>
       <SpeakerId>22</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>何か用ですか？　ハロルドさん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Do you need something, Ms. Harold?</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ここに来た理由なら、
 ２５６種類ぐらい挙げられるけど、
 一番の理由は暇つぶしね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If you're asking why I came here, I
+could list about 256 reasons, but
+the main one is to kill time.</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あんたも同好の志…というか
 科学者だもんな。
 興味あって当然か</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You're also of like mind... Well, you're
+a scientist. It's only natural to be
+interested.</EnglishText>
       <Notes/>
       <SpeakerId>41</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そういう事なら
 どうぞ見学していって下さい</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If that's the case, feel free to take a
+look around.</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>どうです？
 この…</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What do you think of this...</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あら、マクストン機関ね。
 今となっちゃあ古臭いけど、
 大出力を出すのに適した構造よ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh, it's the Maxton engine. It's a bit
+outdated now, but it's a structure
+suited for high output.</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>臨界トルクをざっと暗算するなら、
 …そうねぇ理論値を越えて
 ３万エスト近く出るんじゃないの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The estimated critical torque exceeds
+the theoretical value, nearing about
+30,000 units.</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>え、ええ…、
 おっしゃる通りです…けど</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Uh, y-yes...that's right...but...</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あらら？　どうしたの？
 機嫌悪そうだけど</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh, dear? What's wrong?
+You seem upset.</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>説明したかったのに、
 先に言われてしまったからじゃないのか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You wanted to explain, but she beat you
+to it, didn't she?</EnglishText>
       <Notes/>
       <SpeakerId>41</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>こりゃあ、船長の生き甲斐を
 奪ったようなもんかな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well, this might feel like she have taken
+away the captain's raison d'être.</EnglishText>
       <Notes/>
       <SpeakerId>41</SpeakerId>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そりゃ悪かったわねぇ。
 ハイ、じゃあ、聞いてあげるから、
 何か言ってみて</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well, that was thoughtless of me.
+Alright, then, I'll listen, so go
+ahead and say something.</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>12</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>もう全部言われました！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I've already said everything!</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>13</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あ〜あ…</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh dear...</EnglishText>
       <Notes/>
       <SpeakerId>41</SpeakerId>
       <Id>14</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>まあ、これも科学による
 犠牲者ってヤツね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well, this is also a casualty of science,
+huh?</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>15</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>やれやれ…、なんて言い草だ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Good grief... that's what they say.</EnglishText>
       <Notes/>
       <SpeakerId>41</SpeakerId>
       <Id>16</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

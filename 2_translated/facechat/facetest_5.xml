@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ヴェイグ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クレア</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ユージーン</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -23,6 +26,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>マオ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -30,6 +34,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アニー</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -40,6 +45,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>通常。
 </JapaneseText>
       <EnglishText/>
@@ -49,6 +55,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あめんぼ赤いなアイウエオ
 柿木栗の木カキクケコ
 大角豆に酢をかけサシスセソ </JapaneseText>
@@ -59,6 +66,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>笑い。
 </JapaneseText>
       <EnglishText/>
@@ -68,6 +76,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あめんぼ赤いなアイウエオ
 柿木栗の木カキクケコ
 大角豆に酢をかけサシスセソ </JapaneseText>
@@ -78,6 +87,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>怒り。
 </JapaneseText>
       <EnglishText/>
@@ -87,6 +97,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あめんぼ赤いなアイウエオ
 柿木栗の木カキクケコ
 大角豆に酢をかけサシスセソ </JapaneseText>
@@ -97,6 +108,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>悲しみ。
 </JapaneseText>
       <EnglishText/>
@@ -106,6 +118,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あめんぼ赤いなアイウエオ
 柿木栗の木カキクケコ
 大角豆に酢をかけサシスセソ </JapaneseText>
@@ -116,6 +129,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>通常。
 </JapaneseText>
       <EnglishText/>
@@ -125,6 +139,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あめんぼ赤いなアイウエオ
 柿木栗の木カキクケコ
 大角豆に酢をかけサシスセソ </JapaneseText>
@@ -135,6 +150,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>笑い。
 </JapaneseText>
       <EnglishText/>
@@ -144,6 +160,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あめんぼ赤いなアイウエオ
 柿木栗の木カキクケコ
 大角豆に酢をかけサシスセソ </JapaneseText>
@@ -154,6 +171,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>悲しみ。
 </JapaneseText>
       <EnglishText/>
@@ -163,6 +181,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あめんぼ赤いなアイウエオ
 柿木栗の木カキクケコ
 大角豆に酢をかけサシスセソ </JapaneseText>
@@ -173,6 +192,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>心配。
 </JapaneseText>
       <EnglishText/>
@@ -182,6 +202,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あめんぼ赤いなアイウエオ
 柿木栗の木カキクケコ
 大角豆に酢をかけサシスセソ </JapaneseText>
@@ -192,6 +213,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>通常。
 </JapaneseText>
       <EnglishText/>
@@ -201,6 +223,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あめんぼ赤いなアイウエオ
 柿木栗の木カキクケコ
 大角豆に酢をかけサシスセソ </JapaneseText>
@@ -211,6 +234,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>笑い。
 </JapaneseText>
       <EnglishText/>
@@ -220,6 +244,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あめんぼ赤いなアイウエオ
 柿木栗の木カキクケコ
 大角豆に酢をかけサシスセソ </JapaneseText>
@@ -230,6 +255,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>怒り。
 </JapaneseText>
       <EnglishText/>
@@ -239,6 +265,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あめんぼ赤いなアイウエオ
 柿木栗の木カキクケコ
 大角豆に酢をかけサシスセソ </JapaneseText>
@@ -249,6 +276,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>悲しみ。
 </JapaneseText>
       <EnglishText/>
@@ -258,6 +286,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あめんぼ赤いなアイウエオ
 柿木栗の木カキクケコ
 大角豆に酢をかけサシスセソ </JapaneseText>
@@ -268,6 +297,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>通常。
 </JapaneseText>
       <EnglishText/>
@@ -277,6 +307,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あめんぼ赤いなアイウエオ
 柿木栗の木カキクケコ
 大角豆に酢をかけサシスセソ </JapaneseText>
@@ -287,6 +318,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>笑い。
 </JapaneseText>
       <EnglishText/>
@@ -296,6 +328,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あめんぼ赤いなアイウエオ
 柿木栗の木カキクケコ
 大角豆に酢をかけサシスセソ </JapaneseText>
@@ -306,6 +339,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>怒り。
 </JapaneseText>
       <EnglishText/>
@@ -315,6 +349,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あめんぼ赤いなアイウエオ
 柿木栗の木カキクケコ
 大角豆に酢をかけサシスセソ </JapaneseText>
@@ -325,6 +360,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>悲しみ。
 </JapaneseText>
       <EnglishText/>
@@ -334,6 +370,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あめんぼ赤いなアイウエオ
 柿木栗の木カキクケコ
 大角豆に酢をかけサシスセソ </JapaneseText>
@@ -344,6 +381,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>やったネ！
 </JapaneseText>
       <EnglishText/>
@@ -353,6 +391,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あめんぼ赤いなアイウエオ
 柿木栗の木カキクケコ
 大角豆に酢をかけサシスセソ </JapaneseText>
@@ -363,6 +402,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>知らんぷり。
 </JapaneseText>
       <EnglishText/>
@@ -372,6 +412,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あめんぼ赤いなアイウエオ
 柿木栗の木カキクケコ
 大角豆に酢をかけサシスセソ </JapaneseText>
@@ -382,6 +423,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>説明。
 </JapaneseText>
       <EnglishText/>
@@ -391,6 +433,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あめんぼ赤いなアイウエオ
 柿木栗の木カキクケコ
 大角豆に酢をかけサシスセソ </JapaneseText>
@@ -401,6 +444,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>通常。
 </JapaneseText>
       <EnglishText/>
@@ -410,6 +454,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あめんぼ赤いなアイウエオ
 柿木栗の木カキクケコ
 大角豆に酢をかけサシスセソ </JapaneseText>
@@ -420,6 +465,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>笑い。
 </JapaneseText>
       <EnglishText/>
@@ -429,6 +475,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あめんぼ赤いなアイウエオ
 柿木栗の木カキクケコ
 大角豆に酢をかけサシスセソ </JapaneseText>
@@ -439,6 +486,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>怒り。
 </JapaneseText>
       <EnglishText/>
@@ -448,6 +496,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あめんぼ赤いなアイウエオ
 柿木栗の木カキクケコ
 大角豆に酢をかけサシスセソ </JapaneseText>
@@ -458,6 +507,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>悲しみ。
 </JapaneseText>
       <EnglishText/>
@@ -467,6 +517,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あめんぼ赤いなアイウエオ
 柿木栗の木カキクケコ
 大角豆に酢をかけサシスセソ </JapaneseText>
@@ -477,6 +528,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>心配。
 </JapaneseText>
       <EnglishText/>
@@ -486,6 +538,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あめんぼ赤いなアイウエオ
 柿木栗の木カキクケコ
 大角豆に酢をかけサシスセソ </JapaneseText>
@@ -496,6 +549,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>困り。
 </JapaneseText>
       <EnglishText/>
@@ -505,6 +559,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あめんぼ赤いなアイウエオ
 柿木栗の木カキクケコ
 大角豆に酢をかけサシスセソ </JapaneseText>
@@ -518,6 +573,7 @@
   <Strings>
     <Section>Unreferenced</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ヴェイグ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -525,6 +581,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>クレア</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -532,6 +589,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ユージーン</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -539,6 +597,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>マオ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -546,6 +605,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>アニー</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -553,6 +613,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>終了</JapaneseText>
       <EnglishText/>
       <Notes/>

@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ニアタ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -12,6 +13,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>我々の故郷「パスカ」のディセンダー、
 パスカ・カノンノは、
 一度、己の「恐怖」という負に屈した</JapaneseText>
@@ -22,6 +24,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>パスカは、五つの種族からなる世界だった。
 このグラニデのように、
 人間以外の種族もいたものだ</JapaneseText>
@@ -32,6 +35,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>だが、人間は他の種族からマナを奪い、
 自分達だけのものとし、
 一つ、また一つと種族を滅ぼしにかかった</JapaneseText>
@@ -42,6 +46,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノは武力を使わず、他の種族と
 力をあわせ、人間に考えを改めるように
 駆け回った</JapaneseText>
@@ -52,6 +57,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>しかし、人間は考えを改めず、
 ついにはディセンダーであるカノンノを
 コントロールしようと画策した</JapaneseText>
@@ -62,6 +68,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>その時、人間はもう、正常ではなかった。
 方法を選ばず、毒の熱線でカノンノを
 いぶりだそうとした</JapaneseText>
@@ -72,6 +79,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>人間の無差別な攻撃に、他の種族は
 次々に倒れ、カノンノはそれを目の前で
 見せ付けられた</JapaneseText>
@@ -82,6 +90,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>その時、我々のディセンダーは
 恐怖に取り付かれたのだ</JapaneseText>
       <EnglishText/>
@@ -91,6 +100,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そして、カノンノは自らの力で
 人間を一掃した。
 どれほど、恐ろしかっただろう…</JapaneseText>
@@ -101,6 +111,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>その後のパスカは、多くの生命を
 失った事で大きくバランスを欠き、
 滅びの道をたどった</JapaneseText>
@@ -111,6 +122,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>けれども、パスカは再生した</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -119,6 +131,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>テレジアという異世界の
 恐れを知らない自由で奔放な
 ディセンダーとの出会い…</JapaneseText>
@@ -129,6 +142,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それがカノンノを変えた</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -137,6 +151,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>それからのカノンノは、もう
 恐怖に取り付かれる事はなかった</JapaneseText>
       <EnglishText/>
@@ -146,6 +161,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>何もかものその先に、希望があると
 負を越えていった</JapaneseText>
       <EnglishText/>
@@ -155,6 +171,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>人々が争いを始めても、それを治め、
 世界の寿命を全うさせる事が出来たのだ</JapaneseText>
       <EnglishText/>
@@ -167,6 +184,7 @@
   <Strings>
     <Section>Unreferenced</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>evobj_033</JapaneseText>
       <EnglishText/>
       <Notes/>

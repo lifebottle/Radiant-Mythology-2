@@ -2,119 +2,141 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ファラ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Farah</EnglishText>
       <Notes/>
       <Id>16</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リアラ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Reala</EnglishText>
       <Notes/>
       <Id>20</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ミント</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mint</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>うーん…</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Hmm...</EnglishText>
+      <Notes>16 - Revised by Murilo - 14/06/2024</Notes>
       <SpeakerId>16</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>どうしたの、ファラ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What's wrong, Farah?</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>スカートだとやっぱり
 高い蹴りが出しにくいんだよね。
 下着が見えちゃいそうになるし…</JapaneseText>
-      <EnglishText/>
+      <EnglishText>When wearing a skirt, it's hard to kick
+high. It feels like my underwear might
+show...</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>……わたしもそう思う。
 たくさん動くとどうしても……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...I feel the same way. When you move
+a lot, it's just...</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>私は格闘をあまりしませんから
 その心配はありませんけど…</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I don't do much fighting, so I don't
+worry about that...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>かといって裾をまくったりするのは
 感心出来ませんよ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That said,  I don't like the idea of
+rolling up the hem, you know?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>女の子は、やっぱり
 ミントみたいにおしとやかな方が
 いいのかなぁ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I wonder if it's better for girls to be
+modest and demure, like Mint...</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>おしとやか趣味の男の子ばっかりじゃ
 ないと思うよ。
 大丈夫、イケるイケる♪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I don't think all boys have to have
+refined tastes. It's okay, you're fine.</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>その点は好き好きですから
 気にしなくてもいいんじゃないでしょうか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>People have different preferences,
+so you shouldn't worry about it.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>そうね。
 じゃあ気にしないでおこうかな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah, you're right. Then I won't worry
+about it.</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

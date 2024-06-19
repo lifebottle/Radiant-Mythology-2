@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>パニール</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>&lt;Name:49&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -19,6 +21,7 @@
   <Strings>
     <Section>Main Text</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あら〜、○○さん。
 ううっ、失礼。
 今、小説を読んでいたところなんですの</JapaneseText>
@@ -29,6 +32,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>もうね、悲恋の物語なんですよ。
 今読んでるところがね、
 愛する二人が引き裂かれて…もう！</JapaneseText>
@@ -39,6 +43,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あら、あらあら。
 すみませんねぇ…何か熱くなっちゃって。
 年を取ると涙もろくなって嫌だわ〜</JapaneseText>
@@ -49,6 +54,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>カノンノが小さい頃はよく本を
 読んであげたんですよ〜</JapaneseText>
       <EnglishText/>
@@ -58,6 +64,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>で、いろいろ本を探すうちに
 私も恋愛小説という奴に
 はまっちゃったりなんかして、も〜</JapaneseText>
@@ -68,6 +75,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -76,6 +84,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あ、まぁ…。
 あの子が小さい頃というのは…ですね。
 その、私、カノンノの母親なんです</JapaneseText>
@@ -86,6 +95,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>…！？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -94,6 +104,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>いえ、その何というか母親代わりなんですね。
 その、色々事情がありまして…</JapaneseText>
       <EnglishText/>
@@ -103,6 +114,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ええっと…、この話は
 誰にも言わないでくださいね。
 お願いします</JapaneseText>
@@ -113,6 +125,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>あの子と仲良くなさって下さいね。
 カノンノは、私にとって
 娘のようなものですから</JapaneseText>
