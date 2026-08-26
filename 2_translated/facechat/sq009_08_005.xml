@@ -1,10 +1,11 @@
 <SceneText>
+  <FriendlyName>Turning in the crafting quest</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kanonno</EnglishText>
       <Notes/>
       <Id>50</Id>
       <Status>To Do</Status>
@@ -12,7 +13,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>チャット</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Chat</EnglishText>
       <Notes/>
       <Id>18</Id>
       <Status>To Do</Status>
@@ -25,48 +26,53 @@
       <JapaneseText>おつかれさま。
 それじゃ、「小麦粉」を2つ納品して
 この仕事は終わりよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Good work!
+Alright, let's turn in the 2 'Flour'
+and wrap up this request.</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>渡す</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hand them over</EnglishText>
       <Notes>Choice 1</Notes>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>保留にする</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hold on to them</EnglishText>
       <Notes>Choice 2</Notes>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>では、その「小麦粉」を2つ頂きますね。
 おつかれさまでした</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Alright, I'll take those 2 'Flour'.
+Thank you for your hard work.</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>生産は、ちょっと大変だけど。
 でも、慣れれば大丈夫。
 もしかしたら、あなたの得意分野になるかもね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Crafting can be a bit hard. But
+you'll get used to it. It might
+even become your specialty.</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

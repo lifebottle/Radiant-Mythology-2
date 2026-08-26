@@ -1,10 +1,11 @@
 <SceneText>
+  <FriendlyName>Grade points introduction</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
       <JapaneseText>チャット</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Chat</EnglishText>
       <Notes/>
       <Id>18</Id>
       <Status>To Do</Status>
@@ -12,7 +13,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kanonno</EnglishText>
       <Notes/>
       <Id>50</Id>
       <Status>To Do</Status>
@@ -25,41 +26,47 @@
       <JapaneseText>「グレードポイント」が貯まってきましたね。
 「グレードショップ」の準備も終わりましたし
 一度カノンノさんにレクチャーして貰いますか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You've built up quite a few 'Grade
+Points'. The 'Grade Shop' is ready
+now as well, so how about having
+Kanonno give you a quick lecture?</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>カノンノさん。
 お願い出来ますか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kanonno.
+Could I ask you to take care of it?</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>アイアイサー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Aye aye, sir!</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>良い返事です。
 それでは、お二人で「ショップ」の
 「グレードショップ」へ行ってください</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's a fine response!
+Then, please go to the "Shop" and
+visit the "Grade Shop" together.</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

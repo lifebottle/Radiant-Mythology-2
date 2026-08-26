@@ -1,10 +1,11 @@
 <SceneText>
+  <FriendlyName>Meeting Panille</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
       <JapaneseText>パニール</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Panille</EnglishText>
       <Notes/>
       <Id>53</Id>
       <Status>To Do</Status>
@@ -16,124 +17,142 @@
       <PointerOffset/>
       <JapaneseText>自己紹介がまだでしたわねェ。
 私、パニールと申します</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh my, I haven't introduced myself
+yet, have I?
+My name is Panille.</EnglishText>
       <Notes/>
       <SpeakerId>53</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ここで、家事全般の
 お世話をさせていただいてます</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I handle all the household duties
+around here.</EnglishText>
       <Notes/>
       <SpeakerId>53</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>趣味は恋愛小説を読む事ですの。
 オホホ…、月に１０冊は読んじゃうんです</JapaneseText>
-      <EnglishText/>
+      <EnglishText>My hobbies? Reading romance 
+novels, of course. Ohoho... I go 
+through ten of them a month, easily!</EnglishText>
       <Notes/>
       <SpeakerId>53</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>それにしても、男前でいらっしゃるわねェ！
 こりゃあ、街の女達が放っておきゃ
 しませんよ〜</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>But my. aren't you handsome!
+The ladies in town won't be leaving
+you alone, that's for sure〜</EnglishText>
+      <Notes>This This triggers only if player is male</Notes>
       <SpeakerId>53</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>もうそっちの方もお盛んなんでしょ？
 あらあら、私ったら
 何を言ってるんでしょうねェ</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>I bet you're quite the charmer
+already, aren't you?
+Oh dear, listen to me..
+what am I saying, honestly!</EnglishText>
+      <Notes>This triggers only if player is male</Notes>
       <SpeakerId>53</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>それにしても、カワイコさんねェ！
 こんなの港の荒くれ者どもが
 放っておきゃしませんよ！</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>But my, what a lovely young lady
+you are! The sailors down at the 
+port won't know what hit them!</EnglishText>
+      <Notes>This triggers only if player is female</Notes>
       <SpeakerId>53</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>いい男を見繕わなきゃいけませんわよ？
 って、あらあら私、
 何を言ってるんでしょうねェ</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>You'll need to find yourself a fine
+gentleman, dear.
+Oh my, there I go again...
+what am I saying, honestly!</EnglishText>
+      <Notes>This triggers only if player is female</Notes>
       <SpeakerId>53</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>え？　私が船に乗る理由ですか？
 ええ、カノンノと一緒に旅をしてましてね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh? You're wondering why I'm aboardthe ship? Well, I've been traveling
+together with Kanonno.</EnglishText>
       <Notes/>
       <SpeakerId>53</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>まあ、ちょっとここで
 しばらくご厄介になってるんです</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We've been staying here for a while,relying on everyone's kindness.</EnglishText>
       <Notes/>
       <SpeakerId>53</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>それにほら、こちら歳若い方
 ばかりでいらっしゃいますでしょ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And really, everyone here is so
+young and full of energy.</EnglishText>
       <Notes/>
       <SpeakerId>53</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>私が面倒見なきゃ、と使命に
 感じましてねェ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So I simply felt it was my duty
+to look after you all properly.</EnglishText>
       <Notes/>
       <SpeakerId>53</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>では、ご機嫌あそばせ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well then, do take care, dear.</EnglishText>
       <Notes/>
       <SpeakerId>53</SpeakerId>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

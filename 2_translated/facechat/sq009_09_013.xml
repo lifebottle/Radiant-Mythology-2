@@ -1,10 +1,11 @@
 <SceneText>
+  <FriendlyName>Kanonno guide grade shop</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kanonno</EnglishText>
       <Notes/>
       <Id>50</Id>
       <Status>To Do</Status>
@@ -17,11 +18,13 @@
       <JapaneseText>あ、そこは「グレードショップ」っていう
 お店なんだけど、まだ準備中みたいなの。
 使えるようになったら教えてあげるね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh, that over there is called the
+'Grade Shop', but it looks like it's
+still getting ready. I'll let you knowonce it's available, okay?</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

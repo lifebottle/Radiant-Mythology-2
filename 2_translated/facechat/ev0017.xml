@@ -1,10 +1,11 @@
 <SceneText>
+  <FriendlyName>Kanonno and chat guide Forming a party</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
       <JapaneseText>チャット</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Chat</EnglishText>
       <Notes/>
       <Id>18</Id>
       <Status>To Do</Status>
@@ -12,7 +13,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kanonno</EnglishText>
       <Notes/>
       <Id>50</Id>
       <Status>To Do</Status>
@@ -25,130 +26,147 @@
       <JapaneseText>どうですか、ギルドの仕事は。
 大体、おわかりいただけたと思いますが。
 カノンノさんから見て、どうでしょう？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So, how have the quests been?
+I think you've gotten the gist of it.
+Kanonno, what do you think?</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>○○は、もう、一人前だよ。
 私よりも、飲み込みが早かったし！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You're already a full-fledged member○○. You picked it up even 
+faster than I did!</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そういえば、
 パーティ編成について知ってる？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh, by the way...
+do you know about forming a party?</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>知らない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I don't.</EnglishText>
       <Notes>Choice 1</Notes>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>知ってる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I do.</EnglishText>
       <Notes>Choice 2</Notes>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ダンジョンには凶暴なモンスターがいるの。
 一人では危険だから、そういう時は
 『パーティ』を組むといいよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There are some strong monsters in
+the dungeons. So forming a 'party' ismuch safer instead of going in alone</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ボクに言えば『パーティ編成』が出来ます。
 クエストやダンジョンへ行く時には
 パーティを組んでから出かけると安心ですよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If you talk to me, I can help you set
+up a 'party'. Whenever you're going
+on a quest or into a dungeon, it's
+safer to form one before you go.</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>一人よりもみんなと一緒の方が
 心強いもんね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's much easier to feel safe when
+we're all together, right?</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ご存知でしたか。
 以前にも、あなたはギルドの仕事を
 経験していたのかもしれませんね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I see, you already knew. Perhaps
+you've done guild work before,
+even before this.</EnglishText>
       <Notes>Previous Choice 2 leads here</Notes>
       <SpeakerId>18</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そうだ、これをさしあげましょう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh, right.
+Please take this.</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>クエストなどで困ったことがあれば
 この『ガイドブック』を見ると
 いいでしょう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If you ever run into trouble during
+quests, you should take a look at
+this 'Guidebook'.</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ちゃんと読めばいろいろと良い事も
 ありますので、しっかりと目を通して
 みてくださいね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>you'll find all sorts of useful 
+information in there, so be 
+sure to give it a good read.</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>12</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>それじゃ、今後も頑張ってくださいね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well then, 
+please keep up the good work.</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>13</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -156,10 +174,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>『ガイドブック』が閲覧可能になりました。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The 'Guidebook' is now available.</EnglishText>
       <Notes/>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
 </SceneText>

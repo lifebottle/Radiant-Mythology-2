@@ -1,4 +1,5 @@
 <SceneText>
+  <FriendlyName>Strategy explanation</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
@@ -15,69 +16,77 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>『作戦』について説明を聞きますか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Would you like to hear about
+strategies?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>聞く</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hear explanation</EnglishText>
       <Notes>Choice 1</Notes>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>聞かない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Skip explanation</EnglishText>
       <Notes>Choice 2</Notes>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>パーティのメンバーは、あなたの作戦に
 従って戦っています</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Party members fight according to thestrategy you set.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>作戦には『自由』、『全力』、『近接』
 『支援』、『後方』、『節約』といった
 いくつかの種類があります</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There are several types of strategies'Free', 'All-Out', 'Melee', 'Support',
+'Backline', and 'Conserve'.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>『自由』ならそのメンバーなりの戦い方
 だったり、『全力』ならメンバーの得意とする
 戦い方をＴＰの消費などを気にせず行わせます</JapaneseText>
-      <EnglishText/>
+      <EnglishText>With 'Free', each member fights in
+their own preferred style.
+With 'All-Out', members use the
+tactics they excel at without
+worrying about TP consumption.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>メンバーは作戦に従って戦うので、
 戦況に適した指示をしてあげてください</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Since party members follow the
+chosen strategy, be sure to give
+orders that fit the situation.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

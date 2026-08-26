@@ -1,10 +1,11 @@
 <SceneText>
+  <FriendlyName>Kanonno Grade shop introduction</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kanonno</EnglishText>
       <Notes/>
       <Id>50</Id>
       <Status>To Do</Status>
@@ -17,32 +18,37 @@
       <JapaneseText>「グレードショップ」は基本、
 「道具屋」や「武器・防具屋」と一緒。
 まとめ買いも大丈夫だよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Basically, the 'Grade Shop' works
+the same as the other shops. You
+can buy things in bulk there too.</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ほかのお店と違うのは、ガルドじゃなくて
 「グレードポイント」を使って購入する所</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The difference from other shops is
+that you use 'Grade Points' instead
+of gald to make purchases.</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>「グレードショップ」で売られているのは、
 貴重な品ばかり！
 全部買えるくらい、グレードが貯まるといいね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Everything sold at the 'Grade Shop'
+is valuable stuff! I hope you can saveenough Grade Points to buy it all!</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

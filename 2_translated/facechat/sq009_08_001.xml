@@ -1,10 +1,11 @@
 <SceneText>
+  <FriendlyName>Kanonno guide 3rd quest</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kanonno</EnglishText>
       <Notes/>
       <Id>50</Id>
       <Status>To Do</Status>
@@ -17,44 +18,52 @@
       <JapaneseText>今回の仕事は、
 「小麦」を加工して「小麦粉」を作って
 その「小麦粉」を納品することよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This time, our job is to craft 'Flour'
+by using 'Wheat' and then give that
+'Flour' to Chat.</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>「小麦」を「小麦粉」にするには
 「家庭料理・基礎」というレシピを使って、
 加工するの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>To turn 'Wheat' into 'Flour', you'll
+need to use the recipe called
+'Home Cooking - Basics'.</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>「メニュー」を開いて、「生産」の「料理」を
 選んだら、レシピ一覧が出てくるから、
 「家庭料理・基礎」を選んで加工してみて</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Open the 'Menu' and choose 'Cook'
+under 'Craft'. When the recipe list
+appears, select 'BasicHomeCookng'</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>もし材料の「小麦」が足りなかったら
 「粘菌の巣」の「1層目」で手に入るから
 「銅の草刈鎌」を持って採取するといいわ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>When you run out of 'Wheat', you canget more on 1F of the 'Slime Nest',
+So let's bring a 'Copper Sickle' to
+gather some there.</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -62,10 +71,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>銅の草刈鎌を３個手に入れた。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You obtained 3 Copper Sickles.</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
 </SceneText>

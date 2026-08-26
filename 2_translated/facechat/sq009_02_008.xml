@@ -1,4 +1,5 @@
 <SceneText>
+  <FriendlyName>Priority actions explanation</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
@@ -15,79 +16,90 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>『優先行動』について説明を聞きますか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Would you like to hear about
+priority actions?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>聞く</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hear explanation</EnglishText>
       <Notes>Choice 1</Notes>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>聞かない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Skip explanation</EnglishText>
       <Notes>Choice 2</Notes>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>作戦だけでは、細かく動く事がなかったり
 出来ない行動があったりします</JapaneseText>
-      <EnglishText/>
+      <EnglishText>With strategy alone, there are timeswhen party members won't act as youwould like, or won't be able to
+perform certain actions.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そんな時には、『優先行動』に『思考』を
 設定してあげるといいでしょう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>In those situations, it's a good idea
+to set a 'Thought' under 'Priority
+Actions'.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>例えば『アップルグミを使え』なら
 普段は道具は使わないメンバーが、
 道具を使って回復してくれたりします</JapaneseText>
-      <EnglishText/>
+      <EnglishText>For example, if you set 'Use Apple
+Gel', members who normally don't 
+use items will now use them to
+recover HP.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>『同じ敵を狙え』なら、
 ターゲットしている敵を
 攻撃してくれたりします</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If you set 'Target the Same Enemy',
+they will attack the enemy you are
+targeting.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>『優先行動』に設定出来る『思考』は、
 グレードショップで入手する事が出来ます</JapaneseText>
-      <EnglishText/>
+      <EnglishText>'Thoughts' that can be set as
+'Priority Actions' can be obtained
+from the 'Grade Shop'.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

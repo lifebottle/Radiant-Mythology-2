@@ -1,10 +1,11 @@
 <SceneText>
+  <FriendlyName>Kanonno let's meet panille</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kanonno</EnglishText>
       <Notes/>
       <Id>50</Id>
       <Status>To Do</Status>
@@ -17,21 +18,22 @@
       <JapaneseText>そう言えば、パニールが
 あなたに用事があるって言ってたっけ…。
 ちょっと、パニールの所へ行きましょう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Come to think of it, Panille said shewanted to talk to you...
+Let's go see her for a moment.</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>パニールは、「１Ｆ通路１」の奥、
 「食堂」にいるわ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Panille is in the 'Cafe' at the end of'1F Corridor 1'</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

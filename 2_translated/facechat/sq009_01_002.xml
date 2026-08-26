@@ -1,21 +1,22 @@
 <SceneText>
+  <FriendlyName>UNKNOWN</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
       <JapaneseText>チャット</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Chat</EnglishText>
       <Notes/>
       <Id>18</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kanonno</EnglishText>
       <Notes/>
       <Id>50</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -24,22 +25,22 @@
       <PointerOffset/>
       <JapaneseText>まず、仕事の前に、この船の皆さんに
 挨拶をしてきてはどうですか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Before starting your work, how aboutgoing around and greeting everyone  on this ship?</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>これから一緒に働く仲間になるんですし、
 顔合わせくらいはしておいた方が
 良いでしょう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>They'll be your companions from nowon, so at the very least, it's good tomeet face-to-face.</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -47,7 +48,7 @@
       <EnglishText/>
       <Notes>Choice 1</Notes>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -55,36 +56,38 @@
       <EnglishText/>
       <Notes>Choice 2</Notes>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>では、カノンノさん。
 案内をしてあげてください</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Alright then, Kanonno. Please show
+our new friend around.</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>はい</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Okay!</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>じゃ、○○、行こう！
 これから、船を案内するね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Come on ○○, let's go!
+I'll give you a tour of the ship.</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -94,7 +97,7 @@
       <Notes>Previous Choice 2 leads here</Notes>
       <SpeakerId>18</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -105,7 +108,7 @@
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -116,7 +119,7 @@
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -127,7 +130,7 @@
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -136,7 +139,7 @@
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -147,7 +150,7 @@
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>12</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
   </Strings>
   <Strings>

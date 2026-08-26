@@ -1,21 +1,22 @@
 <SceneText>
+  <FriendlyName>Main story 2</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kanonno</EnglishText>
       <Notes/>
       <Id>50</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>パニール</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Panille</EnglishText>
       <Notes/>
       <Id>53</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -23,59 +24,61 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>…！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...!!</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>今の光、
 世界樹が何かを出してたみたい</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That light just now... It looked like the World Tree was emitting it.</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>まぁ、何かしらね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well... whatever it was〜</EnglishText>
       <Notes/>
       <SpeakerId>53</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>見失っちゃった。
 何だったんだろう…</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I don't see it anymore.
+What could it have been...?</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ひ、人がッ！？
 はわわわわわわわ…</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A p-person?!
+Waaaaaaahhhhh!!!</EnglishText>
       <Notes/>
       <SpeakerId>53</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>人が空から降って来たわぁぁぁ〜！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A person just fell out of the sky!!</EnglishText>
       <Notes/>
       <SpeakerId>53</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -86,7 +89,7 @@
       <EnglishText/>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

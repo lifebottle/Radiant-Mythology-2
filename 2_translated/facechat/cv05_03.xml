@@ -4,34 +4,34 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>パニール</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Panille</EnglishText>
       <Notes/>
       <Id>53</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>リリス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Lilith</EnglishText>
       <Notes/>
       <Id>13</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>クレア</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Claire</EnglishText>
       <Notes/>
       <Id>33</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText>ナナリー</JapaneseText>
-      <EnglishText/>
+      <JapaneseText>ナナリー</JapaneseText> 
+      <EnglishText>Nanaly</EnglishText>
       <Notes/>
       <Id>21</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>

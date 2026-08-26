@@ -1,10 +1,11 @@
 <SceneText>
+  <FriendlyName>Chat guide world map</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
       <JapaneseText>チャット</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Chat</EnglishText>
       <Notes/>
       <Id>18</Id>
       <Status>To Do</Status>
@@ -17,106 +18,118 @@
       <JapaneseText>バンエルティア号、微速前進！
 ヨーソロー！
 くーっ、この瞬間がたまりませんね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Van Eltia, slow ahead! Steady
+as she goes! Ahh, I just can't 
+get enough of this moment!</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>おや、どうされました？
 『ワールドマップ』は初めてですか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh? What's the matter?
+Is this your first time on the
+'World Map'?</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>初めてかな？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I think this might be my first time.</EnglishText>
       <Notes>Choice 1</Notes>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>知ってる気がする</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I feel like I know this already.</EnglishText>
       <Notes>Choice 2</Notes>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>では、キャプテンであるボクが
 教えてさしあげましょう！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>In that case, as the captain,
+I'll be happy to show you the ropes!</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ワールドマップ上では方向キーで
 バンエルティア号を移動させる事が可能です</JapaneseText>
-      <EnglishText/>
+      <EnglishText>On the World Map, you can move
+the Van Eltia using the D-pad.</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>まぁ、舵取りが面倒というのなら
 ＳＴＡＲＴボタンで目的地を選ぶ事も出来ます</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If steering sounds like too much
+trouble, you can also pick a
+destination using the START button</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>船の中へ戻りたいのなら、
 ×ボタンを押すといいでしょう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If you'd like to return to the ship
+just press the × button.</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>どうです、簡単でしょう？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>See? Simple enough, right?</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そうですか、航海をした経験は
 あったのかもしれませんね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I see...
+Perhaps you have some experience
+with sailing after all.</EnglishText>
       <Notes>Previous Choice 2 leads here</Notes>
       <SpeakerId>18</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>では、さっそく目的地へ向けて
 進行ですよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>All right then, let's set course
+and head for our destination!</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

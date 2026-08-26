@@ -10,26 +10,26 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>武器・防具屋</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Weapon &amp; Armor Shop</EnglishText>
       <Notes/>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>道具屋</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Item Shop</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>グレードショップ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Grade Shop</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>

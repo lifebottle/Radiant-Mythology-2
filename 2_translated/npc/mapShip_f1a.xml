@@ -4,7 +4,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>リフィル</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Raine</EnglishText>
       <Notes/>
       <Id>27</Id>
       <Status>To Do</Status>
@@ -12,7 +12,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ジェイド</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Jade</EnglishText>
       <Notes/>
       <Id>42</Id>
       <Status>To Do</Status>
@@ -20,7 +20,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>カイウス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Caius</EnglishText>
       <Notes/>
       <Id>45</Id>
       <Status>To Do</Status>
@@ -28,7 +28,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ルビア</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Rubia</EnglishText>
       <Notes/>
       <Id>46</Id>
       <Status>To Do</Status>
@@ -36,7 +36,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>クレス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Cress</EnglishText>
       <Notes/>
       <Id>2</Id>
       <Status>To Do</Status>
@@ -44,7 +44,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ミント</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mint</EnglishText>
       <Notes/>
       <Id>4</Id>
       <Status>To Do</Status>
@@ -52,7 +52,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>チェスター</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Chester</EnglishText>
       <Notes/>
       <Id>3</Id>
       <Status>To Do</Status>
@@ -60,7 +60,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>アーチェ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Arche</EnglishText>
       <Notes/>
       <Id>5</Id>
       <Status>To Do</Status>
@@ -222,11 +222,13 @@
       <JapaneseText>でも、少しヒマだな。
 依頼、来てないか、
 船長の所で確認してみろよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Guess things are kinda slow right now.
+Why don't you check with the captain,
+see if any requests came in?</EnglishText>
       <Notes/>
       <SpeakerId>45</SpeakerId>
       <Id>14</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -264,22 +266,26 @@
       <JapaneseText>船長のチャットを頭に、
 ファラ、リッド、キール。
 ルカ、イリアに、カイウスとあたし</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>With Captain Chat at the lead,
+we've got Farah, Reid, and Keele...
+then there's Ruca, Illia, Caius, me,</EnglishText>
+      <Notes>Here</Notes>
       <SpeakerId>46</SpeakerId>
       <Id>18</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>カノンノとパニールさん。
 そして、あなた。
 この１１人が今のギルドメンバーよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kanonno and Miss Panille... 
+and now you. That makes eleven 
+of us in the guild right now.</EnglishText>
       <Notes/>
       <SpeakerId>46</SpeakerId>
       <Id>19</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>

@@ -1,10 +1,11 @@
 <SceneText>
+  <FriendlyName>Meeting Reid Farah and Keele</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
       <JapaneseText>キール</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Keele</EnglishText>
       <Notes/>
       <Id>17</Id>
       <Status>To Do</Status>
@@ -12,7 +13,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ファラ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Farah</EnglishText>
       <Notes/>
       <Id>16</Id>
       <Status>To Do</Status>
@@ -20,7 +21,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>リッド</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Reid</EnglishText>
       <Notes/>
       <Id>15</Id>
       <Status>To Do</Status>
@@ -32,133 +33,152 @@
       <PointerOffset/>
       <JapaneseText>きみか、チャットが言ってた
 新顔は</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So you’re the newcomer Chat was
+talking about.</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>で、何で空から降ってきたんだ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So... why exactly did you fall from
+the sky?</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ほぉら、キール！
 そんなの後でもいいじゃない。
 先ずは自己紹介からでしょ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh, come on, Keele! You can
+ask that later. We should start
+with introductions first!</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>なっ、何言ってるんだ！
 ぼくらは海上にいるんだぞ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wh-What are you talking about?!
+We're out at sea, you know!</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>事故があったなら危機管理上、
 知っておく必要があるだろ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If there was some kind of accident,
+it's only proper to assess the risk!</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ああ、もうそんなに必死になんなよ。
 とにかく、挨拶から始めようぜ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Geez, calm down already.
+Anyway, let's start by saying hello.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>えーっと、オレはリッド・ハーシェル。
 よろしくな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Uh, I'm Reid Hershel.
+Nice to meet you.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>わたしはファラ。
 ファラ・エルステッド。
 よろしくね、○○</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm Farah, Farah Elsteed.
+It's nice to meet you, ○○</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>それで、この学者っぽいのが…</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And this scholar-like fellow over
+here is...</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>おい、自己紹介ぐらいぼくにさせろ。
 それに、「学者っぽい」ってなんだよ。
 ぼくはれっきとした学生だぞ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey, would you let me introduce
+myself at least? And "scholar-like"?
+Really? I'll have you know I'm a 
+proper student!</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>…まあいい。
 ぼくはキール・ツァイベル。
 さっきもいったが、学生だ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Fine, whatever.
+I'm Keele Zeibel.
+Like I said, I'm a student.</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>何か知らない事やわからない事が
 あったら、まずはぼくに聞くといい</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If there's anything you don't
+understand, 
+you can come ask me first.</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>と、まあ、こんなカンジ。
 ○○、仲良くしようね♪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And that's about it!
+Let's get along,
+○○ ♪</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>12</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

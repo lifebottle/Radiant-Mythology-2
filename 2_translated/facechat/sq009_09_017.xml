@@ -1,10 +1,11 @@
 <SceneText>
+  <FriendlyName>Kanonno warn dangerous area</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kanonno</EnglishText>
       <Notes/>
       <Id>50</Id>
       <Status>To Do</Status>
@@ -17,11 +18,12 @@
       <JapaneseText>この先は、危険なモンスターが潜んでいるの。
 今のあなたでは、まだ早いと思う…。
 引き返しましょう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There are dangerous monsters lurkingahead. I think it's still too soon for
+you right now... Let's turn back.</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

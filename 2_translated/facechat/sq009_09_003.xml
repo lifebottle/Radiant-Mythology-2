@@ -1,10 +1,11 @@
 <SceneText>
+  <FriendlyName>Kanonno guide ship wheel</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kanonno</EnglishText>
       <Notes/>
       <Id>50</Id>
       <Status>To Do</Status>
@@ -17,22 +18,26 @@
       <JapaneseText>操舵輪の前で○ボタンを押せば
 船内の好きな階層やワールドマップへ行ける
 メニューが表示されるの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If you press the ○ button in front of
+the ship's wheel, a menu will appear
+that lets you go to any floor on the
+ship or head out to the World Map.</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>でも、今は準備中だから少し待っててね。
 ちなみにSTARTボタンを押しても
 同じメニューに移るけど、こっちも準備中よ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But it's still getting ready right nowso please wait just a little longer.
+You can also press the START buttonto open the same menu... but that oneis still under preparation too.</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

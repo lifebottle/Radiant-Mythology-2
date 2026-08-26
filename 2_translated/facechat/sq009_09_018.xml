@@ -1,10 +1,11 @@
 <SceneText>
+  <FriendlyName>Kanonno guide back on the ship</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kanonno</EnglishText>
       <Notes/>
       <Id>50</Id>
       <Status>To Do</Status>
@@ -17,11 +18,14 @@
       <JapaneseText>機関室のチャットに報告したら、
 晴れてクエスト達成、依頼完了だよ！
 さ、早く行きましょう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Once we report back to Chat in the
+engine room, the quest will be 
+officially completed!
+Come on, let's go!</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

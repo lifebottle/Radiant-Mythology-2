@@ -1,10 +1,11 @@
 <SceneText>
+  <FriendlyName>Kanonno finished gathering quest</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kanonno</EnglishText>
       <Notes/>
       <Id>50</Id>
       <Status>To Do</Status>
@@ -17,11 +18,13 @@
       <JapaneseText>やっと、集まったね。
 さ、バンエルティア号へ戻って
 チャットに小麦を２つ渡しましょう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We finished gathering! All right,
+let's head back to the Van Eltia
+and give Chat the 2 Wheat.</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

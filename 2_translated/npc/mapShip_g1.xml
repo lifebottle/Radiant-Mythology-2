@@ -1,10 +1,11 @@
 <SceneText>
+  <FriendlyName>Ruca Illia Spada tips</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ルカ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ruca</EnglishText>
       <Notes/>
       <Id>47</Id>
       <Status>To Do</Status>
@@ -12,7 +13,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>イリア</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Illia</EnglishText>
       <Notes/>
       <Id>48</Id>
       <Status>To Do</Status>
@@ -20,7 +21,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>スパーダ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Spada</EnglishText>
       <Notes/>
       <Id>49</Id>
       <Status>To Do</Status>
@@ -33,11 +34,13 @@
       <JapaneseText>術技は、基本的にレベルを上げていけば
 習得出来るんだけど、特定の術技を一定回数
 以上使わないと習得出来ないものもあるとか…</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Um..., Artes are generally learned by
+leveling up, but for some of them you
+need to use a certain arte many times.</EnglishText>
       <Notes/>
       <SpeakerId>47</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -473,21 +476,23 @@
       <PointerOffset/>
       <JapaneseText>あたしも仕事に出てる時に、
 お宝に巡りあえないかなー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I wonder if I'll stumble on some
+treasure while I'm out working.</EnglishText>
       <Notes/>
       <SpeakerId>48</SpeakerId>
       <Id>41</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>まー、それを手に入れる為の
 「鍵」とか「鎌」とか持ってないけどさー</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Not that I've got the "keys" or "tools"
+you need to actually open it, though.</EnglishText>
+      <Notes>Not sure which term to use for 「鎌」 so I just went with "tools"</Notes>
       <SpeakerId>48</SpeakerId>
       <Id>42</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset/>

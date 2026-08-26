@@ -1,10 +1,11 @@
 <SceneText>
+  <FriendlyName>Kanonno guide shop location</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kanonno</EnglishText>
       <Notes/>
       <Id>50</Id>
       <Status>To Do</Status>
@@ -17,11 +18,13 @@
       <JapaneseText>この船には「ショップ」もあるの。
 「１Ｆ通路１」の一番手前の部屋なんだけど
 ちょっと寄ってみましょう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This ship has a 'Shop', too. It's the
+room closest to the entrance on 
+'1F Corridor 1', so let's go there!</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

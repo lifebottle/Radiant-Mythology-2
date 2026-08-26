@@ -4,7 +4,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>カイウス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Caius</EnglishText>
       <Notes/>
       <Id>45</Id>
       <Status>To Do</Status>
@@ -12,7 +12,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ルビア</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Rubia</EnglishText>
       <Notes/>
       <Id>46</Id>
       <Status>To Do</Status>
@@ -20,7 +20,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ルカ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ruca</EnglishText>
       <Notes/>
       <Id>47</Id>
       <Status>To Do</Status>
@@ -28,7 +28,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>イリア</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Illia</EnglishText>
       <Notes/>
       <Id>48</Id>
       <Status>To Do</Status>
@@ -36,7 +36,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>スパーダ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Spada</EnglishText>
       <Notes/>
       <Id>49</Id>
       <Status>To Do</Status>
@@ -617,7 +617,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>カイウス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Caius</EnglishText>
       <Notes/>
       <Id>0</Id>
       <Status>To Do</Status>
@@ -625,7 +625,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ルビア</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Rubia</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>To Do</Status>
@@ -633,7 +633,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ルカ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ruca</EnglishText>
       <Notes/>
       <Id>2</Id>
       <Status>To Do</Status>
@@ -641,7 +641,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>イリア</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Illia</EnglishText>
       <Notes/>
       <Id>3</Id>
       <Status>To Do</Status>
@@ -649,7 +649,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>スパーダ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Spada</EnglishText>
       <Notes/>
       <Id>4</Id>
       <Status>To Do</Status>

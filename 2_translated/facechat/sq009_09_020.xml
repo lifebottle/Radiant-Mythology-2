@@ -1,10 +1,11 @@
 <SceneText>
+  <FriendlyName>Kanonno report 2nd quest</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kanonno</EnglishText>
       <Notes/>
       <Id>50</Id>
       <Status>To Do</Status>
@@ -16,11 +17,13 @@
       <PointerOffset/>
       <JapaneseText>さ、機関室のチャットに報告しよう。
 そうしたら、またひとつ、依頼の完了だよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Alright, let's report back to Chat in
+the engine room. That'll be another
+request completed once we do.</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

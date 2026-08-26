@@ -1,10 +1,11 @@
 <SceneText>
+  <FriendlyName>Turning in the 2nd quest</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kanonno</EnglishText>
       <Notes/>
       <Id>50</Id>
       <Status>To Do</Status>
@@ -12,7 +13,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>チャット</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Chat</EnglishText>
       <Notes/>
       <Id>18</Id>
       <Status>To Do</Status>
@@ -24,48 +25,52 @@
       <PointerOffset/>
       <JapaneseText>おつかれさま。
 それじゃ、「小麦」を２つ納品しましょう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Nice work.
+All right, let's turn in the 2 'Wheat'</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>渡す</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hand them over</EnglishText>
       <Notes>Choice 1</Notes>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>保留にする</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hold on to them</EnglishText>
       <Notes>Choice 2</Notes>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>では、その「小麦」を2つ頂きますね。
 おつかれさまでした</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Alright, I'll take those 2 'Wheat'.
+Thank you for your hard work.</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>この仕事は、これで終わり！
 要領は、掴んでもらえたかな？
 どんな仕事も、少しずつ慣れていけばいいよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That wraps up this job! Did you get
+the hang of it? You'll get used to
+any kind of work, step by step.</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

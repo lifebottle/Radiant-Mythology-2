@@ -1,10 +1,11 @@
 <SceneText>
+  <FriendlyName>Kanonno guide find Ota Ota</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kanonno</EnglishText>
       <Notes/>
       <Id>50</Id>
       <Status>To Do</Status>
@@ -16,20 +17,23 @@
       <PointerOffset/>
       <JapaneseText>ここの１層目と２層目にいるオタオタを
 ３体倒すのが、私達の仕事だよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Our job is to defeat 3 Ota Ota.
+You can find them on the
+1st or 2nd floor here.</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>それじゃ、まずはオタオタを探そう！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Alright, let's start looking for the
+Ota Ota!</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

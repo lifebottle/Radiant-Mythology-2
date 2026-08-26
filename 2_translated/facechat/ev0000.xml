@@ -1,21 +1,22 @@
 <SceneText>
+  <FriendlyName>Main story 1</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kanonno</EnglishText>
       <Notes/>
       <Id>50</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>パニール</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Panille</EnglishText>
       <Notes/>
       <Id>53</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -24,32 +25,37 @@
       <PointerOffset/>
       <JapaneseText>あっ、パニール。
 洗濯物取り込んでおいたよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh, Panille!
+I've brought in the laundry for you.</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ありがとう、カノンノ。
 こっちもやっと台所が片付いて
 一息つけるところよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Thanks, Kanonno.
+I finally got the kitchen cleaned up,
+so I can catch my breath.</EnglishText>
       <Notes/>
       <SpeakerId>53</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>さ、私はこれから日向ぼっこしながら
 恋愛小説を読む、幸せタイムよ〜</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Now then, time for my happy hour: 
+sitting in a sunny spot and reading 
+a romance novel〜</EnglishText>
       <Notes/>
       <SpeakerId>53</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -58,9 +64,9 @@
       <PointerOffset/>
       <JapaneseText>ev0000.pmf</JapaneseText>
       <EnglishText/>
-      <Notes/>
+      <Notes>movie trigger</Notes>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

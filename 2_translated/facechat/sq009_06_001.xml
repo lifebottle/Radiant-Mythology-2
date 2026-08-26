@@ -1,10 +1,11 @@
 <SceneText>
+  <FriendlyName>Kanonno guide first quest</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kanonno</EnglishText>
       <Notes/>
       <Id>50</Id>
       <Status>To Do</Status>
@@ -16,63 +17,77 @@
       <PointerOffset/>
       <JapaneseText>今回の仕事は、「アメールの洞窟」で
 「オタオタ」の退治だよ</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>This time the job is to go to the 
+'Ameer Cave' and take care of the
+'Ota Ota'</EnglishText>
+      <Notes>
+Translated to Ota Ota instead of Polwigle to stay consistent with old menu
+</Notes>
       <SpeakerId>50</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>でも、その前に
 「ショップ」にある「武器・防具屋」で、
 装備品を購入してね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But before that... make sure to stop 
+by the 'Weapon and Armor Shop' in 
+the 'Shop' and buy some equipment.</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>購入した装備品は、「メニュー」を開いて
 「装備」を選ぶと装備が出来るの。
 装備をしていると、その分戦いが楽になるよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>After you buy equipment, open the
+'Menu' and choose 'Equip' to put it
+on. Having the right gear will make
+battles a lot easier.</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>それじゃ、装備を揃えたら
 「アメールの洞窟」へ向かいましょ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Once you're all geared up,
+let's head to the 'Ameer Cave'</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>あ、渡しておかなくっちゃ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh, wait...
+I should give this to you first.</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>これは、ギルドの雇用契約金なの。
 買物は、船内のショップで出来るから。
 必要な装備や道具は、これでそろえてね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This is the guild's hiring advance.
+You can shop right here on the ship.
+Use this to get any equipment or
+items you need, okay?</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -80,26 +95,26 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>１５００ガルド手に入れた。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You obtained 1500 gald.</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>アップルグミを３個手に入れた。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You obtained 3 Apple Gels.</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>キュアボトルを３個手に入れた。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You obtained 3 Cure Bottles.</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
 </SceneText>

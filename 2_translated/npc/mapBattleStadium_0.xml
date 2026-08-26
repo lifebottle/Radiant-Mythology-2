@@ -1,4 +1,5 @@
 <SceneText>
+  <FriendlyName>Receptionist Arena interaction</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
@@ -17,11 +18,13 @@
       <JapaneseText>闘技場へ、ようこそですぅ。
 参加したい時はぁ、ミッションから
 対戦相手を選んでくださいませぇ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Welcome to the 'Arena'. When you
+wish to participate, please select
+an 'mission' from the menu.</EnglishText>
       <Notes/>
       <SpeakerId>79</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

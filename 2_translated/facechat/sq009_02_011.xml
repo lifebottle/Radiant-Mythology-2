@@ -1,10 +1,11 @@
 <SceneText>
+  <FriendlyName>Panille explaining crafting</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
       <JapaneseText>パニール</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Panille</EnglishText>
       <Notes/>
       <Id>53</Id>
       <Status>To Do</Status>
@@ -17,187 +18,210 @@
       <JapaneseText>そうそう、手持ちの装備がいっぱいになったら
 私が預かりますので。
 エンリョなく声をかけてくださいな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh my, if your inventory ever fills upI'll be happy to store it for you.
+Please don't hesitate to ask.</EnglishText>
       <Notes/>
       <SpeakerId>53</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ダウンロードしてきたアイテムがあったら、
 私が管理しておきますから。
 好きな時に受け取りに来てくださいね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If you have any downloaded items,
+I'll take care of managing them. Youcan come pick them up at any time.</EnglishText>
       <Notes/>
       <SpeakerId>53</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>それから、あなたにプレゼントがあるわ。
 お仕事の中には「生産」というものがあるの。
 それに必要なのが、このレシピよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I also have a little gift for you.
+For some jobs you'll have to 'craft'.
+These recipes will get you started.</EnglishText>
       <Notes/>
       <SpeakerId>53</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>このレシピがあれば、
 「生産」を行なう事が出来るの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>With these recipes, you'll be able
+to 'craft' various items</EnglishText>
       <Notes/>
       <SpeakerId>53</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>「生産」というのは、
 自分で料理や道具などを
 作ったりする事なのよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>'Crafting' is when you make things
+yourself, like cooking meals or
+making tools.</EnglishText>
       <Notes/>
       <SpeakerId>53</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>生産について、
 もっと詳しく説明しましょうか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Would you like me to explain more
+about Crafting?</EnglishText>
       <Notes/>
       <SpeakerId>53</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>説明を聞く</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Listen to the explanation</EnglishText>
       <Notes>Choice 1</Notes>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>説明を聞かない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Skip the explanation</EnglishText>
       <Notes>Choice 2</Notes>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>方法はまず「メニュー」を開いて
 「生産」を選ぶの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>First, open the 'Menu'
+and choose 'Craft'.</EnglishText>
       <Notes/>
       <SpeakerId>53</SpeakerId>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そうすれば、「料理」「鍛冶」「服飾」「道具」
 の項目が表示されるから、
 作りたいものを選択するの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Then you'll see the categories
+'Cooking', 'Forge', 'Attire', and
+'Tools'. Choose whichever one
+you'd like to make.</EnglishText>
       <Notes/>
       <SpeakerId>53</SpeakerId>
       <Id>12</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>レシピに書いてある材料を揃えて、
 作りたいものを選んで○ボタンをポン！
 それで大丈夫よ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Gather the materials listed in the
+recipe, pick what you'd like to make,and press the ○ button. That's it!</EnglishText>
       <Notes/>
       <SpeakerId>53</SpeakerId>
       <Id>13</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>「生産」を繰り返すと「スキル」が上がるわ。
 「生産」には「適正スキル」があるの。
 自分と作りたい物のスキルの確認は忘れずにね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Crafting items will increase your
+'Skill'. Each Craft has a 'Skill rank'.Be sure to check your own skill
+and the item's requirements.</EnglishText>
       <Notes/>
       <SpeakerId>53</SpeakerId>
       <Id>14</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>「適正レベル」が高いものほど作るのが難しく
 失敗して失敗作が出来やすいけど大丈夫。
 ちゃんと上達してるから怖がらずおやりなさい</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The higher the recommended level,
+the harder it is to make, and failuresare more likely... but that's okay.
+You'll still improve, so don't worry.</EnglishText>
       <Notes/>
       <SpeakerId>53</SpeakerId>
       <Id>15</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>レシピは、今渡した他にもまだあるから。
 仕事をしているうちに、
 色々見つかっていくわよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There are many more recipes besidesthe ones I just gave you. As you
+keep going, you'll discover more!</EnglishText>
       <Notes>Previous Choice 2 leads here</Notes>
       <SpeakerId>53</SpeakerId>
       <Id>16</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>それじゃあ、お仕事頑張ってくださいね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well then,
+good luck with your requests!</EnglishText>
       <Notes/>
       <SpeakerId>53</SpeakerId>
       <Id>17</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>そうそう、あなたには
 もうひとつ贈り物がありましたの！
 喜んで使ってもらえたら嬉しいわ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh, and I have one more gift for you!I'd be delighted if you made good
+use of it.</EnglishText>
       <Notes/>
       <SpeakerId>53</SpeakerId>
       <Id>18</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>「装備を取り出す」を選んでくださいな。
 その中に入れてあるから、○ボタンを押して
 取り出してくださいませ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Please select 'Withdraw Equipment'.I've placed it inside there, so press the ○ button to take it out.</EnglishText>
       <Notes/>
       <SpeakerId>53</SpeakerId>
       <Id>19</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>「装備」が一杯になった時、預けた「装備」を
 引き出したい時など、いつでも
 私にお声を掛けてくださいませね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If your inventory ever fills up, or if
+you'd like to retrieve anything
+you've stored, please feel free to
+come see me anytime.</EnglishText>
       <Notes/>
       <SpeakerId>53</SpeakerId>
       <Id>20</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -205,26 +229,26 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>「鉱石精錬・基礎レシピ」を得ました。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Acquired book "Refining 1"</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>「原石研磨・基礎レシピ」を得ました。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Acquired book "Polishing”</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>「道具作成・基の書」を得ました。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Acquired book "Creating tools"</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
 </SceneText>

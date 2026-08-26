@@ -1,10 +1,11 @@
 <SceneText>
+  <FriendlyName>Chat Giving first quest</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
       <JapaneseText>チャット</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Chat</EnglishText>
       <Notes/>
       <Id>18</Id>
       <Status>To Do</Status>
@@ -17,64 +18,78 @@
       <JapaneseText>みんなへの挨拶も済んだようですね。
 さっそく、仕事に取り掛かるんですか。
 いい心がけです</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Looks like you've met everyone.
+Jumping straight into work, are you?That's a good attitude.</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ホントは由緒正しい海賊船なんですけどね。
 まだまだ海賊をやるには足りないものも多いし、
 それでギルドを始めたと言う訳です</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Truth be told, this is a ship with a
+proud pirate lineage. But we're still
+lacking quite a few things to truly 
+call ourselves pirates... That's why
+we decided to start a guild.</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>じゃあ、さらっと説明しておきます。
 クエストはボクが管理しているので、
 手順としてはまずここで依頼を請けて下さい</JapaneseText>
-      <EnglishText/>
+      <EnglishText>All right, let me give you a quick
+rundown. I handle quest management,so first things first... please accept
+your requests right here.</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>クエストの先へ向かう時には、「操舵室」の
 操舵輪を使うか、ＳＴＡＲＴボタンで
 「ワールドマップ」を選べば移動出来ます</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>When going to a quest location,
+you can use the ship's wheel in the
+'helm' or press the START button
+and select the 'World Map' to travel</EnglishText>
+      <Notes>.</Notes>
       <SpeakerId>18</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ボクからの説明は以上です</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That covers everything I needed to
+explain.</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ともかく習うより慣れろ、ですね。
 それじゃ、いつでも仕事に
 取り掛かれますので頑張って下さい</JapaneseText>
-      <EnglishText/>
+      <EnglishText>In any case, experience is the best 
+teacher. You're free to start work 
+whenever you're ready...
+so do your best.</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

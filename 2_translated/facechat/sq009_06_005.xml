@@ -1,10 +1,11 @@
 <SceneText>
+  <FriendlyName>Kanonno guide guest complete</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kanonno</EnglishText>
       <Notes/>
       <Id>50</Id>
       <Status>To Do</Status>
@@ -17,11 +18,13 @@
       <JapaneseText>やっと、済んだね。
 さ、バンエルティア号へ戻って
 チャットに報告しましょう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We finally finished. All right, let's
+head back to the Van Eltia and
+report to Chat.</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

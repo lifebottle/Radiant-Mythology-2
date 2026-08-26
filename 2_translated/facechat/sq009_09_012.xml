@@ -1,10 +1,11 @@
 <SceneText>
+  <FriendlyName>Kanonno guide shops</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kanonno</EnglishText>
       <Notes/>
       <Id>50</Id>
       <Status>To Do</Status>
@@ -15,11 +16,12 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>先に「武器・防具屋」から見ましょう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let’s start by checking out the
+'Weapon and Armor Shop' first.</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

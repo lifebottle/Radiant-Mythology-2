@@ -1,13 +1,14 @@
 <SceneText>
+  <FriendlyName>Main story 5</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kanonno</EnglishText>
       <Notes/>
       <Id>50</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -17,92 +18,103 @@
       <JapaneseText>改めて自己紹介するね。
 私はカノンノ・イアハート。
 よろしく、○○</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let me introduce myself properly.
+I'm Kanonno Earhart. Nice to meet
+you, ○○</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>今日からあなたは
 バンエルティア号の一員だから
 簡単にここでの仕事を説明しておくわね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Starting today you're part of the
+Van Eltia crew, so let me give you
+a quick rundown of your duties here.</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>まず、覚えておいてね。
 ここが機関室。
 仕事を受ける場所よ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>First, remember this area. This is 
+the engine room, the place where 
+you can accept jobs.</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>この船は、人々から寄せられる依頼を
 請け負うギルドを運営しているの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This ship runs a guild that takes on
+requests from people.</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>この依頼の事をクエストといって
 船長であるチャットが管理しているわ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We call those requests "quests," andthey're managed by Chat, our captain</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>クエストを受ける時はチャットをたずねてね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>When you want to accept a quest,
+go see Chat.</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>とは言っても、まだギルドを
 立ち上げたばっかりで
 あんまり依頼は来ないんだけれど</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That said, we only just started the 
+guild, so we don't get that many 
+requests yet.</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>私含めて、ここにいるみんなも
 依頼していたりするから</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So for now, everyone here,
+including me, posts requests too.</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>じゃあ、お互い頑張ろうね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So, let's do our best together!</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

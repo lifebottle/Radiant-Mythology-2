@@ -4,7 +4,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>パニール</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Panille</EnglishText>
       <Notes/>
       <Id>53</Id>
       <Status>To Do</Status>
@@ -12,7 +12,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>リリス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Lilith</EnglishText>
       <Notes/>
       <Id>13</Id>
       <Status>To Do</Status>
@@ -20,7 +20,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>すず</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Suzu</EnglishText>
       <Notes/>
       <Id>6</Id>
       <Status>To Do</Status>
@@ -41,22 +41,31 @@
       <JapaneseText>あなた〜、あなた〜あなた〜♪
 ことしもブドウが豊作よ〜♪
 …って、あらあら鼻歌がつい出ちゃうのよねェ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>My dear〜, my dear〜, my dear〜♪
+Looks like another fruitful year〜♪
+Oh dear, there I go humming again</EnglishText>
       <Notes/>
       <SpeakerId>53</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>花束を〜持って〜彼が訪ね〜て来た〜♪
 私〜、おすまし〜、本のページに隠れるゥ〜♪
 フフ、家事をしてるとつい唄っちゃうのよね</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>He came to call〜, with flowers so fair〜♪
+I hid my smile〜, behind a book's glare〜♪
+Fufu... housework always makes me sing</EnglishText>
+      <Notes>Original translation was too long:
+He came to call〜, with flowers so fair〜♪
+ 
+I hid my smile〜, behind a book's small glare〜♪
+
+Fufu... housework always brings out a tune from me</Notes>
       <SpeakerId>53</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>

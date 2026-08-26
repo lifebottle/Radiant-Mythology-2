@@ -1,4 +1,5 @@
 <SceneText>
+  <FriendlyName>UNUSED</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
@@ -17,12 +18,11 @@
       <JapaneseText>よーこそ、闘技場へ。
 参加するなら、ミッションを選んでね。
 いいバトルを見せてちょうだい!</JapaneseText>
-      <EnglishText>Welcome to the arena. If you're participating, choose
-a mission. Show us a good battle!</EnglishText>
-      <Notes/>
+      <EnglishText/>
+      <Notes>USE NPC ONE INSTEAD</Notes>
       <SpeakerId>79</SpeakerId>
       <Id>0</Id>
-      <Status>Editing</Status>
+      <Status>To Do</Status>
     </Entry>
   </Strings>
   <Strings>

@@ -1,10 +1,11 @@
 <SceneText>
+  <FriendlyName>Kanonno explanation gathering quest</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kanonno</EnglishText>
       <Notes/>
       <Id>50</Id>
       <Status>To Do</Status>
@@ -17,22 +18,26 @@
       <JapaneseText>今回の仕事は、「採取ポイント」で
 「銅の草刈鎌」を使って
 「小麦」を手に入れて納品すること！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This time, our job is to find a
+'Gathering Point' and use a 'Copper 
+Sickle' to collect some 'Wheat'!</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>「小麦」は、「粘菌の巣」の
 「採取ポイント」で手に入るわ。
 まずは、そこへ向かいましょう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You can get 'Wheat' at 'Gathering 
+Points' in the 'Slime Nest'.
+Let's head there first.</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -40,10 +45,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>銅の草刈鎌を３個手に入れた。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You obtained 3 Copper Sickles.</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
 </SceneText>

@@ -1,10 +1,11 @@
 <SceneText>
+  <FriendlyName>Kanonno guide quest details</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kanonno</EnglishText>
       <Notes/>
       <Id>50</Id>
       <Status>To Do</Status>
@@ -16,33 +17,38 @@
       <PointerOffset/>
       <JapaneseText>請け負っているクエストは、
 メニューの「クエスト」で確認出来るの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You can check the quests you've
+accepted from 'Quest' in the menu.</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>△ボタンを押してメニューを開いて、
 「ライブラリ」の中にある「クエスト」。
 ここに詳しく書かれているわ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Press the △ button to open the menu,then 'Quest' inside the 'Library'
+You'll find all the details there.</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>方向キーの左や右を押せば、表示されている
 情報が切り替わるし、受けたクエストの内容を
 忘れた時とかに活用してね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You can press left or right on the
+D-pad to switch between different 
+information... it's really helpful if 
+you ever forget a quest's details.</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

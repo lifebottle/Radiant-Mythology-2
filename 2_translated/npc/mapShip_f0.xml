@@ -4,7 +4,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>チャット</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Chat</EnglishText>
       <Notes/>
       <Id>18</Id>
       <Status>To Do</Status>
@@ -12,7 +12,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>コングマン</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kongman</EnglishText>
       <Notes/>
       <Id>14</Id>
       <Status>To Do</Status>
@@ -35,11 +35,12 @@
       <PointerOffset/>
       <JapaneseText>さあ。
 これから、バリバリ働いてくださいよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Alright. From here on out,
+I expect you to really get to work!</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>

@@ -1,10 +1,11 @@
 <SceneText>
+  <FriendlyName>Kanonno explanation gathering spots</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kanonno</EnglishText>
       <Notes/>
       <Id>50</Id>
       <Status>To Do</Status>
@@ -17,64 +18,73 @@
       <JapaneseText>ここの１層目で採れる、
 「小麦」を２つ手に入れるのが
 今回の仕事よ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Our job this time is to gather
+two 'Wheat' from the first floor!</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>「銅の草刈鎌」は、持ってたよね？
 「採取ポイント」で、それが必要になるの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You brought a 'Copper Sickle', right?You'll need it at the 'Gathering
+Points'.</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>ここの「採取ポイント」は、
 赤と黄の水玉模様の「大きなキノコ」だから、
 探すのは簡単なんだけど</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The gathering points here are big
+red mushrooms with yellow spots
+so they are pretty easy to find.</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>画面左上に「マップ」が表示されているでしょ。
 採取や採掘が出来る場所には、
 マップの上に「黄色い印」が付いてるの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You can see the 'Map' in the top-leftof the screen, right? Places where
+you can gather or mine are marked 
+with a 'yellow icon' on the map.</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>採取や採掘が出来る場所は、
 この「黄色い印」の所へ行けば、
 もっと楽に見つかるわ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If you head toward those icons,
+you'll be able to find gathering and
+mining spots much more easily.</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>とりあえず、
 「採取ポイント」を探しましょ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>For now,
+let's look for a 'Gathering Point'!</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

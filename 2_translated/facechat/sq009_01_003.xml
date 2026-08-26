@@ -1,10 +1,11 @@
 <SceneText>
+  <FriendlyName>Chat guide greet people</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
       <JapaneseText>チャット</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Chat</EnglishText>
       <Notes/>
       <Id>18</Id>
       <Status>To Do</Status>
@@ -17,11 +18,13 @@
       <JapaneseText>まだ、挨拶が済んでいないみたいですね。
 船員参入への基本ですから、皆さんへの
 挨拶はちゃんと済ませてきてください</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Looks like you haven't greeted 
+everyone yet. It's basic crew 
+manners, so go take care of it.</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

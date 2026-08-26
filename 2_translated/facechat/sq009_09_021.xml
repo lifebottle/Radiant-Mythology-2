@@ -1,10 +1,11 @@
 <SceneText>
+  <FriendlyName>Kanonno guide cooking training</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kanonno</EnglishText>
       <Notes/>
       <Id>50</Id>
       <Status>To Do</Status>
@@ -17,31 +18,34 @@
       <JapaneseText>「小麦粉」を作ったら、「料理スキル」が
 上昇するんだけど、失敗しても
 このスキルは上昇するの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>When you make 'Flour', your 'CookingSkill' will increase. Even if you fail,the skill still increases.</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>むしろ、適正スキルが高い料理に挑戦して
 失敗した時の方が、上昇しやすいんだって</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I've heard that trying and failing
+recipes with a higher recommended
+skill actually raises it more easily.</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>だから、失敗を怖がらずに
 どんどん「料理」してみたらいいよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So don't be afraid of failure,
+just keep cooking away!</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

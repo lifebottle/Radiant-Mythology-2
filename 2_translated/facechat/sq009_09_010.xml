@@ -1,10 +1,11 @@
 <SceneText>
+  <FriendlyName>Kanonno guide items</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kanonno</EnglishText>
       <Notes/>
       <Id>50</Id>
       <Status>To Do</Status>
@@ -17,33 +18,39 @@
       <JapaneseText>アイテムは、どれも頼りになる物ばかり。
 ガルドが許す限り小まめに補充して
 切らさないようにするのが理想ね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Items are all really useful. As long
+as you have the gald, it's best to
+restock often so you don't run out.</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>△ボタンで開くメニューの「アイテム」。
 ここで、今持っているアイテムを
 確認出来るわ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Open the 'Item' section from the
+menu with the △ button. 
+You can check all the items 
+you're carrying there.</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>グミやボトルみたいな回復アイテムは、
 ここで使う事も出来るの。
 大事な事だから忘れないでね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Recovery items like Gels and Bottlescan also be used right from here.
+It's important, so don't forget, okay?</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

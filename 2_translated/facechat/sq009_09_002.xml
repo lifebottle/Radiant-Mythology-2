@@ -1,10 +1,11 @@
 <SceneText>
+  <FriendlyName>Kanonno guide lets greet everyone</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kanonno</EnglishText>
       <Notes/>
       <Id>50</Id>
       <Status>To Do</Status>
@@ -17,11 +18,14 @@
       <JapaneseText>仕事の前にみんなに挨拶しましょう。
 空から降ってきたあなたに
 みんな興味津々だったみたいだし</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Before we get to work, let's greet
+everyone. Since you fell from the
+sky, everyone's curious about you.</EnglishText>
+      <Notes>Needed to be shrinked quite a bit from: (Before we start work, let's go say hello to everyone. Since you fell from the sky, everybody's really curious about you.)
+</Notes>
       <SpeakerId>50</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
   </Strings>
   <Strings>

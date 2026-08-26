@@ -4,7 +4,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ロイド</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Lloyd</EnglishText>
       <Notes/>
       <Id>24</Id>
       <Status>To Do</Status>
@@ -12,7 +12,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>コレット</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Colette</EnglishText>
       <Notes/>
       <Id>25</Id>
       <Status>To Do</Status>
@@ -20,7 +20,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ジーニアス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Genis</EnglishText>
       <Notes/>
       <Id>26</Id>
       <Status>To Do</Status>
@@ -28,7 +28,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>リフィル</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Raine</EnglishText>
       <Notes/>
       <Id>27</Id>
       <Status>To Do</Status>
@@ -36,7 +36,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>クラトス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kratos</EnglishText>
       <Notes/>
       <Id>28</Id>
       <Status>To Do</Status>
@@ -44,7 +44,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ゼロス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Zelos</EnglishText>
       <Notes/>
       <Id>29</Id>
       <Status>To Do</Status>
@@ -52,7 +52,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>プレセア</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Presea</EnglishText>
       <Notes/>
       <Id>30</Id>
       <Status>To Do</Status>
@@ -906,7 +906,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ロイド</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Lloyd</EnglishText>
       <Notes/>
       <Id>0</Id>
       <Status>To Do</Status>
@@ -914,7 +914,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>コレット</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Colette</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>To Do</Status>
@@ -922,7 +922,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ジーニアス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Genis</EnglishText>
       <Notes/>
       <Id>2</Id>
       <Status>To Do</Status>
@@ -930,7 +930,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>リフィル</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Raine</EnglishText>
       <Notes/>
       <Id>3</Id>
       <Status>To Do</Status>
@@ -938,7 +938,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>クラトス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kratos</EnglishText>
       <Notes/>
       <Id>4</Id>
       <Status>To Do</Status>
@@ -946,7 +946,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ゼロス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Zelos</EnglishText>
       <Notes/>
       <Id>5</Id>
       <Status>To Do</Status>
@@ -954,7 +954,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>プレセア</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Presea</EnglishText>
       <Notes/>
       <Id>6</Id>
       <Status>To Do</Status>

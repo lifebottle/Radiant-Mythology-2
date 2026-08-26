@@ -1,10 +1,11 @@
 <SceneText>
+  <FriendlyName>Kanonno guide shop</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kanonno</EnglishText>
       <Notes/>
       <Id>50</Id>
       <Status>To Do</Status>
@@ -17,44 +18,56 @@
       <JapaneseText>ここが「ショップ」よ。
 「武器・防具屋」や「道具屋」の前で
 ○ボタンを押すと、メニューが開くの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This is the 'Shop'. Stand in front of
+the 'Weapon and Armor Shop' or
+the 'Item Shop', then press the ○
+button to open the menu.</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>貯めたガルドを使って、欲しい物を
 購入出来るし、ガルドが心もとない時は
 いらなくなった物を売却すればいいわ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You can spend the gald you've savedto buy what you need, and if you're
+running low on money, you can sell
+anything you don't need anymore.</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>「購入する」も「売却する」も基本は一緒。
 上下で売買したい品を選んで、
 左右で売買したい個数を決めて○ボタン</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Buying and selling work the same
+way. Use up and down to choose
+an item, left and right to set the
+quantity, then press the ○ button.</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>同じリストの中だったら、複数の装備品や
 アイテムに個数設定すれば、まとめ買いや
 まとめ売りが出来て、とっても便利よ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If the items are on the same list,
+you can set quantities for multiple
+pieces of equipment or items,
+making bulk buying and selling
+really convenient.</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

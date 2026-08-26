@@ -1,10 +1,11 @@
 <SceneText>
+  <FriendlyName>Turning in the first quest</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
       <JapaneseText>チャット</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Chat</EnglishText>
       <Notes/>
       <Id>18</Id>
       <Status>To Do</Status>
@@ -12,7 +13,7 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>カノンノ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kanonno</EnglishText>
       <Notes/>
       <Id>50</Id>
       <Status>To Do</Status>
@@ -24,33 +25,38 @@
       <PointerOffset/>
       <JapaneseText>これで依頼完了ですね。
 お疲れさまでした</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That completes the request.
+Good work.</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>0</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>おつかれさま。
 これでモンスター退治は終わりよ。
 ね、簡単でしょ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Nice work.
+That wraps up the monster hunt.
+See? It was pretty simple, right?</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>今はまだ覚えることが
 たくさんあるかも知れないけど、
 少しずつ慣れていくといいわ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There is still a lot to learn right
+now, but it'll be fine as you get
+used to things little by little.</EnglishText>
       <Notes/>
       <SpeakerId>50</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>
